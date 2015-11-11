@@ -4136,7 +4136,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+2"/>
         <source>Build now</source>
-        <translation>现在构建</translation>
+        <translation>立刻构建</translation>
     </message>
 </context>
 <context>
@@ -4318,7 +4318,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="-6"/>
         <source>Open project with errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目出错.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -4400,7 +4400,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+32"/>
         <source>Selected kit has no valid CMake executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选工具包没有有效的 CMake 所指定.</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -4519,7 +4519,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+255"/>
         <source>Override command:</source>
-        <translation type="unfinished"></translation>
+        <translation>重复命令:</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4540,7 +4540,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+34"/>
         <source>&lt;b&gt;No build configuration found on this kit.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;未找到此工具包的构建配置。&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;No build configuration found on this target.&lt;/b&gt;</source>
@@ -4577,7 +4577,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeopenprojectwizard.cpp" line="+12"/>
         <source>Please enter the directory in which you want to build your project.</source>
-        <translation type="unfinished"></translation>
+        <translation>请进入您想构建项目的目录.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4791,22 +4791,22 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/checkoutdialog.ui"/>
         <source>Check Out</source>
-        <translation>Check Out</translation>
+        <translation>检出</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Checkout comment:</source>
-        <translation>Checkout 命令(&amp;C):</translation>
+        <translation>检出注释(&amp;C):</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Reserved</source>
-        <translation>&amp;Reserved</translation>
+        <translation type="unfinished">&amp;Reserved </translation>
     </message>
     <message>
         <location/>
         <source>&amp;Unreserved if already reserved</source>
-        <translation>如果已经reserve则取消reserve(&amp;U)</translation>
+        <translation type="unfinished">如果已经reserve则取消reserve(&amp;U) </translation>
     </message>
     <message>
         <location/>
@@ -4829,7 +4829,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/clearcasecontrol.cpp" line="+161"/>
         <source>Check &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>检出(&amp;O)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -4849,7 +4849,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseplugin.cpp" line="+276"/>
         <source>Editing Derived Object: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑派生项: %1</translation>
     </message>
     <message>
         <location line="+212"/>
@@ -4859,12 +4859,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+5"/>
         <source>Check Out...</source>
-        <translation>Check Out...</translation>
+        <translation>检出...</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Check &amp;Out &quot;%1&quot;...</source>
-        <translation>Check &amp;Out &quot;%1&quot;...</translation>
+        <translation>检出(&amp;O) &quot;%1&quot;...</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4879,12 +4879,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+5"/>
         <source>Check &amp;In...</source>
-        <translation>Check &amp;In...</translation>
+        <translation>检入(&amp;I)...</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Check &amp;In &quot;%1&quot;...</source>
-        <translation>Check &amp;In &quot;%1&quot;...</translation>
+        <translation>检入(&amp;I) &quot;%1&quot;...</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5039,7 +5039,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+8"/>
         <source>Check In All &amp;Files...</source>
-        <translation>Check in所有文件(&amp;F)...</translation>
+        <translation>检入所有文件(&amp;F)...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -5069,7 +5069,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+8"/>
         <source>Check In</source>
-        <translation>Check In</translation>
+        <translation>检入</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -5099,22 +5099,22 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+1"/>
         <source>The comment check failed. Do you want to check in the files?</source>
-        <translation>注释检查失败。您想要checkin这些文件吗？</translation>
+        <translation>注释检查失败。您想要检入这些文件吗？</translation>
     </message>
     <message>
         <location line="+269"/>
         <source>Do you want to undo the check out of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想要撤销检出 &apos;%1&apos;吗？</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>Do you want to undo hijack of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想要撤销hijack &apos;%1&apos;吗？</translation>
     </message>
     <message>
         <location line="+1076"/>
         <source>Updating ClearCase Index</source>
-        <translation type="unfinished"></translation>
+        <translation>更新 ClearCase 索引</translation>
     </message>
     <message>
         <source>Do you want to undo the check out of &apos;%1&apos;?</source>
@@ -5148,12 +5148,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+98"/>
         <source>Check In Activity</source>
-        <translation>Checkin 活动</translation>
+        <translation>检入活动</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Another check in is currently being executed.</source>
-        <translation>另外一个checkin正在执行。</translation>
+        <translation>另外一个检入正在执行。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -5168,12 +5168,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+79"/>
         <source>ClearCase Checkout</source>
-        <translation>ClearCase Checkout</translation>
+        <translation>ClearCase 检出</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>File is already checked out.</source>
-        <translation>文件已经被checkout。</translation>
+        <translation>文件已经被检出。</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -5183,7 +5183,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+75"/>
         <source>Enter &amp;comment:</source>
-        <translation>输入注释(&amp;comment):</translation>
+        <translation>输入注释(&amp;c):</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -5198,7 +5198,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+1"/>
         <source>This operation is irreversible. Are you sure?</source>
-        <translation>这项操作不可逆。确定继续吗？</translation>
+        <translation>这项操作不可逆，确定继续吗？</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -5230,7 +5230,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/clearcasesubmiteditor.cpp" line="+44"/>
         <source>ClearCase Check In</source>
-        <translation>ClearCase Check In</translation>
+        <translation>ClearCase 检入</translation>
     </message>
 </context>
 <context>
@@ -5238,7 +5238,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/clearcasesubmiteditorwidget.cpp" line="+51"/>
         <source>Chec&amp;k in even if identical to previous version</source>
-        <translation>即使与前一版本完全相同仍然checkin (&amp;K)</translation>
+        <translation>即使与前一版本完全相同仍然检入(&amp;K)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5248,7 +5248,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+55"/>
         <source>&amp;Check In</source>
-        <translation>&amp;Check In</translation>
+        <translation>检入(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -5344,17 +5344,17 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/settingspage.ui"/>
         <source>&amp;Graphical (single file only)</source>
-        <translation type="unfinished"></translation>
+        <translation>图像(&amp;G) (仅单个文件)</translation>
     </message>
     <message>
         <location/>
         <source>VOBs list, separated by comma. Indexer will only traverse the specified VOBs. If left blank, all active VOBs will be indexed.</source>
-        <translation type="unfinished"></translation>
+        <translation>VOB的列表，用逗号分隔。索引器仅遍历指定的VOB。如果为空，则所有活动的VOB都会被索引。</translation>
     </message>
     <message>
         <location/>
         <source>Check this if you have a trigger that renames the activity automatically. You will not be prompted for activity name.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您需要自动命名activity则检选此项，这样将不会弹出activity名称的提示。</translation>
     </message>
     <message>
         <location/>
@@ -6484,32 +6484,32 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>The image is scaled to fit.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像被缩放到合适大小.</translation>
     </message>
     <message>
         <location/>
         <source>The image is stretched horizontally and tiled vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像被水平拉伸且垂直平铺.</translation>
     </message>
     <message>
         <location/>
         <source>The image is stretched vertically and tiled horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像被垂直拉伸且水平平铺.</translation>
     </message>
     <message>
         <location/>
         <source>The image is duplicated horizontally and vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像在水平和垂直上被复制.</translation>
     </message>
     <message>
         <location/>
         <source>The image is scaled uniformly to fit without cropping.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像被一致地缩放到合适大小，不裁剪.</translation>
     </message>
     <message>
         <location/>
         <source>The image is scaled uniformly to fill, cropping if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像被一致地缩放到合适大小，在必要时裁剪.</translation>
     </message>
 </context>
 <context>
@@ -6549,12 +6549,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/coreplugin/coreconstants.h" line="+103"/>
         <source>Show Sidebar</source>
-        <translation type="unfinished">显示边栏</translation>
+        <translation>显示边栏</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hide Sidebar</source>
-        <translation type="unfinished">隐藏边栏</translation>
+        <translation>隐藏边栏</translation>
     </message>
     <message>
         <location line="+128"/>
@@ -6581,19 +6581,19 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location filename="../../../src/plugins/coreplugin/icore.cpp" line="+361"/>
         <source>Configure...</source>
         <comment>msgShowOptionsDialog</comment>
-        <translation type="unfinished">配置...</translation>
+        <translation>配置...</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Open Preferences dialog.</source>
         <comment>msgShowOptionsDialogToolTip (mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>打开首选项对话框.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open Options dialog.</source>
         <comment>msgShowOptionsDialogToolTip (non-mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>打开选项对话框.</translation>
     </message>
 </context>
 <context>
@@ -6663,12 +6663,12 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/actionmanager/commandmappings.cpp" line="+63"/>
         <source>Command Mappings</source>
-        <translation type="unfinished">命令映射</translation>
+        <translation>命令映射</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Target</source>
-        <translation type="unfinished">目标</translation>
+        <translation>目标</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -6679,22 +6679,22 @@ Would you like to overwrite them?</source>
     <message>
         <location line="-80"/>
         <source>Reset All</source>
-        <translation type="unfinished"></translation>
+        <translation>重置所有</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset all to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>重置所有为默认值。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Import...</source>
-        <translation type="unfinished">导入...</translation>
+        <translation>导入...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出...</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -6717,7 +6717,7 @@ Would you like to overwrite them?</source>
         <location filename="../../../src/plugins/coreplugin/documentmanager.cpp" line="+603"/>
         <source>Could not save the files.</source>
         <comment>error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>无法保存该文件.</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -6738,7 +6738,7 @@ Would you like to overwrite them?</source>
     <message>
         <location line="+1"/>
         <source>An item named &quot;%1&quot; already exists at this location. Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>名为&apos;%1&apos;的项已经存在，您想要覆盖它吗？</translation>
     </message>
     <message>
         <source>An item named &apos;%1&apos; already exists at this location. Do you want to overwrite it?</source>
@@ -6827,12 +6827,12 @@ Would you like to overwrite them?</source>
     <message>
         <location line="+1"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished">另存为(&amp;A)...</translation>
+        <translation>另存为(&amp;A)...</translation>
     </message>
     <message>
         <location line="+291"/>
@@ -6849,7 +6849,7 @@ Continue?</source>
     <message>
         <location line="+1673"/>
         <source>Open With</source>
-        <translation type="unfinished">用...打开</translation>
+        <translation>用...打开</translation>
     </message>
     <message>
         <source>Open in External Editor</source>
@@ -7356,7 +7356,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/infobar.cpp" line="+236"/>
         <source>Do Not Show Again</source>
-        <translation type="unfinished"></translation>
+        <translation>下次不再显示</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -7408,7 +7408,9 @@ Continue?</source>
         <source>&quot;%1&quot; returned the following error:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; 返回以下错误:
+
+%2</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -7423,7 +7425,7 @@ Continue?</source>
     <message>
         <location line="+61"/>
         <source>Find in This Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>在这个目录中搜索...</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -7488,12 +7490,12 @@ Continue?</source>
     <message>
         <location line="+2"/>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录制</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>录制</translation>
     </message>
 </context>
 <context>
@@ -8446,7 +8448,7 @@ Continue?</source>
     <message>
         <location line="+3"/>
         <source>Ctrl+Meta+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+W</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -8586,7 +8588,7 @@ Continue?</source>
     <message>
         <location/>
         <source>Type:</source>
-        <translation type="unfinished">类型:</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location/>
@@ -8748,7 +8750,7 @@ Continue?</source>
     <message>
         <location/>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
 </context>
 <context>
@@ -8776,7 +8778,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/mimetypesettings.cpp" line="+246"/>
         <source>Reset MIME Types</source>
-        <translation type="unfinished"></translation>
+        <translation>重置 MIME 模型</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8846,7 +8848,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/newdialog.cpp" line="+212"/>
         <source>Choose...</source>
-        <translation type="unfinished">选择...</translation>
+        <translation>选择...</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -8956,7 +8958,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/openwithdialog.cpp" line="+45"/>
         <source>Open file &quot;%1&quot; with:</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件 &apos;%1&apos;，用:</translation>
     </message>
 </context>
 <context>
@@ -9334,7 +9336,7 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/systemeditor.cpp" line="+58"/>
         <source>System Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>系统编辑器</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -9441,7 +9443,7 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/outputwindow.cpp" line="+368"/>
         <source>Additional output omitted</source>
-        <translation type="unfinished"></translation>
+        <translation>省略的附加输出</translation>
     </message>
 </context>
 <context>
@@ -9531,38 +9533,38 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/variablechooser.cpp" line="+96"/>
         <source>Insert Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>插入变量</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>Current Value: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>当前值： %1</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Insert Unexpanded Value</source>
-        <translation type="unfinished"></translation>
+        <translation>插入未展开的值</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+7"/>
         <source>Insert &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>插入 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="-3"/>
         <source>Insert Expanded Value</source>
-        <translation type="unfinished"></translation>
+        <translation>插入可扩展的值</translation>
     </message>
     <message>
         <location line="+136"/>
         <source>Variables</source>
-        <translation type="unfinished">变量</translation>
+        <translation>变量</translation>
     </message>
     <message>
         <location line="-109"/>
         <source>Select a variable to insert.</source>
-        <translation type="unfinished">选择一个变量来插入。</translation>
+        <translation>选择一个变量来插入。</translation>
     </message>
     <message>
         <source>Insert variable</source>
@@ -9664,17 +9666,17 @@ to version control (%2)
     <message>
         <location line="+5"/>
         <source>Add Definition Here</source>
-        <translation type="unfinished"></translation>
+        <translation>在这里添加定义</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add Definition Inside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>在内部类添加定义</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Definition Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>在外部类添加定义</translation>
     </message>
 </context>
 <context>
@@ -10567,7 +10569,7 @@ if (a &amp;&amp;
     <message>
         <location filename="../../../src/plugins/cpptools/cppcurrentdocumentfilter.cpp" line="+50"/>
         <source>C++ Symbols in Current Document</source>
-        <translation type="unfinished"></translation>
+        <translation>当前文档中的 C++ 符号</translation>
     </message>
 </context>
 <context>
@@ -10591,7 +10593,7 @@ if (a &amp;&amp;
     <message>
         <location filename="../../../src/plugins/cpptools/cppfilesettingspage.ui"/>
         <source>Headers</source>
-        <translation type="unfinished">头文件</translation>
+        <translation>头文件</translation>
     </message>
     <message>
         <location/>
@@ -10627,12 +10629,12 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location/>
         <source>Sources</source>
-        <translation type="unfinished">源文件</translation>
+        <translation>源文件</translation>
     </message>
     <message>
         <location/>
         <source>S&amp;uffix:</source>
-        <translation type="unfinished"></translation>
+        <translation>后缀(&amp;u):</translation>
     </message>
     <message>
         <location/>
@@ -10668,7 +10670,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location/>
         <source>License &amp;template:</source>
-        <translation type="unfinished"></translation>
+        <translation>许可协议模板(&amp;t):</translation>
     </message>
 </context>
 <context>
@@ -10682,7 +10684,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
 **   To protect a percent sign, use &apos;%%&apos;.
 **************************************************************************/
 </source>
-        <translation>/**************************************************************************
+        <translation type="unfinished">/**************************************************************************
 ** Qt Creator license header template
 **   Special keywords: %USER% %DATE% %YEAR%
 **   Environment variables: %$VARIABLE%
@@ -10732,7 +10734,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
         <location line="+47"/>
         <location line="+304"/>
         <source>Searching for Usages</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索何处被使用</translation>
     </message>
     <message>
         <source>Searching</source>
@@ -10765,7 +10767,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/cpptools/cppfunctionsfilter.cpp" line="+40"/>
         <source>C++ Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ 函数</translation>
     </message>
 </context>
 <context>
@@ -10781,7 +10783,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/cpptools/cpplocatorfilter.cpp" line="+45"/>
         <source>C++ Classes, Enums and Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ 类,枚举和函数</translation>
     </message>
 </context>
 <context>
@@ -10818,27 +10820,27 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location line="+7"/>
         <source>Open Corresponding Header/Source in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>在下个分支打开相应的头文件/源代码</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meta+E, F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+E, F4</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+E, F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E, F4</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The license template.</source>
-        <translation type="unfinished"></translation>
+        <translation>版权许可模板.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The configured path to the license template</source>
-        <translation type="unfinished"></translation>
+        <translation>版权许可模板配置路径</translation>
     </message>
 </context>
 <context>
@@ -10876,12 +10878,12 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location line="-97"/>
         <source>Searching for Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>符号搜索</translation>
     </message>
     <message>
         <location line="+99"/>
         <source>Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>函数</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10915,7 +10917,7 @@ Flags: %3</source>
     <message>
         <location line="+1"/>
         <source>, </source>
-        <translation>，</translation>
+        <translation>, </translation>
     </message>
 </context>
 <context>
@@ -10937,7 +10939,7 @@ Flags: %3</source>
     <message>
         <location line="+3"/>
         <source>Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>函数</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11085,12 +11087,12 @@ Flags: %3</source>
     <message>
         <location line="+405"/>
         <source>Reformat to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新格式化 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reformat Pointers or References</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新格式化指针或引用</translation>
     </message>
     <message>
         <location line="+173"/>
@@ -11195,12 +11197,12 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/cvs/cvsclient.cpp" line="+85"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished">忽略空白</translation>
+        <translation>忽略空格</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ignore Blank Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空行</translation>
     </message>
 </context>
 <context>
@@ -11270,12 +11272,12 @@ Flags: %3</source>
     <message>
         <location line="-155"/>
         <source>Cannot find repository for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能找到 &quot;%1&quot; 版本库.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Parsing of the log output failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>解析日志输出失败.</translation>
     </message>
     <message>
         <location line="+149"/>
@@ -11329,12 +11331,12 @@ Flags: %3</source>
     <message>
         <location line="+9"/>
         <source>Annotate Current File</source>
-        <translation>Annotate 当前文件</translation>
+        <translation>注释当前文件</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Annotate &quot;%1&quot;</source>
-        <translation>Annotate &quot;%1&quot;</translation>
+        <translation>注释 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -11380,17 +11382,17 @@ Flags: %3</source>
         <location line="+7"/>
         <location line="+562"/>
         <source>Unedit</source>
-        <translation>Unedit</translation>
+        <translation>撤销编辑</translation>
     </message>
     <message>
         <location line="-562"/>
         <source>Unedit &quot;%1&quot;</source>
-        <translation>Unedit &quot;%1&quot;</translation>
+        <translation>撤销编辑  &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Unedit Repository</source>
-        <translation>Unedit代码仓库</translation>
+        <translation>撤销编辑代码仓库</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -11425,32 +11427,32 @@ Flags: %3</source>
     <message>
         <location line="+7"/>
         <source>Commit Project</source>
-        <translation>Commit 项目</translation>
+        <translation>提交项目</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Commit Project &quot;%1&quot;</source>
-        <translation>Commit 项目 &quot;%1&quot;</translation>
+        <translation>提交项目 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Update Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>更新目录</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Update Directory &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>更新目录 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Commit Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>提交目录</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Commit Directory &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>提交目录 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -11470,7 +11472,7 @@ Flags: %3</source>
     <message>
         <location line="+6"/>
         <source>Update Repository</source>
-        <translation>Update 仓库</translation>
+        <translation>更新仓库</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -11480,7 +11482,7 @@ Flags: %3</source>
     <message>
         <location line="+10"/>
         <source>Commit</source>
-        <translation>Commit</translation>
+        <translation>提交</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -11490,27 +11492,27 @@ Flags: %3</source>
     <message>
         <location line="+136"/>
         <source>Revert Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>还原仓库</translation>
     </message>
     <message>
         <location line="+307"/>
         <source>Would you like to discard your changes to the repository &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想要放弃对仓库 &apos;%1&apos; 的修改吗？</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Would you like to discard your changes to the file &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想要放弃对文件 &apos;%1&apos; 的修改吗？</translation>
     </message>
     <message>
         <location line="+173"/>
         <source>Could not find commits of id &quot;%1&quot; on %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到在 %2 的id为 &apos;%1&apos;的提交。</translation>
     </message>
     <message>
         <location line="+98"/>
         <source>No CVS executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>未指定 CVS 执行档。</translation>
     </message>
     <message>
         <source>Diff Selected Files</source>
@@ -11539,7 +11541,7 @@ Flags: %3</source>
     <message>
         <location line="+1"/>
         <source>The commit message check failed. Do you want to commit the change?</source>
-        <translation>Commit 信息检查失败，您想要提交修改吗？</translation>
+        <translation>提交信息检查失败，您想要提交修改吗？</translation>
     </message>
     <message>
         <source>The files do not differ.</source>

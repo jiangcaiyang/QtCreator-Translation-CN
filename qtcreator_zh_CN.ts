@@ -4108,7 +4108,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+3"/>
         <source>Reconfigure project:</source>
-        <translation>重新配置项目:</translation>
+        <translation>重新配置项目：</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -4162,7 +4162,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+50"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file</source>
-        <translation>打开项目 &quot;%1&quot;失败:项目不是一个文件</translation>
+        <translation>打开项目 &quot;%1&quot;失败：项目不是一个文件</translation>
     </message>
 </context>
 <context>
@@ -4318,7 +4318,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="-6"/>
         <source>Open project with errors.</source>
-        <translation>打开项目出错.</translation>
+        <translation>打开项目出错。</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -4400,7 +4400,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+32"/>
         <source>Selected kit has no valid CMake executable specified.</source>
-        <translation>所选工具包没有有效的 CMake 所指定.</translation>
+        <translation>所选工具包没有有效的 CMake 所指定。</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -4519,7 +4519,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+255"/>
         <source>Override command:</source>
-        <translation>重复命令:</translation>
+        <translation>重复命令：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4577,7 +4577,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeopenprojectwizard.cpp" line="+12"/>
         <source>Please enter the directory in which you want to build your project.</source>
-        <translation>请进入您想构建项目的目录.</translation>
+        <translation>请进入您想构建项目的目录。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4849,7 +4849,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseplugin.cpp" line="+276"/>
         <source>Editing Derived Object: %1</source>
-        <translation>编辑派生项: %1</translation>
+        <translation>编辑派生项：%1</translation>
     </message>
     <message>
         <location line="+212"/>
@@ -6484,32 +6484,32 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>The image is scaled to fit.</source>
-        <translation>图像被缩放到合适大小.</translation>
+        <translation>图像被缩放到合适大小。</translation>
     </message>
     <message>
         <location/>
         <source>The image is stretched horizontally and tiled vertically.</source>
-        <translation>图像被水平拉伸且垂直平铺.</translation>
+        <translation>图像被水平拉伸且垂直平铺。</translation>
     </message>
     <message>
         <location/>
         <source>The image is stretched vertically and tiled horizontally.</source>
-        <translation>图像被垂直拉伸且水平平铺.</translation>
+        <translation>图像被垂直拉伸且水平平铺。</translation>
     </message>
     <message>
         <location/>
         <source>The image is duplicated horizontally and vertically.</source>
-        <translation>图像在水平和垂直上被复制.</translation>
+        <translation>图像在水平和垂直上被复制。</translation>
     </message>
     <message>
         <location/>
         <source>The image is scaled uniformly to fit without cropping.</source>
-        <translation>图像被一致地缩放到合适大小，不裁剪.</translation>
+        <translation>图像被一致地缩放到合适大小，不裁剪。</translation>
     </message>
     <message>
         <location/>
         <source>The image is scaled uniformly to fill, cropping if necessary.</source>
-        <translation>图像被一致地缩放到合适大小，在必要时裁剪.</translation>
+        <translation>图像被一致地缩放到合适大小，在必要时裁剪。</translation>
     </message>
 </context>
 <context>
@@ -6587,13 +6587,13 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+6"/>
         <source>Open Preferences dialog.</source>
         <comment>msgShowOptionsDialogToolTip (mac version)</comment>
-        <translation>打开首选项对话框.</translation>
+        <translation>打开首选项对话框。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open Options dialog.</source>
         <comment>msgShowOptionsDialogToolTip (non-mac version)</comment>
-        <translation>打开选项对话框.</translation>
+        <translation>打开选项对话框。</translation>
     </message>
 </context>
 <context>
@@ -6717,7 +6717,7 @@ Would you like to overwrite them?</source>
         <location filename="../../../src/plugins/coreplugin/documentmanager.cpp" line="+603"/>
         <source>Could not save the files.</source>
         <comment>error message</comment>
-        <translation>无法保存该文件.</translation>
+        <translation>无法保存该文件。</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -7408,8 +7408,7 @@ Continue?</source>
         <source>&quot;%1&quot; returned the following error:
 
 %2</source>
-        <translation>&apos;%1&apos; 返回以下错误:
-
+        <translation>&apos;%1&apos; 返回以下错误：
 %2</translation>
     </message>
     <message>
@@ -8588,7 +8587,7 @@ Continue?</source>
     <message>
         <location/>
         <source>Type:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location/>
@@ -9538,7 +9537,7 @@ Would you like to overwrite them?</source>
     <message>
         <location line="+90"/>
         <source>Current Value: %1</source>
-        <translation>当前值： %1</translation>
+        <translation>当前值：%1</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -10634,7 +10633,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location/>
         <source>S&amp;uffix:</source>
-        <translation>后缀(&amp;u):</translation>
+        <translation>后缀(&amp;u)：</translation>
     </message>
     <message>
         <location/>
@@ -10670,7 +10669,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location/>
         <source>License &amp;template:</source>
-        <translation>许可协议模板(&amp;t):</translation>
+        <translation>许可协议模板(&amp;t)：</translation>
     </message>
 </context>
 <context>
@@ -10684,11 +10683,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
 **   To protect a percent sign, use &apos;%%&apos;.
 **************************************************************************/
 </source>
-        <translation type="unfinished">/**************************************************************************
-** Qt Creator license header template
-**   Special keywords: %USER% %DATE% %YEAR%
-**   Environment variables: %$VARIABLE%
-**   To protect a percent sign, use &apos;%%&apos;.
+        <translation>/**************************************************************************
+** Qt Creator 许可证头部模板
+**   特殊关键字：%USER% %DATE% %YEAR%
+**   环境变量：%$VARIABLE%
+**   为了保护百分号，使用&apos;%%&apos;.
 **************************************************************************/
 </translation>
     </message>
@@ -10783,7 +10782,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/cpptools/cpplocatorfilter.cpp" line="+45"/>
         <source>C++ Classes, Enums and Functions</source>
-        <translation>C++ 类,枚举和函数</translation>
+        <translation>C++ 类，枚举和函数</translation>
     </message>
 </context>
 <context>
@@ -10917,7 +10916,7 @@ Flags: %3</source>
     <message>
         <location line="+1"/>
         <source>, </source>
-        <translation>, </translation>
+        <translation>，</translation>
     </message>
 </context>
 <context>
@@ -11087,12 +11086,12 @@ Flags: %3</source>
     <message>
         <location line="+405"/>
         <source>Reformat to &quot;%1&quot;</source>
-        <translation type="unfinished">重新格式化 &quot;%1&quot;</translation>
+        <translation>重新格式化 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reformat Pointers or References</source>
-        <translation type="unfinished">重新格式化指针或引用</translation>
+        <translation>重新格式化指针或引用</translation>
     </message>
     <message>
         <location line="+173"/>
@@ -11272,12 +11271,12 @@ Flags: %3</source>
     <message>
         <location line="-155"/>
         <source>Cannot find repository for &quot;%1&quot;.</source>
-        <translation>不能找到 &quot;%1&quot; 版本库.</translation>
+        <translation>不能找到 &quot;%1&quot; 版本库。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Parsing of the log output failed.</source>
-        <translation>解析日志输出失败.</translation>
+        <translation>解析日志输出失败。</translation>
     </message>
     <message>
         <location line="+149"/>
@@ -11387,7 +11386,7 @@ Flags: %3</source>
     <message>
         <location line="-562"/>
         <source>Unedit &quot;%1&quot;</source>
-        <translation>撤销编辑  &quot;%1&quot;</translation>
+        <translation>撤销编辑 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>

@@ -4039,7 +4039,7 @@ Specifies how backspace interacts with indentation.
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="+202"/>
         <source>Default</source>
         <extracomment>The name of the build configuration created by default for a cmake project.</extracomment>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -4049,22 +4049,22 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+4"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Minimum Size Release</source>
-        <translation type="unfinished"></translation>
+        <translation>最小释放尺寸</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Release with Debug Information</source>
-        <translation type="unfinished"></translation>
+        <translation>发布与调试信息</translation>
     </message>
     <message>
         <source>New Configuration</source>
@@ -4103,12 +4103,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildsettingswidget.cpp" line="+54"/>
         <source>Run CMake...</source>
-        <translation type="unfinished"></translation>
+        <translation>执行 CMake...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reconfigure project:</source>
-        <translation>重新装配项目:</translation>
+        <translation>重新配置项目:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -4123,7 +4123,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+9"/>
         <source>CMake</source>
-        <translation type="unfinished">CMake</translation>
+        <translation>CMake</translation>
     </message>
 </context>
 <context>
@@ -4162,7 +4162,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+50"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目 &quot;%1&quot;失败:项目不是一个文件</translation>
     </message>
 </context>
 <context>
@@ -4194,12 +4194,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakerunconfiguration.cpp" line="+187"/>
         <source>Run CMake kit</source>
-        <translation type="unfinished"></translation>
+        <translation>执行 CMake 工具包</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>(disabled)</source>
-        <translation type="unfinished">(禁用)</translation>
+        <translation>(禁用)</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -4233,7 +4233,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+3"/>
         <source>Reset to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <source>Reset to default</source>

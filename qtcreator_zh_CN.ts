@@ -61032,13 +61032,13 @@ with a password, which you can enter below.</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/TextEditSpecifics.qml" line="+43"/>
         <location line="+3"/>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>文字颜色</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+3"/>
         <source>Selection Color</source>
-        <translation type="unfinished"></translation>
+        <translation>选择颜色</translation>
     </message>
 </context>
 <context>
@@ -61066,13 +61066,13 @@ with a password, which you can enter below.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/basefilefind.cpp" line="+190"/>
         <source>Searching</source>
-        <translation type="unfinished">搜索中</translation>
+        <translation>搜索中</translation>
     </message>
     <message numerus="yes">
         <location line="+23"/>
         <source>%n occurrences replaced.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n个替换。</numerusform>
         </translation>
     </message>
     <message>
@@ -61083,7 +61083,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+131"/>
         <source>Aborting replace.</source>
-        <translation type="unfinished"></translation>
+        <translation>终止替换。</translation>
     </message>
     <message>
         <source>Use regular e&amp;xpressions</source>
@@ -61142,12 +61142,12 @@ with a password, which you can enter below.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/texteditor.cpp" line="+584"/>
         <source>A highlight definition was not found for this file. Would you like to try to find one?</source>
-        <translation type="unfinished">没有为这个文件找到高亮定义，您想要搜索一个吗？</translation>
+        <translation>没有为这个文件找到高亮定义，您想要搜索一个吗？</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show Highlighter Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>显示高亮选项...</translation>
     </message>
 </context>
 <context>
@@ -61681,7 +61681,7 @@ Influences the indentation of continuation lines.
     <message>
         <location line="+27"/>
         <source>Directory &quot;%1&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation>目录 %1：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -62058,37 +62058,37 @@ Specifies how backspace interacts with indentation.
     <message>
         <location/>
         <source>Cleans whitespace in entire document instead of only for changed parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>清除整个文档中的空白，而不是选定部分。</translation>
     </message>
     <message>
         <location/>
         <source>Corrects leading whitespace according to tab settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>按照选项设置更改行空白字符。</translation>
     </message>
     <message>
         <location/>
         <source>Always writes a newline character at the end of the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在文件末尾添加一个换行符。</translation>
     </message>
     <message>
         <location/>
         <source>Hide mouse cursor while typing</source>
-        <translation type="unfinished"></translation>
+        <translation>在输入时隐藏鼠标指针</translation>
     </message>
     <message>
         <location/>
         <source>Pressing Alt displays context-sensitive help or type information as tooltips.</source>
-        <translation type="unfinished"></translation>
+        <translation>按Alt键显示上下文相关的帮助或类型的信息提示。</translation>
     </message>
     <message>
         <location/>
         <source>Show help tooltips using keyboard shortcut (Alt)</source>
-        <translation type="unfinished"></translation>
+        <translation>使用键盘快捷键显示帮助提示（ALT）</translation>
     </message>
     <message>
         <location/>
         <source>Show help tooltips using the mouse:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示使用鼠标的帮助工具提示：</translation>
     </message>
 </context>
 <context>
@@ -62173,7 +62173,7 @@ The following encodings are likely to fit:</source>
     <message>
         <location line="+4"/>
         <source>The following encodings are likely to fit:</source>
-        <translation type="unfinished"></translation>
+        <translation>下面的编码方式有可能符合：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -62237,52 +62237,52 @@ The following encodings are likely to fit:</source>
     <message>
         <location/>
         <source>Erase foreground.</source>
-        <translation type="unfinished"></translation>
+        <translation>擦除前景。</translation>
     </message>
     <message>
         <location/>
         <source>Erase background.</source>
-        <translation type="unfinished"></translation>
+        <translation>擦除背景。</translation>
     </message>
     <message>
         <location/>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/texteditor/colorschemeedit.cpp" line="+465"/>
         <source>No Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>无下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Single Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>单下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Wave Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>波浪下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Dot Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>点下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Dash Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>破折号下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Dash-Dot Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>破折号 - 点下划线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Dash-Dot-Dot Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>破折号 - 点 - 点下划线</translation>
     </message>
 </context>
 <context>
@@ -62372,22 +62372,22 @@ The following encodings are likely to fit:</source>
     <message>
         <location/>
         <source>Display file encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文件编码</translation>
     </message>
     <message>
         <location/>
         <source>Shows tabs and spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示制表符和空格。</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Highlight matching parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;H高亮显示匹配的括号</translation>
     </message>
     <message>
         <location/>
         <source>Highlight search results on the scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>在滚动条上高亮显示搜索结果</translation>
     </message>
 </context>
 <context>
@@ -62400,7 +62400,7 @@ The following encodings are likely to fit:</source>
     <message>
         <location line="+22"/>
         <source>File &quot;%1&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件“%1”:</translation>
     </message>
     <message>
         <source>File &apos;%1&apos;:</source>
@@ -62570,7 +62570,7 @@ The following encodings are likely to fit:</source>
     <message>
         <location filename="../../../src/plugins/texteditor/linenumberfilter.cpp" line="+86"/>
         <source>Line %1, Column %2</source>
-        <translation type="unfinished"></translation>
+        <translation>行%1，列%2</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -62580,7 +62580,7 @@ The following encodings are likely to fit:</source>
     <message>
         <location line="+2"/>
         <source>Column %1</source>
-        <translation type="unfinished"></translation>
+        <translation>列%1</translation>
     </message>
     <message>
         <location line="-36"/>
@@ -62945,12 +62945,12 @@ Influences the indentation of continuation lines.
     <message>
         <location/>
         <source>The text editor indentation setting is used for non-code files only. See the C++ and Qt Quick coding style settings to configure indentation for code files.</source>
-        <translation type="unfinished"></translation>
+        <translation>文本编辑器缩进设置仅用于非代码文件。请参阅C ++和Qt Quick的编码风格设置来配置缩进代码文件。</translation>
     </message>
     <message>
         <location/>
         <source>&lt;i&gt;Code indentation is configured in &lt;a href=&quot;C++&quot;&gt;C++&lt;/a&gt; and &lt;a href=&quot;QtQuick&quot;&gt;Qt Quick&lt;/a&gt; settings.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;代码缩进被配置在&lt;a href=&quot;C++&quot;&gt; C ++&lt;/a&gt;和&lt;a href=&quot;QtQuick&quot;&gt; Qt Quick的&lt;/a&gt;的设置。&lt;/ i&gt;</translation>
     </message>
 </context>
 <context>
@@ -63000,12 +63000,12 @@ Influences the indentation of continuation lines.
     <message>
         <location line="-2"/>
         <source>Trigger Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>触发完成</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Trigger Refactoring Action</source>
-        <translation type="unfinished"></translation>
+        <translation>触发重构操作</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -63638,7 +63638,7 @@ Influences the indentation of continuation lines.
     <message>
         <location filename="../../../src/plugins/texteditor/texteditoractionhandler.cpp" line="+278"/>
         <source>&lt;line&gt;:&lt;column&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;行&gt;：&lt;列&gt;</translation>
     </message>
 </context>
 <context>
@@ -63749,12 +63749,12 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+2"/>
         <source>Mismatched Parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>不匹配的圆括号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Displayed when mismatched parentheses, square brackets, or curly brackets are found.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示不匹配的括号，方括号或花括号。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -63831,12 +63831,12 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Primitive Type</source>
-        <translation type="unfinished"></translation>
+        <translation>原始类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of a primitive data type.</source>
-        <translation type="unfinished"></translation>
+        <translation>原始数据类型的名称。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -63876,122 +63876,122 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to enumeration items.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于枚举项目。</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Diff File Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff文件行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to lines with file information in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>用于不同的文件信息系（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Context Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff上下文行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to lines describing hidden context in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于描述隐藏的上下文不同行（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Source Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff源代码行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to source lines with changes in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>应用于源代码行的差异（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Source Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff源字符</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to removed characters in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>用于删除字符的差异（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Destination Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff目标行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to destination lines with changes in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>用于目标行的不同变化（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Destination Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff目标字符</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to added characters in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished"></translation>
+        <translation>用于附加字符的差异（并排比较编辑）。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Log Change Line</source>
-        <translation type="unfinished"></translation>
+        <translation>记录更改的行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to lines describing changes in VCS log.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于描述行变化在VCS日志。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline color of error diagnostics.</source>
-        <translation type="unfinished"></translation>
+        <translation>强调错误诊断的颜色。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error Context</source>
-        <translation type="unfinished"></translation>
+        <translation>错误语境</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline color of the contexts of error diagnostics.</source>
-        <translation type="unfinished"></translation>
+        <translation>强调错误诊断的背景颜色。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline color of warning diagnostics.</source>
-        <translation type="unfinished"></translation>
+        <translation>强调警告诊断的颜色。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning Context</source>
-        <translation type="unfinished"></translation>
+        <translation>警告语境</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Underline color of the contexts of warning diagnostics.</source>
-        <translation type="unfinished"></translation>
+        <translation>强调警告诊断的背景颜色。</translation>
     </message>
     <message>
         <location line="+212"/>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放：%1%</translation>
     </message>
     <message>
         <source>Applied to Enumeration Items.</source>
@@ -64010,12 +64010,12 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+3"/>
         <source>Virtual Function</source>
-        <translation type="unfinished"></translation>
+        <translation>虚函数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of function declared as virtual.</source>
-        <translation type="unfinished"></translation>
+        <translation>声明为虚函数。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -64043,23 +64043,24 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+35"/>
         <source>Reserved keywords of the programming language except keywords denoting primitive types.</source>
-        <translation type="unfinished"></translation>
+        <translation>保留关键字的编程语言，除了表示原始类型关键词。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Operators (for example operator++ or operator-=).</source>
-        <translation type="unfinished"></translation>
+        <translation>运算符（例如运算符++或运算符-=）。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Doxygen tags.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doxygen的标签。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Whitespace.
 Will not be applied to whitespace in comments and strings.</source>
-        <translation type="unfinished"></translation>
+        <translation>空格。
+不应用于注释和字符串的空格。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -64096,12 +64097,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>QML Root Object Property</source>
-        <translation type="unfinished">QML 根对象属性</translation>
+        <translation>QML 根对象属性</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QML Scope Object Property</source>
-        <translation type="unfinished">QML 范围对象的属性</translation>
+        <translation>QML 范围对象的属性</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -64502,17 +64503,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location/>
         <source>Scan the whole active project</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描整个活动项目</translation>
     </message>
     <message>
         <location/>
         <source>Scan only the currently edited document</source>
-        <translation type="unfinished"></translation>
+        <translation>只能扫描当前编辑的文档</translation>
     </message>
     <message>
         <location/>
         <source>Scan the current subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描当前项目</translation>
     </message>
 </context>
 <context>
@@ -64560,32 +64561,32 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/todo/todooutputpane.cpp" line="+205"/>
         <source>Current Document</source>
-        <translation type="unfinished">当前文档</translation>
+        <translation>当前文档</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scan only the currently edited document.</source>
-        <translation type="unfinished"></translation>
+        <translation>只扫描当前编辑的文档。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Active Project</source>
-        <translation type="unfinished"></translation>
+        <translation>活动项目</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scan the whole active project.</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描整个活动项目。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>子项目</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scan the current subproject.</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描当前项目。</translation>
     </message>
 </context>
 <context>
@@ -72531,7 +72532,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+5"/>
         <source>Qt Cloud Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt云服务</translation>
     </message>
     <message>
         <location line="+5"/>

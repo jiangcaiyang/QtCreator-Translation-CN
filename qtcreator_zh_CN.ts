@@ -137,7 +137,7 @@
     <message>
         <location line="+6"/>
         <source>Run %1 in %2 Mode?</source>
-        <translation type="unfinished">在%2 模式下运行%1吗？</translation>
+        <translation>在%2模式下运行%1吗？</translation>
     </message>
     <message>
         <location line="+1"/>

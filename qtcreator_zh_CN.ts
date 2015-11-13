@@ -41550,17 +41550,19 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location filename="../../../src/libs/3rdparty/modeling/qmt/diagram_scene/items/classitem.cpp" line="+359"/>
         <source>Show Definition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示定义</translation>
     </message>
     <message>
         <location filename="../../../src/libs/3rdparty/modeling/qmt/diagram_scene/items/objectitem.cpp" line="+664"/>
         <source>Open Diagram</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>图表，或者示意图。</translatorcomment>
+        <translation type="unfinished">打开图表</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Create Diagram</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>图表或者示意图</translatorcomment>
+        <translation type="unfinished">创建图表</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -41575,57 +41577,58 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+3"/>
         <source>Align Objects</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>这里的对象一般是可视化的。</translatorcomment>
+        <translation type="unfinished">对齐对象</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">左对齐</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">垂直居中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">右对齐</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">顶对齐</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Center Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">水平居中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">底对齐</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Same Width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">相同宽度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Same Height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">相同高度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Same Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">相同大小</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/todo/todoprojectsettingswidget.cpp" line="+39"/>
         <source>&lt;Enter regular expression to exclude&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt; 输入正则表达式 &gt;</translation>
     </message>
 </context>
 <context>
@@ -41638,12 +41641,12 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+34"/>
         <source>The SFTP server finished unexpectedly with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SFTP 服务意外的退出，返回值是 %1 。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The SFTP server crashed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SFTP 服务奔溃 ： %1。</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -41679,22 +41682,22 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+25"/>
         <source>Created remote directory &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建远程目录 &quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Remote directory &quot;%1&quot; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">远程目录 &quot;%1&quot; 早已存在。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error creating directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建目录 &quot;%`1&quot; 出错: %2</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Could not open local file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开目录 &quot;%`1&quot; 出错: %2</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -41806,12 +41809,12 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+10"/>
         <source>Server Identification string &quot;%1&quot; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器的标识字符串 &apos;%1&apos;无效。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Server protocol version is &quot;%1&quot;, but needs to be 2.0 or 1.99.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器的协议版本为 &apos;%1&apos;，但需要的版本是2.0或者1.99。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -41887,7 +41890,7 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+6"/>
         <source>Server sent invalid signal &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器发出了无效的信号 &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Server sent invalid signal &apos;%1&apos;</source>
@@ -41909,12 +41912,12 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+159"/>
         <source>Error getting &quot;stat&quot; info about &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">获取&apos;%1&apos;的&apos;stat&apos;信息时发生错误: %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Error listing contents of directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">列出目录&apos;%1&apos;的内容时发生错误: %2</translation>
     </message>
     <message>
         <source>Error getting &apos;stat&apos; info about &apos;%1&apos;: %2</source>
@@ -41940,12 +41943,12 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location filename="../../../src/libs/ssh/sshhostkeydatabase.cpp" line="+61"/>
         <source>Failed to open key file &quot;%1&quot; for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开读取密钥文件 &quot;%1&quot; 失败 ： %2</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Failed to open key file &quot;%1&quot; for writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开读取密钥文件 &quot;%1&quot; 警告 ： %2</translation>
     </message>
 </context>
 <context>
@@ -42033,7 +42036,7 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+81"/>
         <source>Failed to create directory: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建目录失败 ： %1。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -42058,16 +42061,17 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+11"/>
         <source>File Exists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件存在</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>There already is a file of that name. Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已经有一个同名文件，是否重写？</translation>
     </message>
     <message>
         <location filename="../../../src/libs/ssh/sshkeycreationdialog.ui"/>
         <source>ECDSA</source>
+        <translatorcomment>椭圆曲线数字签名算法</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -42474,7 +42478,7 @@ Do you want to add them to the project?</source>
     <message>
         <location/>
         <source>Plugin sou&amp;rce file:</source>
-        <translation>插件源文件(&amp;R):</translation>
+        <translation type="unfinished">插件源文件(&amp;R):</translation>
     </message>
     <message>
         <location/>
@@ -42789,7 +42793,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/customwidgetwizard/customwidgetwizarddialog.cpp" line="+56"/>
         <source>This wizard generates a Qt Designer Custom Widget or a Qt Designer Custom Widget Collection project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该向导生成一个Qt设计器自定义部件或Qt设计器自定义部件采集项目。</translation>
     </message>
 </context>
 <context>
@@ -43192,7 +43196,8 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/guiappwizard.cpp" line="+81"/>
         <source>Qt Widgets Application</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Widgets 一般是部件的意思，这里取英文较佳。</translatorcomment>
+        <translation type="unfinished">Qt Widgets 应用</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43225,7 +43230,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/guiappwizarddialog.cpp" line="+59"/>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该向导生成一个Qt Widgets应用项目。应用于默认继承自QApplication并包括一个空部件（widget）。</translation>
     </message>
 </context>
 <context>
@@ -43565,12 +43570,12 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+2"/>
         <source>Qt Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt 插件</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>This wizard generates a C++ Library project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此向导生成一个C++库项目。</translation>
     </message>
     <message>
         <source>Qt 4 Plugin</source>
@@ -45402,12 +45407,12 @@ Preselects Qt for Simulator and mobile targets if available</source>
     <message>
         <location/>
         <source>Generate separate debug info:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">生成特定的调试信息：</translation>
     </message>
     <message>
         <location/>
         <source>Use QML compiler:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用 QML 编译器：</translation>
     </message>
 </context>
 <context>
@@ -45628,7 +45633,7 @@ Preselects Qt for Simulator and mobile targets if available</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakeprojectconfigwidget.cpp" line="+74"/>
         <source>Shadow Build Directory</source>
-        <translation>shadow build目录</translation>
+        <translation type="unfinished">影子构建目录</translation>
     </message>
     <message>
         <source>Default Qt Version (%1)</source>
@@ -45690,7 +45695,7 @@ Preselects Qt for Simulator and mobile targets if available</source>
     <message>
         <location line="+79"/>
         <source>This kit cannot build this project since it does not define a Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个工具不能构建这个项目，因为没有指定Qt版本。</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -45706,7 +45711,7 @@ Preselects Qt for Simulator and mobile targets if available</source>
         <location line="+20"/>
         <source>%1 The build in %2 will be overwritten.</source>
         <comment>%1 error message, %2 build directory</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 。构建目录 %2 被重写了。</translation>
     </message>
     <message>
         <source>%1 Debug</source>
@@ -45763,7 +45768,7 @@ Preselects Qt for Simulator and mobile targets if available</source>
     <message>
         <location/>
         <source>Shadow build:</source>
-        <translation>Shadow build:</translation>
+        <translation type="unfinished">影子构建：</translation>
     </message>
     <message>
         <location/>
@@ -47776,7 +47781,7 @@ S60 emulator run configuration default display name, %1 is base pro-File name</e
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/subdirsprojectwizarddialog.cpp" line="+46"/>
         <source>This wizard generates a Qt Subdirs project. Add subprojects to it later on by using the other wizards.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本向导将创建一个Qt子目录项目，稍后可以用其他向导添加子项目。</translation>
     </message>
 </context>
 <context>
@@ -47987,7 +47992,7 @@ S60 emulator run configuration default display name, %1 is base pro-File name</e
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/wizards/testwizarddialog.cpp" line="+60"/>
         <source>This wizard generates a Qt Unit Test consisting of a single source file with a test class.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本向导将创建一个Qt单元测试，其中包括一个含有测试类的源文件。</translation>
     </message>
 </context>
 <context>
@@ -48234,6 +48239,7 @@ Check if the phone is connected and App TRK is running.</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/makestep.cpp" line="-462"/>
         <source>Make</source>
         <comment>Qt MakeStep display name.</comment>
+        <translatorcomment>不翻译</translatorcomment>
         <translation type="unfinished">Make</translation>
     </message>
     <message>
@@ -48290,7 +48296,7 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location line="+4"/>
         <source>&lt;b&gt;Make:&lt;/b&gt; No Qt build configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Make:&lt;/b&gt; 没有Qt构建配置。</translation>
     </message>
     <message>
         <source>&lt;b&gt;Make:&lt;/b&gt; No Qt4 build configuration.</source>
@@ -48454,7 +48460,7 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location line="+56"/>
         <source>Enable QML debugging and profiling:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许 QML 调试和分析：</translation>
     </message>
     <message>
         <source>Building helpers</source>
@@ -48490,12 +48496,12 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location line="+14"/>
         <source>Enable Qt Quick Compiler:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许 Qt Quick 编译器：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Disables QML debugging. QML profiling will still work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不允许 QML 调试，QML 分析仍然工作。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -48525,28 +48531,28 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="+330"/>
         <source>Could not parse Makefile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不能解析 Makefile。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>The Makefile is for a different project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此 Makefile 为其他项目所使用。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>The build type has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建类型被改变。</translation>
     </message>
     <message>
         <location line="+46"/>
         <location line="+7"/>
         <source>The qmake arguments have changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qmake 参数改变。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>The mkspec has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mkspec 已改变。</translation>
     </message>
     <message>
         <location line="+81"/>
@@ -48769,7 +48775,7 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakeprojectmanager.cpp" line="+90"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开项目 &quot;%1&quot; 失败 ： 此项目不是文件</translation>
     </message>
     <message>
         <location line="+110"/>
@@ -48890,7 +48896,7 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakeproject.cpp" line="+800"/>
         <source>Reading Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在读取项目 %1</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -48900,17 +48906,17 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <location line="+531"/>
         <source>The .pro file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">.pro 文件 %1 不存在。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The .pro file &quot;%1&quot; is not part of the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">.pro 文件 %1 不是此项目的一部分。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The .pro file &quot;%1&quot; could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法解析.pro文件 &apos;%1&apos;。</translation>
     </message>
     <message>
         <source>The .pro file &apos;%1&apos; does not exist.</source>
@@ -49003,7 +49009,7 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/qtsupport/qmldumptool.cpp" line="-100"/>
         <source>Only available for Qt for Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅限 Qt 桌面版。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -49586,7 +49592,7 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/integration/componentaction.cpp" line="+53"/>
         <source>Edit sub components defined in this file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑这个文件中定义的子组件</translation>
     </message>
 </context>
 <context>
@@ -49659,22 +49665,23 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/formeditor/formeditorwidget.cpp" line="+64"/>
         <source>No snapping (T).</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>这里的快照应该是代码片段。</translatorcomment>
+        <translation type="unfinished">没有快照（T）.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Snap to parent or sibling items and generate anchors (W).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理单元为父或同级项目，并生成锚。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Snap to parent or sibling items but do not generate anchors (E).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理单元为父或同级项目，不要生成锚。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Show bounding rectangles and stripes for empty items (A).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示空项的外围边框(按键 A)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -49689,7 +49696,7 @@ Reason: %2</source>
     <message>
         <location line="+21"/>
         <source>Reset view (R).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置视图（R）。</translation>
     </message>
 </context>
 <context>
@@ -49900,7 +49907,7 @@ Reason: %2</source>
         <source>Cannot open this QML document because of an error in the QML file:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不能打开 QML 文件，此 QML 文件有错误：</translation>
     </message>
 </context>
 <context>
@@ -49961,7 +49968,7 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer path changes will take effect after a restart of the QML Emulation layer or Qt Creator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML仿真层路径更改后，重启的QML仿真层或Qt Creator生效。</translation>
     </message>
     <message>
         <source>Snap margin:</source>
@@ -49989,47 +49996,47 @@ Reason: %2</source>
     <message>
         <location/>
         <source>Parent item padding:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">父项填充：</translation>
     </message>
     <message>
         <location/>
         <source>Sibling item spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同级项目间距：</translation>
     </message>
     <message>
         <location/>
         <source>Styling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">样式</translation>
     </message>
     <message>
         <location/>
         <source>Controls style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">控件样式：</translation>
     </message>
     <message>
         <location/>
         <source>Default style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认样式</translation>
     </message>
     <message>
         <location/>
         <source>Reset Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置样式</translation>
     </message>
     <message>
         <location/>
         <source>QML Emulation Layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML仿真层</translation>
     </message>
     <message>
         <location/>
         <source>If you select this radio button, Qt Quick Designer always uses the QML emulation layer (QML Puppet) located at the following path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果您选择此单选按钮，Qt Quick的设计师总是使用位于以下路径的QML仿真层。</translation>
     </message>
     <message>
         <location/>
         <source>Use fallback QML emulation layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用可回退QML仿真层</translation>
     </message>
     <message>
         <location/>
@@ -50039,27 +50046,27 @@ Reason: %2</source>
     <message>
         <location/>
         <source>Path where Qt Creator can find the QML emulation layer executable (qmlpuppet).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在 Qt Creator 可寻路径下可以找到 QML 仿真层的执行文件。</translation>
     </message>
     <message>
         <location/>
         <source>Resets the path to the QML emulation layer that comes with Qt Creator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置 Qt Creator 自带的 QML 仿真层路径。</translation>
     </message>
     <message>
         <location/>
         <source>Reset Path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置路径</translation>
     </message>
     <message>
         <location/>
         <source>Use QML emulation layer that is built by the selected Qt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用选定的Qt的 QML 仿真层</translation>
     </message>
     <message>
         <location/>
         <source>Top level build path:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">根构建路径：</translation>
     </message>
     <message>
         <location/>
@@ -50074,27 +50081,27 @@ Reason: %2</source>
     <message>
         <location/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <location/>
         <source>Warns about QML features that are not properly supported by the Qt Quick Designer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通过 Qt Quick 设计师，告诫支持不良好的 QML 特性。</translation>
     </message>
     <message>
         <location/>
         <source>Warn about unsupported features in the Qt Quick Designer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在 Qt Quick 设计师中警告不支持的特性</translation>
     </message>
     <message>
         <location/>
         <source>Also warns in the code editor about QML features that are not properly supported by the Qt Quick Designer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">总是在代码编辑器中警告有关QtQuick设计师支持不良好的QML特性。</translation>
     </message>
     <message>
         <location/>
         <source>Warn about unsupported features of Qt Quick Designer in the code editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在代码编辑器中警告Qt Quick设计器不支持的功能</translation>
     </message>
     <message>
         <location/>
@@ -50104,12 +50111,12 @@ Reason: %2</source>
     <message>
         <location/>
         <source>Show the debugging view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示调试视图</translation>
     </message>
     <message>
         <location/>
         <source>Enable the debugging view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许调试视图</translation>
     </message>
 </context>
 <context>
@@ -50199,7 +50206,7 @@ Reason: %2</source>
         <location line="+25"/>
         <source>QML Types</source>
         <comment>Title of library QML types view</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 类型</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -50211,7 +50218,7 @@ Reason: %2</source>
         <location line="+1"/>
         <source>Imports</source>
         <comment>Title of library imports view</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -50333,7 +50340,7 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <location line="+52"/>
         <source>Toggles whether this item is exported as an alias property of the root item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无论怎么切换，此项目将导出为根项目的别名属性。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -50350,12 +50357,12 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location line="-2"/>
         <source>%1 is an invalid id.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标识符%1无效。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1已存在。</translation>
     </message>
     <message>
         <source>%1 is an invalid id</source>
@@ -50390,17 +50397,17 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location line="+6"/>
         <source>Become child of last sibling (CTRL + Right).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">成为最后一个兄弟节点的子节点 (CTRL + Right)。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Move down (CTRL + Down).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下移（CTRL + 下）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Move up (CTRL + Up).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上移（CTRL + 上）。</translation>
     </message>
     <message>
         <source>Become first sibling of parent (CTRL + Left)</source>
@@ -50440,22 +50447,22 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/instances/nodeinstanceserverproxy.cpp" line="+184"/>
         <source>Cannot Start QML Emulation Layer (QML Puppet)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不能启动 QML 仿真层（QML Puppet）</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The executable of the QML emulation layer (QML Puppet) process cannot be started or does not respond.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动QML仿真层（QML木偶）时不能启动进程或进程不回应。</translation>
     </message>
     <message>
         <location line="+211"/>
         <source>QML Emulation Layer (QML Puppet) Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 仿真层奔溃</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You are recording a puppet stream and the emulations layer crashed. It is recommended to reopen the Qt Quick Designer and start again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在你录制一个 puppet 流时仿真层的奔溃了，建议你重新打开 Qt Quick 设计师，然后重新开始。</translation>
     </message>
 </context>
 <context>
@@ -50558,7 +50565,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/stateseditor/stateseditorview.cpp" line="+67"/>
         <source>States Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状态编辑器</translation>
     </message>
     <message>
         <location line="+148"/>
@@ -50644,7 +50651,7 @@ import QtQuick 1.0 use import Qt 4.7 instead</source>
     <message>
         <location filename="../../../src/plugins/qtsupport/qmldumptool.cpp" line="+46"/>
         <source>Building QML Helpers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 构建助手</translation>
     </message>
 </context>
 <context>
@@ -50726,7 +50733,7 @@ import QtQuick 1.0 use import Qt 4.7 instead</source>
         <location filename="../../../src/libs/qmleditorwidgets/contextpanewidgetimage.cpp" line="+86"/>
         <location line="+30"/>
         <source>Double click for preview.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">双击预览。</translation>
     </message>
 </context>
 <context>
@@ -51018,7 +51025,7 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location filename="../../../src/libs/qmljs/qmljslink.cpp" line="+276"/>
         <source>File or directory not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件或者路径不存在。</translation>
     </message>
     <message>
         <location line="+162"/>
@@ -51030,7 +51037,14 @@ Import paths:
 For qmake projects, use the QML_IMPORT_PATH variable to add import paths.
 For Qbs projects, declare and set a qmlImportPaths property in your product to add import paths.
 For qmlproject projects, use the importPaths property to add import paths.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不能找到 QML 模块。
+
+导入路径：
+%1
+
+如果是 qmake 项目，请使用 QML_IMPORT_PATH 变量添加要导入的路径。
+如果是 Qbs 项目，请设置  product 的 qmlImportPaths 属性来添加要导入的路径。
+如果是 qmlproject 项目，请使用 importPaths 属性来添加要导入的路径。</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -51061,135 +51075,135 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location filename="../../../src/libs/qmljs/qmljstypedescriptionreader.cpp" line="+97"/>
         <source>Could not parse document.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不能解析文档。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Expected a single import.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">需要一个导入。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Expected import of QtQuick.tooling.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">需要导入 QtQuick.tooling。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Major version different from 1 not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主要版本不同于1，不被支持。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Reading only version 1.1 parts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只读版1.1部分。</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+6"/>
         <source>Expected document to contain a single object definition.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求文档包含一个对象定义。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Expected document to contain a Module {} member.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求文档包含一个 Module{} 成员。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Expected only Component and ModuleApi object definitions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求只有 Component 和 ModuleApi 对象定义。</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Expected only Property, Method, Signal and Enum object definitions, not &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求是属性，方法，信号和枚举对象的定义，不需要 %1。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Expected only name, prototype, defaultProperty, attachedType, exports, isSingleton, isCreatable, isComposite and exportMetaObjectRevisions script bindings, not &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求是名字，原型，默认属性，附加属性，isSingleton, isCreatable, isComposite 和 exportMetaObjectRevisions 的脚步绑定，不是 %1。</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+80"/>
         <source>Expected only script bindings and object definitions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求是脚本绑定和对象定义。</translation>
     </message>
     <message>
         <location line="-75"/>
         <source>Component definition is missing a name binding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">组件定义丢失一个名字绑定。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Expected only uri, version and name script bindings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅需要 uri,版本，名字的脚本绑定。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Expected only script bindings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求脚本绑定。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>ModuleApi definition has no or invalid version binding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ModuleApi 定义没有版本绑定或者是非法的版本绑定。</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Expected only Parameter object definitions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求参数对象的定义。</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+106"/>
         <source>Expected only name and type script bindings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求名字和类型的脚本绑定。</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Method or signal is missing a name script binding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方法或者信号丢失一个名字脚本绑定。</translation>
     </message>
     <message>
         <location line="+20"/>
         <location line="+37"/>
         <location line="+25"/>
         <source>Expected script binding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求脚本绑定。</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Expected only type, name, revision, isPointer, isReadonly and isList script bindings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求类型，名字，修订，isPointer, isReadonly 和 isList脚本绑定。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Property object is missing a name or type script binding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">属性对象丢失一个名字或者类型的脚本绑定。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Expected only name and values script bindings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅仅要求名字或者值的脚本绑定。</translation>
     </message>
     <message>
         <location line="+43"/>
         <location line="+6"/>
         <location line="+6"/>
         <source>Expected string after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是字符串。</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+6"/>
         <source>Expected boolean after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是布尔值。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Expected true or false after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是true或者false。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -51199,68 +51213,68 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
         <location line="+6"/>
         <location line="+6"/>
         <source>Expected numeric literal after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是数字。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Expected integer after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是整数。</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+6"/>
         <location line="+6"/>
         <source>Expected array of strings after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是数组或者是字符串。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Expected array literal with only string literal members.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求是只有字符串成员的数组。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Expected string literal to contain &apos;Package/Name major.minor&apos; or &apos;Name major.minor&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求字符串包含&apos;Package/Name major.minor&apos; 或者 &apos;Name major.minor&apos;。</translation>
     </message>
     <message>
         <location line="+18"/>
         <location line="+6"/>
         <location line="+6"/>
         <source>Expected array of numbers after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是数组或者是数字。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Expected array literal with only number literal members.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求是只有数字成员的数组。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Meta object revision without matching export.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">元对象的修订不能匹配导出。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Expected integer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求是整数。</translation>
     </message>
     <message>
         <location line="+11"/>
         <location line="+6"/>
         <location line="+6"/>
         <source>Expected object literal after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求冒号后面是对象。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Expected object literal to contain only &apos;string: number&apos; elements.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要求对象仅仅包含 &apos;string:number&apos;元素。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Enum should not contain getter and setters, but only &apos;string: number&apos; elements.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">枚举不应该有 getter 和 setter，仅仅有 &apos;string:number&apos; 元素。</translation>
     </message>
 </context>
 <context>
@@ -51305,7 +51319,7 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location line="+20"/>
         <source>Searching for Usages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查找被使用的地方</translation>
     </message>
     <message>
         <source>Searching</source>
@@ -51392,18 +51406,22 @@ Errors:
         <location line="+40"/>
         <source>// TODO: Move position bindings from the component to the Loader.
 //       Check all uses of &apos;parent&apos; inside the root element of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">// 待完成: 将位置绑定从组件移动到装载器。
+//       检查所有在组件的根元素中使用的&apos;parent&apos;。
+</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>//       Rename all outer uses of the id &quot;%1&quot; to &quot;%2.item&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">//       将所有id &apos;%1&quot;的外部应用重命名为&apos;%2.item&apos;。
+</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>//       Rename all outer uses of the id &quot;%1&quot; to &quot;%2.item.%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">//       将所有id &apos;%1&quot;的外部应用重命名为&apos;%2.item.%1&apos;。
+</translation>
     </message>
     <message>
         <source>// TODO: Move position bindings from the component to the Loader.
@@ -51511,7 +51529,7 @@ Errors:
     <message>
         <location line="+5"/>
         <source>Inspect API for Element Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在光标下检查元素的接口</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -51569,7 +51587,7 @@ Errors:
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljspreviewrunner.cpp" line="+71"/>
         <source>No file specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有指定文件。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -51580,7 +51598,8 @@ Errors:
         <location line="+1"/>
         <source>Could not preview Qt Quick (QML) file. Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法预览Qt Quick (QML) 文件. 原因: 
+%1</translation>
     </message>
     <message>
         <source>Could not preview Qt Quick (QML) file. Reason: 
@@ -51990,7 +52009,7 @@ Qt Creator 知道一个相似的URI。</translation>
     <message>
         <location filename="../../../src/plugins/qmljstools/qmljsfunctionfilter.cpp" line="+48"/>
         <source>QML Functions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 函数</translation>
     </message>
 </context>
 <context>
@@ -52125,12 +52144,12 @@ Please build the debugging helpers on the Qt version options page.</source>
     <message>
         <location line="+15"/>
         <source>Show error messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示错误消息。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmljstools/qmlconsolepane.h" line="+61"/>
         <source>QML/JS Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML/JS 控制台</translation>
     </message>
 </context>
 <context>
@@ -52283,27 +52302,28 @@ Please build the debugging helpers on the Qt version options page.</source>
     <message>
         <location line="-350"/>
         <source>Stray newline in string literal</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>大体就是这么个意思吧，字符串有字面值有换行的行为。</translatorcomment>
+        <translation type="unfinished">字符串中有换行</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Illegal hexadecimal escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">非法的十六进制转义序列</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Octal escape sequences are not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不允许的八进制转义序列</translation>
     </message>
     <message>
         <location line="+137"/>
         <source>Decimal numbers can&apos;t start with &apos;0&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">十进制不能以 &apos;0&apos; 开头</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>At least one hexadecimal digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;0％1&apos;后至少需要一个十六进制数字</translation>
     </message>
     <message>
         <location line="+119"/>
@@ -52381,12 +52401,12 @@ Please build the debugging helpers on the Qt version options page.</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.cpp" line="-15"/>
         <source>Start QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始 QML 分析</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Kit:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">套件：</translation>
     </message>
 </context>
 <context>
@@ -52406,22 +52426,22 @@ Do you want to retry?</source>
     <message>
         <location line="+19"/>
         <source>Debug connection opened</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调试连接开通</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Debug connection closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调试连接关闭</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug connection error %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调试连接错误 %1</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Failed to connect!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接失败！</translation>
     </message>
 </context>
 <context>
@@ -52624,13 +52644,14 @@ references to elements in other files, loops, etc.)</source>
     <message>
         <location line="+8"/>
         <source>(Opt)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (优化的)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Binding not optimized (might have side effects or assignments,
 references to elements in other files, loops, and so on.)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绑定未优化(例如有副作用或者是在其他文件、循环中
+对元素的赋值、引用，等等)</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -52794,12 +52815,12 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+6"/>
         <source>Limit to Current Range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">限于当前范围</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show Full Range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示所有范围</translation>
     </message>
     <message>
         <source>Limit Events Pane to Current Range</source>
@@ -52842,7 +52863,7 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+3"/>
         <source>Waiting for data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">等待数据</translation>
     </message>
 </context>
 <context>
@@ -52855,12 +52876,12 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+126"/>
         <source>Search timeline event notes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索时间线事件说明。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Hide or show event categories.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏或显示时间类别。</translation>
     </message>
     <message>
         <location line="+238"/>
@@ -52894,7 +52915,7 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+29"/>
         <source>You are about to discard the profiling data, including unsaved notes. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你在丢弃分析数据，包括未保存的说明。你想继续吗？</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -52907,7 +52928,8 @@ Please use the stop button instead.</source>
         <location line="+162"/>
         <source>Starting a new profiling session will discard the previous data, including unsaved notes.
 Do you want to save the data first?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始一个新的分析会话，将丢弃预览的数据，包括没有保存的说明。
+需要先保存数据吗？</translation>
     </message>
     <message>
         <source>Attach...</source>
@@ -53023,7 +53045,7 @@ Do you want to continue?</source>
     <message>
         <location line="+4"/>
         <source>Show Full Range in Events Pane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在事件窗格中显示所有的范围</translation>
     </message>
     <message>
         <source>Reset Events Pane</source>
@@ -53125,7 +53147,7 @@ Do you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/qmlprojectmanager.cpp" line="+55"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
     </message>
 </context>
 <context>
@@ -53523,7 +53545,7 @@ Requires &lt;b&gt;Qt 4.7.4&lt;/b&gt; or newer.</source>
         <location line="+6"/>
         <location line="+7"/>
         <source>Qt version is too old.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt 版本太旧。</translation>
     </message>
     <message>
         <source>Error while loading `project file %1.</source>
@@ -54086,7 +54108,7 @@ To compile QML Observer, go to the Qt Versions page, select the current Qt versi
     <message>
         <location filename="../../../src/plugins/qnx/qnxdebugsupport.cpp" line="+91"/>
         <source>Preparing remote side...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在准备远端...</translation>
     </message>
     <message>
         <location line="+54"/>
@@ -54101,7 +54123,7 @@ To compile QML Observer, go to the Qt Versions page, select the current Qt versi
     <message>
         <location line="+9"/>
         <source>Warning: &quot;slog2info&quot; is not found on the device, debug output not available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告：“slog2info”在设备上没有发现的，调试输出无法使用。</translation>
     </message>
 </context>
 <context>
@@ -54122,7 +54144,7 @@ To compile QML Observer, go to the Qt Versions page, select the current Qt versi
     <message>
         <location line="+90"/>
         <source>Deploy Qt libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">部署Qt库...</translation>
     </message>
 </context>
 <context>
@@ -54165,7 +54187,7 @@ To compile QML Observer, go to the Qt Versions page, select the current Qt versi
     <message>
         <location line="+101"/>
         <source>No SDK path was set up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有设置SDK路径。</translation>
     </message>
     <message>
         <source>QNX Software Development Platform:</source>
@@ -54230,7 +54252,7 @@ To compile QML Observer, go to the Qt Versions page, select the current Qt versi
     <message>
         <location/>
         <source>Remove Missing Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除丢失的文件</translation>
     </message>
 </context>
 <context>
@@ -54592,27 +54614,27 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+4"/>
         <source>Base classes for graphical user interface (GUI) components. (Qt 4: Includes widgets. Qt 5: Includes OpenGL.)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基类的图形用户界面（GUI）组件。 （QT4：包括小工具的Qt5：包括OpenGL的。）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Classes to extend Qt GUI with C++ widgets (Qt 5)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于继承的Qt GUI 的部件类</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt Quick 1 classes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt Quick 1 类</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Classes for QML and JavaScript languages (Qt 5)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML和JavaScript语言类（QT5）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>A declarative framework for building highly dynamic applications with custom user interfaces</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">声明性框架通过自定义用户界面构造高动态应用。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -54622,17 +54644,17 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+24"/>
         <source>WebKit1 and QWidget-based classes from Qt 4 (Qt 5)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从Qt 4开始的WebKit1和QWidget的基类（QT5）</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Multimedia framework classes (Qt 4 only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">多媒体框架类（仅限Qt 4）</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Classes that ease porting from Qt 3 to Qt 4 (Qt 4 only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帮助Qt 3到Qt 4移植的类（仅限Qt 4）</translation>
     </message>
     <message>
         <source>QtGui Module</source>
@@ -54876,12 +54898,12 @@ Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.
     <message>
         <location filename="../../../src/plugins/qtsupport/qtsupportconstants.h" line="+39"/>
         <source>Qt Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt 版本</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt Class Generation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt的类生成</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -54901,12 +54923,14 @@ Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.
     <message>
         <location line="+1"/>
         <source>Windows Runtime</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>微软运行时</translatorcomment>
+        <translation type="unfinished">Windows Runtime</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>微软的手机平台</translatorcomment>
+        <translation type="unfinished">Windows Phone</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -55206,7 +55230,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+35"/>
         <source>%1 (invalid)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 无效</translation>
     </message>
 </context>
 <context>
@@ -55330,7 +55354,7 @@ cannot be found in the path.</source>
     <message>
         <location line="-640"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -55345,43 +55369,43 @@ cannot be found in the path.</source>
     <message>
         <location line="+244"/>
         <source>Display Name is not unique.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展示名字不唯一。</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Building Helpers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建助手</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Debugging Helper Build Log for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调试助手为 &apos;%1&apos; 构建日志</translation>
     </message>
     <message>
         <location line="+72"/>
         <location line="+75"/>
         <source>Select a qmake Executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择一个qmake执行档</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Qt Version Already Known</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已知晓的Qt版本</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Qmake Not Executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qmake不可执行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The qmake executable %1 could not be added: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qmake 执行档 %1 无法添加： %2</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>The Qt version selected must match the device type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择的Qt的版本必须与设备类型相匹配。</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -55446,7 +55470,7 @@ cannot be found in the path.</source>
     <message>
         <location/>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清理</translation>
     </message>
 </context>
 <context>
@@ -55468,83 +55492,83 @@ cannot be found in the path.</source>
     <message>
         <location line="+3"/>
         <source>The version string of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本的字符串表示。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The type of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本的类别。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The mkspec of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本的mkspec。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation prefix of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本的安装前缀。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本数据的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s header files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本头文件的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s library files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本库文件的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s documentation files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本文档的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s executable files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本执行文件的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本插件的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s imports.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本导入路径的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s translation files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本翻译的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s examples.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本例子的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The installation location of the current Qt version&apos;s demos.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的Qt版本示例的安装位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The current Qt version&apos;s default mkspecs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本默认的 mkspecs。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The current Qt&apos;s qmake version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前Qt版本的qmake版本。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qtsupport/qtkitinformation.cpp" line="+0"/>
@@ -55554,12 +55578,12 @@ cannot be found in the path.</source>
     <message>
         <location line="+25"/>
         <source>Name of Qt Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qt 版本的名称</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
 </context>
 <context>
@@ -55679,22 +55703,22 @@ cannot be found in the path.</source>
     <message>
         <location line="+713"/>
         <source>Cannot start &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法启动 &quot;%1&quot; ： %2</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Timeout running &quot;%1&quot; (%2 ms).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%1&quot; 运行超时（%2 毫秒）。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%1&quot; 奔溃。</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>qmake &quot;%1&quot; is not an executable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qmake &quot;%1&quot; 不是可执行程序。</translation>
     </message>
     <message>
         <source>Failed to detect the ABI(s) used by the Qt version.</source>
@@ -55774,13 +55798,13 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qtsupport/debugginghelperbuildtask.cpp" line="+72"/>
         <source>Cannot determine the installation path for Qt version &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法确定Qt版本&apos;%1&apos;的安装路径。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Building helper(s) with toolchain &quot;%1&quot;...
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用工具链 &apos;%1&apos; 构建&quot;助手&quot;...</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -55829,7 +55853,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+22"/>
         <source>Access</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">访问</translation>
     </message>
     <message>
         <source>Enter function name</source>

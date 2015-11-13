@@ -55950,23 +55950,23 @@ cannot be found in the path.</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/RectangleSpecifics.qml" line="+38"/>
         <location line="+3"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location line="+11"/>
         <location line="+3"/>
         <source>Border Color</source>
-        <translation type="unfinished"></translation>
+        <translation>边框颜色</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Border</source>
-        <translation type="unfinished">边框</translation>
+        <translation>边框</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Radius</source>
-        <translation type="unfinished">半径</translation>
+        <translation>半径</translation>
     </message>
 </context>
 <context>
@@ -56236,12 +56236,12 @@ cannot be found in the path.</source>
     <message>
         <location line="+3"/>
         <source>Did the emulator fail to start?</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟器启动失败了吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Is the device connected and set up for network access?</source>
-        <translation type="unfinished"></translation>
+        <translation>设备已经连接并设置为可以访问网络了吗？</translation>
     </message>
     <message>
         <source>
@@ -56372,7 +56372,7 @@ Remote stderr was: %1</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/tarpackagecreationstep.cpp" line="+58"/>
         <source>Ignore missing files</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略缺失的文件</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -56410,33 +56410,33 @@ Remote stderr was: %1</source>
     <message>
         <location line="+18"/>
         <source>Upload of file &quot;%1&quot; failed. The server said: &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传文件&apos;%1&apos;。服务器回应: &apos;%2&apos;。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>If &quot;%1&quot; is currently running on the remote host, you might need to stop it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果 &apos;%1&apos;正在远程主机上运行，您可能需要先停止它。</translation>
     </message>
     <message>
         <location line="+38"/>
         <location line="+42"/>
         <source>Failed to upload file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传文件&apos;%1&apos;失败。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Failed to upload file &quot;%1&quot;: Could not open for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法上传文件&apos;%1&apos;: 无法打开并读取。</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>Warning: No remote path set for local file &quot;%1&quot;. Skipping upload.</source>
-        <translation type="unfinished"></translation>
+        <translation>警告:没有为本地文件&apos;%1&apos;设置远程路径，跳过上传。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Uploading file &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在上传文件%1 ...</translation>
     </message>
     <message>
         <source>Upload of file &apos;%1&apos; failed: %2</source>
@@ -56621,22 +56621,22 @@ Remote stderr was: %1</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/genericlinuxdeviceconfigurationwidget.ui"/>
         <source>&amp;Check host key</source>
-        <translation type="unfinished"></translation>
+        <translation>检查主机密钥(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <source>You can enter lists and ranges like this: &apos;1024,1026-1028,1030&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以输入范围,输入形式如:&apos;1024,1026-1028,1030&apos;。</translation>
     </message>
     <message>
         <location/>
         <source>GDB server executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器可执行:</translation>
     </message>
     <message>
         <location/>
         <source>Leave empty to look up executable in $PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>留空以便在$PATH中查找可执行文件</translation>
     </message>
 </context>
 <context>
@@ -56656,7 +56656,7 @@ Remote stderr was: %1</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/genericlinuxdeviceconfigurationwizardpages.cpp" line="+158"/>
         <source>Summary</source>
-        <translation type="unfinished">汇总</translation>
+        <translation>汇总</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -56675,12 +56675,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="-117"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Choose a Private Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个私钥文件</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -56698,41 +56698,37 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+38"/>
         <source>Checking kernel version...</source>
-        <translation type="unfinished"></translation>
+        <translation>选中内核版本...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>SSH connection failure: %1</source>
-        <translation type="unfinished">SSH 连接失败 &apos;%1&apos;
- {1?}</translation>
+        <translation>SSH 连接失败 &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>uname failed: %1</source>
-        <translation type="unfinished">uname失败%1
- {1?}</translation>
+        <translation>uname失败：%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>uname failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>uname失败。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Error gathering ports: %1</source>
-        <translation type="unfinished">搜集端口错误: %1
- {1?}</translation>
+        <translation>搜集端口错误: %1</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>All specified ports are available.</source>
-        <translation type="unfinished">所有指定的端口都可用。</translation>
+        <translation>所有指定的端口都可用。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The following specified ports are currently in use: %1</source>
-        <translation type="unfinished">以下指定端口现正被使用: %1
- {1?}</translation>
+        <translation>以下指定端口现正被使用: %1</translation>
     </message>
     <message>
         <source>SSH connection failure: %1
@@ -56941,7 +56937,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+1"/>
         <source>Ignore missing files</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略缺失的文件</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxcustomcommanddeploymentstep.cpp" line="-136"/>
@@ -57021,7 +57017,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location/>
         <source>The username to log into the device:</source>
-        <translation type="unfinished"></translation>
+        <translation>登录设备的用户名:</translation>
     </message>
 </context>
 <context>
@@ -58124,7 +58120,7 @@ Remote error output was: %1</source>
     <message>
         <location line="+2"/>
         <source>Starting upload...</source>
-        <translation type="unfinished"></translation>
+        <translation>开始上传...</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -58224,22 +58220,22 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxenvironmentreader.cpp" line="+79"/>
         <source>Error: %1</source>
-        <translation type="unfinished">错误: %1</translation>
+        <translation>错误: %1</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Process exited with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程退出，退出代码 %1。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error running &apos;env&apos;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误运行“env”：%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Remote stderr was: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>远程stderr：“%1”</translation>
     </message>
 </context>
 <context>
@@ -58262,7 +58258,7 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxrunconfigurationfactory.cpp" line="+112"/>
         <source>(on Remote Generic Linux Host)</source>
-        <translation type="unfinished"></translation>
+        <translation>(在远程通用Linux主机)</translation>
     </message>
 </context>
 <context>
@@ -58274,17 +58270,17 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxruncontrolfactory.cpp" line="+93"/>
         <source>Cannot debug: Kit has no device.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试：工具没有设备。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot debug: Not enough free ports available.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试：空闲端口不够。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot debug: Local executable is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:本地的可执行文件未设置。</translation>
     </message>
 </context>
 <context>
@@ -58328,7 +58324,7 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxdebugsupport.cpp" line="+140"/>
         <source>Checking available ports...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查可用的端口...</translation>
     </message>
     <message>
         <location line="+80"/>
@@ -58503,12 +58499,12 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location line="+13"/>
         <source>Unexpected output from remote process: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>来自远程进程的异常输出: &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Cannot check for free disk space: &quot;%1&quot; is not an absolute path.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检查剩余磁盘空间: &apos;%1&apos;不是一个绝对路径。</translation>
     </message>
     <message>
         <source>Unexpected output from remote process: &apos;%1&apos;.</source>
@@ -58555,7 +58551,7 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location line="+17"/>
         <source>Starting remote command &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>启动远端命令&apos;%1&apos;......</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -58709,12 +58705,12 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location line="+27"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Remote path not set</source>
-        <translation type="unfinished"></translation>
+        <translation>远程文件路径未设置</translation>
     </message>
     <message>
         <source>C++ only</source>
@@ -58861,34 +58857,34 @@ Remote error output was: %1</source>
     <message>
         <location line="+7"/>
         <source>No remote path specified for file &quot;%1&quot;, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有为文件 &apos;%1&apos;指定远程路径，跳过步骤。</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+60"/>
         <source>Error writing tar file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>写入tar 文件 &apos;%1&apos;发生错误: %2。</translation>
     </message>
     <message>
         <location line="-32"/>
         <location line="+23"/>
         <source>Error reading file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取文件&apos;%1&apos;错误: %2。</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Adding file &quot;%1&quot; to tarball...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加文件&apos;%1&apos; 到压缩包...</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Cannot add file &quot;%1&quot; to tar-archive: path too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法添加文件&apos;%1&apos; 到压缩包(tar-archive): 路径太长。</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Error writing tar file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>写入tar 文件 &apos;%1&apos;发生错误: %2</translation>
     </message>
     <message>
         <source>No remote path specified for file &apos;%1&apos;, skipping.</source>
@@ -59095,87 +59091,87 @@ Remote error output was: %1</source>
     <message>
         <location line="+1"/>
         <source>Recheck Existence of Referenced Files</source>
-        <translation type="unfinished"></translation>
+        <translation>重新检查引用文件的存在</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Add Prefix...</source>
-        <translation type="unfinished">添加前缀...</translation>
+        <translation>添加前缀...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Change Prefix...</source>
-        <translation type="unfinished">改变前缀...</translation>
+        <translation>改变前缀...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Remove Prefix...</source>
-        <translation type="unfinished"></translation>
+        <translation>删除前缀...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Remove Missing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>删除缺失的文件</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Rename...</source>
-        <translation type="unfinished">重命名...</translation>
+        <translation>重命名...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Remove File...</source>
-        <translation type="unfinished">删除文件...</translation>
+        <translation>删除文件...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open in Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>在编辑器中打开</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open With</source>
-        <translation type="unfinished">用...打开</translation>
+        <translation>用...打开</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Copy path &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>复制路径 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Copy url &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>复制链接 “%1”</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Add Prefix</source>
-        <translation type="unfinished">添加前缀</translation>
+        <translation>添加前缀</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Remove Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>删除前缀</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove prefix %1 and all its files?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有前缀为%1的文件?</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>File Removal Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>文件删除失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Removing file %1 from the project failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>从项目中删除文件%1失败。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Rename Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名前缀</translation>
     </message>
     <message>
         <source>Recheck existence of referenced files</source>
@@ -59261,17 +59257,17 @@ Remote error output was: %1</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/RowSpecifics.qml" line="+37"/>
         <source>Row</source>
-        <translation type="unfinished">行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Layout Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>布局方向</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
 </context>
 <context>
@@ -59401,22 +59397,22 @@ Previous Qt versions have limitations in building suitable SIS files.</source>
     <message>
         <location filename="../../../src/libs/timeline/qml/SelectionRangeDetails.qml" line="+122"/>
         <source>Selection</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Start</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>结束</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Duration</source>
-        <translation type="unfinished">持续时间</translation>
+        <translation>持续时间</translation>
     </message>
 </context>
 <context>
@@ -59424,17 +59420,17 @@ Previous Qt versions have limitations in building suitable SIS files.</source>
     <message>
         <location filename="../welcomescreen/widgets/SessionItem.qml" line="+175"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Rename</source>
-        <translation type="unfinished">重命名</translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -59442,12 +59438,12 @@ Previous Qt versions have limitations in building suitable SIS files.</source>
     <message>
         <location filename="../welcomescreen/widgets/Sessions.qml" line="+55"/>
         <source>%1 (last session)</source>
-        <translation type="unfinished">%1 (最后的会话)</translation>
+        <translation>%1 (最后的会话)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 (current session)</source>
-        <translation type="unfinished">%1 (当前会话)</translation>
+        <translation>%1 (当前会话)</translation>
     </message>
 </context>
 <context>
@@ -60670,7 +60666,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+552"/>
         <source>No subversion executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有指定subversion执行档。</translation>
     </message>
     <message>
         <source>Repository Log</source>
@@ -62375,7 +62371,7 @@ The following encodings are likely to fit:</source>
     <message>
         <location/>
         <source>Always open links in another split</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在另一个分隔窗口打开链接</translation>
     </message>
     <message>
         <location/>

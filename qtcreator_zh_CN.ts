@@ -127,12 +127,12 @@
     <message>
         <location line="+3"/>
         <source>with debug symbols (Debug or Profile mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>使用调试符号(调试或分析模式)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>on optimized code (Profile or Release mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>优化代码(分析或调试模式)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -142,7 +142,7 @@
     <message>
         <location line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正在尝试在%2模式下对应用运行%1工具。该工具设计用于%3模式。&lt;/p&gt;&lt;p&gt;运行时性能优化和非优化的二进制代码之间差异非常明显。在一个模式下的分析结果不一定适用于另一模式。&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;您想要继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -224,12 +224,12 @@
     <message>
         <location filename="../../../src/plugins/analyzerbase/analyzerrunconfigwidget.cpp" line="+103"/>
         <source>Use Customized Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自定义设置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>使用全局设置</translation>
     </message>
 </context>
 <context>
@@ -604,32 +604,32 @@ Please install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/android/androidcreatekeystorecertificate.cpp" line="+84"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Keystore password is too short&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;密钥存储库的密码太短了&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Keystore passwords do not match&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;密钥存储库的密码不匹配&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Certificate password is too short&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;证书密码太短了&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Certificate passwords do not match&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;证书密码不匹配&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Certificate alias is missing&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;证书别名是缺失&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Invalid country code&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;无效的国家代码&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1015,19 +1015,19 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location filename="../../../src/plugins/android/androidrunner.cpp" line="+151"/>
         <source>No free ports available on host for QML debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>在主机上没有空闲的端口用于QML调试。</translation>
     </message>
     <message>
         <location line="+133"/>
         <source>&quot;%1&quot; died.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;消亡。</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+139"/>
         <location line="+65"/>
         <source>Unable to start &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -1067,12 +1067,12 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location line="+42"/>
         <source>Failed to contact debugging port.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接调试器失败。</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>&quot;%1&quot; terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;终止。</translation>
     </message>
     <message>
         <source>Unable to start &apos;%1&apos;.</source>
@@ -1133,61 +1133,63 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location line="+6"/>
         <source>Select JDK Path</source>
-        <translation type="unfinished"></translation>
+        <translation>选择JDK的路径</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>The Android NDK cannot be installed into a path with spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android NDK不能安装到有空格的路径。</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Qt version for architecture %1 is missing.
 To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt版本%1缺失。
+添加Qt版本,选择选项&gt;构建和运行&gt; Qt版本。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt versions for %1 architectures are missing.
 To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt版本架构%1缺失。
+添加Qt版本,选择选项&gt;构建和运行&gt; Qt版本。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The Platform tools are missing. Please use the Android SDK Manager to install them.</source>
-        <translation type="unfinished"></translation>
+        <translation>平台工具缺失。请使用Android SDK管理器来安装它们。</translation>
     </message>
     <message numerus="yes">
         <location line="+24"/>
         <source>Found %n toolchains for this NDK.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>发现%n个NDK工具链。</numerusform>
         </translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&quot;%1&quot; does not seem to be a JDK folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;似乎没有一个JDK文件夹。</translation>
     </message>
     <message>
         <location line="+191"/>
         <source>Remove Android Virtual Device</source>
-        <translation type="unfinished"></translation>
+        <translation>删除安卓虚拟设备</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove device &quot;%1&quot;? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除设备“%1”？无法撤消。</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Unsupported GDB</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的GDB</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The GDB inside this NDK seems to not support Python. The Qt Project offers fixed GDB builds at: &lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB在NDK中似乎不支持Python。Qt项目提供了固定GDB构建:&lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Select GDB Executable</source>
@@ -1344,7 +1346,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location/>
         <source>Use Keystore password</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Keystore密码</translation>
     </message>
 </context>
 <context>
@@ -1621,22 +1623,22 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location/>
         <source>JDK location:</source>
-        <translation type="unfinished"></translation>
+        <translation>JDK路径:</translation>
     </message>
     <message>
         <location/>
         <source>Download JDK</source>
-        <translation type="unfinished"></translation>
+        <translation>下载JDK</translation>
     </message>
     <message>
         <location/>
         <source>Download Android SDK</source>
-        <translation type="unfinished"></translation>
+        <translation>下载Android SDK</translation>
     </message>
     <message>
         <location/>
         <source>Download Android NDK</source>
-        <translation type="unfinished"></translation>
+        <translation>下载Android NDK</translation>
     </message>
     <message>
         <location/>
@@ -1646,37 +1648,37 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location/>
         <source>Automatically create kits for Android tool chains</source>
-        <translation type="unfinished"></translation>
+        <translation>自动为Android工具链创建包</translation>
     </message>
     <message>
         <location/>
         <source>Use Gradle instead of Ant</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Gradle替代Ant</translation>
     </message>
     <message>
         <location/>
         <source>Ant executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ant可执行文件:</translation>
     </message>
     <message>
         <location/>
         <source>Download Ant</source>
-        <translation type="unfinished"></translation>
+        <translation>下载Ant</translation>
     </message>
     <message>
         <location/>
         <source>Start...</source>
-        <translation type="unfinished"></translation>
+        <translation>启动...</translation>
     </message>
     <message>
         <location/>
         <source>Start AVD Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>启动AVD管理器...</translation>
     </message>
     <message>
         <location/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
 </context>
 <context>
@@ -1694,12 +1696,12 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location line="+282"/>
         <source>Could not find Core plugin in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1中找不到核心插件</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Core plugin is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>核心插件被禁用。</translation>
     </message>
     <message>
         <source>Unable to send command line arguments to the already running instance. It appears to be not responding.</source>
@@ -1721,7 +1723,7 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location filename="../../../src/plugins/coreplugin/coreplugin.cpp" line="+154"/>
         <source>No valid theme &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>没有有效的主题“%1”</translation>
     </message>
 </context>
 <context>
@@ -1918,7 +1920,7 @@ This option is useful when you want to try your application on devices which don
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsbuildconfiguration.cpp" line="+123"/>
         <source>Default</source>
         <extracomment>The name of the build configuration created by default for a autotools project.</extracomment>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
     <message>
         <location line="+63"/>
@@ -1944,7 +1946,7 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location line="+6"/>
         <source>Autotools Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Autotools管理器</translation>
     </message>
 </context>
 <context>
@@ -1960,7 +1962,7 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsmanager.cpp" line="+53"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目 &apos;%1&apos;失败:项目不是一个文件</translation>
     </message>
 </context>
 <context>
@@ -2236,12 +2238,12 @@ Previous decimal signed value (big endian): %4</source>
     <message>
         <location filename="../../../src/plugins/qtsupport/baseqtversion.cpp" line="+484"/>
         <source>The compiler &quot;%1&quot; (%2) cannot produce code for the Qt version &quot;%3&quot; (%4).</source>
-        <translation type="unfinished"></translation>
+        <translation>编译器&apos;%1&apos; (%2)无法为Qt版本&apos;%3&apos; (%4)生成代码。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The compiler &quot;%1&quot; (%2) may not produce code compatible with the Qt version &quot;%3&quot; (%4).</source>
-        <translation type="unfinished"></translation>
+        <translation>编译器&apos;%1&apos; (%2)可能不会生成代码兼容的Qt版本&apos;%3&apos; (%4)。</translation>
     </message>
     <message>
         <location line="+229"/>
@@ -2287,28 +2289,28 @@ Previous decimal signed value (big endian): %4</source>
         <location line="+842"/>
         <location line="+29"/>
         <source>No Qt version.</source>
-        <translation type="unfinished">没有设置Qt 版本。</translation>
+        <translation>没有设置Qt 版本。</translation>
     </message>
     <message>
         <location line="-19"/>
         <location line="+29"/>
         <source>Invalid Qt version.</source>
-        <translation type="unfinished">无效的 Qt 版本。</translation>
+        <translation>无效的 Qt 版本。</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Requires Qt 5.0.0 or newer.</source>
-        <translation type="unfinished">需要Qt 4.7.1 或更新的版本。 {5.0.0 ?}</translation>
+        <translation>需要Qt 5.0.0 或更新的版本。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Requires Qt 5.3.0 or newer.</source>
-        <translation type="unfinished">需要Qt 4.7.1 或更新的版本。 {5.3.0 ?}</translation>
+        <translation>需要Qt 5.3.0 或更新的版本。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>This Qt Version does not contain Qt Quick Compiler.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个Qt版本不包含Qt Quick编译器。</translation>
     </message>
 </context>
 <context>

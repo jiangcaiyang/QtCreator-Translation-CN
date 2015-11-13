@@ -1163,7 +1163,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
         <location line="+24"/>
         <source>Found %n toolchains for this NDK.</source>
         <translation>
-            <numerusform>发现%nNDK工具链。</numerusform>
+            <numerusform>发现%n个NDK工具链。</numerusform>
         </translation>
     </message>
     <message>

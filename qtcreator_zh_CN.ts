@@ -2258,7 +2258,7 @@ Previous decimal signed value (big endian): %4</source>
     <message>
         <location line="+3"/>
         <source>ABI:</source>
-        <translation>ABI:</translation>
+        <translation>二进制接口：</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2268,7 +2268,7 @@ Previous decimal signed value (big endian): %4</source>
     <message>
         <location line="+2"/>
         <source>mkspec:</source>
-        <translation>mkspec:</translation>
+        <translation>mkspec目录</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2366,7 +2366,8 @@ Local commits are not pushed to the master branch until a normal commit is perfo
         <location/>
         <source>Performs a local commit in a bound branch.
 Local commits are not pushed to the master branch until a normal commit is performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>本地提交到一个受限的分支.
+直到一次正常提交之前，本地提交不会被推送到master分支。</translation>
     </message>
 </context>
 <context>
@@ -2374,7 +2375,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location filename="../../../src/plugins/bazaar/bazaarcontrol.cpp" line="+53"/>
         <source>Bazaar</source>
-        <translation>Bazaar</translation>
+        <translation>市场</translation>
     </message>
 </context>
 <context>
@@ -2390,12 +2391,12 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location filename="../../../src/plugins/bazaar/bazaarclient.cpp" line="+74"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished">忽略空白</translation>
+        <translation>忽略空白</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ignore Blank Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空白行</translation>
     </message>
 </context>
 <context>
@@ -2419,37 +2420,37 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+1"/>
         <source>Show files changed in each revision.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示每个修订版本改变的文件</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show from oldest to newest.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示从最老到最新</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Include Merges</source>
-        <translation type="unfinished"></translation>
+        <translation>包含合并</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show merged revisions.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示合并了的修订版本</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Moderately Short</source>
-        <translation type="unfinished"></translation>
+        <translation>略短</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>One Line</source>
-        <translation type="unfinished"></translation>
+        <translation>略短</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>GNU Change Log</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU改变日志</translation>
     </message>
     <message>
         <source>Show files changed in each revision</source>
@@ -2650,7 +2651,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+5"/>
         <source>Uncommit...</source>
-        <translation type="unfinished"></translation>
+        <translation>未提交</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3072,24 +3073,25 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;</translation>
     </message>
     <message>
         <location/>
         <source>Ignores differences between branches and overwrites
 unconditionally.</source>
-        <translation type="unfinished"></translation>
+        <translation>无条件地忽略分支和覆盖之间的差异。</translation>
     </message>
     <message>
         <location/>
         <source>Creates the path leading up to the branch if it does not already exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果不存在则创建分支的前导路径。</translation>
     </message>
     <message>
         <location/>
         <source>Performs a local pull in a bound branch.
 Local pulls are not applied to the master branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>在一个受限的分支中执行本地pull。
+本地 pull 不会应用到master分支。</translation>
     </message>
 </context>
 <context>
@@ -3710,7 +3712,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+1"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3725,12 +3727,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+46"/>
         <source>Remove All Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有书签</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to remove all bookmarks from all files in the current session?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要删除当前所有已打开文档中的书签么？</translation>
     </message>
     <message>
         <source>&amp;Remove Bookmark</source>
@@ -3828,7 +3830,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+4"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签</translation>
     </message>
     <message>
         <source>Edit Bookmark Note</source>
@@ -3852,42 +3854,42 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/BorderImageSpecifics.qml" line="+37"/>
         <source>Border Image</source>
-        <translation type="unfinished"></translation>
+        <translation>图片边框</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Source</source>
-        <translation type="unfinished">来源</translation>
+        <translation>来源</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Border Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左边框</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Border Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右边框</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Border Top</source>
-        <translation type="unfinished"></translation>
+        <translation>上边框</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Border Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>下边框</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Horizontal Fill mode</source>
-        <translation type="unfinished"></translation>
+        <translation>水平填充模式</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Vertical Fill mode</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直填充模式</translation>
     </message>
     <message>
         <source>Source Size</source>
@@ -3896,7 +3898,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+16"/>
         <source>Source size</source>
-        <translation type="unfinished">源尺寸</translation>
+        <translation>源大小</translation>
     </message>
     <message>
         <source>BorderImage</source>

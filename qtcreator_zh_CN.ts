@@ -64803,12 +64803,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/updateinfo/updateinfoplugin.cpp" line="+167"/>
         <source>Updater</source>
-        <translation type="unfinished"></translation>
+        <translation>升级程序</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>New updates are available. Do you want to start update?</source>
-        <translation type="unfinished"></translation>
+        <translation>有新的更新可用。是否开始升级？</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -64818,12 +64818,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+6"/>
         <source>The maintenance tool at &quot;%1&quot; is not an executable. Check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;%1&quot;的维护工具不是可执行文件。请检查安装。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <source>Could not find maintenance tool at &apos;%1&apos;. Check your installation.</source>
@@ -64874,12 +64874,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+338"/>
         <source>Do not &amp;ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>下次不再询问(&amp;)</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Do not &amp;show again</source>
-        <translation type="unfinished"></translation>
+        <translation>下次不再显示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -64925,17 +64925,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+5"/>
         <source>Cannot create temporary directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建临时目录 &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Cannot change to working directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法切换到工作目录 &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot execute &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法执行 &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot create temporary directory &apos;%1&apos;: %2</source>
@@ -64965,7 +64965,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/libs/utils/consoleprocess_win.cpp" line="+155"/>
         <source>The process &quot;%1&quot; could not be started: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>进程 &quot;%1&quot; 无法被启动: %2</translation>
     </message>
     <message>
         <location line="+84"/>
@@ -65000,12 +65000,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+51"/>
         <source>Cannot start the terminal emulator &quot;%1&quot;, change the setting in the Environment options.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动终端模拟器 &quot;%1&quot;, 请更改环境设置。</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>Cannot create socket &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建套接字 &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot start the terminal emulator &apos;%1&apos;.</source>
@@ -65073,22 +65073,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="-31"/>
         <source>&quot;%1&quot; is an invalid ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 不是一个有效的ELF对象(%2)</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; is not an ELF object (file too small)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 不是一个有效的ELF对象(文件太小)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&quot;%1&quot; is not an ELF object</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; 不是一个ELF对象</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>odd endianness</source>
-        <translation type="unfinished"></translation>
+        <translation>异常的字节顺序</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -65163,7 +65163,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Automatically Hide View Title Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>自动隐藏视图标题栏</translation>
     </message>
     <message>
         <source>Reset to default layout</source>
@@ -65209,12 +65209,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Invalid character &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效字符 &quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Invalid characters &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效字符串 &quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -65286,22 +65286,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+14"/>
         <source>Failed to remove directory &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>移除目录&apos;%1&apos;失败。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Failed to remove file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>移除文件&apos;%1&apos;失败。</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Failed to create directory &quot;%1&quot;.</source>
-        <translation type="unfinished">创建目录失败:&apos;%1&apos;。</translation>
+        <translation>创建目录失败:&apos;%1&apos;。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法复制文件&apos;%1&apos;到&apos;%2&apos;。</translation>
     </message>
     <message>
         <location line="+172"/>
@@ -65540,17 +65540,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+7"/>
         <source>Invalid header file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的头文件名称: &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Invalid source file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的源文件名称: &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Invalid form file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的界面文件名: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Invalid header file name: &apos;%1&apos;</source>
@@ -65663,12 +65663,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location/>
         <source>Inherits QDeclarativeItem - Qt Quick 1</source>
-        <translation type="unfinished"></translation>
+        <translation>继承自 QDeclarativeItem - QtQuick 1</translation>
     </message>
     <message>
         <location/>
         <source>Inherits QQuickItem - Qt Quick 2</source>
-        <translation type="unfinished"></translation>
+        <translation>继承自 QQuickItem - QtQuick 2</translation>
     </message>
 </context>
 <context>
@@ -65711,36 +65711,36 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+90"/>
         <source>The path &quot;%1&quot; expanded to an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径&apos;%1&apos; 扩展到一个空的字符串。</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+12"/>
         <location line="+14"/>
         <source>The path &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径 &apos;%1&apos; 不存在。</translation>
     </message>
     <message>
         <location line="-21"/>
         <location line="+33"/>
         <source>The path &quot;%1&quot; is not a directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径 &apos;%1&apos; 不是一个目录。</translation>
     </message>
     <message>
         <location line="-19"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>目录 &quot;%1&quot; 存在。</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+14"/>
         <source>Cannot execute &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法执行&apos;%1&apos;。</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>The path &lt;b&gt;%1&lt;/b&gt; is not an executable file.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径 &lt;b&gt;%1&lt;/b&gt; 不是可执行程序。</translation>
     </message>
     <message>
         <source>&lt;not valid&gt;</source>
@@ -65838,7 +65838,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location line="+93"/>
@@ -65853,22 +65853,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+56"/>
         <source>Name is empty.</source>
-        <translation type="unfinished">名称为空。</translation>
+        <translation>名称为空。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Name does not match &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>名称不符合&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Invalid character &quot;.&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效字符 &apos;.&apos;。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Invalid character &quot;%1&quot; found.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效字符 &apos;%1&apos;。</translation>
     </message>
     <message>
         <source>Introduction and project location</source>
@@ -66042,27 +66042,27 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/libs/utils/synchronousprocess.cpp" line="+131"/>
         <source>The command &quot;%1&quot; finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&apos;%1&apos;成功完成。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; terminated with exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&apos;%1&apos;终止，退出代码%2。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; terminated abnormally.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&apos;%1&apos;异常终止。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; could not be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&apos;%1&apos;无法启动。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; did not respond within the timeout limit (%2 s).</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&apos;%1&apos;在指定超时时间(%2秒)内未响应。</translation>
     </message>
     <message>
         <location line="+297"/>
@@ -66077,7 +66077,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>The process &quot;%1&quot; is not responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程&apos;%1&apos;未响应。</translation>
     </message>
     <message>
         <source>The process &apos;%1&apos; is not responding.</source>
@@ -66158,7 +66158,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>C&amp;lose All</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭所有文件(&amp;L)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -66193,7 +66193,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+4"/>
         <source>The unsaved file &lt;i&gt;%1&lt;/i&gt; has changed outside Qt Creator. Do you want to reload it and discard your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>未保存的文件 &lt;i&gt;%1&lt;/i&gt; 在 Qt Creator以外被改写，您想要重新载入并且丢弃现有的修改吗？</translation>
     </message>
     <message>
         <source>The unsaved file &lt;i&gt;%1&lt;/i&gt; has been changed outside Qt Creator. Do you want to reload it and discard your changes?</source>
@@ -69250,32 +69250,32 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/libs/utils/proxycredentialsdialog.ui"/>
         <source>Proxy Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>代理证书</translation>
     </message>
     <message>
         <location/>
         <source>The proxy %1 requires a username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>代理服务器%1需要输入用户名和密码。</translation>
     </message>
     <message>
         <location/>
         <source>Username:</source>
-        <translation type="unfinished">用户名:</translation>
+        <translation>用户名:</translation>
     </message>
     <message>
         <location/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location/>
         <source>Password:</source>
-        <translation type="unfinished">密码:</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <location/>
         <source>Password</source>
-        <translation type="unfinished">密码</translation>
+        <translation>密码</translation>
     </message>
 </context>
 <context>
@@ -71908,42 +71908,43 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/updateinfo/settingspage.ui"/>
         <source>Configure Filters</source>
-        <translation type="unfinished">配置过滤器</translation>
+        <translation>配置过滤器</translation>
     </message>
     <message>
         <location/>
         <source>Automatic Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检查更新</translation>
     </message>
     <message>
         <location/>
         <source>Check interval basis:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Not sure</translatorcomment>
+        <translation>定期检查更新:</translation>
     </message>
     <message>
         <location/>
         <source>Qt Creator automatically runs a scheduled check for updates on a time interval basis. If Qt Creator is not in use on the scheduled date, the automatic check for updates will be performed next time Qt Creator starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator 自动定期检查更新。如果没有在默认定期使用Qt Creator, 自动更新检查将会在您下一次打开Qt Creator的时候进行。</translation>
     </message>
     <message>
         <location/>
         <source>Next check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>下一次检查跟新:</translation>
     </message>
     <message>
         <location/>
         <source>Last check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>前一次检查更新:</translation>
     </message>
     <message>
         <location/>
         <source>Not checked yet</source>
-        <translation type="unfinished"></translation>
+        <translation>现未检查更新</translation>
     </message>
     <message>
         <location/>
         <source>Check Now</source>
-        <translation type="unfinished"></translation>
+        <translation>现在检查更新</translation>
     </message>
 </context>
 <context>
@@ -73825,12 +73826,12 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/fancylineedit.cpp" line="+374"/>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clear text</source>
-        <translation type="unfinished">清除文字</translation>
+        <translation>清除文字</translation>
     </message>
 </context>
 <context>
@@ -73861,7 +73862,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/filewizardpage.cpp" line="+77"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
@@ -73869,7 +73870,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/hostosinfo.cpp" line="+92"/>
         <source>Cannot create OpenGL context.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建OpenGL环境。</translation>
     </message>
 </context>
 <context>
@@ -73877,47 +73878,47 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/macroexpander.cpp" line="+290"/>
         <source>Infinite recursion error</source>
-        <translation type="unfinished"></translation>
+        <translation>无限递归错误</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>%1: Full path including file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 包含文件名的完整路径。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1: Full path excluding file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 不包含文件名的完整路径。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1: Full path including file name, with native path separator (backslash on Windows).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 包含文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: Full path excluding file name, with native path separator (backslash on Windows).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 不包含文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: File name without path.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 不带路径的文件名。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1: File base name without path and suffix.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: 不带路径和后缀名的文件基本名。</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Global variables</source>
-        <translation type="unfinished"></translation>
+        <translation>全局变量</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Access environment variables.</source>
-        <translation type="unfinished"></translation>
+        <translation>访问环境变量。</translation>
     </message>
 </context>
 <context>
@@ -73925,17 +73926,17 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/shellcommand.cpp" line="+165"/>
         <source>UNKNOWN</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+333"/>
         <source>Error: Executable timed out after %1 s.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:可执行档在 %1 秒后超时。</translation>
     </message>
 </context>
 <context>
@@ -73943,27 +73944,27 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/shellcommandpage.cpp" line="+56"/>
         <source>Command started...</source>
-        <translation type="unfinished"></translation>
+        <translation>命令开始执行...</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Run Command</source>
-        <translation type="unfinished"></translation>
+        <translation>运行命令</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>No job running, please abort.</source>
-        <translation type="unfinished">没有运行中的任务，请退出。</translation>
+        <translation>没有正在运行的任务，请退出。</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Succeeded.</source>
-        <translation type="unfinished">成功.</translation>
+        <translation>成功。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Failed.</source>
-        <translation type="unfinished">失败.</translation>
+        <translation>失败。</translation>
     </message>
 </context>
 <context>
@@ -82432,22 +82433,22 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/settingsaccessor.cpp" line="-379"/>
         <source>No Valid Settings Found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到可用的设置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;No valid settings file could be found.&lt;/p&gt;&lt;p&gt;All settings files found in directory &quot;%1&quot; were either too new or too old to be read.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;没有找到可用的设置。&lt;/p&gt;&lt;p&gt;&quot;%1&quot;中所有的设置文件可能因太新或太旧而无法读取&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Using Old Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>使用原先的设置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;The versioned backup &quot;%1&quot; of the settings file is used, because the non-versioned file was created by an incompatible version of Qt Creator.&lt;/p&gt;&lt;p&gt;Settings changes made since the last time this version of Qt Creator was used are ignored, and changes made now will &lt;b&gt;not&lt;/b&gt; be propagated to the newer version.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;已使用一个带版本号的设置文件的备份&quot;%1&quot;, 因为不带版本号的文件由不兼容的新版 Qt Creator 创建。&lt;/p&gt;&lt;p&gt;在该版本的Qt Creator上次被使用时进行的设定更改被忽略，现在进行的修改将&lt;b&gt;不会&lt;/b&gt;被传递到新版本。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -85602,7 +85603,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/updateinfo/settingspage.cpp" line="+45"/>
         <source>Update</source>
-        <translation type="unfinished">更新</translation>
+        <translation>更新</translation>
     </message>
 </context>
 <context>
@@ -85610,37 +85611,37 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+20"/>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>每天</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>每周</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>每月</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>New updates are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>有可用的更新。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>No new updates are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用的更新。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查更新...</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Not checked yet</source>
-        <translation type="unfinished"></translation>
+        <translation>现未检查更新</translation>
     </message>
 </context>
 <context>

@@ -24,19 +24,19 @@
     </message>
     <message>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <source>Kit:</source>
-        <translation>工具套件(Kit):</translation>
+        <translation>工具套件(Kit)：</translation>
     </message>
     <message>
         <source>SD card size:</source>
-        <translation>SD卡容量:</translation>
+        <translation>SD卡容量：</translation>
     </message>
     <message>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation>MiB</translation>
     </message>
 </context>
 <context>
@@ -66223,7 +66223,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+8"/>
         <source>CVS Command Log Editor</source>
-        <translation>CVS命令行日志编辑器</translation>
+        <translation>CVS命令日志编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -66243,7 +66243,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/git/gitconstants.h" line="+40"/>
         <source>Git Command Log Editor</source>
-        <translation>Git命令行日志编辑器</translation>
+        <translation>Git命令日志编辑器</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -66258,12 +66258,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Git Commit Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Git提交编辑器</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Git Rebase Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Git Rebase编辑器</translation>
     </message>
     <message>
         <source>Git Diff Editor</source>
@@ -66272,11 +66272,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+4"/>
         <source>Git Submit Editor</source>
-        <translation>Git 提交编辑器</translation>
+        <translation>Git Submit编辑器</translation>
     </message>
     <message>
         <source>Mercurial Command Log Editor</source>
-        <translation>Mercurial 命令行日志编辑器</translation>
+        <translation>Mercurial命令日志编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/mercurial/constants.h" line="+52"/>
@@ -66296,16 +66296,16 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+5"/>
         <source>Mercurial Commit Log Editor</source>
-        <translation>Mercurial 提交日志编辑器</translation>
+        <translation>Mercurial提交日志编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/perforce/perforceplugin.cpp" line="-1339"/>
         <source>Perforce.SubmitEditor</source>
-        <translation>Perforce提交编辑器</translation>
+        <translation>Perforce.Submit编辑器</translation>
     </message>
     <message>
         <source>Perforce CommandLog Editor</source>
-        <translation>Perforce 命令行日志编辑器</translation>
+        <translation>Perforce命令日志编辑器</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -66315,7 +66315,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>Perforce Diff Editor</source>
-        <translation>Perforce Diff 编辑器</translation>
+        <translation>Perforce Diff编辑器</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -66333,7 +66333,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Subversion Command Log Editor</source>
-        <translation>Subversion命令行日志编辑器</translation>
+        <translation>Subversion命行日志编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -66347,16 +66347,16 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Subversion Diff Editor</source>
-        <translation>Subversion Diff 编辑器</translation>
+        <translation>Subversion Diff编辑器</translation>
     </message>
     <message>
         <source>Bazaar Command Log Editor</source>
-        <translation>Bazaar 命令行日志编辑器</translation>
+        <translation>Bazaar命令日志编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/bazaar/constants.h" line="+52"/>
         <source>Bazaar File Log Editor</source>
-        <translation>Bazaar 文件日志编辑器</translation>
+        <translation>Bazaar文件日志编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -66371,26 +66371,26 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/bazaar/bazaarplugin.cpp" line="-590"/>
         <source>Bazaar Commit Log Editor</source>
-        <translation>Bazaar 提交日志编辑器</translation>
+        <translation>Bazaar提交日志编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseconstants.h" line="+43"/>
         <source>ClearCase Check In Editor</source>
-        <translation>ClearCase Check In 编辑器</translation>
+        <translation>ClearCase Check In编辑器</translation>
     </message>
     <message>
         <source>ClearCase Command Log Editor</source>
-        <translation>ClearCase 命令行日志编辑器</translation>
+        <translation>ClearCase命令日志编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseplugin.cpp" line="-1833"/>
         <source>ClearCase File Log Editor</source>
-        <translation>ClearCase 文件日志编辑器</translation>
+        <translation>ClearCase文件日志编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>ClearCase Annotation Editor</source>
-        <translation>ClearCase 注释编辑器</translation>
+        <translation>ClearCase注释编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -66441,17 +66441,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>Pausing instrumentation...</source>
-        <translation>暂停分析...</translation>
+        <translation>暂停instrumentation...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unpausing instrumentation...</source>
-        <translation>继续仪器...</translation>
+        <translation>继续instrumentation...</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>An error occurred while trying to run %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试运行%1时出错：%2</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -66461,7 +66461,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>Callgrind unpaused.</source>
-        <translation>Callgrind 已继续。</translation>
+        <translation>Callgrind已继续。</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -66482,28 +66482,28 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/callgrind/callgrinddatamodel.cpp" line="+251"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>File:</source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Object:</source>
-        <translation>对象:</translation>
+        <translation>对象：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Called:</source>
-        <translation>被调用:</translation>
+        <translation>被调用：</translation>
     </message>
     <message numerus="yes">
         <location line="+0"/>
         <source>%n time(s)</source>
         <translation>
-            <numerusform>%n 次</numerusform>
+            <numerusform>%n次</numerusform>
         </translation>
     </message>
     <message>
@@ -66540,12 +66540,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+52"/>
         <source>%1 cost spent in a given function excluding costs from called functions.</source>
-        <translation>给定的函数的花费为 %1，不包括调用其他函数的花费。</translation>
+        <translation>给定的函数的花费为%1，不包括调用其他函数的花费。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 cost spent in a given function including costs from called functions.</source>
-        <translation>给定的函数的花费为 %1，包括调用其他函数的花费。</translation>
+        <translation>给定的函数的花费为%1，包括调用其他函数的花费。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -66565,12 +66565,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Self Cost: %1</source>
-        <translation>自身花费: %1</translation>
+        <translation>自身花费：%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Incl. Cost: %1</source>
-        <translation>包括杂项的花费: %1</translation>
+        <translation>包括杂项的花费：%1</translation>
     </message>
 </context>
 <context>
@@ -66578,12 +66578,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/callgrind/callgrindfunction.cpp" line="+215"/>
         <source>%1 in %2</source>
-        <translation>在 %2 中的%1</translation>
+        <translation>在%2中的%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1:%2 in %3</source>
-        <translation>%1: 在 %3 中的%2</translation>
+        <translation>%1：在%3中的%2</translation>
     </message>
 </context>
 <context>
@@ -66670,7 +66670,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/xmlprotocol/errorlistmodel.cpp" line="+159"/>
         <source>%1%2</source>
-        <translation type="unfinished">%1%2</translation>
+        <translation>%1%2</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -66694,19 +66694,18 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <source>Profiling %1
 </source>
-        <translation>正在分析%1
-</translation>
+        <translation>正在分析%1</translation>
     </message>
 </context>
 <context>
     <name>Valgrind::Internal::CallgrindTool</name>
     <message>
         <source>Valgrind Function Profiler</source>
-        <translation>Valgrind 功能分析器</translation>
+        <translation>Valgrind功能分析器</translation>
     </message>
     <message>
         <source>Valgrind Profile uses the &quot;callgrind&quot; tool to record function calls when a program runs.</source>
-        <translation>Valgrind 分析器使用了&quot;callgrind&quot; 工具来记录程序运行时的函数调用。</translation>
+        <translation>Valgrind分析器使用了&quot;callgrind&quot;工具来记录程序运行时的函数调用。</translation>
     </message>
     <message>
         <source>Profile Costs of this Function and its Callees</source>
@@ -66742,12 +66741,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+75"/>
         <source>Load External Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>加载外部日志文件</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Request the dumping of profile information. This will update the Callgrind visualization.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -66812,22 +66811,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+151"/>
         <source>Open Callgrind Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开Callgrind日志文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Callgrind Output (callgrind.out*);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind输出(callgrind.out*);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Callgrind: Failed to open file for reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind：用于读取的文件打开失败：%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Parsing Profile Data...</source>
-        <translation type="unfinished">解析分析数据...</translation>
+        <translation>解析分析数据...</translation>
     </message>
     <message>
         <source>Cycle Detection</source>
@@ -66861,7 +66860,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+42"/>
         <source>Profiling aborted.</source>
-        <translation>分析中断。</translation>
+        <translation>分析终止。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -66871,7 +66870,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>Parsing finished, total cost of %1 reported.</source>
-        <translation>分析完成，报告总花费%1 。</translation>
+        <translation>分析完成，报告总花费%1。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -66925,8 +66924,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <source>Analyzing memory of %1
 </source>
-        <translation>正在分析内存%1
-</translation>
+        <translation>正在分析内存%1</translation>
     </message>
 </context>
 <context>
@@ -66961,7 +66959,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>These suppression files were used in the last memory analyzer run.</source>
-        <translation>这些suppression 文件被上一次内存分析所使用。</translation>
+        <translation>这些suppression文件被上一次内存分析所使用。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -66986,30 +66984,30 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+263"/>
         <source>Open Memcheck XML Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开Memcheck XML日志文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>XML Files (*.xml);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>XML文件(*.xml);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Memcheck: Failed to open file for reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck：用于读取的文件打开失败：%1</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Memcheck: Error occurred parsing Valgrind output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck：分析valgrind输出时出错： %1</translation>
     </message>
     <message>
         <source>Valgrind Memory Analyzer</source>
-        <translation>Valgrind 内存分析器</translation>
+        <translation>Valgrind内存分析器</translation>
     </message>
     <message>
         <source>Valgrind Analyze Memory uses the &quot;memcheck&quot; tool to find memory leaks</source>
-        <translation>Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏</translation>
+        <translation>Valgrind分析内存使用&quot;memcheck&quot;工具来查找内存泄漏</translation>
     </message>
     <message>
         <location line="-169"/>
@@ -67019,7 +67017,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>Load External XML Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>加载外部日志文件</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -67042,7 +67040,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Error occurred parsing valgrind output: %1</source>
-        <translation>分析valgrind输出时发生了错误: %1</translation>
+        <translation>分析valgrind输出时出错：%1</translation>
     </message>
 </context>
 <context>
@@ -67149,7 +67147,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location/>
         <source>Result view: Minimum event cost:</source>
-        <translation>结果视图: 最小事件花费:</translation>
+        <translation>结果视图：最小事件花费：</translation>
     </message>
     <message>
         <location/>
@@ -67173,22 +67171,12 @@ With cache simulation, further event counters are enabled:
 &lt;/p&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;p&gt;进行全缓存模拟。&lt;/p&gt;
-&lt;p&gt;默认情况下, 只有读取访问指令被计算在内 (&quot;Ir&quot;)。&lt;/p&gt;
-&lt;p&gt;
-缓存模拟情况下，更多事件计数器被启用：
-&lt;ul&gt;&lt;li&gt;缓存未命中的读取指令(&quot;I1mr&quot;/&quot;I2mr&quot;)&lt;/li&gt;
-&lt;li&gt;数据读取访问(&quot;Dr&quot;) 和相关的缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)&lt;/li&gt;
-&lt;li&gt;数据写入指令 (&quot;Dw&quot;) 和相关的缓存未命中 (&quot;D1mw&quot;/&quot;D2mw&quot;)&lt;/li&gt;&lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;进行全缓存模拟。&lt;/p&gt;&lt;p&gt;默认情况下，只有读取访问指令被计算在内(&quot;Ir&quot;)。&lt;/p&gt;&lt;p&gt;缓存模拟情况下，更多事件计数器被启用：&lt;ul&gt;&lt;li&gt;缓存未命中的读取指令(&quot;I1mr&quot;/&quot;I2mr&quot;)&lt;/li&gt;&lt;li&gt;数据读取访问(&quot;Dr&quot;)和相关的缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)&lt;/li&gt;&lt;li&gt;数据写入指令(&quot;Dw&quot;)和相关的缓存未命中(&quot;D1mw&quot;/&quot;D2mw&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Enable cache simulation</source>
-        <translation>开启缓存模拟</translation>
+        <translation>允许缓存模拟</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -67198,18 +67186,12 @@ With cache simulation, further event counters are enabled:
 &quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;
 &lt;li&gt;Executed indirect jumps and related misses of the jump address predictor (
 &quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;p&gt;进行分支预测模拟。&lt;/p&gt;
-&lt;p&gt;更多事件计数器将被启用: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;多个执行的条件分支和相关的预测未命中(
-&quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;
-&lt;li&gt;执行的间接跳转和相关的跳转地址预测未命中(
-&quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;进行分支预测模拟。&lt;/p&gt;&lt;p&gt;更多事件计数器将被启用：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;多个执行的条件分支和相关的预测未命中(&quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;&lt;li&gt;执行的间接跳转和相关的跳转地址预测未命中(&quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Enable branch prediction simulation</source>
-        <translation>开启分支预测模拟</translation>
+        <translation>允许分支预测模拟</translation>
     </message>
     <message>
         <source>Collect information for system call times.</source>
@@ -67223,7 +67205,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Collect the number of global bus events that are executed. The event type &quot;Ge&quot; is used for these events.</source>
-        <translation>搜集执行的全局总线事件的数量.事件类型&quot;Ge&quot;被用于此类事件。</translation>
+        <translation>搜集执行的全局总线事件的数量。事件类型&quot;Ge&quot;被用于此类事件。</translation>
     </message>
     <message>
         <location/>
@@ -67242,27 +67224,27 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Detect self-modifying code:</source>
-        <translation type="unfinished"></translation>
+        <translation>检查自动修改代码：</translation>
     </message>
     <message>
         <location/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location/>
         <source>Only on Stack</source>
-        <translation type="unfinished"></translation>
+        <translation>仅堆栈</translation>
     </message>
     <message>
         <location/>
         <source>Everywhere</source>
-        <translation type="unfinished"></translation>
+        <translation>所有地方</translation>
     </message>
     <message>
         <location/>
         <source>Everywhere Except in File-backend Mappings</source>
-        <translation type="unfinished"></translation>
+        <translation>除文件后端映射外</translation>
     </message>
     <message>
         <location/>
@@ -67277,7 +67259,7 @@ With cache simulation, further event counters are enabled:
 &lt;/p&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;全高速缓存仿真。&lt;/p&gt;&lt;p&gt;默认情况下，只有指令读取访问将被统计（&quot;Ir&quot;）。&lt;/p&gt;&lt;p&gt;高速缓存仿真，进一步的事件计数器被启用：&lt;ul&gt;&lt;li&gt;高速缓存未命中读指令(&quot;I1mr&quot;/&quot;I2mr&quot;)。&lt;/li&gt;&lt;li&gt;数据读访问(&quot;Dr&quot;)和相关高速缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)。&lt;/li&gt;&lt;li&gt;数据写访问(&quot;Dw&quot;)和相关高速缓存未命中(&quot;D1mw&quot;/&quot;D2mw&quot;)。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -67288,71 +67270,67 @@ With cache simulation, further event counters are enabled:
 &quot;Bc&quot;/&quot;Bcm&quot;).&lt;/li&gt;
 &lt;li&gt;Executed indirect jumps and related misses of the jump address predictor (
 &quot;Bi&quot;/&quot;Bim&quot;).&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;分支预测仿真。&lt;/p&gt;&lt;p&gt;进一步的事件计数器启用：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;执行条件分支的数目和相关的预测失误(&quot;Bc&quot;/&quot;Bcm&quot;)。&lt;/li&gt;&lt;li&gt;执行的跳转地址预测的间接跳转和相关的未命中(&quot;Bi&quot;/&quot;Bim&quot;)。&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Collects information for system call times.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集系统调用时间的信息。</translation>
     </message>
     <message>
         <location/>
         <source>Show reachable and indirectly lost blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>显示直接和间接丢失块</translation>
     </message>
     <message>
         <location/>
         <source>Check for leaks on finish:</source>
-        <translation type="unfinished"></translation>
+        <translation>检查完成处泄漏：</translation>
     </message>
     <message>
         <location/>
         <source>Summary Only</source>
-        <translation type="unfinished"></translation>
+        <translation>总结</translation>
     </message>
     <message>
         <location/>
         <source>Full</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全</translation>
     </message>
 </context>
 <context>
     <name>Valgrind::Internal::ValgrindEngine</name>
     <message>
         <source>Valgrind options: %1</source>
-        <translation>Valgrind 选项: %1</translation>
+        <translation>Valgrind选项：%1</translation>
     </message>
     <message>
         <source>Working directory: %1</source>
-        <translation>工作目录: %1</translation>
+        <translation>工作目录：%1</translation>
     </message>
     <message>
         <source>Command-line arguments: %1</source>
-        <translation>命令参数: %1</translation>
+        <translation>命令行参数：%1</translation>
     </message>
     <message>
         <source>** Analyzing finished **
 </source>
-        <translation>** 分析完成**
-</translation>
+        <translation>**分析完成**</translation>
     </message>
     <message>
         <source>** Error: &quot;%1&quot; could not be started: %2 **
 </source>
-        <translation>** 错误: &quot;%1&quot; 无法被启动: %2 **
-</translation>
+        <translation>**错误：&quot;%1&quot;无法被启动：%2**</translation>
     </message>
     <message>
         <source>** Error: no valgrind executable set **
 </source>
-        <translation>** 错误: 没有设置 valgrind的可执行档 **
-</translation>
+        <translation>**错误：没有设置valgrind的可执行档**</translation>
     </message>
     <message>
         <source>** Process Terminated **
 </source>
-        <translation>** 进程已终止**
-</translation>
+        <translation>**进程已终止**</translation>
     </message>
     <message>
         <source>Application Output</source>
@@ -67378,7 +67356,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/callgrindvisualisation.cpp" line="+395"/>
         <source>All functions with an inclusive cost ratio higher than %1 (%2 are hidden)</source>
-        <translation>包含成本比%1高的所有函数 (%2 被隐藏)</translation>
+        <translation>包含成本比%1高的所有函数(%2被隐藏)</translation>
     </message>
 </context>
 <context>
@@ -67394,12 +67372,12 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/memcheck/memcheckrunner.cpp" line="+150"/>
         <source>XmlServer on %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>XmlServer在%1：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>LogServer on %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>LogServer在%1：</translation>
     </message>
 </context>
 <context>
@@ -67414,22 +67392,22 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/xmlprotocol/modelhelpers.cpp" line="+56"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Location:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Instruction pointer:</source>
-        <translation>指令指针:</translation>
+        <translation>指令指针：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Object:</source>
-        <translation>对象:</translation>
+        <translation>对象：</translation>
     </message>
 </context>
 <context>
@@ -67450,12 +67428,12 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+0"/>
         <source>Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location line="+141"/>
         <source>%1 in function %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1在函数%2</translation>
     </message>
     <message>
         <source>File</source>
@@ -67637,11 +67615,11 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Failed to open project in &apos;%1&apos;.</source>
-        <translation>打开项目&apos;%1&apos; 失败。</translation>
+        <translation>打开项目&apos;%1&apos;失败。</translation>
     </message>
     <message>
         <source>Could not find any project files matching (%1) in the directory &apos;%2&apos;.</source>
-        <translation>在目录 &apos;%2&apos; 中找不到任何项目文件匹配 (%1)。</translation>
+        <translation>在目录&apos;%2&apos;中找不到任何项目文件匹配(%1)。</translation>
     </message>
     <message>
         <source>The Project Explorer is not available.</source>
@@ -67728,12 +67706,12 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/vcsbase/cleandialog.cpp" line="+71"/>
         <source>The directory %1 could not be deleted.</source>
-        <translation>目录 %1 无法被删除。</translation>
+        <translation>目录%1无法被删除。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The file %1 could not be deleted.</source>
-        <translation>文件 &apos;%1&apos; 无法被删除。</translation>
+        <translation>文件&apos;%1&apos;无法被删除。</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -67753,24 +67731,24 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+23"/>
         <source>Repository: %1</source>
-        <translation>仓库: %1</translation>
+        <translation>仓库：%1</translation>
     </message>
     <message numerus="yes">
         <location line="+40"/>
         <source>%n bytes, last modified %1.</source>
-        <translation type="unfinished">
-            <numerusform>%n 个字节, 最后修改时间 %1.</numerusform>
+        <translation>
+            <numerusform>%n个字节，最后修改时间%1。</numerusform>
         </translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Cleaning &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>正在清理&quot;%1&quot;</translation>
     </message>
     <message numerus="yes">
         <source>%n bytes, last modified %1</source>
         <translation>
-            <numerusform>%n 个字节, 最后修改时间 %1</numerusform>
+            <numerusform>%n个字节，最后修改时间%1</numerusform>
         </translation>
     </message>
     <message>
@@ -67786,12 +67764,12 @@ With cache simulation, further event counters are enabled:
         <location line="+1"/>
         <source>Do you want to delete %n files?</source>
         <translation>
-            <numerusform>您想删除 %n 个文件吗？</numerusform>
+            <numerusform>您想删除%n个文件吗？</numerusform>
         </translation>
     </message>
     <message>
         <source>Cleaning %1</source>
-        <translation>正在清理 %1</translation>
+        <translation>正在清理%1</translation>
     </message>
     <message>
         <source>Clean Repository</source>
@@ -67802,7 +67780,7 @@ With cache simulation, further event counters are enabled:
     <name>VcsBase::Command</name>
     <message>
         <source>Error: VCS timed out after %1s.</source>
-        <translation>错误: VCS 在 %1秒后超时。</translation>
+        <translation>错误：VCS在%1秒后超时。</translation>
     </message>
     <message>
         <source>Unable to start process, binary is empty</source>
@@ -67825,7 +67803,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Branch:</source>
-        <translation>分支:</translation>
+        <translation>分支：</translation>
     </message>
     <message>
         <source>The development branch in the remote repository to check out.</source>
@@ -67849,7 +67827,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Checkout path:</source>
-        <translation>检出路径:</translation>
+        <translation>检出路径：</translation>
     </message>
     <message>
         <source>The local directory that will contain the code after the checkout.</source>
@@ -67857,7 +67835,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Checkout directory:</source>
-        <translation>检出目录:</translation>
+        <translation>检出目录：</translation>
     </message>
 </context>
 <context>
@@ -67893,7 +67871,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Select All</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
 </context>
 <context>
@@ -67901,7 +67879,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/vcsbase/commonsettingspage.ui"/>
         <source>Wrap submit message at:</source>
-        <translation>提交信息折行在:</translation>
+        <translation>Wrap提交信息在：</translation>
     </message>
     <message>
         <location/>
@@ -67921,8 +67899,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <source>A file listing user names and email addresses in a 4-column mailmap format:
 name &lt;email&gt; alias &lt;email&gt;</source>
-        <translation>一个列出用户名和电子邮件地址的文件，使用四列的邮件映射格式:
-名字 &lt;电子邮件&gt; 别名 &lt;电子邮件&gt;</translation>
+        <translation>一个列出用户名和电子邮件地址的文件，使用四列的邮件映射格式：名字&lt;电子邮件&gt;别名&lt;电子邮件&gt;</translation>
     </message>
     <message>
         <location/>
@@ -67946,25 +67923,24 @@ name &lt;email&gt; alias &lt;email&gt;</source>
     <message>
         <source>Specifies a command that is executed to graphically prompt for a password, 
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
-        <translation>指定一条执行图形化提示密码的命令，
-会在代码仓库要求 SSH 身份验证的时候用到。（查看 SSH 和环境变量 SSH_ASKPASS 的相关文档）。</translation>
+        <translation>指定一条执行图形化提示密码的命令，会在代码仓库要求SSH身份验证的时候用到。（查看SSH和环境变量SSH_ASKPAS 的相关文档）。</translation>
     </message>
     <message>
         <location/>
         <source>&amp;SSH prompt command:</source>
-        <translation>SSH 提示命令(&amp;S):</translation>
+        <translation>SSH提示命令(&amp;S):</translation>
     </message>
     <message>
         <location/>
         <source>A file listing nicknames in a 4-column mailmap format:
 &apos;name &lt;email&gt; alias &lt;email&gt;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location/>
         <source>Specifies a command that is executed to graphically prompt for a password,
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -67997,12 +67973,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+0"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Alias email</source>
-        <translation type="unfinished"></translation>
+        <translation>别名电邮</translation>
     </message>
     <message>
         <source>E-mail</source>
@@ -68044,15 +68020,15 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <name>VcsBase::ProcessCheckoutJob</name>
     <message>
         <source>Unable to start %1: %2</source>
-        <translation>无法启动%1 : %2</translation>
+        <translation>无法启动%1：%2</translation>
     </message>
     <message>
         <source>The process terminated with exit code %1.</source>
-        <translation>进程终止，退出代码 %1 .</translation>
+        <translation>进程终止，退出代码%1。</translation>
     </message>
     <message>
         <source>The process returned exit code %1.</source>
-        <translation>进程返回了退出代码 %1 .</translation>
+        <translation>进程返回了退出代码%1。</translation>
     </message>
     <message>
         <source>The process terminated in an abnormal way.</source>
@@ -68111,16 +68087,16 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsbaseeditor.cpp" line="+114"/>
         <source>Annotate &quot;%1&quot;</source>
-        <translation>Annotate &quot;%1&quot;</translation>
+        <translation>注释&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy &quot;%1&quot;</source>
-        <translation>复制 &quot;%1&quot;</translation>
+        <translation>复制&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Describe change %1</source>
-        <translation>描述改变%1 </translation>
+        <translation>描述改变%1</translation>
     </message>
     <message>
         <location line="+370"/>
@@ -68143,17 +68119,17 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Code pasting services are not available.</source>
-        <translation>Code pasting 服务不可用。</translation>
+        <translation>Code pasting服务不可用。</translation>
     </message>
     <message>
         <location line="-628"/>
         <source>&amp;Describe Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>描述（&amp;D）改变%1 </translation>
     </message>
     <message>
         <location line="+861"/>
         <source>Failed to retrieve data.</source>
-        <translation type="unfinished"></translation>
+        <translation>获取数据失败。</translation>
     </message>
     <message>
         <location line="+362"/>
@@ -68180,7 +68156,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <name>VcsBase::VcsBaseOutputWindow</name>
     <message>
         <source>Open &quot;%1&quot;</source>
-        <translation>打开 &quot;%1&quot;</translation>
+        <translation>打开&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -68193,13 +68169,13 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <source>Executing: %1 %2
 </source>
-        <translation>执行:%1 %2
+        <translation>执行：%1 %2
 </translation>
     </message>
     <message>
         <source>Executing in %1: %2 %3
 </source>
-        <translation>正在 %1 中执行: %2 %3
+        <translation>正在%1中执行：%2 %3
 </translation>
     </message>
 </context>
@@ -68212,7 +68188,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>The file &apos;%1&apos; could not be deleted.</source>
-        <translation>文件 &apos;%1&apos; 无法被删除。</translation>
+        <translation>文件&apos;%1&apos;无法被删除。</translation>
     </message>
     <message>
         <source>Choose repository directory</source>
@@ -68225,17 +68201,17 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>The directory &apos;%1&apos; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation>目录 &apos;%1&apos; 已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
+        <translation>目录&apos;%1&apos;已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>The file &quot;%1&quot; could not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件&apos;%1&apos;无法被删除。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>目录&quot;%1&quot;已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -68254,15 +68230,15 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Error: Executable timed out after %1s.</source>
-        <translation>错误:可执行档在 %1 秒后超时。</translation>
+        <translation>错误：可执行档在%1秒后超时。</translation>
     </message>
     <message>
         <source>There is no patch-command configured in the common &apos;Version Control&apos; settings.</source>
-        <translation>在&apos;版本控制&apos; 设置中没有设定patch-command。</translation>
+        <translation>在&apos;版本控制&apos;设置中没有设定patch-command。</translation>
     </message>
     <message>
         <source>Unable to launch &apos;%1&apos;: %2</source>
-        <translation>无法启动&apos;%1&apos;: %2</translation>
+        <translation>无法启动&apos;%1&apos;：%2</translation>
     </message>
     <message>
         <source>A timeout occurred running &apos;%1&apos;</source>
@@ -68270,11 +68246,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>&apos;%1&apos; crashed.</source>
-        <translation>&apos;%1&apos; 崩溃。</translation>
+        <translation>&apos;%1&apos;崩溃。</translation>
     </message>
     <message>
         <source>&apos;%1&apos; failed (exit code %2).</source>
-        <translation>&apos;%1&apos; 失败 (退出代码 %2)。</translation>
+        <translation>&apos;%1&apos;失败(退出代码 %2)。</translation>
     </message>
     <message>
         <source>Repository created</source>
@@ -68332,32 +68308,32 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+22"/>
         <source>Executing %1</source>
-        <translation>正在执行 %1
+        <translation>正在执行%1
 </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executing [%1] %2</source>
-        <translation>正在执行 [%1] %2</translation>
+        <translation>正在执行[%1]%2</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>The check script &quot;%1&quot; could not be started: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本&quot;%1&quot;无法被启动：%2</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The check script &quot;%1&quot; timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本&quot;%1&quot;超时。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The check script &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本&quot;%1&quot;崩溃。</translation>
     </message>
     <message>
         <source>The check script &apos;%1&apos; crashed.</source>
-        <translation>检查脚本 &apos;%1&apos; 崩溃.</translation>
+        <translation>检查脚本&apos;%1&apos;崩溃。</translation>
     </message>
     <message>
         <source>Unable to open &apos;%1&apos;: %2</source>
@@ -68400,13 +68376,13 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+43"/>
         <source>No version control set on &quot;VcsConfiguration&quot; page.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>没有版本控制设置&quot;vcsconfiguration&quot;页面。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&quot;vcsId&quot; (&quot;%1&quot;) is invalid for &quot;VcsConfiguration&quot; page. Possible values are: %2.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;vcsid&quot;(&quot;%1&quot;)是无效的&quot;vcsconfiguration&quot;页面。可能的值是：%2。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -68416,7 +68392,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+2"/>
         <source>No known version control selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的版本控制选择。</translation>
     </message>
     <message>
         <source>Configure...</source>
@@ -68447,17 +68423,13 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <source>
 &apos;%1&apos; failed (exit code %2).
 </source>
-        <translation>
-&apos;%1&apos; 失败 (退出代码 %2)。
-</translation>
+        <translation>&apos;%1&apos;失败(退出代码%2)。</translation>
     </message>
     <message>
         <source>
 &apos;%1&apos; completed (exit code %2).
 </source>
-        <translation>
-&apos;%1&apos; 完成 (退出代码 %2)。
-</translation>
+        <translation>&apos;%1&apos;完成(退出代码%2)。</translation>
     </message>
 </context>
 <context>
@@ -68688,7 +68660,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+59"/>
         <source>Welcome Mode Load Error</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎模式加载出错</translation>
     </message>
     <message>
         <source>New Project</source>
@@ -68725,17 +68697,17 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/pluginmanager/widgetpluginpath.cpp" line="-133"/>
         <source>Failed to create instance of file &apos;%1&apos;: %2</source>
-        <translation>无法创建文件 &apos;%1&apos;的实例: %2</translation>
+        <translation>无法创建文件&apos;%1&apos;的实例：%2</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Failed to create instance of file &apos;%1&apos;.</source>
-        <translation>无法创建文件 &apos;%1&apos;的实例。</translation>
+        <translation>无法创建文件&apos;%1&apos;的实例。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>File &apos;%1&apos; is not a QmlDesigner plugin.</source>
-        <translation>文件 &apos;%1&apos; 不是一个 QmlDesigner 的插件。</translation>
+        <translation>文件&apos;%1&apos;不是一个QmlDesigner 的插件。</translation>
     </message>
 </context>
 <context>
@@ -68754,23 +68726,23 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Zeroconf could not load a valid library, failing.</source>
-        <translation>Zeroconf 无法载入有效的库，运行失败。</translation>
+        <translation>Zeroconf无法载入有效的库，运行失败。</translation>
     </message>
     <message>
         <source>Zeroconf giving up on non working %1 (%2).</source>
-        <translation>%1不工作，Zeroconf放弃执行，(%2)。</translation>
+        <translation>%1不工作，Zeroconf放弃执行(%2)。</translation>
     </message>
     <message>
         <source>Zeroconf has no valid library, aborting connection.</source>
-        <translation>Zeroconf 没有有效的库，退出连接。</translation>
+        <translation>Zeroconf没有有效的库，终止连接。</translation>
     </message>
     <message>
         <source>Zeroconf giving up on %1, switching to %2.</source>
-        <translation>Zeroconf放弃载入 %1，转为 %2。</translation>
+        <translation>Zeroconf放弃载入%1，转为%2。</translation>
     </message>
     <message>
         <source>Zeroconf giving up on %1, no fallback provided, aborting connection.</source>
-        <translation>Zeroconf放弃载入 %1，没有提供备用库，退出连接。</translation>
+        <translation>Zeroconf放弃载入%1，没有提供备用库，终止连接。</translation>
     </message>
     <message>
         <source>Trying %1...</source>
@@ -68778,23 +68750,23 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Zeroconf using %1 failed the initialization of the main library connection with error %2.</source>
-        <translation>使用 %1的zeroconf初始化主库连接失败，错误为 %2。</translation>
+        <translation>使用%1的zeroconf初始化主库连接失败，错误为%2。</translation>
     </message>
     <message>
         <source>Zeroconf using %1 failed because no daemon is running.</source>
-        <translation>使用 %1的zeroconf失败，因为服务器进程没在运行。</translation>
+        <translation>使用%1的zeroconf失败，因为服务器进程没在运行。</translation>
     </message>
     <message>
         <source>Starting the Zeroconf daemon using %1 seems successful, continuing.</source>
-        <translation>用 %1启动 zeroconf服务器进程似乎成功了，继续进行。</translation>
+        <translation>用%1启动zeroconf服务器进程似乎成功了，继续运行。</translation>
     </message>
     <message>
         <source>Zeroconf using %1 failed getProperty call with error %2.</source>
-        <translation>使用%1的zeroconf的getProperty调用失败，错误为 %2。</translation>
+        <translation>使用%1的zeroconf的getProperty调用失败，错误为%2。</translation>
     </message>
     <message>
         <source>Succeeded using %1.</source>
-        <translation>使用 %1成功。</translation>
+        <translation>使用%1成功。</translation>
     </message>
     <message>
         <source>MainConnection could successfully create a connection using %1.</source>
@@ -68802,16 +68774,16 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Zeroconf, unexpected start status, aborting.</source>
-        <translation>zeroconf遇到了未预料到的启动状态，退出。</translation>
+        <translation>zeroconf遇到了非预期的启动状态，终止。</translation>
     </message>
     <message>
         <source>Zeroconf detected an unexpected return status of handleEvent.</source>
-        <translation>zeroconf检测到一个未预料到的handleEvent返回状态。</translation>
+        <translation>zeroconf检测到一个非预期的handleEvent返回状态。</translation>
     </message>
     <message numerus="yes">
         <source>Zeroconf for [%1] accumulated %n consecutive errors, aborting.</source>
         <translation>
-            <numerusform>[%1]的zeroconf积累了 %n个连续的错误，退出。</numerusform>
+            <numerusform>[%1]的zeroconf积累了%n个连续的错误，终止。</numerusform>
         </translation>
     </message>
 </context>
@@ -68819,11 +68791,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <name>ZeroConf::Internal::ZConfLib</name>
     <message>
         <source>AvahiZConfLib could not load the native library &apos;%1&apos;: %2</source>
-        <translation>AvahiZConfLib无法载入本地库 &apos;%1&apos;: %2</translation>
+        <translation>AvahiZConfLib无法载入本地库&apos;%1&apos;：%2</translation>
     </message>
     <message>
         <source>%1 cannot create a client. The daemon is probably not running.</source>
-        <translation>%1无法创建一个客户端。后台服务器可能没有运行。</translation>
+        <translation>%1无法创建一个客户端。守护进程可能没有运行。</translation>
     </message>
     <message>
         <source>cAvahiClient, server collision.</source>
@@ -68839,29 +68811,28 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Unexpected state %1 in cAvahiClientReply.</source>
-        <translation>cAvahiClientReply中出现了未预料到的状态 %1。</translation>
+        <translation>cAvahiClientReply中出现了非预期的状态%1。</translation>
     </message>
     <message>
         <source>Unexpected state %1 in cAvahiBrowseReply.</source>
-        <translation>cAvahiBrowseReply中出现了未预料到的状态 %1。</translation>
+        <translation>cAvahiBrowseReply中出现了非预期的状态 %1。</translation>
     </message>
     <message>
         <source>%1 failed to kill other daemons with &apos;%2&apos;.</source>
-        <translation>%1 用 &apos;%2&apos; 杀死其他的服务器进程失败。</translation>
+        <translation>%1用&apos;%2&apos;杀死其他的守护进程失败。</translation>
     </message>
     <message>
         <source>%1 detected a file at /tmp/mdnsd, daemon startup will probably fail.</source>
-        <translation>%1检测到在/tmp/mdnsd有一个文件，服务器进程启动可能会失败。</translation>
+        <translation>%1检测到在/tmp/mdnsd有一个文件，守护进程启动可能会失败。</translation>
     </message>
     <message>
         <source>%1: log of previous daemon run is: &apos;%2&apos;.
 </source>
-        <translation>%1: 上一次服务器进程运行的日志为: &apos;%2&apos;。
-</translation>
+        <translation>%1：上一次守护进程运行的日志为：&apos;%2&apos;。</translation>
     </message>
     <message>
         <source>%1 failed starting embedded daemon at %2.</source>
-        <translation>%1 在 %2启动内嵌的服务器进程失败。</translation>
+        <translation>%1在%2启动内嵌的守护进程失败。</translation>
     </message>
 </context>
 <context>
@@ -69040,7 +69011,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textinput.qml" line="+31"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -69064,7 +69035,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textv2.qml" line="+29"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -71545,37 +71516,37 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+13"/>
         <source>Placeholder text</source>
-        <translation type="unfinished"></translation>
+        <translation>占位符文字</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Placeholder text.</source>
-        <translation type="unfinished"></translation>
+        <translation>占位符文字。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Read only</source>
-        <translation type="unfinished">只读</translation>
+        <translation>只读</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the text field is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定文本字段是否只读。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Input mask</source>
-        <translation type="unfinished">输入掩码</translation>
+        <translation>输入掩码</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Restricts the valid text in the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>限制文本字段中的有效文本。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Echo mode</source>
-        <translation type="unfinished">回显模式</translation>
+        <translation>回显模式</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -71951,46 +71922,46 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.ui"/>
         <source>Subversion Submit</source>
-        <translation type="unfinished">Subversion提交</translation>
+        <translation>Subversion提交</translation>
     </message>
     <message>
         <location/>
         <source>Descriptio&amp;n</source>
-        <translation type="unfinished">说明(&amp;N)</translation>
+        <translation>说明(&amp;n)</translation>
     </message>
     <message>
         <location/>
         <source>F&amp;iles</source>
-        <translation type="unfinished">文件(&amp;i)</translation>
+        <translation>文件(&amp;i)</translation>
     </message>
     <message>
         <location/>
         <source>Select a&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>全选(&amp;l)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.cpp" line="+504"/>
         <source>%1 %2/%n File(s)</source>
-        <translation type="unfinished">
-            <numerusform>%1 %2/%n 文件</numerusform>
+        <translation>
+            <numerusform>%1 %2/%n文件</numerusform>
         </translation>
     </message>
     <message>
         <location line="+110"/>
         <source>&amp;Commit</source>
-        <translation type="unfinished">提交(&amp;C)</translation>
+        <translation>提交(&amp;C)</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Select All</source>
         <extracomment>Check all for submit</extracomment>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unselect All</source>
         <extracomment>Uncheck all for submit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>取消选择</translation>
     </message>
 </context>
 <context>
@@ -71998,12 +71969,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstepwidget.ui"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
         <source>Restore Default Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认参数</translation>
     </message>
 </context>
 <context>
@@ -72011,17 +71982,17 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.ui"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
         <source>Uninstall package after stop</source>
-        <translation type="unfinished"></translation>
+        <translation>停止后卸载包</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.cpp" line="+44"/>
         <source>Launch App</source>
-        <translation type="unfinished"></translation>
+        <translation>启动App</translation>
     </message>
 </context>
 <context>
@@ -72474,13 +72445,13 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/TextSpecifics.qml" line="+44"/>
         <location line="+3"/>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>文字颜色</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+3"/>
         <source>Style Color</source>
-        <translation type="unfinished"></translation>
+        <translation>样式颜色</translation>
     </message>
 </context>
 <context>
@@ -72488,33 +72459,33 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="+37"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <location line="+39"/>
         <location line="+3"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Visible</source>
-        <translation type="unfinished">可见</translation>
+        <translation>可见</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
@@ -77385,7 +77356,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppvirtualfunctionassistprovider.cpp" line="+137"/>
         <source>...searching overrides</source>
-        <translation type="unfinished"></translation>
+        <translation>...查找覆盖</translation>
     </message>
 </context>
 <context>
@@ -84107,7 +84078,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/texttool/texttool.cpp" line="+54"/>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本</translation>
     </message>
 </context>
 <context>
@@ -84115,7 +84086,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+202"/>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>文本工具</translation>
     </message>
 </context>
 <context>
@@ -85648,13 +85619,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/callgrindengine.cpp" line="+95"/>
         <source>Profiling</source>
-        <translation type="unfinished">正在分析</translation>
+        <translation>正在分析</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Profiling %1</source>
-        <translation type="unfinished">正在分析%1
- {1?}</translation>
+        <translation>正在分析%1</translation>
     </message>
 </context>
 <context>
@@ -85662,12 +85632,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/memcheckengine.cpp" line="+72"/>
         <source>Analyzing Memory</source>
-        <translation type="unfinished">内存分析中</translation>
+        <translation>内存分析中</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Analyzing memory of %1</source>
-        <translation type="unfinished">内存分析中%1</translation>
+        <translation>内存分析中%1</translation>
     </message>
 </context>
 <context>
@@ -85702,37 +85672,37 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindengine.cpp" line="+91"/>
         <source>Valgrind options: %1</source>
-        <translation type="unfinished">Valgrind 选项: %1</translation>
+        <translation>Valgrind选项：%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory: %1</source>
-        <translation type="unfinished">工作目录: %1</translation>
+        <translation>工作目录：%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Command line arguments: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>命令行参数：%1</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Analyzing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>分析完成。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Error: &quot;%1&quot; could not be started: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：&quot;%1&quot;无法被启动：%2</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: no Valgrind executable set.</source>
-        <translation type="unfinished"></translation>
+        <translation>*错误：没有设置valgrind的可执行档。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Process terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程已终止。</translation>
     </message>
 </context>
 <context>
@@ -85740,7 +85710,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindplugin.cpp" line="-2"/>
         <source>Valgrind</source>
-        <translation type="unfinished">Valgrind</translation>
+        <translation>Valgrind</translation>
     </message>
 </context>
 <context>
@@ -85748,48 +85718,48 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+62"/>
         <source>Valgrind Function Profile uses the Callgrind tool to record function calls when a program runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind分析函数使用Callgrind工具记录函数调用在程序运行时。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind分析内存使用&quot;memcheck&quot;工具来查找内存泄漏。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Valgrind Memory Analyzer</source>
-        <translation type="unfinished">Valgrind 内存分析器</translation>
+        <translation>Valgrind内存分析器</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Valgrind Memory Analyzer with GDB</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind带GDB内存分析器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind带GDB内存分析使用Memcheck工具查找内存泄漏。当检测到问题时，该应用程序将被中断并可以进行调试。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Valgrind Function Profiler</source>
-        <translation type="unfinished">Valgrind 功能分析器</translation>
+        <translation>Valgrind函数分析器</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Valgrind Memory Analyzer (External Remote Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind内存分析器(外部远程应用)</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Valgrind Function Profiler (External Remote Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind函数分析器(外部远程应用)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Profile Costs of This Function and Its Callees</source>
-        <translation type="unfinished"></translation>
+        <translation>分析此函数和被调用者的花销</translation>
     </message>
 </context>
 <context>
@@ -85797,7 +85767,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindprocess.cpp" line="+304"/>
         <source>Could not determine remote PID.</source>
-        <translation type="unfinished">无法确定远程的PID。</translation>
+        <translation>无法确定远程的PID。</translation>
     </message>
 </context>
 <context>
@@ -85805,7 +85775,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindruncontrolfactory.cpp" line="+124"/>
         <source>Valgrind Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind设置</translation>
     </message>
 </context>
 <context>
@@ -85813,7 +85783,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsbaseclient.cpp" line="+254"/>
         <source>Working...</source>
-        <translation type="unfinished">工作中...</translation>
+        <translation>工作中...</translation>
     </message>
 </context>
 <context>
@@ -85821,29 +85791,27 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsoutputwindow.cpp" line="+194"/>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished">打开 &quot;%1&quot;</translation>
+        <translation>打开&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Version Control</source>
-        <translation type="unfinished">版本控制</translation>
+        <translation>版本控制</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Executing: %1 %2</source>
-        <translation type="unfinished">执行:%1 %2
- {1 %2?}</translation>
+        <translation>执行：%1 %2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executing in %1: %2 %3</source>
-        <translation type="unfinished">正在 %1 中执行: %2 %3
- {1:?} {2 %3?}</translation>
+        <translation>正在%1中执行：%2 %3</translation>
     </message>
 </context>
 <context>
@@ -85851,17 +85819,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsplugin.cpp" line="+108"/>
         <source>Name of the version control system in use by the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目使用的版本控制系统的名称。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The current version control topic (branch or tag) identification of the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目的当前版本控制主题（分支或标签）标识。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The top level path to the repository the current project is in.</source>
-        <translation type="unfinished"></translation>
+        <translation>位于当前项目中的存储库的顶层路径。</translation>
     </message>
 </context>
 <context>
@@ -85869,7 +85837,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/wizard/vcscommandpage.cpp" line="+149"/>
         <source>&quot;data&quot; is no JSON object in &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Vcscommand&quot;页面de&quot;data&quot;没有JSON对象。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -85878,37 +85846,37 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+5"/>
         <location line="+6"/>
         <source>&quot;%1&quot; not set in &quot;data&quot; section of &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;未设置在&quot;Vcscommand&quot;页面的&quot;data&quot;部分。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset, String or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;在&quot;Vcscommand&quot;页面的&quot;data&quot;部分的有非预期类型（unset，字符串或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;在&quot;Vcscommand&quot;页面的&quot;data&quot;部分的有非预期类型（unset或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Job in &quot;VcsCommand&quot; page is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Vcscommand&quot;页面的Job为空。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Job in &quot;VcsCommand&quot; page is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Vcscommand&quot;页面的Job不是一个对象。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Job in &quot;VcsCommand&quot; page has no &quot;%1&quot; set.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Vcscommand&quot;页面的Job没有&quot;%1&quot;设定。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Checkout</source>
-        <translation type="unfinished">Checkout</translation>
+        <translation>检出</translation>
     </message>
 </context>
 <context>
@@ -85916,28 +85884,28 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; (%2) not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;(%2)未找到。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>未配置版本控制&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; does not support initial checkouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本控制&quot;%1&quot;不支持初始检验。</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+16"/>
         <source>&quot;%1&quot; is empty when trying to run checkout.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;为空尝试运行检验。</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>&quot;%1&quot; (%2) does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;(%2)不存在。</translation>
     </message>
 </context>
 <context>
@@ -85945,27 +85913,27 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdebugsupport.cpp" line="+84"/>
         <source>The WinRT debugging helper is missing from your Qt Creator installation. It was assumed to be located at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从无法在你的Qt Creator安装位置找到WinRT的调试助手。它被假定为位于%1</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot start the WinRT Runner Tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动的WinRT运行工具。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot establish connection to the WinRT debugging helper.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到WinRT调试助手。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot extract the PID from the WinRT debugging helper. (output: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从WinRT调试助手提取PID。(输出：%1)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Cannot create an appropriate run control for the current run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为当前运行配置创建一个适当的运行控制。</translation>
     </message>
 </context>
 <context>
@@ -85973,17 +85941,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdeployconfiguration.cpp" line="+55"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到Windows Phone</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到Windows Phone Emulator</translation>
     </message>
 </context>
 <context>
@@ -85991,7 +85959,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+99"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
 </context>
 <context>
@@ -85999,17 +85967,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevice.cpp" line="+122"/>
         <source>Windows Runtime (Local)</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Runtime(本地)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Phone</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Windows Phone Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Phone Emulator</translation>
     </message>
 </context>
 <context>
@@ -86017,40 +85985,40 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevicefactory.cpp" line="+101"/>
         <source>Running Windows Runtime device detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行Windows Runtime设备检测。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>No winrtrunner.exe found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有发现winrtrunner.exe。</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Error while executing winrtrunner: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>执行winrtrunner出错：%1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>winrtrunner returned with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>winrtrunner返回退出代码%1。</translation>
     </message>
     <message>
         <location line="+105"/>
         <source>Windows Runtime local UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Runtime本地用户界面</translation>
     </message>
     <message numerus="yes">
         <location line="+30"/>
         <source>Found %n Windows Runtime devices.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>发现%nWindows Runtime设备。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+3"/>
         <source>%n of them are new.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>其中%n个是最新的。</numerusform>
         </translation>
     </message>
 </context>
@@ -86059,27 +86027,27 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstep.cpp" line="+60"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>No executable to deploy found in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到可执行部署在%1。</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Cannot parse manifest file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析清单文件%1。</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>File %1 is outside of the executable&apos;s directory. These files cannot be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件%1在可执行目录之外。无法安装这些文件。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot open mapping file %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开用于写入的映射文件%1。</translation>
     </message>
 </context>
 <context>
@@ -86087,12 +86055,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtphoneqtversion.cpp" line="+52"/>
         <source>Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Phone</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtqtversion.cpp" line="+64"/>
         <source>Windows Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Runtime</translation>
     </message>
 </context>
 <context>
@@ -86100,7 +86068,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfiguration.cpp" line="+55"/>
         <source>Run App Package</source>
-        <translation type="unfinished"></translation>
+        <translation>运行APP程序包</translation>
     </message>
 </context>
 <context>
@@ -86108,7 +86076,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunfactories.cpp" line="+83"/>
         <source>Run App Package</source>
-        <translation type="unfinished"></translation>
+        <translation>运行App程序包</translation>
     </message>
 </context>
 <context>
@@ -86116,12 +86084,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+90"/>
         <source>Unsupported run mode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的运行模式%1。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>WinRT Run Control Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>WinRT运行控制工厂</translation>
     </message>
 </context>
 <context>
@@ -86129,23 +86097,23 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunnerhelper.cpp" line="+83"/>
         <source>The current kit has no Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前套件没有Qt版本。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot find winrtrunner.exe in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在&quot;%1&quot;找到winrtrunner.exe。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot determine the executable file path for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定&quot;%1&quot;的可执行文件路径。</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Error while executing the WinRT Runner Tool: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>执行WinRT运行工具时出错：%1</translation>
     </message>
 </context>
 <context>

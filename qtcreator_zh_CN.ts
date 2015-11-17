@@ -2268,7 +2268,7 @@ Previous decimal signed value (big endian): %4</source>
     <message>
         <location line="+2"/>
         <source>mkspec:</source>
-        <translation>mkspec目录</translation>
+        <translation>mkspec目录：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2420,12 +2420,12 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+1"/>
         <source>Show files changed in each revision.</source>
-        <translation>显示每个修订版本改变的文件</translation>
+        <translation>显示每个修订版本改变的文件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show from oldest to newest.</source>
-        <translation>显示从最老到最新</translation>
+        <translation>显示从最老到最新。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2435,7 +2435,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+1"/>
         <source>Show merged revisions.</source>
-        <translation>显示合并了的修订版本</translation>
+        <translation>显示合并了的修订版本。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2651,7 +2651,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+5"/>
         <source>Uncommit...</source>
-        <translation>未提交</translation>
+        <translation>未提交...</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3073,7 +3073,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;</translation>
+        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;。</translation>
     </message>
     <message>
         <location/>
@@ -58258,7 +58258,7 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location line="+4"/>
         <source>Error running &apos;env&apos;: %1</source>
-        <translation type="unfinished">错误运行“env”：%1</translation>
+        <translation>错误运行“env”：%1</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -69201,27 +69201,27 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/libs/timeline/qml/ButtonsBar.qml" line="+87"/>
         <source>Jump to previous event.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳到上一个事件。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Jump to next event.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳到下一个事件。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show zoom slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩放滑动条。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Select range.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择范围。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>View event information on mouseover.</source>
-        <translation type="unfinished"></translation>
+        <translation>在鼠标悬停时查看事件信息。</translation>
     </message>
 </context>
 <context>
@@ -69550,43 +69550,43 @@ APK在其他平台上不可使用。</translation>
     <message>
         <location filename="../../../src/plugins/bazaar/uncommitdialog.ui"/>
         <source>Uncommit</source>
-        <translation type="unfinished"></translation>
+        <translation>未提交</translation>
     </message>
     <message>
         <location/>
         <source>Keep tags that point to removed revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>保留标记以表明删除修订版本</translation>
     </message>
     <message>
         <location/>
         <source>Only remove the commits from the local branch when in a checkout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只有在检查时，才将该文件从本地分支删除</translation>
     </message>
     <message>
         <location/>
         <source>Revision:</source>
-        <translation type="unfinished">修订版本:</translation>
+        <translation>修订版本:</translation>
     </message>
     <message>
         <location/>
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果指定一个修订版本,不提交修正离开分支在指定的修订版本。</translation>
     </message>
     <message>
         <location/>
         <source>Last committed</source>
-        <translation type="unfinished"></translation>
+        <translation>最后一次提交</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/bazaar/uncommitdialog.cpp" line="+48"/>
         <source>Dry Run</source>
-        <translation type="unfinished"></translation>
+        <translation>试运行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Test the outcome of removing the last committed revision, without actually removing anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>测试的结果是移除最后提交的版本,实际上不删除任何东西。</translation>
     </message>
 </context>
 <context>
@@ -69594,43 +69594,43 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Artistic Style command:</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术风格的命令:</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file *.astylerc defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>在项目文件中使用文件*.astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use file .astylerc or astylerc in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在目录下使用文件 .astylerc或astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用定制的风格:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.cpp" line="+97"/>
         <source>Artistic Style</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术风格</translation>
     </message>
 </context>
 <context>
@@ -69638,42 +69638,42 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Clang Format command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use predefined style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预定义的风格:</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用定制的风格:</translation>
     </message>
     <message>
         <location/>
         <source>Format entire file if no text was selected. (For action Format Selected Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>如果没有选中文本则格式整个文件。(从活动的项目中选择文件)</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.cpp" line="+103"/>
         <source>Clang Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式</translation>
     </message>
 </context>
 <context>
@@ -69681,23 +69681,23 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationdialog.ui"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/beautifier/configurationdialog.cpp" line="+147"/>
         <source>Documentation</source>
-        <translation type="unfinished">文档</translation>
+        <translation>文档</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/configurationdialog.cpp" line="+2"/>
         <source>Documentation for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>文档&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -69705,32 +69705,32 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationpanel.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/configurationpanel.cpp" line="+87"/>
         <source>Add Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>添加配置</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Edit Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑配置</translation>
     </message>
 </context>
 <context>
@@ -69738,43 +69738,43 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Uncrustify command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>使用项目文件中定义的文件uncrustify.cfg</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在目录下使用文件 astylerc或astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自定义的风格:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.cpp" line="+97"/>
         <source>Uncrustify</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify</translation>
     </message>
 </context>
 <context>
@@ -71105,87 +71105,87 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/ButtonSpecifics.qml" line="+37"/>
         <source>Button</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Text displayed on the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在按钮上显示文本。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>State of the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮的状态。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>可选的</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button is checkable or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定是否被选中按钮。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Enabled</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button is enabled or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定按钮是否可用。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Default button</source>
-        <translation type="unfinished"></translation>
+        <translation>默认按钮</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sets the button as the default button in a dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置默认对话框中的按钮。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Tool tip</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The tool tip shown for the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮显示提示。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后确定按钮获得焦点。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Icon source</source>
-        <translation type="unfinished"></translation>
+        <translation>图标源</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The URL of an icon resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个图标的URL资源。</translation>
     </message>
 </context>
 <context>
@@ -71208,7 +71208,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+11"/>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -71218,12 +71218,12 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+16"/>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the check box gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后复选框获得焦点。</translation>
     </message>
 </context>
 <context>
@@ -74607,17 +74607,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalconstants.h" line="+44"/>
         <source>BareMetal</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverprovider.cpp" line="+351"/>
         <source>Enter GDB commands to reset the board and to write the nonvolatile memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入gdb命令重置板和写入非易失性存储器。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter GDB commands to reset the hardware. The MCU should be halted after these commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB命令重置硬件。执行命令后单片机应该停止运行。</translation>
     </message>
 </context>
 <context>
@@ -74625,17 +74625,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalcustomrunconfiguration.cpp" line="+66"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Work directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>工作目录:</translation>
     </message>
 </context>
 <context>
@@ -74643,12 +74643,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+77"/>
         <source>The remote executable must be set in order to run a custom remote run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>远程可执行文件必须配置自定义运行设置。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Custom Executable (on GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义可执行文件(GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -74656,17 +74656,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldebugsupport.cpp" line="+110"/>
         <source>Debugging failed.</source>
-        <translation type="unfinished">调试失败。</translation>
+        <translation>调试失败。</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Initial setup failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>初始设置失败:%1</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Starting GDB server...</source>
-        <translation type="unfinished"></translation>
+        <translation>启动GDB服务...</translation>
     </message>
 </context>
 <context>
@@ -74674,7 +74674,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldevice.cpp" line="+120"/>
         <source>Bare Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机</translation>
     </message>
 </context>
 <context>
@@ -74682,7 +74682,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationfactory.cpp" line="+52"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机设备</translation>
     </message>
 </context>
 <context>
@@ -74690,7 +74690,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwidget.cpp" line="+58"/>
         <source>GDB server provider:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商：</translation>
     </message>
 </context>
 <context>
@@ -74698,7 +74698,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwizard.cpp" line="+46"/>
         <source>New Bare Metal Device Configuration Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>新裸机设备配置</translation>
     </message>
 </context>
 <context>
@@ -74706,22 +74706,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwizardpages.cpp" line="+50"/>
         <source>Set up GDB Server or Hardware Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>设置GDB服务器或硬件调试器</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>GDB server provider:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商：</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机设备</translation>
     </message>
 </context>
 <context>
@@ -74729,7 +74729,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalgdbcommandsdeploystep.cpp" line="+48"/>
         <source>GDB commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 命令：</translation>
     </message>
 </context>
 <context>
@@ -74737,7 +74737,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+76"/>
         <source>GDB commands</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 命令</translation>
     </message>
 </context>
 <context>
@@ -74745,13 +74745,13 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfiguration.cpp" line="+134"/>
         <source>%1 (via GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (通过GDB服务器或硬件调试器)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run on GDB server or hardware debugger</source>
         <extracomment>Bare Metal run configuration default run name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器上运行或硬件调试</translation>
     </message>
 </context>
 <context>
@@ -74759,7 +74759,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfigurationfactory.cpp" line="+110"/>
         <source>%1 (on GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -74767,27 +74767,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfigurationwidget.cpp" line="+117"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;default&gt;</source>
-        <translation type="unfinished">&lt;默认&gt;</translation>
+        <translation>&lt;默认&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录:</translation>
+        <translation>工作目录:</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
@@ -74795,22 +74795,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalruncontrolfactory.cpp" line="+96"/>
         <source>Cannot debug: Local executable is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:本地的可执行文件未设置。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot debug: Could not find executable for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:无法找到可执行文件“%1”。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot debug: Kit has no device.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试：工具没有设备。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot debug: Device has no GDB server provider configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:设备没有GDB服务器提供商的配置。</translation>
     </message>
 </context>
 <context>
@@ -74819,7 +74819,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/defaultgdbserverprovider.cpp" line="+87"/>
         <location line="+61"/>
         <source>Default</source>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
 </context>
 <context>
@@ -74827,17 +74827,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
 </context>
 <context>
@@ -74845,7 +74845,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverprovider.cpp" line="-283"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1 的克隆</translation>
     </message>
 </context>
 <context>
@@ -74853,37 +74853,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+161"/>
         <source>Enter the name of the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB的名称服务器提供商。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose the desired startup mode of the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择所需的启动模式的GDB服务器提供商。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Startup mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>启动模式:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>No Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>不能启动</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Startup in TCP/IP Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在TCP/IP模式启动</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Startup in Pipe Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在管道模式下启动</translation>
     </message>
 </context>
 <context>
@@ -74891,12 +74891,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+51"/>
         <source>Enter TCP/IP hostname of the GDB server provider, like &quot;localhost&quot; or &quot;192.0.2.1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB服务器提供商的TCP/IP主机，例如“localhost”或“192.0.2.1”。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enter TCP/IP port which will be listened by the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入TCP/IP端口将监听GDB服务器提供商。</translation>
     </message>
 </context>
 <context>
@@ -74904,12 +74904,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverproviderchooser.cpp" line="+53"/>
         <source>Manage...</source>
-        <translation type="unfinished">管理...</translation>
+        <translation>管理...</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -74917,22 +74917,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverproviderssettingspage.cpp" line="+104"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Duplicate Providers Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到重复的供应商</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The following providers were already configured:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;They were not configured again.</source>
-        <translation type="unfinished"></translation>
+        <translation>供应商已经配置:&lt;br&gt;%1&lt;br&gt;,他们不会再配置。</translation>
     </message>
 </context>
 <context>
@@ -74940,22 +74940,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+113"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+143"/>
         <source>GDB Server Providers</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商</translation>
     </message>
 </context>
 <context>
@@ -74964,7 +74964,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/openocdgdbserverprovider.cpp" line="+98"/>
         <location line="+134"/>
         <source>OpenOCD</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenOCD</translation>
     </message>
 </context>
 <context>
@@ -74972,37 +74972,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Executable file:</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行文件：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Root scripts directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>根脚本目录:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Configuration file:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Additional arguments:</source>
-        <translation type="unfinished">额外的参数:</translation>
+        <translation>额外的参数:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
 </context>
 <context>
@@ -75011,7 +75011,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/stlinkutilgdbserverprovider.cpp" line="+101"/>
         <location line="+123"/>
         <source>ST-LINK Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK效用</translation>
     </message>
 </context>
 <context>
@@ -75019,72 +75019,72 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Executable file:</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行文件：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Specify the verbosity level (0..99).</source>
-        <translation type="unfinished"></translation>
+        <translation>指定的详细程度(0..99)。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verbosity level:</source>
-        <translation type="unfinished"></translation>
+        <translation>详细程度：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Continue listening for connections after disconnect.</source>
-        <translation type="unfinished"></translation>
+        <translation>断开连接后继续监听连接。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Extended mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展状态：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset board on connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>重置连接板。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset on connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置连接:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Transport layer type.</source>
-        <translation type="unfinished"></translation>
+        <translation>传输层类型。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>ST-LINK/V1</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>ST-LINK/V2</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V2</translation>
     </message>
 </context>
 <context>
@@ -75092,12 +75092,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bazaar/bazaareditor.cpp" line="+49"/>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>注释 &quot;%1&quot;(&amp;A)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation type="unfinished"></translation>
+        <translation>注释父修订版本%1(&amp;p)</translation>
     </message>
 </context>
 <context>
@@ -75143,7 +75143,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/beautifierconstants.h" line="+42"/>
         <source>Beautifier</source>
-        <translation type="unfinished"></translation>
+        <translation>美化器</translation>
     </message>
 </context>
 <context>
@@ -75151,67 +75151,67 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/beautifierplugin.cpp" line="+151"/>
         <source>Cannot create temporary file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在创建临时文件 &quot;%1&quot;: %2。</translation>
     </message>
     <message>
         <location line="+14"/>
         <location line="+23"/>
         <location line="+9"/>
         <source>Cannot call %1 or some other error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调用%1或其他错误发生。</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>Cannot read file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”:%2。</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>File was modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件被修改。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Time out reached while formatting file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>时间到时格式化文件%1。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could not format file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法格式化文件 %1 。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>File %1 was closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件%1被关闭。</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Error in Beautifier: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>美化器错误:%1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot get configuration file for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获取配置文件%1。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Format Current File</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>当前文件格式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Format Selected Text</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>选中的文本格式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 Command</source>
         <extracomment>File dialog title for path chooser when choosing binary</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>命令%1</translation>
     </message>
 </context>
 <context>
@@ -75227,127 +75227,127 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bineditor/bineditor.cpp" line="+1140"/>
         <source>Memory at 0x%1</source>
-        <translation type="unfinished"></translation>
+        <translation> 0x%1 处的内存</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation type="unfinished">十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation type="unfinished">十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1-bit&amp;nbsp;Integer&amp;nbsp;Type</source>
-        <translation type="unfinished">%1-bit&amp;nbsp;整数&amp;nbsp;类型</translation>
+        <translation>%1-bit&amp;nbsp;整数&amp;nbsp;类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Little Endian</source>
-        <translation type="unfinished">Little Endian</translation>
+        <translation>小端</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Big Endian</source>
-        <translation type="unfinished">Big Endian</translation>
+        <translation>大端</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Binary&amp;nbsp;value:</source>
-        <translation type="unfinished">二进制&amp;nbsp;数值:</translation>
+        <translation>二进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Octal&amp;nbsp;value:</source>
-        <translation type="unfinished">八进制&amp;nbsp;数值:</translation>
+        <translation>八进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Previous&amp;nbsp;binary&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;二进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;二进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Previous&amp;nbsp;octal&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;八进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;八进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+139"/>
         <source>Copying Failed</source>
-        <translation type="unfinished">复制失败</translation>
+        <translation>复制失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You cannot copy more than 4 MB of binary data.</source>
-        <translation type="unfinished">您不能复制超过 4 MB 的二进制数据。</translation>
+        <translation>您不能复制超过 4 MB 的二进制数据。</translation>
     </message>
     <message>
         <location line="+110"/>
         <source>Copy Selection as ASCII Characters</source>
-        <translation type="unfinished">复制选中部分作为 ASCII 字符串</translation>
+        <translation>复制选中部分作为 ASCII 字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy Selection as Hex Values</source>
-        <translation type="unfinished">复制选中部分作为十六进制值</translation>
+        <translation>复制选中部分作为十六进制值</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Set Data Breakpoint on Selection</source>
-        <translation type="unfinished">选中时设置数据断点</translation>
+        <translation>选中时设置数据断点</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Jump to Address in This Window</source>
-        <translation type="unfinished">在当前窗口中跳转到地址</translation>
+        <translation>在当前窗口中跳转到地址</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Jump to Address in New Window</source>
-        <translation type="unfinished">在新窗口中跳转到地址</translation>
+        <translation>在新窗口中跳转到地址</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Jump to Address 0x%1 in This Window</source>
-        <translation type="unfinished">在当前窗口中跳转到地址 0x%1</translation>
+        <translation>在当前窗口中跳转到地址 0x%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Jump to Address 0x%1 in New Window</source>
-        <translation type="unfinished">在新窗口中跳转到地址 0x%1</translation>
+        <translation>在新窗口中跳转到地址 0x%1</translation>
     </message>
 </context>
 <context>
@@ -75355,7 +75355,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bineditor/bineditorplugin.cpp" line="+282"/>
         <source>The Binary Editor cannot open empty files.</source>
-        <translation type="unfinished">二进制编辑无法打开空文件。</translation>
+        <translation>二进制编辑无法打开空文件。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -75363,18 +75363,18 @@ Install an SDK of at least API version %1.</source>
         <location line="+14"/>
         <location line="+21"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>The file is too big for the Binary Editor (max. 2GB).</source>
-        <translation type="unfinished"></translation>
+        <translation>这个文件对二进制编辑器来说太大了(最大2GB)。</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+27"/>
         <source>Cannot open %1: %2</source>
-        <translation type="unfinished">无法打开%1 : %2</translation>
+        <translation>无法打开%1 : %2</translation>
     </message>
 </context>
 <context>
@@ -75382,12 +75382,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+177"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -75395,17 +75395,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bookmarks/bookmarkmanager.cpp" line="-147"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Note text:</source>
-        <translation type="unfinished"></translation>
+        <translation>注释文本:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line number:</source>
-        <translation type="unfinished">行号:</translation>
+        <translation>行号:</translation>
     </message>
 </context>
 <context>
@@ -75413,17 +75413,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangcodemodelplugin.cpp" line="+69"/>
         <source>Clang Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang设置</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangprojectsettingspropertiespage.cpp" line="+118"/>
         <source>Header Files (*.h)</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件 (*.h)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">所有文件 (*)</translation>
+        <translation>所有文件 (*)</translation>
     </message>
 </context>
 <context>
@@ -75432,7 +75432,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangcompletionassistprocessor.cpp" line="+606"/>
         <source>Location: %1</source>
         <extracomment>Parent folder for proposed #include completion</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>位置：%1</translation>
     </message>
 </context>
 <context>
@@ -75440,7 +75440,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangindexer.cpp" line="+168"/>
         <source>Parsing C/C++/ObjC Files</source>
-        <translation type="unfinished"></translation>
+        <translation>解析 C/C++/ObjC 文件</translation>
     </message>
 </context>
 <context>
@@ -75449,7 +75449,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangmodelmanagersupport.cpp" line="+362"/>
         <source>Clang</source>
         <extracomment>Display name</extracomment>
-        <translation type="unfinished">Clang</translation>
+        <translation>Clang</translation>
     </message>
 </context>
 <context>
@@ -75457,27 +75457,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/diagnostic.cpp" line="+56"/>
         <source>ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>note</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>fatal</source>
-        <translation type="unfinished"></translation>
+        <translation>致命错误</translation>
     </message>
 </context>
 <context>
@@ -75485,17 +75485,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/pchmanager.cpp" line="+110"/>
         <source>Successfully generated PCH file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>成功生成的PCH文件“%1”。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Failed to generate PCH file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>未能生成PCH文件“%1”。</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Precompiling</source>
-        <translation type="unfinished"></translation>
+        <translation>预编译</translation>
     </message>
 </context>
 <context>
@@ -75503,7 +75503,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseeditor.cpp" line="+59"/>
         <source>Annotate version &quot;%1&quot;</source>
-        <translation type="unfinished">注释版本 &quot;%1&quot;</translation>
+        <translation>注释版本 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -75511,17 +75511,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakekitconfigwidget.cpp" line="+88"/>
         <source>CMake Tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake工具：</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>The CMake Tool to use when building a project with CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake工具构建CMake的项目时。&lt;br&gt;使用其他构建系统时该设置将被忽略。</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>&lt;No CMake Tool available&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;没有CMake工具&gt;</translation>
     </message>
 </context>
 <context>
@@ -75578,12 +75578,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakepreloadcachekitconfigwidget.cpp" line="+63"/>
         <source>CMake preload file:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake预加载文件:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The preload cache file to use when running cmake on the project.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用cmake的项目时预加载缓存文件。&lt;br&gt;使用其他构建系统时该设置将被忽略。</translation>
     </message>
 </context>
 <context>
@@ -75591,7 +75591,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakepreloadcachekitinformation.cpp" line="+81"/>
         <source>CMake Preload</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake预加载</translation>
     </message>
 </context>
 <context>
@@ -75599,7 +75599,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeproject.cpp" line="+551"/>
         <source>Internal Error: No build configuration found in settings file.</source>
-        <translation type="unfinished"></translation>
+        <translation>部错误:没有在构建配置中中发现设置文件。</translation>
     </message>
 </context>
 <context>
@@ -75607,37 +75607,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="-419"/>
         <source> (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(默认)</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Auto-detected</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Manual</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location line="+189"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Path:</source>
-        <translation type="unfinished">路径:</translation>
+        <translation>路径:</translation>
     </message>
 </context>
 <context>
@@ -75645,22 +75645,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+44"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Make Default</source>
-        <translation type="unfinished">设置为默认</translation>
+        <translation>设置为默认</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -75689,12 +75689,12 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmaketoolmanager.cpp" line="+144"/>
         <location line="+117"/>
         <source>CMake at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 在 %1</translation>
     </message>
     <message>
         <location line="-66"/>
         <source>System CMake at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>系统CMake在 %1</translation>
     </message>
 </context>
 <context>

@@ -2268,7 +2268,7 @@ Previous decimal signed value (big endian): %4</source>
     <message>
         <location line="+2"/>
         <source>mkspec:</source>
-        <translation>mkspec目录</translation>
+        <translation>mkspec目录：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2420,12 +2420,12 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+1"/>
         <source>Show files changed in each revision.</source>
-        <translation>显示每个修订版本改变的文件</translation>
+        <translation>显示每个修订版本改变的文件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show from oldest to newest.</source>
-        <translation>显示从最老到最新</translation>
+        <translation>显示从最老到最新。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2435,7 +2435,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+1"/>
         <source>Show merged revisions.</source>
-        <translation>显示合并了的修订版本</translation>
+        <translation>显示合并了的修订版本。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2651,7 +2651,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     <message>
         <location line="+5"/>
         <source>Uncommit...</source>
-        <translation>未提交</translation>
+        <translation>未提交...</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3073,7 +3073,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;</translation>
+        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;。</translation>
     </message>
     <message>
         <location/>
@@ -58258,7 +58258,7 @@ Remote stderr was: &apos;%1&apos;</source>
     <message>
         <location line="+4"/>
         <source>Error running &apos;env&apos;: %1</source>
-        <translation type="unfinished">错误运行“env”：%1</translation>
+        <translation>错误运行“env”：%1</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -64803,12 +64803,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/updateinfo/updateinfoplugin.cpp" line="+167"/>
         <source>Updater</source>
+<<<<<<< HEAD
         <translation>更新程序</translation>
+=======
+        <translation>升级程序</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>New updates are available. Do you want to start update?</source>
+<<<<<<< HEAD
         <translation>有可用更新，需要启动更新？</translation>
+=======
+        <translation>有新的更新可用。是否开始升级？</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+30"/>
@@ -64818,7 +64826,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+6"/>
         <source>The maintenance tool at &quot;%1&quot; is not an executable. Check your installation.</source>
+<<<<<<< HEAD
         <translation>无法执在&quot;%1&quot;的维护工具，请检查安装。</translation>
+=======
+        <translation>在&quot;%1&quot;的维护工具不是可执行文件。请检查安装。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+11"/>
@@ -64874,12 +64886,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+338"/>
         <source>Do not &amp;ask again</source>
+<<<<<<< HEAD
         <translation>下次不再询问(&amp;a)</translation>
+=======
+        <translation>下次不再询问(&amp;)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+9"/>
         <source>Do not &amp;show again</source>
+<<<<<<< HEAD
         <translation>下次不再显示(&amp;s)</translation>
+=======
+        <translation>下次不再显示(&amp;S)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -64925,17 +64945,29 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+5"/>
         <source>Cannot create temporary directory &quot;%1&quot;: %2</source>
+<<<<<<< HEAD
         <translation>无法创建临时目录&quot;%1&quot;：&quot;%2&quot;</translation>
+=======
+        <translation>无法创建临时目录 &quot;%1&quot;: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+10"/>
         <source>Cannot change to working directory &quot;%1&quot;: %2</source>
+<<<<<<< HEAD
         <translation>无法切换到工作目录&quot;%1&quot;：&quot;%2&quot;</translation>
+=======
+        <translation>无法切换到工作目录 &quot;%1&quot;: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot execute &quot;%1&quot;: %2</source>
+<<<<<<< HEAD
         <translation>无法执行&quot;%1&quot;：&quot;%2&quot;</translation>
+=======
+        <translation>无法执行 &quot;%1&quot;: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Cannot create temporary directory &apos;%1&apos;: %2</source>
@@ -64965,7 +64997,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/libs/utils/consoleprocess_win.cpp" line="+155"/>
         <source>The process &quot;%1&quot; could not be started: %2</source>
+<<<<<<< HEAD
         <translation>进程&quot;%1&quot;无法被启动：&quot;%2&quot;</translation>
+=======
+        <translation>进程 &quot;%1&quot; 无法被启动: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+84"/>
@@ -65000,12 +65036,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+51"/>
         <source>Cannot start the terminal emulator &quot;%1&quot;, change the setting in the Environment options.</source>
+<<<<<<< HEAD
         <translation>无法启动仿真终端&quot;%1&quot;，请更改环境选项设置。</translation>
+=======
+        <translation>无法启动终端模拟器 &quot;%1&quot;, 请更改环境设置。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+84"/>
         <source>Cannot create socket &quot;%1&quot;: %2</source>
+<<<<<<< HEAD
         <translation>无法创建套接字&quot;%1&quot;：&quot;%2&quot;</translation>
+=======
+        <translation>无法创建套接字 &quot;%1&quot;: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Cannot start the terminal emulator &apos;%1&apos;.</source>
@@ -65073,17 +65117,29 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="-31"/>
         <source>&quot;%1&quot; is an invalid ELF object (%2)</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;不是一个有效的ELF对象(%2)</translation>
+=======
+        <translation>&quot;%1&quot; 不是一个有效的ELF对象(%2)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; is not an ELF object (file too small)</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;不是一个有效的ELF对象(文件太小)</translation>
+=======
+        <translation>&quot;%1&quot; 不是一个有效的ELF对象(文件太小)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>&quot;%1&quot; is not an ELF object</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;不是一个ELF对象</translation>
+=======
+        <translation>&quot;%1&quot; 不是一个ELF对象</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+27"/>
@@ -65163,7 +65219,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Automatically Hide View Title Bars</source>
+<<<<<<< HEAD
         <translation>自动隐藏标题栏</translation>
+=======
+        <translation>自动隐藏视图标题栏</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Reset to default layout</source>
@@ -65209,12 +65269,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Invalid character &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无效字符&apos;%1&apos;。</translation>
+=======
+        <translation>无效字符 &quot;%1&quot;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+10"/>
         <source>Invalid characters &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无效字符串&apos;%1&apos;。</translation>
+=======
+        <translation>无效字符串 &quot;%1&quot;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+10"/>
@@ -65286,22 +65354,38 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+14"/>
         <source>Failed to remove directory &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>移除文件夹&quot;%1&quot;失败.</translation>
+=======
+        <translation>移除目录&apos;%1&apos;失败。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>Failed to remove file &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>移除文件&quot;%1&quot;失败.</translation>
+=======
+        <translation>移除文件&apos;%1&apos;失败。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+36"/>
         <source>Failed to create directory &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无法创建目&quot;%1&quot;。</translation>
+=======
+        <translation>创建目录失败:&apos;%1&apos;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+24"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
+<<<<<<< HEAD
         <translation>无法复制文&quot;%1&quot;到&quot;%2&quot;。</translation>
+=======
+        <translation>无法复制文件&apos;%1&apos;到&apos;%2&apos;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+172"/>
@@ -65540,17 +65624,29 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+7"/>
         <source>Invalid header file name: &quot;%1&quot;</source>
+<<<<<<< HEAD
         <translation>无效的头文件名称：&quot;%1&quot;</translation>
+=======
+        <translation>无效的头文件名称: &apos;%1&apos;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+6"/>
         <source>Invalid source file name: &quot;%1&quot;</source>
+<<<<<<< HEAD
         <translation>无效的源文件名称：&quot;%1&quot;</translation>
+=======
+        <translation>无效的源文件名称: &apos;%1&apos;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>Invalid form file name: &quot;%1&quot;</source>
+<<<<<<< HEAD
         <translation>无效的界面文件名称：&quot;%1&quot;</translation>
+=======
+        <translation>无效的界面文件名: &apos;%1&apos;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Invalid header file name: &apos;%1&apos;</source>
@@ -65663,12 +65759,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location/>
         <source>Inherits QDeclarativeItem - Qt Quick 1</source>
+<<<<<<< HEAD
         <translation>继承自QDeclarativeItem-Qt Quick 1</translation>
+=======
+        <translation>继承自 QDeclarativeItem - QtQuick 1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Inherits QQuickItem - Qt Quick 2</source>
+<<<<<<< HEAD
         <translation>继承自QQuickItem-Qt Quick 2</translation>
+=======
+        <translation>继承自 QQuickItem - QtQuick 2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -65711,36 +65815,60 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+90"/>
         <source>The path &quot;%1&quot; expanded to an empty string.</source>
+<<<<<<< HEAD
         <translation>路径&quot;%1&quot;扩展到一个空的字符串。</translation>
+=======
+        <translation>路径&apos;%1&apos; 扩展到一个空的字符串。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+10"/>
         <location line="+12"/>
         <location line="+14"/>
         <source>The path &quot;%1&quot; does not exist.</source>
+<<<<<<< HEAD
         <translation>路径&quot;%1&quot;不存在。</translation>
+=======
+        <translation>路径 &apos;%1&apos; 不存在。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="-21"/>
         <location line="+33"/>
         <source>The path &quot;%1&quot; is not a directory.</source>
+<<<<<<< HEAD
         <translation>路径&quot;%1&quot;不是一个目录。</translation>
+=======
+        <translation>路径 &apos;%1&apos; 不是一个目录。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="-19"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
+<<<<<<< HEAD
         <translation>目录&quot;%1&quot;不存在。</translation>
+=======
+        <translation>目录 &quot;%1&quot; 存在。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+12"/>
         <location line="+14"/>
         <source>Cannot execute &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无法执行&quot;%1&quot;。</translation>
+=======
+        <translation>无法执行&apos;%1&apos;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+38"/>
         <source>The path &lt;b&gt;%1&lt;/b&gt; is not an executable file.</source>
+<<<<<<< HEAD
         <translation>路径&lt;b&gt;%1&lt;/b&gt;不是可执行文件。</translation>
+=======
+        <translation>路径 &lt;b&gt;%1&lt;/b&gt; 不是可执行程序。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>&lt;not valid&gt;</source>
@@ -65838,7 +65966,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>Location</source>
+<<<<<<< HEAD
         <translation>位置</translation>
+=======
+        <translation>路径</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+93"/>
@@ -65858,17 +65990,29 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+11"/>
         <source>Name does not match &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>名称不匹配&quot;%1&quot;。</translation>
+=======
+        <translation>名称不符合&quot;%1&quot;.</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+11"/>
         <source>Invalid character &quot;.&quot;.</source>
+<<<<<<< HEAD
         <translation>无效字符&apos;.&apos;。</translation>
+=======
+        <translation>无效字符 &apos;.&apos;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+7"/>
         <source>Invalid character &quot;%1&quot; found.</source>
+<<<<<<< HEAD
         <translation>发现无效字符&apos;%1&apos;。</translation>
+=======
+        <translation>无效字符 &apos;%1&apos;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Introduction and project location</source>
@@ -66042,27 +66186,47 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/libs/utils/synchronousprocess.cpp" line="+131"/>
         <source>The command &quot;%1&quot; finished successfully.</source>
+<<<<<<< HEAD
         <translation>命令&quot;%1&quot;&apos;成功完成。</translation>
+=======
+        <translation>命令&apos;%1&apos;成功完成。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; terminated with exit code %2.</source>
+<<<<<<< HEAD
         <translation>命令&quot;%1&quot;终止，退出代码%2。</translation>
+=======
+        <translation>命令&apos;%1&apos;终止，退出代码%2。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; terminated abnormally.</source>
+<<<<<<< HEAD
         <translation>命令&quot;%1&quot;异常终止。</translation>
+=======
+        <translation>命令&apos;%1&apos;异常终止。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; could not be started.</source>
+<<<<<<< HEAD
         <translation>命令&quot;%1&quot;无法启动。</translation>
+=======
+        <translation>命令&apos;%1&apos;无法启动。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; did not respond within the timeout limit (%2 s).</source>
+<<<<<<< HEAD
         <translation>命令&quot;%1&quot;在指定超时时间(%2毫秒)内未响应。</translation>
+=======
+        <translation>命令&apos;%1&apos;在指定超时时间(%2秒)内未响应。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+297"/>
@@ -66077,7 +66241,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>The process &quot;%1&quot; is not responding.</source>
+<<<<<<< HEAD
         <translation>进程&quot;%1&quot;未响应。</translation>
+=======
+        <translation>进程&apos;%1&apos;未响应。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>The process &apos;%1&apos; is not responding.</source>
@@ -66158,7 +66326,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+3"/>
         <source>C&amp;lose All</source>
+<<<<<<< HEAD
         <translation>关闭所有(&amp;l)</translation>
+=======
+        <translation>关闭所有文件(&amp;L)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+3"/>
@@ -66193,7 +66365,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+4"/>
         <source>The unsaved file &lt;i&gt;%1&lt;/i&gt; has changed outside Qt Creator. Do you want to reload it and discard your changes?</source>
+<<<<<<< HEAD
         <translation>未保存的文件&lt;i&gt;%1&lt;/i&gt;在 Qt Creator以外改写，您想要重新载入并且丢弃现有的修改吗？</translation>
+=======
+        <translation>未保存的文件 &lt;i&gt;%1&lt;/i&gt; 在 Qt Creator以外被改写，您想要重新载入并且丢弃现有的修改吗？</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>The unsaved file &lt;i&gt;%1&lt;/i&gt; has been changed outside Qt Creator. Do you want to reload it and discard your changes?</source>
@@ -66263,7 +66439,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Git Rebase Editor</source>
+<<<<<<< HEAD
         <translation>Git Rebase编辑器</translation>
+=======
+        <translation>Git变基编辑器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Git Diff Editor</source>
@@ -66451,7 +66631,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+21"/>
         <source>An error occurred while trying to run %1: %2</source>
+<<<<<<< HEAD
         <translation>尝试运行%1时出错：%2</translation>
+=======
+        <translation>试图运行%1发生错误: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+28"/>
@@ -66746,7 +66930,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+10"/>
         <source>Request the dumping of profile information. This will update the Callgrind visualization.</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>请求dump分析信息。这将更新callgrind的可视化。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+10"/>
@@ -66816,12 +67004,20 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Callgrind Output (callgrind.out*);;All Files (*)</source>
+<<<<<<< HEAD
         <translation>Callgrind输出(callgrind.out*);;所有文件(*)</translation>
+=======
+        <translation>Callgrind输出(callgrind.out *);,所有文件(*)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+7"/>
         <source>Callgrind: Failed to open file for reading: %1</source>
+<<<<<<< HEAD
         <translation>Callgrind：用于读取的文件打开失败：%1</translation>
+=======
+        <translation>Callgrind:读取文件失败:%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+4"/>
@@ -66984,22 +67180,38 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+263"/>
         <source>Open Memcheck XML Log File</source>
+<<<<<<< HEAD
         <translation>打开Memcheck XML日志文件</translation>
+=======
+        <translation>打开内存诊断XML日志文件</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>XML Files (*.xml);;All Files (*)</source>
+<<<<<<< HEAD
         <translation>XML文件(*.xml);;所有文件(*)</translation>
+=======
+        <translation>XML文件(*.xml);;All Files (*)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>Memcheck: Failed to open file for reading: %1</source>
+<<<<<<< HEAD
         <translation>Memcheck：用于读取的文件打开失败：%1</translation>
+=======
+        <translation>诊断内存:得去文件失败:%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+31"/>
         <source>Memcheck: Error occurred parsing Valgrind output: %1</source>
+<<<<<<< HEAD
         <translation>Memcheck：分析valgrind输出时出错： %1</translation>
+=======
+        <translation>诊断内存:分析valgrind输出时发生了错误: %1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Valgrind Memory Analyzer</source>
@@ -67017,7 +67229,11 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>Load External XML Log File</source>
+<<<<<<< HEAD
         <translation>加载外部日志文件</translation>
+=======
+        <translation>加载外部XML日志文件</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+11"/>
@@ -67224,7 +67440,11 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Detect self-modifying code:</source>
+<<<<<<< HEAD
         <translation>检查自动修改代码：</translation>
+=======
+        <translation>检测自动修改的代码：</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -67234,17 +67454,29 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Only on Stack</source>
+<<<<<<< HEAD
         <translation>仅堆栈</translation>
+=======
+        <translation type="unfinished">只有在堆栈</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Everywhere</source>
+<<<<<<< HEAD
         <translation>所有地方</translation>
+=======
+        <translation>随处可见</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Everywhere Except in File-backend Mappings</source>
+<<<<<<< HEAD
         <translation>除文件后端映射外</translation>
+=======
+        <translation type="unfinished">除了文件后端映射到处可用，</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -67259,7 +67491,21 @@ With cache simulation, further event counters are enabled:
 &lt;/p&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
+<<<<<<< HEAD
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;全高速缓存仿真。&lt;/p&gt;&lt;p&gt;默认情况下，只有指令读取访问将被统计（&quot;Ir&quot;）。&lt;/p&gt;&lt;p&gt;高速缓存仿真，进一步的事件计数器被启用：&lt;ul&gt;&lt;li&gt;高速缓存未命中读指令(&quot;I1mr&quot;/&quot;I2mr&quot;)。&lt;/li&gt;&lt;li&gt;数据读访问(&quot;Dr&quot;)和相关高速缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)。&lt;/li&gt;&lt;li&gt;数据写访问(&quot;Dw&quot;)和相关高速缓存未命中(&quot;D1mw&quot;/&quot;D2mw&quot;)。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+=======
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行全缓存模拟。&lt;/p&gt;
+&lt;p&gt;默认情况下, 只有读取访问指令被计算在内 (&quot;Ir&quot;)。&lt;/p&gt;
+&lt;p&gt;
+缓存模拟情况下，更多事件计数器被启用：
+&lt;ul&gt;&lt;li&gt;缓存未命中的读取指令(&quot;I1mr&quot;/&quot;I2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据读取访问(&quot;Dr&quot;) 和相关的缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据写入指令 (&quot;Dw&quot;) 和相关的缓存未命中 (&quot;D1mw&quot;/&quot;D2mw&quot;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;/body&gt;&lt;/html&gt;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -67270,7 +67516,17 @@ With cache simulation, further event counters are enabled:
 &quot;Bc&quot;/&quot;Bcm&quot;).&lt;/li&gt;
 &lt;li&gt;Executed indirect jumps and related misses of the jump address predictor (
 &quot;Bi&quot;/&quot;Bim&quot;).&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
+<<<<<<< HEAD
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;分支预测仿真。&lt;/p&gt;&lt;p&gt;进一步的事件计数器启用：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;执行条件分支的数目和相关的预测失误(&quot;Bc&quot;/&quot;Bcm&quot;)。&lt;/li&gt;&lt;li&gt;执行的跳转地址预测的间接跳转和相关的未命中(&quot;Bi&quot;/&quot;Bim&quot;)。&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+=======
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行分支预测模拟。&lt;/p&gt;
+&lt;p&gt;更多事件计数器将被启用: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;多个执行的条件分支和相关的预测未命中(
+&quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;
+&lt;li&gt;执行的间接跳转和相关的跳转地址预测未命中(
+&quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -67280,22 +67536,38 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Show reachable and indirectly lost blocks</source>
+<<<<<<< HEAD
         <translation>显示直接和间接丢失块</translation>
+=======
+        <translation type="unfinished">显示可及和间接损失</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Check for leaks on finish:</source>
+<<<<<<< HEAD
         <translation>检查完成处泄漏：</translation>
+=======
+        <translation>结束时检查内存泄漏：</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Summary Only</source>
+<<<<<<< HEAD
         <translation>总结</translation>
+=======
+        <translation>仅汇总</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Full</source>
+<<<<<<< HEAD
         <translation>全</translation>
+=======
+        <translation>全部</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -67372,12 +67644,20 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/memcheck/memcheckrunner.cpp" line="+150"/>
         <source>XmlServer on %1:</source>
+<<<<<<< HEAD
         <translation>XmlServer在%1：</translation>
+=======
+        <translation>Xml服务 %1:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+9"/>
         <source>LogServer on %1:</source>
+<<<<<<< HEAD
         <translation>LogServer在%1：</translation>
+=======
+        <translation>日志服务%1：</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -67428,7 +67708,11 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+0"/>
         <source>Issue</source>
+<<<<<<< HEAD
         <translation>发布</translation>
+=======
+        <translation>问题</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+141"/>
@@ -67737,13 +68021,21 @@ With cache simulation, further event counters are enabled:
         <location line="+40"/>
         <source>%n bytes, last modified %1.</source>
         <translation>
+<<<<<<< HEAD
             <numerusform>%n个字节，最后修改时间%1。</numerusform>
+=======
+            <numerusform>%n 个字节, 最后修改时间 %1.</numerusform>
+>>>>>>> refs/remotes/jiangcaiyang/master
         </translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Cleaning &quot;%1&quot;</source>
+<<<<<<< HEAD
         <translation>正在清理&quot;%1&quot;</translation>
+=======
+        <translation>正在清理 %1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message numerus="yes">
         <source>%n bytes, last modified %1</source>
@@ -67934,13 +68226,23 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location/>
         <source>A file listing nicknames in a 4-column mailmap format:
 &apos;name &lt;email&gt; alias &lt;email&gt;&apos;.</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>一个列出用户名和电子邮件地址的文件，使用四列的邮件映射格式:
+名字 &lt;电子邮件&gt; 别名 &lt;email&gt;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Specifies a command that is executed to graphically prompt for a password,
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>指定一条执行图形化提示密码的命令，
+会在代码仓库要求 SSH 身份验证的时候用到。（查看 SSH 和环境变量 SSH_ASKPASS 的相关文档）。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -68124,7 +68426,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-628"/>
         <source>&amp;Describe Change %1</source>
+<<<<<<< HEAD
         <translation>描述（&amp;D）改变%1 </translation>
+=======
+        <translation>描述改变%1(&amp;D)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+861"/>
@@ -68206,12 +68512,20 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-22"/>
         <source>The file &quot;%1&quot; could not be deleted.</source>
+<<<<<<< HEAD
         <translation>文件&apos;%1&apos;无法被删除。</translation>
+=======
+        <translation>文件 &apos;%1&apos; 无法被删除。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+28"/>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
+<<<<<<< HEAD
         <translation>目录&quot;%1&quot;已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
+=======
+        <translation>目录 &apos;%1&apos; 已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+3"/>
@@ -68319,17 +68633,29 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+25"/>
         <source>The check script &quot;%1&quot; could not be started: %2</source>
+<<<<<<< HEAD
         <translation>检查脚本&quot;%1&quot;无法被启动：%2</translation>
+=======
+        <translation>检查脚本 &apos;%1&apos; 无法被启动: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+7"/>
         <source>The check script &quot;%1&quot; timed out.</source>
+<<<<<<< HEAD
         <translation>检查脚本&quot;%1&quot;超时。</translation>
+=======
+        <translation>检查脚本 &apos;%1&apos; 超时.</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>The check script &quot;%1&quot; crashed.</source>
+<<<<<<< HEAD
         <translation>检查脚本&quot;%1&quot;崩溃。</translation>
+=======
+        <translation>检查脚本 &apos;%1&apos; 崩溃.</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>The check script &apos;%1&apos; crashed.</source>
@@ -68376,13 +68702,21 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+43"/>
         <source>No version control set on &quot;VcsConfiguration&quot; page.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
+<<<<<<< HEAD
         <translation>没有版本控制设置&quot;vcsconfiguration&quot;页面。</translation>
+=======
+        <translation>“VcsConfiguration”页面上没有版本控制设置。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+9"/>
         <source>&quot;vcsId&quot; (&quot;%1&quot;) is invalid for &quot;VcsConfiguration&quot; page. Possible values are: %2.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
+<<<<<<< HEAD
         <translation>&quot;vcsid&quot;(&quot;%1&quot;)是无效的&quot;vcsconfiguration&quot;页面。可能的值是：%2。</translation>
+=======
+        <translation>“vcsId”(“%1”)在“VcsConfiguration”页面是无效的。可能的值是:%2。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+14"/>
@@ -68392,7 +68726,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+2"/>
         <source>No known version control selected.</source>
+<<<<<<< HEAD
         <translation>未知的版本控制选择。</translation>
+=======
+        <translation>没有任何已知的版本控制。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>Configure...</source>
@@ -68660,7 +68998,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+59"/>
         <source>Welcome Mode Load Error</source>
+<<<<<<< HEAD
         <translation>欢迎模式加载出错</translation>
+=======
+        <translation>欢迎模式加载错误</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <source>New Project</source>
@@ -69172,27 +69514,27 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/libs/timeline/qml/ButtonsBar.qml" line="+87"/>
         <source>Jump to previous event.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳到上一个事件。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Jump to next event.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳到下一个事件。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show zoom slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩放滑动条。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Select range.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择范围。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>View event information on mouseover.</source>
-        <translation type="unfinished"></translation>
+        <translation>在鼠标悬停时查看事件信息。</translation>
     </message>
 </context>
 <context>
@@ -69221,17 +69563,29 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/libs/utils/proxycredentialsdialog.ui"/>
         <source>Proxy Credentials</source>
+<<<<<<< HEAD
         <translation>Proxy证书</translation>
+=======
+        <translation>代理证书</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>The proxy %1 requires a username and password.</source>
+<<<<<<< HEAD
         <translation>Proxy %1需要用户名和密码。</translation>
+=======
+        <translation>代理服务器%1需要输入用户名和密码。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Username:</source>
+<<<<<<< HEAD
         <translation>用户名：</translation>
+=======
+        <translation>用户名:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -69241,7 +69595,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>Password:</source>
+<<<<<<< HEAD
         <translation>密码：</translation>
+=======
+        <translation>密码:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -69438,7 +69796,7 @@ APK在其他平台上不可使用。</translation>
     <message>
         <location/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;My device is missing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;我的设备是缺失&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;设备缺失&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -69521,43 +69879,43 @@ APK在其他平台上不可使用。</translation>
     <message>
         <location filename="../../../src/plugins/bazaar/uncommitdialog.ui"/>
         <source>Uncommit</source>
-        <translation type="unfinished"></translation>
+        <translation>未提交</translation>
     </message>
     <message>
         <location/>
         <source>Keep tags that point to removed revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>保留标记以表明删除修订版本</translation>
     </message>
     <message>
         <location/>
         <source>Only remove the commits from the local branch when in a checkout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只有在检查时，才将该文件从本地分支删除</translation>
     </message>
     <message>
         <location/>
         <source>Revision:</source>
-        <translation type="unfinished">修订版本:</translation>
+        <translation>修订版本:</translation>
     </message>
     <message>
         <location/>
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果指定一个修订版本,不提交修正离开分支在指定的修订版本。</translation>
     </message>
     <message>
         <location/>
         <source>Last committed</source>
-        <translation type="unfinished"></translation>
+        <translation>最后一次提交</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/bazaar/uncommitdialog.cpp" line="+48"/>
         <source>Dry Run</source>
-        <translation type="unfinished"></translation>
+        <translation>试运行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Test the outcome of removing the last committed revision, without actually removing anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>测试的结果是移除最后提交的版本,实际上不删除任何东西。</translation>
     </message>
 </context>
 <context>
@@ -69565,43 +69923,43 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Artistic Style command:</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术风格的命令:</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file *.astylerc defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>在项目文件中使用文件*.astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use file .astylerc or astylerc in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在目录下使用文件 .astylerc或astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用定制的风格:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.cpp" line="+97"/>
         <source>Artistic Style</source>
-        <translation type="unfinished"></translation>
+        <translation>艺术风格</translation>
     </message>
 </context>
 <context>
@@ -69609,42 +69967,42 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Clang Format command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use predefined style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预定义的风格:</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用定制的风格:</translation>
     </message>
     <message>
         <location/>
         <source>Format entire file if no text was selected. (For action Format Selected Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>如果没有选中文本则格式整个文件。(从活动的项目中选择文件)</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.cpp" line="+103"/>
         <source>Clang Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式</translation>
     </message>
 </context>
 <context>
@@ -69652,23 +70010,23 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationdialog.ui"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/beautifier/configurationdialog.cpp" line="+147"/>
         <source>Documentation</source>
-        <translation type="unfinished">文档</translation>
+        <translation>文档</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/configurationdialog.cpp" line="+2"/>
         <source>Documentation for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>文档&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -69676,32 +70034,32 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationpanel.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/configurationpanel.cpp" line="+87"/>
         <source>Add Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>添加配置</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Edit Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑配置</translation>
     </message>
 </context>
 <context>
@@ -69709,43 +70067,43 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Uncrustify command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>使用项目文件中定义的文件uncrustify.cfg</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在目录下使用文件 astylerc或astylerc</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自定义的风格:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.cpp" line="+97"/>
         <source>Uncrustify</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify</translation>
     </message>
 </context>
 <context>
@@ -71076,87 +71434,87 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/ButtonSpecifics.qml" line="+37"/>
         <source>Button</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Text displayed on the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>在按钮上显示文本。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>State of the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮的状态。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>可选的</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button is checkable or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定是否被选中按钮。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Enabled</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button is enabled or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定按钮是否可用。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Default button</source>
-        <translation type="unfinished"></translation>
+        <translation>默认按钮</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Sets the button as the default button in a dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置默认对话框中的按钮。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Tool tip</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The tool tip shown for the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>按钮显示提示。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the button gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后确定按钮获得焦点。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Icon source</source>
-        <translation type="unfinished"></translation>
+        <translation>图标源</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The URL of an icon resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个图标的URL资源。</translation>
     </message>
 </context>
 <context>
@@ -71179,7 +71537,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+11"/>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -71189,12 +71547,12 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+16"/>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the check box gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后复选框获得焦点。</translation>
     </message>
 </context>
 <context>
@@ -71889,32 +72247,57 @@ Are you sure you want to continue?</source>
     <message>
         <location/>
         <source>Check interval basis:</source>
+<<<<<<< HEAD
         <translation>检查更新周期：</translation>
+=======
+        <translatorcomment>Not sure</translatorcomment>
+        <translation>定期检查更新:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Qt Creator automatically runs a scheduled check for updates on a time interval basis. If Qt Creator is not in use on the scheduled date, the automatic check for updates will be performed next time Qt Creator starts.</source>
+<<<<<<< HEAD
         <translation>Qt Creator将在设定更新周期自动运行定期检查。如果在预定的日期没有使用Qt Creator，将在下一次Qt Creator运行时启动自动更新检查。</translation>
+=======
+        <translation>Qt Creator 自动定期检查更新。如果没有在默认定期使用Qt Creator, 自动更新检查将会在您下一次打开Qt Creator的时候进行。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Next check date:</source>
+<<<<<<< HEAD
         <translation>下次检查日期：</translation>
+=======
+        <translation>下一次检查跟新:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Last check date:</source>
+<<<<<<< HEAD
         <translation>上次检查日期：</translation>
+=======
+        <translation>前一次检查更新:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Not checked yet</source>
+<<<<<<< HEAD
         <translation>尚未检查</translation>
+=======
+        <translation>现未检查更新</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Check Now</source>
+<<<<<<< HEAD
         <translation>立即检查</translation>
+=======
+        <translation>现在检查更新</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -71927,7 +72310,11 @@ Are you sure you want to continue?</source>
     <message>
         <location/>
         <source>Descriptio&amp;n</source>
+<<<<<<< HEAD
         <translation>说明(&amp;n)</translation>
+=======
+        <translation>说明(&amp;N)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
@@ -71943,7 +72330,11 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.cpp" line="+504"/>
         <source>%1 %2/%n File(s)</source>
         <translation>
+<<<<<<< HEAD
             <numerusform>%1 %2/%n文件</numerusform>
+=======
+            <numerusform>%1 %2/%n 文件</numerusform>
+>>>>>>> refs/remotes/jiangcaiyang/master
         </translation>
     </message>
     <message>
@@ -71961,7 +72352,11 @@ Are you sure you want to continue?</source>
         <location line="+2"/>
         <source>Unselect All</source>
         <extracomment>Uncheck all for submit</extracomment>
+<<<<<<< HEAD
         <translation>取消选择</translation>
+=======
+        <translation>取消全选</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -71969,12 +72364,20 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstepwidget.ui"/>
         <source>Arguments:</source>
+<<<<<<< HEAD
         <translation>参数：</translation>
+=======
+        <translation>参数:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Restore Default Arguments</source>
+<<<<<<< HEAD
         <translation>恢复默认参数</translation>
+=======
+        <translation>重置到默认参数</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -71982,12 +72385,20 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.ui"/>
         <source>Arguments:</source>
+<<<<<<< HEAD
         <translation>参数：</translation>
+=======
+        <translation>参数:</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location/>
         <source>Uninstall package after stop</source>
+<<<<<<< HEAD
         <translation>停止后卸载包</translation>
+=======
+        <translation>卸载包后停止</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.cpp" line="+44"/>
@@ -72459,7 +72870,11 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="+37"/>
         <source>Window</source>
+<<<<<<< HEAD
         <translation>窗口</translation>
+=======
+        <translation>控件</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+4"/>
@@ -72469,7 +72884,11 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+15"/>
         <source>Size</source>
+<<<<<<< HEAD
         <translation>尺寸</translation>
+=======
+        <translation>大小</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+39"/>
@@ -73840,7 +74259,11 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/hostosinfo.cpp" line="+92"/>
         <source>Cannot create OpenGL context.</source>
+<<<<<<< HEAD
         <translation>无法创建OpenGL上下文。</translation>
+=======
+        <translation>无法创建OpenGL环境。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -73848,37 +74271,65 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/macroexpander.cpp" line="+290"/>
         <source>Infinite recursion error</source>
+<<<<<<< HEAD
         <translation>无穷递归错误</translation>
+=======
+        <translation>无限递归错误</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+83"/>
         <source>%1: Full path including file name.</source>
+<<<<<<< HEAD
         <translation>%1：完整路径包括文件名。</translation>
+=======
+        <translation>%1: 包含文件名的完整路径。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>%1: Full path excluding file name.</source>
+<<<<<<< HEAD
         <translation>%1：完整路径不包括文件名。</translation>
+=======
+        <translation>%1: 不包含文件名的完整路径。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>%1: Full path including file name, with native path separator (backslash on Windows).</source>
+<<<<<<< HEAD
         <translation>%1：完整路径包括文件名，带本地路径分隔符(反斜杠Windows系统)。</translation>
+=======
+        <translation>%1: 包含文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>%1: Full path excluding file name, with native path separator (backslash on Windows).</source>
+<<<<<<< HEAD
         <translation>%1：完整路径不包括文件名，带本地路径分隔符(反斜杠Windows系统)。</translation>
+=======
+        <translation>%1: 不包含文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>%1: File name without path.</source>
+<<<<<<< HEAD
         <translation>%1：无路径文件名。</translation>
+=======
+        <translation>%1: 不带路径的文件名。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>%1: File base name without path and suffix.</source>
+<<<<<<< HEAD
         <translation>%1：没有路径和后缀的文件名。</translation>
+=======
+        <translation>%1: 不带路径和后缀名的文件基本名。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+75"/>
@@ -73906,7 +74357,11 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+333"/>
         <source>Error: Executable timed out after %1 s.</source>
+<<<<<<< HEAD
         <translation>错误:可执行档在%1秒后超时。</translation>
+=======
+        <translation>错误:可执行档在 %1 秒后超时。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -73914,7 +74369,11 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/utils/shellcommandpage.cpp" line="+56"/>
         <source>Command started...</source>
+<<<<<<< HEAD
         <translation>启动命令...</translation>
+=======
+        <translation>命令开始执行...</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+15"/>
@@ -73924,7 +74383,11 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+17"/>
         <source>No job running, please abort.</source>
+<<<<<<< HEAD
         <translation>没有运行中的任务，请退出。</translation>
+=======
+        <translation>没有正在运行的任务，请退出。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+31"/>
@@ -74577,17 +75040,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalconstants.h" line="+44"/>
         <source>BareMetal</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverprovider.cpp" line="+351"/>
         <source>Enter GDB commands to reset the board and to write the nonvolatile memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入gdb命令重置板和写入非易失性存储器。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter GDB commands to reset the hardware. The MCU should be halted after these commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB命令重置硬件。执行命令后单片机应该停止运行。</translation>
     </message>
 </context>
 <context>
@@ -74595,17 +75058,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalcustomrunconfiguration.cpp" line="+66"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Work directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>工作目录:</translation>
     </message>
 </context>
 <context>
@@ -74613,12 +75076,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+77"/>
         <source>The remote executable must be set in order to run a custom remote run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>远程可执行文件必须配置自定义运行设置。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Custom Executable (on GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义可执行文件(GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -74626,17 +75089,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldebugsupport.cpp" line="+110"/>
         <source>Debugging failed.</source>
-        <translation type="unfinished">调试失败。</translation>
+        <translation>调试失败。</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Initial setup failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>初始设置失败:%1</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Starting GDB server...</source>
-        <translation type="unfinished"></translation>
+        <translation>启动GDB服务...</translation>
     </message>
 </context>
 <context>
@@ -74644,7 +75107,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldevice.cpp" line="+120"/>
         <source>Bare Metal</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机</translation>
     </message>
 </context>
 <context>
@@ -74652,7 +75115,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationfactory.cpp" line="+52"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机设备</translation>
     </message>
 </context>
 <context>
@@ -74660,7 +75123,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwidget.cpp" line="+58"/>
         <source>GDB server provider:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商：</translation>
     </message>
 </context>
 <context>
@@ -74668,7 +75131,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwizard.cpp" line="+46"/>
         <source>New Bare Metal Device Configuration Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>新裸机设备配置</translation>
     </message>
 </context>
 <context>
@@ -74676,22 +75139,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetaldeviceconfigurationwizardpages.cpp" line="+50"/>
         <source>Set up GDB Server or Hardware Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>设置GDB服务器或硬件调试器</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>GDB server provider:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商：</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Bare Metal Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裸机设备</translation>
     </message>
 </context>
 <context>
@@ -74699,7 +75162,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalgdbcommandsdeploystep.cpp" line="+48"/>
         <source>GDB commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 命令：</translation>
     </message>
 </context>
 <context>
@@ -74707,7 +75170,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+76"/>
         <source>GDB commands</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB 命令</translation>
     </message>
 </context>
 <context>
@@ -74715,13 +75178,13 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfiguration.cpp" line="+134"/>
         <source>%1 (via GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (通过GDB服务器或硬件调试器)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run on GDB server or hardware debugger</source>
         <extracomment>Bare Metal run configuration default run name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器上运行或硬件调试</translation>
     </message>
 </context>
 <context>
@@ -74729,7 +75192,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfigurationfactory.cpp" line="+110"/>
         <source>%1 (on GDB server or hardware debugger)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -74737,27 +75200,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfigurationwidget.cpp" line="+117"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;default&gt;</source>
-        <translation type="unfinished">&lt;默认&gt;</translation>
+        <translation>&lt;默认&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录:</translation>
+        <translation>工作目录:</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
@@ -74765,22 +75228,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalruncontrolfactory.cpp" line="+96"/>
         <source>Cannot debug: Local executable is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:本地的可执行文件未设置。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot debug: Could not find executable for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:无法找到可执行文件“%1”。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot debug: Kit has no device.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试：工具没有设备。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot debug: Device has no GDB server provider configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调试:设备没有GDB服务器提供商的配置。</translation>
     </message>
 </context>
 <context>
@@ -74789,7 +75252,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/defaultgdbserverprovider.cpp" line="+87"/>
         <location line="+61"/>
         <source>Default</source>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
 </context>
 <context>
@@ -74797,17 +75260,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
 </context>
 <context>
@@ -74815,7 +75278,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverprovider.cpp" line="-283"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1 的克隆</translation>
     </message>
 </context>
 <context>
@@ -74823,37 +75286,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+161"/>
         <source>Enter the name of the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB的名称服务器提供商。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Choose the desired startup mode of the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择所需的启动模式的GDB服务器提供商。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Startup mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>启动模式:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>No Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>不能启动</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Startup in TCP/IP Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在TCP/IP模式启动</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Startup in Pipe Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在管道模式下启动</translation>
     </message>
 </context>
 <context>
@@ -74861,12 +75324,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+51"/>
         <source>Enter TCP/IP hostname of the GDB server provider, like &quot;localhost&quot; or &quot;192.0.2.1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入GDB服务器提供商的TCP/IP主机，例如“localhost”或“192.0.2.1”。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enter TCP/IP port which will be listened by the GDB server provider.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入TCP/IP端口将监听GDB服务器提供商。</translation>
     </message>
 </context>
 <context>
@@ -74874,12 +75337,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverproviderchooser.cpp" line="+53"/>
         <source>Manage...</source>
-        <translation type="unfinished">管理...</translation>
+        <translation>管理...</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -74887,22 +75350,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/gdbserverproviderssettingspage.cpp" line="+104"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Duplicate Providers Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到重复的供应商</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The following providers were already configured:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;They were not configured again.</source>
-        <translation type="unfinished"></translation>
+        <translation>供应商已经配置:&lt;br&gt;%1&lt;br&gt;,他们不会再配置。</translation>
     </message>
 </context>
 <context>
@@ -74910,22 +75373,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+113"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+143"/>
         <source>GDB Server Providers</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB服务器提供商</translation>
     </message>
 </context>
 <context>
@@ -74934,7 +75397,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/openocdgdbserverprovider.cpp" line="+98"/>
         <location line="+134"/>
         <source>OpenOCD</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenOCD</translation>
     </message>
 </context>
 <context>
@@ -74942,37 +75405,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Executable file:</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行文件：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Root scripts directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>根脚本目录:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Configuration file:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Additional arguments:</source>
-        <translation type="unfinished">额外的参数:</translation>
+        <translation>额外的参数:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
 </context>
 <context>
@@ -74981,7 +75444,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/baremetal/stlinkutilgdbserverprovider.cpp" line="+101"/>
         <location line="+123"/>
         <source>ST-LINK Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK效用</translation>
     </message>
 </context>
 <context>
@@ -74989,72 +75452,72 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Executable file:</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行文件：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Specify the verbosity level (0..99).</source>
-        <translation type="unfinished"></translation>
+        <translation>指定的详细程度(0..99)。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verbosity level:</source>
-        <translation type="unfinished"></translation>
+        <translation>详细程度：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Continue listening for connections after disconnect.</source>
-        <translation type="unfinished"></translation>
+        <translation>断开连接后继续监听连接。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Extended mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展状态：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset board on connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>重置连接板。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset on connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置连接:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Transport layer type.</source>
-        <translation type="unfinished"></translation>
+        <translation>传输层类型。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Init commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化命令：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>重置命令：</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>ST-LINK/V1</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>ST-LINK/V2</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V2</translation>
     </message>
 </context>
 <context>
@@ -75062,12 +75525,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bazaar/bazaareditor.cpp" line="+49"/>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>注释 &quot;%1&quot;(&amp;A)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation type="unfinished"></translation>
+        <translation>注释父修订版本%1(&amp;p)</translation>
     </message>
 </context>
 <context>
@@ -75113,7 +75576,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/beautifierconstants.h" line="+42"/>
         <source>Beautifier</source>
-        <translation type="unfinished"></translation>
+        <translation>美化器</translation>
     </message>
 </context>
 <context>
@@ -75121,67 +75584,67 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/beautifierplugin.cpp" line="+151"/>
         <source>Cannot create temporary file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在创建临时文件 &quot;%1&quot;: %2。</translation>
     </message>
     <message>
         <location line="+14"/>
         <location line="+23"/>
         <location line="+9"/>
         <source>Cannot call %1 or some other error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调用%1或其他错误发生。</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>Cannot read file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”:%2。</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>File was modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件被修改。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Time out reached while formatting file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>时间到时格式化文件%1。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could not format file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法格式化文件 %1 。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>File %1 was closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件%1被关闭。</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Error in Beautifier: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>美化器错误:%1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot get configuration file for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获取配置文件%1。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Format Current File</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>当前文件格式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Format Selected Text</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>选中的文本格式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1 Command</source>
         <extracomment>File dialog title for path chooser when choosing binary</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>命令%1</translation>
     </message>
 </context>
 <context>
@@ -75197,127 +75660,127 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bineditor/bineditor.cpp" line="+1140"/>
         <source>Memory at 0x%1</source>
-        <translation type="unfinished"></translation>
+        <translation> 0x%1 处的内存</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation type="unfinished">十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation type="unfinished">十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1-bit&amp;nbsp;Integer&amp;nbsp;Type</source>
-        <translation type="unfinished">%1-bit&amp;nbsp;整数&amp;nbsp;类型</translation>
+        <translation>%1-bit&amp;nbsp;整数&amp;nbsp;类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Little Endian</source>
-        <translation type="unfinished">Little Endian</translation>
+        <translation>小端</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Big Endian</source>
-        <translation type="unfinished">Big Endian</translation>
+        <translation>大端</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Binary&amp;nbsp;value:</source>
-        <translation type="unfinished">二进制&amp;nbsp;数值:</translation>
+        <translation>二进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Octal&amp;nbsp;value:</source>
-        <translation type="unfinished">八进制&amp;nbsp;数值:</translation>
+        <translation>八进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Previous&amp;nbsp;binary&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;二进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;二进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Previous&amp;nbsp;octal&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&amp;nbsp;八进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;八进制&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation type="unfinished">上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
     </message>
     <message>
         <location line="+139"/>
         <source>Copying Failed</source>
-        <translation type="unfinished">复制失败</translation>
+        <translation>复制失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You cannot copy more than 4 MB of binary data.</source>
-        <translation type="unfinished">您不能复制超过 4 MB 的二进制数据。</translation>
+        <translation>您不能复制超过 4 MB 的二进制数据。</translation>
     </message>
     <message>
         <location line="+110"/>
         <source>Copy Selection as ASCII Characters</source>
-        <translation type="unfinished">复制选中部分作为 ASCII 字符串</translation>
+        <translation>复制选中部分作为 ASCII 字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy Selection as Hex Values</source>
-        <translation type="unfinished">复制选中部分作为十六进制值</translation>
+        <translation>复制选中部分作为十六进制值</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Set Data Breakpoint on Selection</source>
-        <translation type="unfinished">选中时设置数据断点</translation>
+        <translation>选中时设置数据断点</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Jump to Address in This Window</source>
-        <translation type="unfinished">在当前窗口中跳转到地址</translation>
+        <translation>在当前窗口中跳转到地址</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Jump to Address in New Window</source>
-        <translation type="unfinished">在新窗口中跳转到地址</translation>
+        <translation>在新窗口中跳转到地址</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Jump to Address 0x%1 in This Window</source>
-        <translation type="unfinished">在当前窗口中跳转到地址 0x%1</translation>
+        <translation>在当前窗口中跳转到地址 0x%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Jump to Address 0x%1 in New Window</source>
-        <translation type="unfinished">在新窗口中跳转到地址 0x%1</translation>
+        <translation>在新窗口中跳转到地址 0x%1</translation>
     </message>
 </context>
 <context>
@@ -75325,7 +75788,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bineditor/bineditorplugin.cpp" line="+282"/>
         <source>The Binary Editor cannot open empty files.</source>
-        <translation type="unfinished">二进制编辑无法打开空文件。</translation>
+        <translation>二进制编辑无法打开空文件。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -75333,18 +75796,18 @@ Install an SDK of at least API version %1.</source>
         <location line="+14"/>
         <location line="+21"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>The file is too big for the Binary Editor (max. 2GB).</source>
-        <translation type="unfinished"></translation>
+        <translation>这个文件对二进制编辑器来说太大了(最大2GB)。</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+27"/>
         <source>Cannot open %1: %2</source>
-        <translation type="unfinished">无法打开%1 : %2</translation>
+        <translation>无法打开%1 : %2</translation>
     </message>
 </context>
 <context>
@@ -75352,12 +75815,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+177"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -75365,17 +75828,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/bookmarks/bookmarkmanager.cpp" line="-147"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Note text:</source>
-        <translation type="unfinished"></translation>
+        <translation>注释文本:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line number:</source>
-        <translation type="unfinished">行号:</translation>
+        <translation>行号:</translation>
     </message>
 </context>
 <context>
@@ -75383,17 +75846,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangcodemodelplugin.cpp" line="+69"/>
         <source>Clang Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang设置</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangprojectsettingspropertiespage.cpp" line="+118"/>
         <source>Header Files (*.h)</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件 (*.h)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">所有文件 (*)</translation>
+        <translation>所有文件 (*)</translation>
     </message>
 </context>
 <context>
@@ -75402,7 +75865,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangcompletionassistprocessor.cpp" line="+606"/>
         <source>Location: %1</source>
         <extracomment>Parent folder for proposed #include completion</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>位置：%1</translation>
     </message>
 </context>
 <context>
@@ -75410,7 +75873,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangindexer.cpp" line="+168"/>
         <source>Parsing C/C++/ObjC Files</source>
-        <translation type="unfinished"></translation>
+        <translation>解析 C/C++/ObjC 文件</translation>
     </message>
 </context>
 <context>
@@ -75419,7 +75882,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/clangcodemodel/clangmodelmanagersupport.cpp" line="+362"/>
         <source>Clang</source>
         <extracomment>Display name</extracomment>
-        <translation type="unfinished">Clang</translation>
+        <translation>Clang</translation>
     </message>
 </context>
 <context>
@@ -75427,27 +75890,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/diagnostic.cpp" line="+56"/>
         <source>ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>note</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>fatal</source>
-        <translation type="unfinished"></translation>
+        <translation>致命错误</translation>
     </message>
 </context>
 <context>
@@ -75455,17 +75918,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/pchmanager.cpp" line="+110"/>
         <source>Successfully generated PCH file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>成功生成的PCH文件“%1”。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Failed to generate PCH file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>未能生成PCH文件“%1”。</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Precompiling</source>
-        <translation type="unfinished"></translation>
+        <translation>预编译</translation>
     </message>
 </context>
 <context>
@@ -75473,7 +75936,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clearcase/clearcaseeditor.cpp" line="+59"/>
         <source>Annotate version &quot;%1&quot;</source>
-        <translation type="unfinished">注释版本 &quot;%1&quot;</translation>
+        <translation>注释版本 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -75481,17 +75944,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakekitconfigwidget.cpp" line="+88"/>
         <source>CMake Tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake工具：</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>The CMake Tool to use when building a project with CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake工具构建CMake的项目时。&lt;br&gt;使用其他构建系统时该设置将被忽略。</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>&lt;No CMake Tool available&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;没有CMake工具&gt;</translation>
     </message>
 </context>
 <context>
@@ -75548,12 +76011,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakepreloadcachekitconfigwidget.cpp" line="+63"/>
         <source>CMake preload file:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake预加载文件:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The preload cache file to use when running cmake on the project.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用cmake的项目时预加载缓存文件。&lt;br&gt;使用其他构建系统时该设置将被忽略。</translation>
     </message>
 </context>
 <context>
@@ -75561,7 +76024,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakepreloadcachekitinformation.cpp" line="+81"/>
         <source>CMake Preload</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake预加载</translation>
     </message>
 </context>
 <context>
@@ -75569,7 +76032,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeproject.cpp" line="+551"/>
         <source>Internal Error: No build configuration found in settings file.</source>
-        <translation type="unfinished"></translation>
+        <translation>部错误:没有在构建配置中中发现设置文件。</translation>
     </message>
 </context>
 <context>
@@ -75577,37 +76040,37 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="-419"/>
         <source> (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(默认)</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Auto-detected</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Manual</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location line="+189"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Path:</source>
-        <translation type="unfinished">路径:</translation>
+        <translation>路径:</translation>
     </message>
 </context>
 <context>
@@ -75615,22 +76078,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+44"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Make Default</source>
-        <translation type="unfinished">设置为默认</translation>
+        <translation>设置为默认</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -75659,12 +76122,12 @@ Install an SDK of at least API version %1.</source>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmaketoolmanager.cpp" line="+144"/>
         <location line="+117"/>
         <source>CMake at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 在 %1</translation>
     </message>
     <message>
         <location line="-66"/>
         <source>System CMake at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>系统CMake在 %1</translation>
     </message>
 </context>
 <context>
@@ -77356,7 +77819,11 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppvirtualfunctionassistprovider.cpp" line="+137"/>
         <source>...searching overrides</source>
+<<<<<<< HEAD
         <translation>...查找覆盖</translation>
+=======
+        <translation>...搜索覆盖</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -82403,22 +82870,38 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/settingsaccessor.cpp" line="-379"/>
         <source>No Valid Settings Found</source>
+<<<<<<< HEAD
         <translation>没有找到有效设置</translation>
+=======
+        <translation>没有找到可用的设置</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;No valid settings file could be found.&lt;/p&gt;&lt;p&gt;All settings files found in directory &quot;%1&quot; were either too new or too old to be read.&lt;/p&gt;</source>
+<<<<<<< HEAD
         <translation>&lt;p&gt;没有找到有效的配置文件。&lt;/p&gt;&lt;p&gt;在目录&quot;%1&quot;中的所有设置文件太新或太旧不能被读取。&lt;/p&gt;</translation>
+=======
+        <translation>&lt;p&gt;没有找到可用的设置。&lt;/p&gt;&lt;p&gt;&quot;%1&quot;中所有的设置文件可能因太新或太旧而无法读取&lt;/p&gt;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+7"/>
         <source>Using Old Settings</source>
+<<<<<<< HEAD
         <translation>使用以前的设置</translation>
+=======
+        <translation>使用原先的设置</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;The versioned backup &quot;%1&quot; of the settings file is used, because the non-versioned file was created by an incompatible version of Qt Creator.&lt;/p&gt;&lt;p&gt;Settings changes made since the last time this version of Qt Creator was used are ignored, and changes made now will &lt;b&gt;not&lt;/b&gt; be propagated to the newer version.&lt;/p&gt;</source>
+<<<<<<< HEAD
         <translation>&lt;p&gt;备份版本&quot;%1&quot;的配置文件已使用，因为是不兼容的Qt Created版本创建的非版本化文件。&lt;/P&gt;&lt;P&gt;自上次使用的Qt Creator版本中的设置修改被忽略了，现在将&lt;b&gt;不&lt;/b&gt;使用到较新的版本中。&lt;/p&gt;</translation>
+=======
+        <translation>&lt;p&gt;已使用一个带版本号的设置文件的备份&quot;%1&quot;, 因为不带版本号的文件由不兼容的新版 Qt Creator 创建。&lt;/p&gt;&lt;p&gt;在该版本的Qt Creator上次被使用时进行的设定更改被忽略，现在进行的修改将&lt;b&gt;不会&lt;/b&gt;被传递到新版本。&lt;/p&gt;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85596,22 +86079,38 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+43"/>
         <source>New updates are available.</source>
+<<<<<<< HEAD
         <translation>有可用更新。</translation>
+=======
+        <translation>有可用的更新。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>No new updates are available.</source>
+<<<<<<< HEAD
         <translation>没有可用更新。</translation>
+=======
+        <translation>没有可用的更新。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+24"/>
         <source>Checking for updates...</source>
+<<<<<<< HEAD
         <translation>检查更新...</translation>
+=======
+        <translation>正在检查更新...</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+14"/>
         <source>Not checked yet</source>
+<<<<<<< HEAD
         <translation>尚未检查更新</translation>
+=======
+        <translation>现未检查更新</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85672,17 +86171,29 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindengine.cpp" line="+91"/>
         <source>Valgrind options: %1</source>
+<<<<<<< HEAD
         <translation>Valgrind选项：%1</translation>
+=======
+        <translation>Valgrind 选项: %1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory: %1</source>
+<<<<<<< HEAD
         <translation>工作目录：%1</translation>
+=======
+        <translation>工作目录: %1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>Command line arguments: %1</source>
+<<<<<<< HEAD
         <translation>命令行参数：%1</translation>
+=======
+        <translation>命令行的参数:%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+75"/>
@@ -85692,12 +86203,20 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+21"/>
         <source>Error: &quot;%1&quot; could not be started: %2</source>
+<<<<<<< HEAD
         <translation>错误：&quot;%1&quot;无法被启动：%2</translation>
+=======
+        <translation>错误: &quot;%1&quot; 无法被启动: %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
         <source>Error: no Valgrind executable set.</source>
+<<<<<<< HEAD
         <translation>*错误：没有设置valgrind的可执行档。</translation>
+=======
+        <translation>错误:没有可执行的 valgrind。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+2"/>
@@ -85718,43 +86237,76 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+62"/>
         <source>Valgrind Function Profile uses the Callgrind tool to record function calls when a program runs.</source>
+<<<<<<< HEAD
         <translation>Valgrind分析函数使用Callgrind工具记录函数调用在程序运行时。</translation>
+=======
+        <translation>Valgrind 分析器使用了&quot;callgrind&quot; 工具来记录程序运行时的函数调用。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+3"/>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
+<<<<<<< HEAD
         <translation>Valgrind分析内存使用&quot;memcheck&quot;工具来查找内存泄漏。</translation>
+=======
+        <translation>Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+25"/>
         <source>Valgrind Memory Analyzer</source>
+<<<<<<< HEAD
         <translation>Valgrind内存分析器</translation>
+=======
+        <translation>Valgrind 内存分析器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+16"/>
         <source>Valgrind Memory Analyzer with GDB</source>
+<<<<<<< HEAD
         <translation>Valgrind带GDB内存分析器</translation>
+=======
+        <translation>GDB Valgrind 内存分析器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
+<<<<<<< HEAD
         <translation>Valgrind带GDB内存分析使用Memcheck工具查找内存泄漏。当检测到问题时，该应用程序将被中断并可以进行调试。</translation>
+=======
+        <translation>GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
+</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+14"/>
         <source>Valgrind Function Profiler</source>
+<<<<<<< HEAD
         <translation>Valgrind函数分析器</translation>
+=======
+        <translation>Valgrind 功能分析器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+20"/>
         <source>Valgrind Memory Analyzer (External Remote Application)</source>
+<<<<<<< HEAD
         <translation>Valgrind内存分析器(外部远程应用)</translation>
+=======
+        <translation>Valgrind 内存分析器(外部远程应用程序)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+19"/>
         <source>Valgrind Function Profiler (External Remote Application)</source>
+<<<<<<< HEAD
         <translation>Valgrind函数分析器(外部远程应用)</translation>
+=======
+        <translation>Valgrind 功能分析器(外部远程应用程序)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+11"/>
@@ -85791,7 +86343,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsoutputwindow.cpp" line="+194"/>
         <source>Open &quot;%1&quot;</source>
+<<<<<<< HEAD
         <translation>打开&quot;%1&quot;</translation>
+=======
+        <translation>打开 &quot;%1&quot;</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+7"/>
@@ -85806,12 +86362,20 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+124"/>
         <source>Executing: %1 %2</source>
+<<<<<<< HEAD
         <translation>执行：%1 %2</translation>
+=======
+        <translation>执行:%1 %2</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+1"/>
         <source>Executing in %1: %2 %3</source>
+<<<<<<< HEAD
         <translation>正在%1中执行：%2 %3</translation>
+=======
+        <translation>正在 %1 中执行: %2 %3</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85819,7 +86383,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsplugin.cpp" line="+108"/>
         <source>Name of the version control system in use by the current project.</source>
+<<<<<<< HEAD
         <translation>当前项目使用的版本控制系统的名称。</translation>
+=======
+        <translation>在当前项目使用版本控制系统的名称。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+9"/>
@@ -85829,7 +86397,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+10"/>
         <source>The top level path to the repository the current project is in.</source>
+<<<<<<< HEAD
         <translation>位于当前项目中的存储库的顶层路径。</translation>
+=======
+        <translation type="unfinished">当前项目中的存储库的顶层路径是。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85884,28 +86456,48 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; (%2) not found.</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;(%2)未找到。</translation>
+=======
+        <translation>&quot;%1&quot; (%2)未找到.</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; is not configured.</source>
+<<<<<<< HEAD
         <translation>未配置版本控制&quot;%1&quot;。</translation>
+=======
+        <translation>版本控制“%1”未配置。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; does not support initial checkouts.</source>
+<<<<<<< HEAD
         <translation>版本控制&quot;%1&quot;不支持初始检验。</translation>
+=======
+        <translation>版本控制“%1”不支持初始检出。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <location line="+16"/>
         <source>&quot;%1&quot; is empty when trying to run checkout.</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;为空尝试运行检验。</translation>
+=======
+        <translation>尝试检出时%1是空的。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="-8"/>
         <source>&quot;%1&quot; (%2) does not exist.</source>
+<<<<<<< HEAD
         <translation>&quot;%1&quot;(%2)不存在。</translation>
+=======
+        <translation>“%1”(%2)不存在。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85913,27 +86505,47 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdebugsupport.cpp" line="+84"/>
         <source>The WinRT debugging helper is missing from your Qt Creator installation. It was assumed to be located at %1</source>
+<<<<<<< HEAD
         <translation>从无法在你的Qt Creator安装位置找到WinRT的调试助手。它被假定为位于%1</translation>
+=======
+        <translation>在Qt Creator中缺少WinRT调试助手。它假定位于%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot start the WinRT Runner Tool.</source>
+<<<<<<< HEAD
         <translation>无法启动的WinRT运行工具。</translation>
+=======
+        <translation>无法启动WinRT运行工具。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot establish connection to the WinRT debugging helper.</source>
+<<<<<<< HEAD
         <translation>无法连接到WinRT调试助手。</translation>
+=======
+        <translation>无法与WinRT调试助手建立连接。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot extract the PID from the WinRT debugging helper. (output: %1)</source>
+<<<<<<< HEAD
         <translation>无法从WinRT调试助手提取PID。(输出：%1)</translation>
+=======
+        <translation>无法从WinRT调试助手中获取PID。(输出:%1)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+16"/>
         <source>Cannot create an appropriate run control for the current run configuration.</source>
+<<<<<<< HEAD
         <translation>无法为当前运行配置创建一个适当的运行控制。</translation>
+=======
+        <translation>无法为当前运行的配置创建一个合适的运行控制。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85946,12 +86558,20 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone</source>
+<<<<<<< HEAD
         <translation>部署到Windows Phone</translation>
+=======
+        <translation>不部署到Windows Phone</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone Emulator</source>
+<<<<<<< HEAD
         <translation>部署到Windows Phone Emulator</translation>
+=======
+        <translation>部署到Windows Phone模拟器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85959,7 +86579,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+99"/>
         <source>Run windeployqt</source>
+<<<<<<< HEAD
         <translation>运行windeployqt</translation>
+=======
+        <translation></translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85967,7 +86591,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevice.cpp" line="+122"/>
         <source>Windows Runtime (Local)</source>
+<<<<<<< HEAD
         <translation>Windows Runtime(本地)</translation>
+=======
+        <translation>Windows运行环境(本地)</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+3"/>
@@ -85977,7 +86605,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+3"/>
         <source>Windows Phone Emulator</source>
+<<<<<<< HEAD
         <translation>Windows Phone Emulator</translation>
+=======
+        <translation>Windows Phone模拟器</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -85985,17 +86617,29 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevicefactory.cpp" line="+101"/>
         <source>Running Windows Runtime device detection.</source>
+<<<<<<< HEAD
         <translation>运行Windows Runtime设备检测。</translation>
+=======
+        <translation>运行Windows运行环境设备检测。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+3"/>
         <source>No winrtrunner.exe found.</source>
+<<<<<<< HEAD
         <translation>没有发现winrtrunner.exe。</translation>
+=======
+        <translation>没有找到 winrtrunner.exe。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+34"/>
         <source>Error while executing winrtrunner: %1</source>
+<<<<<<< HEAD
         <translation>执行winrtrunner出错：%1</translation>
+=======
+        <translation>执行winrtrunner时发生错误:%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+12"/>
@@ -86005,20 +86649,32 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+105"/>
         <source>Windows Runtime local UI</source>
+<<<<<<< HEAD
         <translation>Windows Runtime本地用户界面</translation>
+=======
+        <translation>Windows运行时的本地用户界面</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message numerus="yes">
         <location line="+30"/>
         <source>Found %n Windows Runtime devices.</source>
         <translation>
+<<<<<<< HEAD
             <numerusform>发现%nWindows Runtime设备。</numerusform>
+=======
+            <numerusform>发现%n个Windows运行时设备。</numerusform>
+>>>>>>> refs/remotes/jiangcaiyang/master
         </translation>
     </message>
     <message numerus="yes">
         <location line="+3"/>
         <source>%n of them are new.</source>
         <translation>
+<<<<<<< HEAD
             <numerusform>其中%n个是最新的。</numerusform>
+=======
+            <numerusform>其中%n个是新的。</numerusform>
+>>>>>>> refs/remotes/jiangcaiyang/master
         </translation>
     </message>
 </context>
@@ -86032,22 +86688,38 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+21"/>
         <source>No executable to deploy found in %1.</source>
+<<<<<<< HEAD
         <translation>无法找到可执行部署在%1。</translation>
+=======
+        <translation>在%1没有发现可部署的设备。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+53"/>
         <source>Cannot parse manifest file %1.</source>
+<<<<<<< HEAD
         <translation>无法解析清单文件%1。</translation>
+=======
+        <translation>无法解析文件%1。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+58"/>
         <source>File %1 is outside of the executable&apos;s directory. These files cannot be installed.</source>
+<<<<<<< HEAD
         <translation>文件%1在可执行目录之外。无法安装这些文件。</translation>
+=======
+        <translation>文件%1以外的可执行文件的目录。这些文件不能被安装。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot open mapping file %1 for writing.</source>
+<<<<<<< HEAD
         <translation>无法打开用于写入的映射文件%1。</translation>
+=======
+        <translation>无法打开用于写入的文件%1。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -86055,12 +86727,20 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtphoneqtversion.cpp" line="+52"/>
         <source>Windows Phone</source>
+<<<<<<< HEAD
         <translation>Windows Phone</translation>
+=======
+        <translation></translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtqtversion.cpp" line="+64"/>
         <source>Windows Runtime</source>
+<<<<<<< HEAD
         <translation>Windows Runtime</translation>
+=======
+        <translation>Windows运行环境</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -86068,7 +86748,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfiguration.cpp" line="+55"/>
         <source>Run App Package</source>
+<<<<<<< HEAD
         <translation>运行APP程序包</translation>
+=======
+        <translation>运行App包</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -86076,7 +86760,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunfactories.cpp" line="+83"/>
         <source>Run App Package</source>
+<<<<<<< HEAD
         <translation>运行App程序包</translation>
+=======
+        <translation>运行App包</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -86089,7 +86777,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+6"/>
         <source>WinRT Run Control Factory</source>
+<<<<<<< HEAD
         <translation>WinRT运行控制工厂</translation>
+=======
+        <translation type="unfinished">WinRT运行控制工厂</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>
@@ -86097,23 +86789,39 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunnerhelper.cpp" line="+83"/>
         <source>The current kit has no Qt version.</source>
+<<<<<<< HEAD
         <translation>当前套件没有Qt版本。</translation>
+=======
+        <translation>当前工具没有Qt版本。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot find winrtrunner.exe in &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无法在&quot;%1&quot;找到winrtrunner.exe。</translation>
+=======
+        <translation>无法找到winrtrunner.exe在&quot;%1&quot;。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot determine the executable file path for &quot;%1&quot;.</source>
+<<<<<<< HEAD
         <translation>无法确定&quot;%1&quot;的可执行文件路径。</translation>
+=======
+        <translation>无法确定可执行文件路径“%1”。</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
     <message>
         <location line="+80"/>
         <source>Error while executing the WinRT Runner Tool: %1
 </source>
+<<<<<<< HEAD
         <translation>执行WinRT运行工具时出错：%1</translation>
+=======
+        <translation>运行WinRT工具发生错误:%1</translation>
+>>>>>>> refs/remotes/jiangcaiyang/master
     </message>
 </context>
 <context>

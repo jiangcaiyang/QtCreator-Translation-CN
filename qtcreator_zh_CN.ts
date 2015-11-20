@@ -142,7 +142,7 @@
     <message>
         <location line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正在尝试在%2模式下对应用运行%1工具。该工具设计用于%3模式。&lt;/p&gt;&lt;p&gt;运行时性能优化和非优化的二进制代码之间差异非常明显。在一个模式下的分析结果不一定适用于另一模式。&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;您想要继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行“%1”这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -992,7 +992,7 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location filename="../../../src/plugins/android/androidruncontrol.cpp" line="+69"/>
         <source>Starting remote process.</source>
-        <translation>启动远端进程。</translation>
+        <translation>启动远程进程。</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location filename="../../../src/plugins/android/androidrunner.cpp" line="+151"/>
         <source>No free ports available on host for QML debugging.</source>
-        <translation>在主机上没有空闲的端口用于QML调试。</translation>
+        <translation>主机上没有可供QML调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+133"/>
@@ -1042,12 +1042,12 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location line="+23"/>
         <source>Failed to forward ping pong ports. Reason: %1.</source>
-        <translation>转发ping pong协议端口失败。原因是:%1。</translation>
+        <translation>转发ping/pong协议端口失败。原因是:%1。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Failed to forward ping pong ports.</source>
-        <translation>转发ping pong协议端口失败。</translation>
+        <translation>转发ping/pong协议端口失败。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1169,7 +1169,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+24"/>
         <source>&quot;%1&quot; does not seem to be a JDK folder.</source>
-        <translation>&quot;%1&quot;似乎没有一个JDK文件夹。</translation>
+        <translation>&quot;%1&quot;似乎不是一个JDK文件夹。</translation>
     </message>
     <message>
         <location line="+191"/>
@@ -1179,7 +1179,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+1"/>
         <source>Remove device &quot;%1&quot;? This cannot be undone.</source>
-        <translation>删除设备“%1”？无法撤消。</translation>
+        <translation>删除设备&quot;%1&quot;？注意，这个动作无法撤消。</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1189,7 +1189,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+1"/>
         <source>The GDB inside this NDK seems to not support Python. The Qt Project offers fixed GDB builds at: &lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</source>
-        <translation>GDB在NDK中似乎不支持Python。Qt项目提供了固定GDB构建:&lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</translation>
+        <translation>这个NDK里面的GDB貌似不支持Python。Qt项目提供固定GDB建立在：&lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Select GDB Executable</source>
@@ -1970,7 +1970,7 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsopenprojectwizard.cpp" line="+61"/>
         <source>Autotools Wizard</source>
-        <translation>Autotool向导</translation>
+        <translation>自动工具向导</translation>
     </message>
 </context>
 <context>

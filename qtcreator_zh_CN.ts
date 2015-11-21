@@ -13,7 +13,7 @@
     <name>AbstractLinuxDeviceDeployStep</name>
     <message>
         <source>No valid device set.</source>
-        <translation type="obsolete">没有设置有效的设备.</translation>
+        <translation type="obsolete">没有设置有效的设备。</translation>
     </message>
 </context>
 <context>

@@ -13,7 +13,7 @@
     <name>AbstractLinuxDeviceDeployStep</name>
     <message>
         <source>No valid device set.</source>
-        <translation type="obsolete">没有设置有效的设备.</translation>
+        <translation type="obsolete">没有设置有效的设备。</translation>
     </message>
 </context>
 <context>
@@ -142,7 +142,7 @@
     <message>
         <location line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正在尝试在%2模式下对应用运行%1工具。该工具设计用于%3模式。&lt;/p&gt;&lt;p&gt;运行时性能优化和非优化的二进制代码之间差异非常明显。在一个模式下的分析结果不一定适用于另一模式。&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;您想要继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行“%1”这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -992,7 +992,7 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location filename="../../../src/plugins/android/androidruncontrol.cpp" line="+69"/>
         <source>Starting remote process.</source>
-        <translation>启动远端进程。</translation>
+        <translation>启动远程进程。</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location filename="../../../src/plugins/android/androidrunner.cpp" line="+151"/>
         <source>No free ports available on host for QML debugging.</source>
-        <translation>在主机上没有空闲的端口用于QML调试。</translation>
+        <translation>主机上没有可供QML调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+133"/>
@@ -1042,12 +1042,12 @@ Please choose a valid package name for your application (e.g. &quot;org.example.
     <message>
         <location line="+23"/>
         <source>Failed to forward ping pong ports. Reason: %1.</source>
-        <translation>转发ping pong协议端口失败。原因是:%1。</translation>
+        <translation>转发ping/pong协议端口失败。原因是:%1。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Failed to forward ping pong ports.</source>
-        <translation>转发ping pong协议端口失败。</translation>
+        <translation>转发ping/pong协议端口失败。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1169,7 +1169,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+24"/>
         <source>&quot;%1&quot; does not seem to be a JDK folder.</source>
-        <translation>&quot;%1&quot;似乎没有一个JDK文件夹。</translation>
+        <translation>&quot;%1&quot;似乎不是一个JDK文件夹。</translation>
     </message>
     <message>
         <location line="+191"/>
@@ -1179,7 +1179,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+1"/>
         <source>Remove device &quot;%1&quot;? This cannot be undone.</source>
-        <translation>删除设备“%1”？无法撤消。</translation>
+        <translation>删除设备&quot;%1&quot;？注意，这个动作无法撤消。</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1189,7 +1189,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+1"/>
         <source>The GDB inside this NDK seems to not support Python. The Qt Project offers fixed GDB builds at: &lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</source>
-        <translation>GDB在NDK中似乎不支持Python。Qt项目提供了固定GDB构建:&lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</translation>
+        <translation>这个NDK里面的GDB貌似不支持Python。Qt项目提供固定GDB建立在：&lt;a href=&quot;http://download.qt.io/official_releases/gdb/&quot;&gt;http://download.qt.io/official_releases/gdb/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Select GDB Executable</source>
@@ -1970,7 +1970,7 @@ This option is useful when you want to try your application on devices which don
     <message>
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsopenprojectwizard.cpp" line="+61"/>
         <source>Autotools Wizard</source>
-        <translation>Autotool向导</translation>
+        <translation>自动工具向导</translation>
     </message>
 </context>
 <context>
@@ -66260,12 +66260,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Git Commit Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Git提交编辑器</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Git Rebase Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Git变基编辑器</translation>
     </message>
     <message>
         <source>Git Diff Editor</source>
@@ -66453,7 +66453,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+21"/>
         <source>An error occurred while trying to run %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>试图运行%1发生错误: %2</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -66672,7 +66672,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/xmlprotocol/errorlistmodel.cpp" line="+159"/>
         <source>%1%2</source>
-        <translation type="unfinished">%1%2</translation>
+        <translation>%1%2</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -66744,12 +66744,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+75"/>
         <source>Load External Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>加载外部日志文件</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Request the dumping of profile information. This will update the Callgrind visualization.</source>
-        <translation type="unfinished"></translation>
+        <translation>请求dump分析信息。这将更新callgrind的可视化。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -66814,22 +66814,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+151"/>
         <source>Open Callgrind Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开Callgrind日志文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Callgrind Output (callgrind.out*);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind输出(callgrind.out *);,所有文件(*)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Callgrind: Failed to open file for reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind:读取文件失败:%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Parsing Profile Data...</source>
-        <translation type="unfinished">解析分析数据...</translation>
+        <translation>解析分析数据...</translation>
     </message>
     <message>
         <source>Cycle Detection</source>
@@ -66988,22 +66988,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+263"/>
         <source>Open Memcheck XML Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开内存诊断XML日志文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>XML Files (*.xml);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>XML文件(*.xml);;All Files (*)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Memcheck: Failed to open file for reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>诊断内存:得去文件失败:%1</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Memcheck: Error occurred parsing Valgrind output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>诊断内存:分析valgrind输出时发生了错误: %1</translation>
     </message>
     <message>
         <source>Valgrind Memory Analyzer</source>
@@ -67021,7 +67021,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>Load External XML Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>加载外部XML日志文件</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -67244,27 +67244,27 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Detect self-modifying code:</source>
-        <translation type="unfinished"></translation>
+        <translation>检测自动修改的代码：</translation>
     </message>
     <message>
         <location/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location/>
         <source>Only on Stack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只有在堆栈</translation>
     </message>
     <message>
         <location/>
         <source>Everywhere</source>
-        <translation type="unfinished"></translation>
+        <translation>随处可见</translation>
     </message>
     <message>
         <location/>
         <source>Everywhere Except in File-backend Mappings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">除了文件后端映射到处可用，</translation>
     </message>
     <message>
         <location/>
@@ -67279,7 +67279,17 @@ With cache simulation, further event counters are enabled:
 &lt;/p&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行全缓存模拟。&lt;/p&gt;
+&lt;p&gt;默认情况下, 只有读取访问指令被计算在内 (&quot;Ir&quot;)。&lt;/p&gt;
+&lt;p&gt;
+缓存模拟情况下，更多事件计数器被启用：
+&lt;ul&gt;&lt;li&gt;缓存未命中的读取指令(&quot;I1mr&quot;/&quot;I2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据读取访问(&quot;Dr&quot;) 和相关的缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据写入指令 (&quot;Dw&quot;) 和相关的缓存未命中 (&quot;D1mw&quot;/&quot;D2mw&quot;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -67290,32 +67300,38 @@ With cache simulation, further event counters are enabled:
 &quot;Bc&quot;/&quot;Bcm&quot;).&lt;/li&gt;
 &lt;li&gt;Executed indirect jumps and related misses of the jump address predictor (
 &quot;Bi&quot;/&quot;Bim&quot;).&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行分支预测模拟。&lt;/p&gt;
+&lt;p&gt;更多事件计数器将被启用: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;多个执行的条件分支和相关的预测未命中(
+&quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;
+&lt;li&gt;执行的间接跳转和相关的跳转地址预测未命中(
+&quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Collects information for system call times.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集系统调用时间的信息。</translation>
     </message>
     <message>
         <location/>
         <source>Show reachable and indirectly lost blocks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示可及和间接损失</translation>
     </message>
     <message>
         <location/>
         <source>Check for leaks on finish:</source>
-        <translation type="unfinished"></translation>
+        <translation>结束时检查内存泄漏：</translation>
     </message>
     <message>
         <location/>
         <source>Summary Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅汇总</translation>
     </message>
     <message>
         <location/>
         <source>Full</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全部</translation>
     </message>
 </context>
 <context>
@@ -67396,12 +67412,12 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/memcheck/memcheckrunner.cpp" line="+150"/>
         <source>XmlServer on %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Xml服务 %1:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>LogServer on %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>日志服务%1：</translation>
     </message>
 </context>
 <context>
@@ -67452,7 +67468,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+0"/>
         <source>Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <location line="+141"/>
@@ -67760,14 +67776,14 @@ With cache simulation, further event counters are enabled:
     <message numerus="yes">
         <location line="+40"/>
         <source>%n bytes, last modified %1.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 个字节, 最后修改时间 %1.</numerusform>
         </translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Cleaning &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>正在清理 %1</translation>
     </message>
     <message numerus="yes">
         <source>%n bytes, last modified %1</source>
@@ -67895,7 +67911,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Select All</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
 </context>
 <context>
@@ -67960,13 +67976,15 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location/>
         <source>A file listing nicknames in a 4-column mailmap format:
 &apos;name &lt;email&gt; alias &lt;email&gt;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个列出用户名和电子邮件地址的文件，使用四列的邮件映射格式:
+名字 &lt;电子邮件&gt; 别名 &lt;email&gt;。</translation>
     </message>
     <message>
         <location/>
         <source>Specifies a command that is executed to graphically prompt for a password,
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
-        <translation type="unfinished"></translation>
+        <translation>指定一条执行图形化提示密码的命令，
+会在代码仓库要求 SSH 身份验证的时候用到。（查看 SSH 和环境变量 SSH_ASKPASS 的相关文档）。</translation>
     </message>
 </context>
 <context>
@@ -67999,12 +68017,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+0"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Alias email</source>
-        <translation type="unfinished"></translation>
+        <translation>别名电邮</translation>
     </message>
     <message>
         <source>E-mail</source>
@@ -68150,12 +68168,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-628"/>
         <source>&amp;Describe Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>描述改变%1(&amp;D)</translation>
     </message>
     <message>
         <location line="+861"/>
         <source>Failed to retrieve data.</source>
-        <translation type="unfinished"></translation>
+        <translation>获取数据失败。</translation>
     </message>
     <message>
         <location line="+362"/>
@@ -68232,12 +68250,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-22"/>
         <source>The file &quot;%1&quot; could not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件 &apos;%1&apos; 无法被删除。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>目录 &apos;%1&apos; 已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -68345,17 +68363,17 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+25"/>
         <source>The check script &quot;%1&quot; could not be started: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本 &apos;%1&apos; 无法被启动: %2</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The check script &quot;%1&quot; timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本 &apos;%1&apos; 超时.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The check script &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查脚本 &apos;%1&apos; 崩溃.</translation>
     </message>
     <message>
         <source>The check script &apos;%1&apos; crashed.</source>
@@ -68402,13 +68420,13 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+43"/>
         <source>No version control set on &quot;VcsConfiguration&quot; page.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>“VcsConfiguration”页面上没有版本控制设置。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&quot;vcsId&quot; (&quot;%1&quot;) is invalid for &quot;VcsConfiguration&quot; page. Possible values are: %2.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>“vcsId”(“%1”)在“VcsConfiguration”页面是无效的。可能的值是:%2。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -68418,7 +68436,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+2"/>
         <source>No known version control selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有任何已知的版本控制。</translation>
     </message>
     <message>
         <source>Configure...</source>
@@ -68690,7 +68708,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+59"/>
         <source>Welcome Mode Load Error</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎模式加载错误</translation>
     </message>
     <message>
         <source>New Project</source>
@@ -69469,7 +69487,7 @@ APK在其他平台上不可使用。</translation>
     <message>
         <location/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;My device is missing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;我的设备是缺失&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;设备缺失&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -71954,46 +71972,46 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.ui"/>
         <source>Subversion Submit</source>
-        <translation type="unfinished">Subversion提交</translation>
+        <translation>Subversion提交</translation>
     </message>
     <message>
         <location/>
         <source>Descriptio&amp;n</source>
-        <translation type="unfinished">说明(&amp;N)</translation>
+        <translation>说明(&amp;N)</translation>
     </message>
     <message>
         <location/>
         <source>F&amp;iles</source>
-        <translation type="unfinished">文件(&amp;i)</translation>
+        <translation>文件(&amp;i)</translation>
     </message>
     <message>
         <location/>
         <source>Select a&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>全选(&amp;l)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.cpp" line="+504"/>
         <source>%1 %2/%n File(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1 %2/%n 文件</numerusform>
         </translation>
     </message>
     <message>
         <location line="+110"/>
         <source>&amp;Commit</source>
-        <translation type="unfinished">提交(&amp;C)</translation>
+        <translation>提交(&amp;C)</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Select All</source>
         <extracomment>Check all for submit</extracomment>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unselect All</source>
         <extracomment>Uncheck all for submit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>取消全选</translation>
     </message>
 </context>
 <context>
@@ -72001,12 +72019,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstepwidget.ui"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location/>
         <source>Restore Default Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>重置到默认参数</translation>
     </message>
 </context>
 <context>
@@ -72014,17 +72032,17 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.ui"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location/>
         <source>Uninstall package after stop</source>
-        <translation type="unfinished"></translation>
+        <translation>卸载包后停止</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.cpp" line="+44"/>
         <source>Launch App</source>
-        <translation type="unfinished"></translation>
+        <translation>启动App</translation>
     </message>
 </context>
 <context>
@@ -72491,33 +72509,33 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="+37"/>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>控件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location line="+39"/>
         <location line="+3"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Visible</source>
-        <translation type="unfinished">可见</translation>
+        <translation>可见</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
@@ -77388,7 +77406,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppvirtualfunctionassistprovider.cpp" line="+137"/>
         <source>...searching overrides</source>
-        <translation type="unfinished"></translation>
+        <translation>...搜索覆盖</translation>
     </message>
 </context>
 <context>
@@ -82956,7 +82974,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/androidpackageinstallationfactory.cpp" line="+60"/>
         <source>Deploy to device</source>
-        <translation type="unfinished">部署到设备</translation>
+        <translation>部署到设备</translation>
     </message>
 </context>
 <context>
@@ -82964,12 +82982,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/androidpackageinstallationstep.cpp" line="+54"/>
         <source>Copy application data</source>
-        <translation type="unfinished">复制应用程序的数据</translation>
+        <translation>复制应用程序的数据</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Removing directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>移除目录%1</translation>
     </message>
 </context>
 <context>
@@ -82977,12 +82995,12 @@ These files are preserved.</source>
     <message>
         <location line="+35"/>
         <source>&lt;b&gt;Make install&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Make install&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Make install</source>
-        <translation type="unfinished"></translation>
+        <translation>Make install</translation>
     </message>
 </context>
 <context>
@@ -82990,12 +83008,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/createandroidmanifestwizard.cpp" line="+73"/>
         <source>No application .pro file found in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>在该项目中找不到应用程序的pro文件。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No Application .pro File</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到应用程序的pro文件</translation>
     </message>
 </context>
 <context>
@@ -85651,13 +85669,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/callgrindengine.cpp" line="+95"/>
         <source>Profiling</source>
-        <translation type="unfinished">正在分析</translation>
+        <translation>正在分析</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Profiling %1</source>
-        <translation type="unfinished">正在分析%1
- {1?}</translation>
+        <translation>正在分析%1</translation>
     </message>
 </context>
 <context>
@@ -85665,12 +85682,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/memcheckengine.cpp" line="+72"/>
         <source>Analyzing Memory</source>
-        <translation type="unfinished">内存分析中</translation>
+        <translation>内存分析中</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Analyzing memory of %1</source>
-        <translation type="unfinished">内存分析中%1</translation>
+        <translation>内存分析中%1</translation>
     </message>
 </context>
 <context>
@@ -85705,37 +85722,37 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindengine.cpp" line="+91"/>
         <source>Valgrind options: %1</source>
-        <translation type="unfinished">Valgrind 选项: %1</translation>
+        <translation>Valgrind 选项: %1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory: %1</source>
-        <translation type="unfinished">工作目录: %1</translation>
+        <translation>工作目录: %1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Command line arguments: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>命令行的参数:%1</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Analyzing finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>分析完成。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Error: &quot;%1&quot; could not be started: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>错误: &quot;%1&quot; 无法被启动: %2</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: no Valgrind executable set.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:没有可执行的 valgrind。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Process terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程已终止。</translation>
     </message>
 </context>
 <context>
@@ -85743,7 +85760,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindplugin.cpp" line="-2"/>
         <source>Valgrind</source>
-        <translation type="unfinished">Valgrind</translation>
+        <translation>Valgrind</translation>
     </message>
 </context>
 <context>
@@ -85751,48 +85768,49 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+62"/>
         <source>Valgrind Function Profile uses the Callgrind tool to record function calls when a program runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind 分析器使用了&quot;callgrind&quot; 工具来记录程序运行时的函数调用。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Valgrind Memory Analyzer</source>
-        <translation type="unfinished">Valgrind 内存分析器</translation>
+        <translation>Valgrind 内存分析器</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Valgrind Memory Analyzer with GDB</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB Valgrind 内存分析器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
+</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Valgrind Function Profiler</source>
-        <translation type="unfinished">Valgrind 功能分析器</translation>
+        <translation>Valgrind 功能分析器</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Valgrind Memory Analyzer (External Remote Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind 内存分析器(外部远程应用程序)</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Valgrind Function Profiler (External Remote Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind 功能分析器(外部远程应用程序)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Profile Costs of This Function and Its Callees</source>
-        <translation type="unfinished"></translation>
+        <translation>分析此函数和被调用者的花销</translation>
     </message>
 </context>
 <context>
@@ -85800,7 +85818,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindprocess.cpp" line="+304"/>
         <source>Could not determine remote PID.</source>
-        <translation type="unfinished">无法确定远程的PID。</translation>
+        <translation>无法确定远程的PID。</translation>
     </message>
 </context>
 <context>
@@ -85808,7 +85826,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/valgrind/valgrindruncontrolfactory.cpp" line="+124"/>
         <source>Valgrind Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind设置</translation>
     </message>
 </context>
 <context>
@@ -85816,7 +85834,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsbaseclient.cpp" line="+254"/>
         <source>Working...</source>
-        <translation type="unfinished">工作中...</translation>
+        <translation>工作中...</translation>
     </message>
 </context>
 <context>
@@ -85824,29 +85842,27 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsoutputwindow.cpp" line="+194"/>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished">打开 &quot;%1&quot;</translation>
+        <translation>打开 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Version Control</source>
-        <translation type="unfinished">版本控制</translation>
+        <translation>版本控制</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Executing: %1 %2</source>
-        <translation type="unfinished">执行:%1 %2
- {1 %2?}</translation>
+        <translation>执行:%1 %2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executing in %1: %2 %3</source>
-        <translation type="unfinished">正在 %1 中执行: %2 %3
- {1:?} {2 %3?}</translation>
+        <translation>正在 %1 中执行: %2 %3</translation>
     </message>
 </context>
 <context>
@@ -85854,7 +85870,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsplugin.cpp" line="+108"/>
         <source>Name of the version control system in use by the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前项目使用版本控制系统的名称。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -85864,7 +85880,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+10"/>
         <source>The top level path to the repository the current project is in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前项目中的存储库的顶层路径是。</translation>
     </message>
 </context>
 <context>
@@ -85911,7 +85927,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+18"/>
         <source>Checkout</source>
-        <translation type="unfinished">Checkout</translation>
+        <translation>检出</translation>
     </message>
 </context>
 <context>
@@ -85919,28 +85935,28 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; (%2) not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; (%2)未找到.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本控制“%1”未配置。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; does not support initial checkouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本控制“%1”不支持初始检出。</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+16"/>
         <source>&quot;%1&quot; is empty when trying to run checkout.</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试检出时%1是空的。</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>&quot;%1&quot; (%2) does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”(%2)不存在。</translation>
     </message>
 </context>
 <context>
@@ -85948,27 +85964,27 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdebugsupport.cpp" line="+84"/>
         <source>The WinRT debugging helper is missing from your Qt Creator installation. It was assumed to be located at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在Qt Creator中缺少WinRT调试助手。它假定位于%1</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot start the WinRT Runner Tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动WinRT运行工具。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cannot establish connection to the WinRT debugging helper.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法与WinRT调试助手建立连接。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot extract the PID from the WinRT debugging helper. (output: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从WinRT调试助手中获取PID。(输出:%1)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Cannot create an appropriate run control for the current run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为当前运行的配置创建一个合适的运行控制。</translation>
     </message>
 </context>
 <context>
@@ -85981,12 +85997,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>不部署到Windows Phone</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Deploy to Windows Phone Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到Windows Phone模拟器</translation>
     </message>
 </context>
 <context>
@@ -85994,7 +86010,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+99"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -86002,17 +86018,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevice.cpp" line="+122"/>
         <source>Windows Runtime (Local)</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows运行环境(本地)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Phone</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Windows Phone Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Phone模拟器</translation>
     </message>
 </context>
 <context>
@@ -86020,40 +86036,40 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdevicefactory.cpp" line="+101"/>
         <source>Running Windows Runtime device detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行Windows运行环境设备检测。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>No winrtrunner.exe found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到 winrtrunner.exe。</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Error while executing winrtrunner: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>执行winrtrunner时发生错误:%1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>winrtrunner returned with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>winrtrunner返回退出代码%1。</translation>
     </message>
     <message>
         <location line="+105"/>
         <source>Windows Runtime local UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows运行时的本地用户界面</translation>
     </message>
     <message numerus="yes">
         <location line="+30"/>
         <source>Found %n Windows Runtime devices.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>发现%n个Windows运行时设备。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+3"/>
         <source>%n of them are new.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>其中%n个是新的。</numerusform>
         </translation>
     </message>
 </context>
@@ -86067,22 +86083,22 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+21"/>
         <source>No executable to deploy found in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1没有发现可部署的设备。</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Cannot parse manifest file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析文件%1。</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>File %1 is outside of the executable&apos;s directory. These files cannot be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件%1以外的可执行文件的目录。这些文件不能被安装。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot open mapping file %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开用于写入的文件%1。</translation>
     </message>
 </context>
 <context>
@@ -86090,12 +86106,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtphoneqtversion.cpp" line="+52"/>
         <source>Windows Phone</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtqtversion.cpp" line="+64"/>
         <source>Windows Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows运行环境</translation>
     </message>
 </context>
 <context>
@@ -86103,7 +86119,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfiguration.cpp" line="+55"/>
         <source>Run App Package</source>
-        <translation type="unfinished"></translation>
+        <translation>运行App包</translation>
     </message>
 </context>
 <context>
@@ -86111,7 +86127,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunfactories.cpp" line="+83"/>
         <source>Run App Package</source>
-        <translation type="unfinished"></translation>
+        <translation>运行App包</translation>
     </message>
 </context>
 <context>
@@ -86119,12 +86135,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+90"/>
         <source>Unsupported run mode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的运行模式%1。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>WinRT Run Control Factory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WinRT运行控制工厂</translation>
     </message>
 </context>
 <context>
@@ -86132,23 +86148,23 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunnerhelper.cpp" line="+83"/>
         <source>The current kit has no Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前工具没有Qt版本。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot find winrtrunner.exe in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到winrtrunner.exe在&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot determine the executable file path for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定可执行文件路径“%1”。</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Error while executing the WinRT Runner Tool: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>运行WinRT工具发生错误:%1</translation>
     </message>
 </context>
 <context>

@@ -82974,7 +82974,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/androidpackageinstallationfactory.cpp" line="+60"/>
         <source>Deploy to device</source>
-        <translation type="unfinished">部署到设备</translation>
+        <translation>部署到设备</translation>
     </message>
 </context>
 <context>
@@ -82982,12 +82982,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/androidpackageinstallationstep.cpp" line="+54"/>
         <source>Copy application data</source>
-        <translation type="unfinished">复制应用程序的数据</translation>
+        <translation>复制应用程序的数据</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Removing directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>移除目录%1</translation>
     </message>
 </context>
 <context>
@@ -82995,12 +82995,12 @@ These files are preserved.</source>
     <message>
         <location line="+35"/>
         <source>&lt;b&gt;Make install&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Make install&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Make install</source>
-        <translation type="unfinished"></translation>
+        <translation>Make install</translation>
     </message>
 </context>
 <context>
@@ -83008,12 +83008,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/createandroidmanifestwizard.cpp" line="+73"/>
         <source>No application .pro file found in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>在该项目中找不到应用程序的pro文件。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No Application .pro File</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到应用程序的pro文件</translation>
     </message>
 </context>
 <context>

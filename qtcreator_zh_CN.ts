@@ -376,14 +376,14 @@
         <location line="+39"/>
         <source>Qt version for architecture %1 is missing.
 To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
-        <translation>Qt版本架构%1缺失。
+        <translation type="unfinished">%1架构的Qt版本缺失。
 添加Qt版本，选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt versions for %1 architectures are missing.
 To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
-        <translation>Qt版本架构%1缺失。
+        <translation type="unfinished">%1个架构的Qt版本缺失。
 添加Qt版本，选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
     </message>
     <message>

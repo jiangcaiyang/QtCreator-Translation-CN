@@ -48618,7 +48618,7 @@ Check if the phone is connected and App TRK is running.</source>
         <source>Release</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>发布</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -48632,20 +48632,20 @@ Check if the phone is connected and App TRK is running.</source>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Profile</source>
         <extracomment>The name of the profile build configuration created by default for a qmake project.</extracomment>
-        <translation>分析</translation>
+        <translation>Profile</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Profile</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>分析</translation>
+        <translation>Profile</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -76942,28 +76942,27 @@ Do you want to kill it?</source>
     <message>
         <location line="+23"/>
         <source>Executing in %1: %2 %3</source>
-        <translation type="unfinished">正在 %1 中执行: %2 %3
- {1:?} {2 %3?}</translation>
+        <translation>正在%1中执行：%2 %3</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unable to launch &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动“%1”：%2</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>A timeout occurred running &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>运行“%1”发生超时</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”崩溃。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&quot;%1&quot; failed (exit code %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1”失败 (退出代码 %2)。</translation>
     </message>
 </context>
 <context>

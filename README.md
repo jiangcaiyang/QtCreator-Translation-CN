@@ -10,5 +10,6 @@ Qt的确是一个好的开发平台，我们希望在我们的努力下能够把
 
 翻译方法：在得到了ts文件之后找到Qt的Linguist（Qt语言家），比如说我的系统就是这样：
 ![1](http://i1288.photobucket.com/albums/b485/jiangcaiyang/1_zpsjqytudxa.png)
+
 然后简简单单三步就能够顺利地翻译了！
 ![1](http://i1288.photobucket.com/albums/b485/jiangcaiyang/2_zpsniwe87oy.png)

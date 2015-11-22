@@ -394,9 +394,8 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message numerus="yes">
         <location line="+24"/>
         <source>Found %n toolchains for this NDK.</source>
-        <translation type="unfinished">
-            <numerusform>
-            </numerusform>
+        <translation>
+            <numerusform>在此NDK中找到%n个工具链。</numerusform>
         </translation>
     </message>
     <message>
@@ -471,27 +470,27 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location/>
         <source>Certificate Distinguished Names</source>
-        <translation type="unfinished"></translation>
+        <translation>证书专有名称</translation>
     </message>
     <message>
         <location/>
         <source>First and last name:</source>
-        <translation type="unfinished"></translation>
+        <translation>姓和名：</translation>
     </message>
     <message>
         <location/>
         <source>Organizational unit (e.g. Necessitas):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">组织单位（例如：萌梦信息科技有限公司）：</translation>
     </message>
     <message>
         <location/>
         <source>Organization (e.g. KDE):</source>
-        <translation type="unfinished"></translation>
+        <translation>组织（例如萌梦）：</translation>
     </message>
     <message>
         <location/>
         <source>City or locality:</source>
-        <translation type="unfinished"></translation>
+        <translation>城市或地区：</translation>
     </message>
     <message>
         <location/>
@@ -546,7 +545,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location/>
         <source>Keystore</source>
-        <translation type="unfinished">密钥存储库</translation>
+        <translation>密钥存储库</translation>
     </message>
 </context>
 <context>

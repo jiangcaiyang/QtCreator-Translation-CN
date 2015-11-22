@@ -42443,12 +42443,12 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosanalyzesupport.cpp" line="+151"/>
         <source>Run ended with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束出错。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束。</translation>
     </message>
 </context>
 <context>
@@ -42457,7 +42457,8 @@ Remote: %4</source>
         <location filename="../../../src/plugins/ios/iosbuildstep.cpp" line="+229"/>
         <source>iOS build</source>
         <comment>iOS BuildStep display name.</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>iOS BuildStep显示名称。</translatorcomment>
+        <translation>iOS编译</translation>
     </message>
 </context>
 <context>
@@ -42481,37 +42482,37 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosdebugsupport.cpp" line="+99"/>
         <source>Could not find device specific debug symbols at %1. Debugging initialization will be slow until you open the Organizer window of Xcode with the device connected to have the symbols generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1找不到特定的设备调试符号。直到打开Xcode的组织者窗口，并且连接着的设备有符号生成，调试会缓慢地初始化。</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Debugging with Xcode 5.0.x can be unreliable without a dSYM. To create one, add a dsymutil deploystep.</source>
-        <translation type="unfinished"></translation>
+        <translation>在Xcode 5.0.x中调试没有dSYM是不行的。要创建一个dSYM，添加dsymutil deploystep。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The dSYM %1 seems to be outdated, it might confuse the debugger.</source>
-        <translation type="unfinished"></translation>
+        <translation>该dSYM%1似乎是过时的，它可能会混淆调试器。</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Could not get debug server file descriptor.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获取调试服务器的文件描述符。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Got an invalid process id.</source>
-        <translation type="unfinished"></translation>
+        <translation>得到了一个无效的进程ID。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Run ended with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束出错。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束。</translation>
     </message>
 </context>
 <context>
@@ -42519,7 +42520,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosdeployconfiguration.cpp" line="+51"/>
         <source>Deploy to iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到iOS</translation>
     </message>
 </context>
 <context>
@@ -42527,7 +42528,7 @@ Remote: %4</source>
     <message>
         <location line="+76"/>
         <source>Deploy on iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>部署在iOS</translation>
     </message>
 </context>
 <context>
@@ -42536,37 +42537,37 @@ Remote: %4</source>
         <location filename="../../../src/plugins/ios/iosdeploystep.cpp" line="+98"/>
         <location line="+1"/>
         <source>Deploy to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到%1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Error: no device available, deploy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：没有可用的设备，部署失败。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Deployment failed. No iOS device found.</source>
-        <translation type="unfinished"></translation>
+        <translation>部署失败。找不到iOS设备。</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Deployment failed. The settings in the Organizer window of Xcode might be incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>部署失败。Xcode的管理窗口的设置可能不正确。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Deployment failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>部署失败。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>The Info.plist might be incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>该Info.plist可能不正确。</translation>
     </message>
     <message>
         <location line="+87"/>
         <source>The provisioning profile &quot;%1&quot; (%2) used to sign the application does not cover the device %3 (%4). Deployment to it will fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>用来签署应用程序的配置文件&quot;%1&quot;(%2)不包含设计%3(%4)。部署将失败。</translation>
     </message>
 </context>
 <context>
@@ -42574,7 +42575,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosdeploystepfactory.cpp" line="+68"/>
         <source>Deploy to iOS device or emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>部署到iOS设备或模拟器</translation>
     </message>
 </context>
 <context>
@@ -42582,12 +42583,12 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosdevice.cpp" line="+133"/>
         <source>iOS</source>
-        <translation type="unfinished">iOS</translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>iOS Device</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS设备</translation>
     </message>
 </context>
 <context>
@@ -42595,49 +42596,50 @@ Remote: %4</source>
     <message>
         <location line="+30"/>
         <source>Device name</source>
-        <translation type="unfinished"></translation>
+        <translation>设备名称</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Developer status</source>
         <extracomment>Whether the device is in developer mode.</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>该设备是否在开发者模式。</translatorcomment>
+        <translation>开发者状态</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>已连接</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+2"/>
         <source>yes</source>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>no</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>操作系统版本</translation>
     </message>
     <message>
         <location line="+108"/>
         <source>An iOS device in user mode has been detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>在用户模式中已检测到iOS设备。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Do you want to see how to set it up for development?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想知道如何设置它的开发吗？</translation>
     </message>
 </context>
 <context>
@@ -42645,13 +42647,14 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosqtversion.cpp" line="+84"/>
         <source>Failed to detect the ABIs used by the Qt version.</source>
-        <translation type="unfinished">检测Qt版本使用的ABI失败。</translation>
+        <translation>检测该Qt版本使用的ABIs失败。</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>iOS</source>
         <extracomment>Qt Version is meant for Ios</extracomment>
-        <translation type="unfinished">iOS</translation>
+        <translatorcomment>Qt版本指定为Ios</translatorcomment>
+        <translation>iOS</translation>
     </message>
 </context>
 <context>
@@ -42659,57 +42662,57 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosrunconfiguration.cpp" line="+172"/>
         <source>Run on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1运行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run %1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>在%2上运行%1</translation>
     </message>
     <message>
         <location line="+133"/>
         <source>The .pro file &quot;%1&quot; is currently being parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>该.pro文件&quot;%1&quot;正在解析。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Kit has incorrect device type for running on iOS devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>在这些iOS设备中运行的套件设备类型不正确。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>No device chosen. Select %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有设备选择。选择%1。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No device chosen. Enable developer mode on a device.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有设备选择。在该设备上启用开发者模式。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No device available.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有设备可用。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>To use this device you need to enable developer mode on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>要使用该设备，你需要在该设备上启用开发者模式。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 is not connected. Select %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1未连接。选择%2？</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 is not connected. Enable developer mode on a device?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1未连接。在设备上启用开发者模式？</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 is not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1未连接。</translation>
     </message>
 </context>
 <context>
@@ -42717,7 +42720,7 @@ Remote: %4</source>
     <message>
         <location line="+89"/>
         <source>iOS run settings</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS运行设置</translation>
     </message>
 </context>
 <context>
@@ -42725,17 +42728,17 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosruncontrol.cpp" line="+69"/>
         <source>Starting remote process.</source>
-        <translation type="unfinished">启动远端进程。</translation>
+        <translation>启动远端进程。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Run ended with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束出错。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行结束。</translation>
     </message>
 </context>
 <context>
@@ -42743,17 +42746,17 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosrunner.cpp" line="+124"/>
         <source>Could not find %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到%1。</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Run failed. The settings in the Organizer window of Xcode might be incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>运行失败。Xcode的组织者窗口的设置可能不正确。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The device is locked, please unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>该设备已被锁定，请解锁。</translation>
     </message>
 </context>
 <context>
@@ -42761,7 +42764,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iossettingspage.cpp" line="+45"/>
         <source>iOS Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS配置</translation>
     </message>
 </context>
 <context>
@@ -42772,7 +42775,7 @@ Remote: %4</source>
         <location line="+7"/>
         <location line="+12"/>
         <source>iOS Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS模拟器</translation>
     </message>
 </context>
 <context>
@@ -42780,7 +42783,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iossimulatorfactory.cpp" line="+48"/>
         <source>iOS Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS模拟器</translation>
     </message>
 </context>
 <context>
@@ -42788,7 +42791,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iostoolhandler.cpp" line="+350"/>
         <source>iOS tool Error %1</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS工具错误 %1</translation>
     </message>
 </context>
 <context>
@@ -42796,22 +42799,22 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/macros/macromanager.cpp" line="+223"/>
         <source>Playing Macro</source>
-        <translation type="unfinished">播放宏</translation>
+        <translation>播放宏</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>An error occurred while replaying the macro, execution stopped.</source>
-        <translation type="unfinished">播放macro时发生错误, 执行停止。</translation>
+        <translation>播放宏时发生错误，执行停止。</translation>
     </message>
     <message>
         <location line="+72"/>
         <source>Macro mode. Type &quot;%1&quot; to stop recording and &quot;%2&quot; to play the macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>宏模式。按&quot;%1&quot;停止录制，按&quot;%2&quot;播放宏。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Stop Recording Macro</source>
-        <translation type="unfinished">停止录制宏</translation>
+        <translation>停止录制宏</translation>
     </message>
 </context>
 <context>

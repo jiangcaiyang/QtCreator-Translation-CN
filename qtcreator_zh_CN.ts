@@ -94,7 +94,7 @@
     <message>
         <location line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行“%1”这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行&quot;%1&quot;这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -677,7 +677,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location filename="../../../src/plugins/coreplugin/coreplugin.cpp" line="+154"/>
         <source>No valid theme &quot;%1&quot;</source>
-        <translation>没有有效的主题“%1”</translation>
+        <translation>没有有效的主题&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -13688,7 +13688,7 @@ Commit now?</source>
     <message>
         <location line="+109"/>
         <source>Apply &quot;%1&quot;</source>
-        <translation>应用 “%1”</translation>
+        <translation>应用 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+153"/>
@@ -25974,7 +25974,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+4"/>
         <source>Remote stderr was: &quot;%1&quot;</source>
-        <translation>远程stderr：“%1”</translation>
+        <translation>远程stderr：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -26441,7 +26441,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+6"/>
         <source>Copy url &quot;%1&quot;</source>
-        <translation>复制链接 “%1”</translation>
+        <translation>复制链接 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -27806,7 +27806,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+22"/>
         <source>File &quot;%1&quot;:</source>
-        <translation>文件“%1”:</translation>
+        <translation>文件&quot;%1&quot;:</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -31398,7 +31398,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+9"/>
         <source>&quot;vcsId&quot; (&quot;%1&quot;) is invalid for &quot;VcsConfiguration&quot; page. Possible values are: %2.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation>“vcsId”(“%1”)在“VcsConfiguration”页面是无效的。可能的值是:%2。</translation>
+        <translation>“vcsId”(&quot;%1&quot;)在“VcsConfiguration”页面是无效的。可能的值是:%2。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -36520,7 +36520,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+16"/>
         <source>Package deploy: Failed to pull &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation>部署包:未能把“%1”拉到“%2”。</translation>
+        <translation>部署包:未能把&quot;%1&quot;拉到&quot;%2&quot;。</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -36675,7 +36675,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+13"/>
         <source>GDB Server for &quot;%1&quot;</source>
-        <translation>GDB服务器“%1”</translation>
+        <translation>GDB服务器&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -36868,12 +36868,12 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+11"/>
         <source>Could not parse file: &quot;%1&quot;.</source>
-        <translation>无法解析文件:“%1”。</translation>
+        <translation>无法解析文件:&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%2: Could not parse file: &quot;%1&quot;.</source>
-        <translation>%2:不能解析文件:“%1”。</translation>
+        <translation>%2:不能解析文件:&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -37145,7 +37145,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+3"/>
         <source>Cannot debug: Could not find executable for &quot;%1&quot;.</source>
-        <translation>不能调试:无法找到可执行文件“%1”。</translation>
+        <translation>不能调试:无法找到可执行文件&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -37480,7 +37480,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+31"/>
         <source>Cannot read documentation file &quot;%1&quot;: %2.</source>
-        <translation>无法读取文档文件“%1”：%2。</translation>
+        <translation>无法读取文档文件&quot;%1&quot;：%2。</translation>
     </message>
 </context>
 <context>
@@ -37508,7 +37508,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="-22"/>
         <source>Cannot read file &quot;%1&quot;: %2.</source>
-        <translation>无法读取文件“%1”:%2。</translation>
+        <translation>无法读取文件&quot;%1&quot;:%2。</translation>
     </message>
     <message>
         <location line="+90"/>
@@ -37830,12 +37830,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/pchmanager.cpp" line="+110"/>
         <source>Successfully generated PCH file &quot;%1&quot;.</source>
-        <translation>成功生成的PCH文件“%1”。</translation>
+        <translation>成功生成的PCH文件&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Failed to generate PCH file &quot;%1&quot;.</source>
-        <translation>未能生成PCH文件“%1”。</translation>
+        <translation>未能生成PCH文件&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+73"/>
@@ -39276,22 +39276,22 @@ Do you want to kill it?</source>
     <message>
         <location line="+5"/>
         <source>Unable to launch &quot;%1&quot;: %2</source>
-        <translation>无法启动“%1”：%2</translation>
+        <translation>无法启动&quot;%1&quot;：%2</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>A timeout occurred running &quot;%1&quot;</source>
-        <translation>运行“%1”发生超时</translation>
+        <translation>运行&quot;%1&quot;发生超时</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&quot;%1&quot; crashed.</source>
-        <translation>“%1”崩溃。</translation>
+        <translation>&quot;%1&quot;崩溃。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&quot;%1&quot; failed (exit code %2).</source>
-        <translation>“%1”失败 (退出代码 %2)。</translation>
+        <translation>&quot;%1&quot;失败 (退出代码 %2)。</translation>
     </message>
 </context>
 <context>
@@ -47497,12 +47497,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; is not configured.</source>
-        <translation>版本控制“%1”未配置。</translation>
+        <translation>版本控制&quot;%1&quot;未配置。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Version control &quot;%1&quot; does not support initial checkouts.</source>
-        <translation>版本控制“%1”不支持初始检出。</translation>
+        <translation>版本控制&quot;%1&quot;不支持初始检出。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -47513,7 +47513,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="-8"/>
         <source>&quot;%1&quot; (%2) does not exist.</source>
-        <translation>“%1”(%2)不存在。</translation>
+        <translation>&quot;%1&quot;(%2)不存在。</translation>
     </message>
 </context>
 <context>
@@ -47717,7 +47717,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+8"/>
         <source>Cannot determine the executable file path for &quot;%1&quot;.</source>
-        <translation>无法确定可执行文件路径“%1”。</translation>
+        <translation>无法确定可执行文件路径&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+80"/>

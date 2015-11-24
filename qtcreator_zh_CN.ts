@@ -4327,17 +4327,17 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+35"/>
         <source>The build directory &quot;%1&quot; for build configuration &quot;%2&quot; for target &quot;%3&quot; contains an outdated .cbp file. Qt Creator needs to update this file by running CMake. You can add command line arguments below. Note that CMake remembers command line arguments from the previous runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>目标“%3”的构建配置“%2”指定的构建目录“%1”包含了一个过时的cbp文件。Qt Creator需要运行CMake以更新该文件。您可以在下方增加命令行参数。注意CMake会保存最后一次运行的命令行参数。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The directory &quot;%1&quot; specified in build configuration &quot;%2&quot;, for target &quot;%3&quot; does not contain a .cbp file. Qt Creator needs to recreate this file by running CMake. Some projects require command line arguments to the initial CMake call. Note that CMake remembers command line arguments from the previous runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>目标“%3”的构建配置“%2”指定的构建目录“%1”缺少一个cbp文件。Qt Creator需要运行CMake以重建该文件。某些工程需要使用命令行参数来初始化CMake调用。注意CMake会保存最后一次运行的命令行参数。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Refreshing the .cbp file in &quot;%1&quot; for build configuration &quot;%2&quot; for target &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在更新目标“%3”的构建配置“%2”指定的构建目录“%1”中的cbp文件。</translation>
     </message>
     <message>
         <source>Arguments</source>
@@ -67254,7 +67254,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Only on Stack</source>
-        <translation type="unfinished">只有在堆栈</translation>
+        <translation>只有在堆栈</translation>
     </message>
     <message>
         <location/>
@@ -67264,7 +67264,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Everywhere Except in File-backend Mappings</source>
-        <translation type="unfinished">除了文件后端映射到处可用，</translation>
+        <translation>除了文件后端映射之外到处可用，</translation>
     </message>
     <message>
         <location/>
@@ -67316,7 +67316,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location/>
         <source>Show reachable and indirectly lost blocks</source>
-        <translation type="unfinished">显示可及和间接损失</translation>
+        <translation>显示可及和间接损失的区块</translation>
     </message>
     <message>
         <location/>
@@ -67473,7 +67473,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+141"/>
         <source>%1 in function %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1在函数%2中</translation>
     </message>
     <message>
         <source>File</source>
@@ -69580,7 +69580,7 @@ APK在其他平台上不可使用。</translation>
     <message>
         <location/>
         <source>Only remove the commits from the local branch when in a checkout</source>
-        <translation type="unfinished">只有在检查时，才将该文件从本地分支删除</translation>
+        <translation>执行checkout时仅移除本地分支的提交</translation>
     </message>
     <message>
         <location/>
@@ -69591,7 +69591,8 @@ APK在其他平台上不可使用。</translation>
         <location/>
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
-        <translation type="unfinished">如果指定一个修订版本,不提交修正离开分支在指定的修订版本。</translation>
+        <translation>如果指定一个修订版本，未提交版本离开该指定版本的分支。
+例如，“修订版本15”将离开修订版本15的分支。</translation>
     </message>
     <message>
         <location/>
@@ -85875,12 +85876,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+9"/>
         <source>The current version control topic (branch or tag) identification of the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前版本控制主题（分支或标签）标识当前的工程。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The top level path to the repository the current project is in.</source>
-        <translation type="unfinished">当前项目中的存储库的顶层路径是。</translation>
+        <translation>当前项目所在仓库的顶层路径。</translation>
     </message>
 </context>
 <context>
@@ -85888,7 +85889,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/wizard/vcscommandpage.cpp" line="+149"/>
         <source>&quot;data&quot; is no JSON object in &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”不是一个JSON对象。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -85897,32 +85898,32 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+5"/>
         <location line="+6"/>
         <source>&quot;%1&quot; not set in &quot;data&quot; section of &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”未设置。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset, String or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置，字符串或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Job in &quot;VcsCommand&quot; page is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job是空的。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Job in &quot;VcsCommand&quot; page is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job不是一个对象。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Job in &quot;VcsCommand&quot; page has no &quot;%1&quot; set.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job没有“%1”集合。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -85992,7 +85993,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdeployconfiguration.cpp" line="+55"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -86078,7 +86079,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstep.cpp" line="+60"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -86140,7 +86141,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+6"/>
         <source>WinRT Run Control Factory</source>
-        <translation type="unfinished">WinRT运行控制工厂</translation>
+        <translation>WinRT运行控制工厂</translation>
     </message>
 </context>
 <context>

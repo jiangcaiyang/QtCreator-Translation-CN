@@ -6848,7 +6848,7 @@ Would you like to overwrite them?</source>
         <source>The text file &quot;%1&quot; has the size %2MB and might take more memory to open and process than available.
 
 Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>文本文件“%1”大小%2MB，打开或处理它可能内存不够。</translation>
     </message>
     <message>
         <location line="+1673"/>
@@ -7222,7 +7222,7 @@ Continue?</source>
     <message>
         <location line="-36"/>
         <source>Drag to drag documents between splits</source>
-        <translation type="unfinished"></translation>
+        <translation>在分栏之间拖动文件</translation>
     </message>
     <message>
         <location line="+248"/>
@@ -8202,7 +8202,7 @@ Continue?</source>
     <message>
         <location/>
         <source>Re-enable warnings that were suppressed by selecting &quot;Do Not Show Again&quot; (for example, missing highlighter).</source>
-        <translation type="unfinished"></translation>
+        <translation>重新激活被“下次不再显示”选项屏蔽的警告。（例如，重点标记符号缺失）。</translation>
     </message>
     <message>
         <location/>
@@ -8594,7 +8594,7 @@ Continue?</source>
     <message>
         <location/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MIME magic data is interpreted as defined by the Shared MIME-info Database specification from &lt;a href=&quot;http://standards.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-latest.html&quot;&gt;freedesktop.org&lt;/a&gt;.&lt;hr/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;默认情况下，MIME的Magic数据由共享MIME信息数据库解释，该数据库位于&lt;a href=&quot;http://standards.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-latest.html&quot;&gt;freedesktop.org&lt;/a&gt;.&lt;hr/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -8604,52 +8604,52 @@ Continue?</source>
     <message>
         <location/>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <location/>
         <source>Host16</source>
-        <translation type="unfinished"></translation>
+        <translation>Host16</translation>
     </message>
     <message>
         <location/>
         <source>Host32</source>
-        <translation type="unfinished"></translation>
+        <translation>Host32</translation>
     </message>
     <message>
         <location/>
         <source>Big16</source>
-        <translation type="unfinished"></translation>
+        <translation>Big16</translation>
     </message>
     <message>
         <location/>
         <source>Big32</source>
-        <translation type="unfinished"></translation>
+        <translation>Big32</translation>
     </message>
     <message>
         <location/>
         <source>Little16</source>
-        <translation type="unfinished"></translation>
+        <translation>Little16</translation>
     </message>
     <message>
         <location/>
         <source>Little32</source>
-        <translation type="unfinished"></translation>
+        <translation>Little32</translation>
     </message>
     <message>
         <location/>
         <source>Mask:</source>
-        <translation type="unfinished"></translation>
+        <translation>掩码：</translation>
     </message>
     <message>
         <location/>
         <source>Range start:</source>
-        <translation type="unfinished"></translation>
+        <translation>范围起始：</translation>
     </message>
     <message>
         <location/>
         <source>Range end:</source>
-        <translation type="unfinished"></translation>
+        <translation>范围结束：</translation>
     </message>
 </context>
 <context>
@@ -9390,12 +9390,12 @@ Would you like to overwrite them?</source>
     <message>
         <location line="+4"/>
         <source>&lt;br/&gt;Built on %1 %2&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br/&gt;在%1 %2上构建&lt;br/&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&lt;h3&gt;%1&lt;/h3&gt;%2&lt;br/&gt;%3%4%5&lt;br/&gt;Copyright 2008-%6 %7. All rights reserved.&lt;br/&gt;&lt;br/&gt;The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;%1&lt;/h3&gt;%2&lt;br/&gt;%3%4%5&lt;br/&gt;版权所有 2008-%6 %7. 保留一切权利。&lt;br/&gt;&lt;br/&gt;本软件提供时不包含任何类型的保证，包括设计，商业化和适应特殊目的的保证。&lt;br/&gt;</translation>
     </message>
     <message>
         <source>(%1)</source>
@@ -9587,7 +9587,7 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/vcsmanager.cpp" line="+333"/>
         <source>%1 repository was detected but %1 is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>发现%1仓库，但是%1未配置。</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -10218,7 +10218,9 @@ to version control (%2)
         <source>Splits a string into two lines by adding an end quote at the cursor position when you press Enter and a start quote to the next line, before the rest of the string.
 
 In addition, Shift+Enter inserts an escape character at the cursor position and moves the rest of the string to the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation>当您按下回车键（Enter）后字符串被分为两行，光标所在处增加一个结束符并且在余下的字符串前增加一个行起始符。
+
+另外，按下换档键加回车键（Shift+Enter)后，光标所在处增加一个换码符号并且把余下的字符串移动到下一行中。</translation>
     </message>
     <message>
         <location/>
@@ -10228,7 +10230,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location/>
         <source>Timeout in ms:</source>
-        <translation type="unfinished"></translation>
+        <translation>超时ms：</translation>
     </message>
     <message>
         <location/>
@@ -10559,7 +10561,7 @@ if (a &amp;&amp;
     <message>
         <location/>
         <source>This does not apply to references.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这不会应用到参考表中。</translation>
     </message>
     <message>
         <location/>
@@ -12638,27 +12640,27 @@ Details: %3</source>
     <message>
         <location line="-533"/>
         <source>No executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>未指定可执行文件。</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>&amp;Show this message again.</source>
-        <translation type="unfinished"></translation>
+        <translation>再次显示该消息（&amp;S）。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Debugging starts</source>
-        <translation type="unfinished">调试开始</translation>
+        <translation>调试开始</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Debugging has failed</source>
-        <translation type="unfinished">调试失败</translation>
+        <translation>调试失败</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Debugging has finished</source>
-        <translation type="unfinished">调试正常结束</translation>
+        <translation>调试正常结束</translation>
     </message>
     <message>
         <source>No executable specified.
@@ -12808,7 +12810,7 @@ Details: %3</source>
     <message>
         <location line="+4"/>
         <source>Enter an address:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入地址：</translation>
     </message>
     <message>
         <source>Enter an address: </source>
@@ -13022,7 +13024,7 @@ Qt Creator 无法附属到进程.</translation>
     <message>
         <location line="+19"/>
         <source>Hit Count:</source>
-        <translation type="unfinished"></translation>
+        <translation>提示数：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -13227,52 +13229,52 @@ Qt Creator 无法附属到进程.</translation>
     <message>
         <location line="+1361"/>
         <source>Data breakpoint %1 (%2) at %3 triggered.</source>
-        <translation type="unfinished">在 %3 中的数据断点%1 (%2) 被触发。</translation>
+        <translation>在 %3 中的数据断点%1 (%2) 被触发。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Internal data breakpoint %1 at %2 triggered.</source>
-        <translation type="unfinished">在%2中的内部数据断点%1 被触发。</translation>
+        <translation>在%2中的内部数据断点%1 被触发。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Data breakpoint %1 (%2) at %3 in thread %4 triggered.</source>
-        <translation type="unfinished">线程%4 的%3中的数据断点%1 (%2) 被触发。</translation>
+        <translation>线程%4 的%3中的数据断点%1 (%2) 被触发。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Internal data breakpoint %1 at %2 in thread %3 triggered.</source>
-        <translation type="unfinished">线程%3中%2的内部数据断点%1 被触发。</translation>
+        <translation>线程%3中%2的内部数据断点%1 被触发。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Data breakpoint %1 (%2) at 0x%3 triggered.</source>
-        <translation type="unfinished">在 0x%3 处的数据断点%1 (%2) 被触发。</translation>
+        <translation>在 0x%3 处的数据断点%1 (%2) 被触发。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Internal data breakpoint %1 at 0x%2 triggered.</source>
-        <translation type="unfinished">在0x%2处的内部数据断点%1 被触发。</translation>
+        <translation>在0x%2处的内部数据断点%1 被触发。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Data breakpoint %1 (%2) at 0x%3 in thread %4 triggered.</source>
-        <translation type="unfinished">线程%4 的0x%3处的数据断点%1 (%2) 被触发。</translation>
+        <translation>线程%4 的0x%3处的数据断点%1 (%2) 被触发。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Internal data breakpoint %1 at 0x%2 in thread %3 triggered.</source>
-        <translation type="unfinished">线程%3中0x%2处的内部数据断点%1 被触发。</translation>
+        <translation>线程%3中0x%2处的内部数据断点%1 被触发。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Stopped at breakpoint %1 (%2) in thread %3.</source>
-        <translation type="unfinished">在线程%3的断点%1 (%2) 处停止。</translation>
+        <translation>在线程%3的断点%1 (%2) 处停止。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stopped at internal breakpoint %1 in thread %2.</source>
-        <translation type="unfinished">在线程%2的内部断点%1处停止。</translation>
+        <translation>在线程%2的内部断点%1处停止。</translation>
     </message>
     <message>
         <source>Breakpoint on QML Signal Handler</source>
@@ -13376,7 +13378,7 @@ Qt Creator 无法附属到进程.</translation>
     <message>
         <location line="-24"/>
         <source>Delete Selected Breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>删除选择的断点</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -13426,12 +13428,12 @@ Qt Creator 无法附属到进程.</translation>
     <message>
         <location line="+48"/>
         <source>Remove All Breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>移除所有断点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to remove all breakpoints from all files in the current session?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要移除本次会话时间内的所有文件的断点吗？</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -86173,12 +86175,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/shared/help/indexwindow.cpp" line="+74"/>
         <source>&amp;Look for:</source>
-        <translation type="unfinished">查找(&amp;L):</translation>
+        <translation>查找(&amp;L):</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Open Link</source>
-        <translation type="unfinished">打开链接</translation>
+        <translation>打开链接</translation>
     </message>
     <message>
         <location line="+3"/>

@@ -6848,7 +6848,9 @@ Would you like to overwrite them?</source>
         <source>The text file &quot;%1&quot; has the size %2MB and might take more memory to open and process than available.
 
 Continue?</source>
-        <translation>文本文件“%1”大小%2MB，打开或处理它可能内存不够。</translation>
+        <translation>文本文件“%1”大小%2MB，打开或处理它可能内存不够。
+
+是否继续？</translation>
     </message>
     <message>
         <location line="+1673"/>
@@ -10529,7 +10531,7 @@ if (a &amp;&amp;
     <message>
         <location/>
         <source>Bind &apos;*&apos; and &apos;&amp;&amp;&apos; in types/declarations to</source>
-        <translation type="unfinished"></translation>
+        <translation>在类型/声明中绑定‘*’和‘&amp;&amp;’到</translation>
     </message>
     <message>
         <location/>
@@ -10541,7 +10543,14 @@ if (a &amp;&amp;
    int (*pa)[2] = ...;
 
 &lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; 这不会把指针/参考表中的星号和参考符号应用到函数和数列中，例如：
+&lt;pre&gt;   int (&amp;rf)() = ...;
+   int (*pf)() = ...;
+
+   int (&amp;ra)[2] = ...;
+   int (*pa)[2] = ...;
+
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -10556,17 +10565,17 @@ if (a &amp;&amp;
     <message>
         <location/>
         <source>Left const/volatile</source>
-        <translation type="unfinished"></translation>
+        <translation>左Left const/volatile</translation>
     </message>
     <message>
         <location/>
         <source>This does not apply to references.</source>
-        <translation type="unfinished">这不会应用到参考表中。</translation>
+        <translation>这不会应用到参考表中。</translation>
     </message>
     <message>
         <location/>
         <source>Right const/volatile</source>
-        <translation type="unfinished"></translation>
+        <translation>右Left const/volatile</translation>
     </message>
 </context>
 <context>
@@ -10625,7 +10634,11 @@ if (a &amp;&amp;
 Paths can be absolute or relative to the directory of the current open document.
 
 These paths are used in addition to current directory on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔的头文件路径列表。
+
+路径可以是绝对路径或该文档所在目录的相对路径。
+
+这些路径附加地用于头文件/源文件的当前目录。</translation>
     </message>
     <message>
         <location/>
@@ -10637,7 +10650,9 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <source>Comma-separated list of header prefixes.
 
 These prefixes are used in addition to current file name on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔的头文件前缀列表。
+
+这些前缀附加地用于头文件/源文件的当前文件名称。</translation>
     </message>
     <message>
         <location/>
@@ -10661,7 +10676,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
 Paths can be absolute or relative to the directory of the current open document.
 
 These paths are used in addition to current directory on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔的头文件路径列表。
+
+路径可以是绝对路径或该文档所在目录的相对路径。
+
+这些路径附加地用于头文件/源文件的当前目录。</translation>
     </message>
     <message>
         <location/>
@@ -10673,7 +10692,9 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <source>Comma-separated list of source prefixes.
 
 These prefixes are used in addition to current file name on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔的头文件前缀列表。
+
+这些前缀附加地用于头文件/源文件的当前文件名称。</translation>
     </message>
     <message>
         <location/>
@@ -11115,32 +11136,32 @@ Flags: %3</source>
     <message>
         <location line="+1564"/>
         <source>Extract Constant as Function Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>外部常量作为函数参数</translation>
     </message>
     <message>
         <location line="+1292"/>
         <source>Assign to Local Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>分配到就地变量</translation>
     </message>
     <message>
         <location line="+208"/>
         <source>Optimize for-Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>为循环优化</translation>
     </message>
     <message>
         <location line="+179"/>
         <source>Escape String Literal as UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>转义字符串UTF-8编码</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unescape String Literal as UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>未转义字符串UTF-8编码</translation>
     </message>
     <message>
         <location line="+161"/>
         <source>Convert connect() to Qt 5 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>转换connect()为Qt5样式</translation>
     </message>
     <message>
         <source>#include Header File</source>
@@ -12188,12 +12209,12 @@ Flags: %3</source>
     <message>
         <location line="+3"/>
         <source>Debugger &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器&apos;%1&apos;未找到。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Debugger &quot;%1&quot; not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器 &apos;%1&apos;不可执行。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12203,27 +12224,27 @@ Flags: %3</source>
     <message>
         <location line="+14"/>
         <source>Name of Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器名称</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unknown debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unknown debugger type</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器类型</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>No Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>无调试器</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>%1引擎</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12239,7 +12260,7 @@ Flags: %3</source>
         <location filename="../../../src/plugins/debugger/debuggeritem.cpp" line="+251"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="-48"/>
         <source>Type of Debugger Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器后台类型</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -12254,13 +12275,13 @@ Flags: %3</source>
         <location line="-1"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="-14"/>
         <source>Unknown debugger version</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器版本</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="+8"/>
         <source>Unknown debugger ABI</source>
-        <translation type="unfinished"></translation>
+        <translation>位置调试器ABI</translation>
     </message>
     <message>
         <source>GDB Engine</source>
@@ -13773,7 +13794,7 @@ debugger start-up times (CDB, LLDB).</source>
     <message>
         <location line="+4"/>
         <source>&lt;p&gt;Determines how the path is specified when setting breakpoints:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Use Engine Default&lt;/i&gt;: Preferred setting of the debugger engine.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Use Full Path&lt;/i&gt;: Pass full path, avoiding ambiguities should files of the same name exist in several modules. This is the engine default for CDB and LLDB.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Use File Name&lt;/i&gt;: Pass the file name only. This is useful when using a source tree whose location does not match the one used when building the modules. It is the engine default for GDB as using full paths can be slow with this engine.&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;决定了设置断点时如何指定路径：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;使用默认引擎&lt;/i&gt;：设置的调试引擎优先。&lt;/li&gt;&lt;li&gt;&lt;i&gt;使用完整路径&lt;/i&gt;：传递完整路径，避免数个模块内的相同名称的文件引起的歧义。这是CDB和LLDB的默认引擎。&lt;/li&gt;&lt;li&gt;&lt;i&gt;使用文件名&lt;/i&gt;：仅传递文件名。当使用资源树且文件位置与构建模块使用的文件位置不相同时，该方法很有用。这是GDB的默认引擎，因为使用完整路径可能拖慢该引擎。&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -13783,7 +13804,7 @@ debugger start-up times (CDB, LLDB).</source>
     <message>
         <location line="+5"/>
         <source>&lt;p&gt;Specifying the module (base name of the library or executable) for function or file type breakpoints can significantly speed up debugger start-up times (CDB, LLDB).</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;指定函数或文件类型的断点的模块(库或者执行档的名称)可以显着加快调试启动时间 (CDB, LLDB)。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -13843,7 +13864,7 @@ This feature is only available for GDB.</source>
     <message>
         <location line="+50"/>
         <source>&lt;p&gt;Debugger commands to be executed when the breakpoint is hit. This feature is only available for GDB.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;断点触发时执行的调试器命令。此功能仅对GDB可用。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -13871,12 +13892,12 @@ This feature is only available for GDB.</source>
     <message>
         <location line="+1"/>
         <source>A file named &quot;%1&quot; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件&apos;%1&apos;已存在。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The folder &quot;%1&quot; could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>目录&apos;%1&apos;无法被创建。</translation>
     </message>
     <message>
         <source>A file named &apos;%1&apos; already exists.</source>
@@ -14272,28 +14293,28 @@ This feature is only available for GDB.</source>
     <message>
         <location line="-1574"/>
         <source>Internal error: Invalid start parameters passed for the CDB engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>内部错误：无效的启动参数传送至CDB引擎。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unsupported CDB host system.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持CDB主机系统。</translation>
     </message>
     <message>
         <location line="+214"/>
         <source>The console process &quot;%1&quot; could not be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>终端进程&apos;%1&apos; 无法被启动。</translation>
     </message>
     <message>
         <location line="+35"/>
         <location line="+42"/>
         <source>Failed to Start the Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>启动调试器失败</translation>
     </message>
     <message>
         <location line="+1289"/>
         <source>Conditional breakpoint %1 (%2) in thread %3 triggered, examining expression &quot;%4&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>在线程%3中的条件断点%1 (%2) 被触发, 正在检查表达式 &apos;%4&apos;。</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -14308,7 +14329,7 @@ This feature is only available for GDB.</source>
     <message>
         <location line="+473"/>
         <source>Module loaded: </source>
-        <translation type="unfinished"></translation>
+        <translation>模块已载入：</translation>
     </message>
     <message>
         <location line="+462"/>
@@ -14328,7 +14349,7 @@ This feature is only available for GDB.</source>
     <message>
         <location line="+3"/>
         <source>&quot;Select Widget to Watch&quot;: Not supported in state &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;选择监视的控件&quot;:在状态&apos;%1&apos;下不支持。</translation>
     </message>
     <message>
         <source>&quot;Select Widget to Watch&quot;: Not supported in state &apos;%1&apos;.</source>
@@ -14393,12 +14414,12 @@ This feature is only available for GDB.</source>
     <message>
         <location filename="../../../src/plugins/debugger/watchhandler.cpp" line="+981"/>
         <source>Normal</source>
-        <translation type="unfinished">正常</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Separate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>分离式窗口</translation>
     </message>
 </context>
 <context>
@@ -14511,12 +14532,12 @@ This feature is only available for GDB.</source>
     <message>
         <location filename="../../../src/plugins/debugger/cdb/cdboptionspagewidget.ui"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uses CDB&apos;s native console instead of Qt Creator&apos;s console for console applications. The native console does not prompt on application exit. It is suitable for diagnosing cases in which the application does not start up properly in Qt Creator&apos;s console and the subsequent attach fails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;对于控制台程序使用 CDB的原生控制台来代替Qt Creator的。程序退出时原生控制台不提示，适用于调试程序没有正确启动进而关联(attach)进程失败的情况。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Various</source>
-        <translation type="unfinished"></translation>
+        <translation>变量</translation>
     </message>
     <message>
         <location/>
@@ -69215,7 +69236,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../welcomescreen/tutorials.qml" line="+48"/>
         <source>Search in Tutorials...</source>
-        <translation type="unfinished"></translation>
+        <translation>在教程中搜索...</translation>
     </message>
 </context>
 <context>
@@ -71254,17 +71275,17 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/ComboBoxSpecifics.qml" line="+37"/>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>组合框</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the combobox gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后组合框决定是否获得焦点。</translation>
     </message>
 </context>
 <context>
@@ -72233,12 +72254,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/ColumnSpecifics.qml" line="+37"/>
         <source>Column</source>
-        <translation type="unfinished">列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
 </context>
 <context>
@@ -75565,17 +75586,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeopenprojectwizard.cpp" line="-73"/>
         <source>Check Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>检查工具</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>There are compatible kits.</source>
-        <translation type="unfinished"></translation>
+        <translation>有兼容的工具。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt Creator has no kits that are suitable for CMake projects. Please configure a kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator没有CMake工程适用的工具。请至少配置一个工具。</translation>
     </message>
 </context>
 <context>
@@ -75583,17 +75604,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+93"/>
         <source>Check CMake Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>检查CMake工具</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>There are CMake Tools registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>有注册的CMake工具。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt Creator has no CMake Tools that are required for CMake projects. Please configure at least one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator没有CMake工程要求的CMake工具。请至少配置一个。</translation>
     </message>
 </context>
 <context>
@@ -75688,22 +75709,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>Set as the default CMake Tool to use when creating a new kit or when no value is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置为默认使用的CMake工具当建立一个新的构建工具或当设置值为空时。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prefer Ninja generator (CMake 2.8.9 or higher required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninja生成器优先（需要CMake2.8.9或更高）</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1 的克隆</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>New CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>新的CMake</translation>
     </message>
 </context>
 <context>
@@ -75725,23 +75746,23 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/generatorinfo.cpp" line="+108"/>
         <source>Ninja (%1)</source>
-        <translation type="unfinished">Ninja (%1)</translation>
+        <translation>Ninja (%1)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>NMake Generator (%1)</source>
-        <translation type="unfinished">NMake 创建器(%1)</translation>
+        <translation>NMake 创建器(%1)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>MinGW Generator (%1)</source>
-        <translation type="unfinished">MinGW 创建器 (%1)</translation>
+        <translation>MinGW 创建器 (%1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+4"/>
         <source>Unix Generator (%1)</source>
-        <translation type="unfinished">Unix 创建器 (%1)</translation>
+        <translation>Unix 创建器 (%1)</translation>
     </message>
 </context>
 <context>
@@ -75749,28 +75770,28 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/basefilewizardfactory.cpp" line="+160"/>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>为 &apos;%1&apos;打开编辑器时失败。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>[read only]</source>
-        <translation type="unfinished"></translation>
+        <translation> [只读]</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[folder]</source>
-        <translation type="unfinished"></translation>
+        <translation>[文件夹]</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[symbolic link]</source>
-        <translation type="unfinished"></translation>
+        <translation> [符号链接]</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The project directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished">项目目录 %1 存在着无法被覆盖的文件:
+        <translation>项目目录 %1 存在着无法被覆盖的文件:
 %2。</translation>
     </message>
 </context>
@@ -76057,12 +76078,12 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/documentmodel.cpp" line="+537"/>
         <source>&lt;no document&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;无文档&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No document is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择文档。</translation>
     </message>
 </context>
 <context>
@@ -76369,27 +76390,27 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/findplugin.cpp" line="+214"/>
         <source>&amp;Find/Replace</source>
-        <translation type="unfinished">查找/替换(&amp;F)</translation>
+        <translation>查找/替换(&amp;F)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Advanced Find</source>
-        <translation type="unfinished">高级查找</translation>
+        <translation>高级查找</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open Advanced Find...</source>
-        <translation type="unfinished">打开高级查找...</translation>
+        <translation>打开高级查找...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Advanced...</source>
-        <translation type="unfinished">高级...</translation>
+        <translation>高级...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+Shift+F</source>
-        <translation type="unfinished">Ctrl+Shift+F</translation>
+        <translation>Ctrl+Shift+F</translation>
     </message>
 </context>
 <context>
@@ -76657,12 +76678,12 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/icore.cpp" line="+109"/>
         <source> (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Qt Creator %1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator %1%2</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -83916,7 +83937,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/colortool/colortool.cpp" line="+54"/>
         <source>Edit Color</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑颜色</translation>
     </message>
 </context>
 <context>
@@ -85078,7 +85099,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+3"/>
         <source>Line: 9999, Col: 999</source>
-        <translation type="unfinished">行号: %1, 列号: 999</translation>
+        <translation>行号: %1, 列号: 999</translation>
     </message>
 </context>
 <context>

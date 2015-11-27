@@ -10529,7 +10529,7 @@ if (a &amp;&amp;
     <message>
         <location/>
         <source>Bind &apos;*&apos; and &apos;&amp;&amp;&apos; in types/declarations to</source>
-        <translation type="unfinished"></translation>
+        <translation>在类型/声明中绑定 * 和 &amp;&amp; 来</translation>
     </message>
     <message>
         <location/>
@@ -10541,7 +10541,14 @@ if (a &amp;&amp;
    int (*pa)[2] = ...;
 
 &lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;它不适用于星号和引用号在函数以及数组的指针/引用。比如说：
+&lt;pre&gt;   int (&amp;rf)() = ...;
+   int (*pf)() = ...;
+
+   int (&amp;ra)[2] = ...;
+   int (*pa)[2] = ...;
+
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -10556,17 +10563,17 @@ if (a &amp;&amp;
     <message>
         <location/>
         <source>Left const/volatile</source>
-        <translation type="unfinished"></translation>
+        <translation>左边的const/volatile</translation>
     </message>
     <message>
         <location/>
         <source>This does not apply to references.</source>
-        <translation type="unfinished">这不会应用到参考表中。</translation>
+        <translation>这不适用于引用。</translation>
     </message>
     <message>
         <location/>
         <source>Right const/volatile</source>
-        <translation type="unfinished"></translation>
+        <translation>右边的const/volatile</translation>
     </message>
 </context>
 <context>
@@ -10625,7 +10632,11 @@ if (a &amp;&amp;
 Paths can be absolute or relative to the directory of the current open document.
 
 These paths are used in addition to current directory on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>以逗号分隔的头文件路径列表。
+
+路径可以是绝对路径，或者是相对于当前打开的文档的路径。
+
+在切换头文件/源文件的时候这些路径会和当前目录一起使用。</translation>
     </message>
     <message>
         <location/>
@@ -10637,7 +10648,9 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <source>Comma-separated list of header prefixes.
 
 These prefixes are used in addition to current file name on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>以逗号分隔的头文件路径列表。
+
+在切换头文件/源文件的时候这些路径会和当前目录一起使用。</translation>
     </message>
     <message>
         <location/>
@@ -10661,7 +10674,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
 Paths can be absolute or relative to the directory of the current open document.
 
 These paths are used in addition to current directory on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>以逗号分隔的头文件路径列表。
+
+路径可以是绝对路径，或者是相对于当前打开的文档的路径。
+
+在切换头文件/源文件的时候这些路径会和当前目录一起使用。</translation>
     </message>
     <message>
         <location/>
@@ -10673,7 +10690,9 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <source>Comma-separated list of source prefixes.
 
 These prefixes are used in addition to current file name on Switch Header/Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>以逗号分隔的源文件前缀列表。
+
+在切换头文件/源文件的时候这些前缀会和当前文件名一起使用。</translation>
     </message>
     <message>
         <location/>
@@ -11115,32 +11134,32 @@ Flags: %3</source>
     <message>
         <location line="+1564"/>
         <source>Extract Constant as Function Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>提取常量作为函数的参数</translation>
     </message>
     <message>
         <location line="+1292"/>
         <source>Assign to Local Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>为本地变量赋值</translation>
     </message>
     <message>
         <location line="+208"/>
         <source>Optimize for-Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>针对for循环优化</translation>
     </message>
     <message>
         <location line="+179"/>
         <source>Escape String Literal as UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>将字符串文字转义为UTF-8格式</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unescape String Literal as UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>不将字符串文字转义为UTF-8格式</translation>
     </message>
     <message>
         <location line="+161"/>
         <source>Convert connect() to Qt 5 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>将connect()函数转为Qt5的风格</translation>
     </message>
     <message>
         <source>#include Header File</source>
@@ -12188,12 +12207,12 @@ Flags: %3</source>
     <message>
         <location line="+3"/>
         <source>Debugger &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到调试器“%1”。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Debugger &quot;%1&quot; not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器“%1”不是可执行程序。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12203,27 +12222,27 @@ Flags: %3</source>
     <message>
         <location line="+14"/>
         <source>Name of Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器名称</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unknown debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unknown debugger type</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器类型</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>No Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>没有调试器</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>%1引擎</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12239,7 +12258,7 @@ Flags: %3</source>
         <location filename="../../../src/plugins/debugger/debuggeritem.cpp" line="+251"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="-48"/>
         <source>Type of Debugger Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器后端类型</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -12254,13 +12273,13 @@ Flags: %3</source>
         <location line="-1"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="-14"/>
         <source>Unknown debugger version</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器版本</translation>
     </message>
     <message>
         <location line="+3"/>
         <location filename="../../../src/plugins/debugger/debuggerkitinformation.cpp" line="+8"/>
         <source>Unknown debugger ABI</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器ABI</translation>
     </message>
     <message>
         <source>GDB Engine</source>

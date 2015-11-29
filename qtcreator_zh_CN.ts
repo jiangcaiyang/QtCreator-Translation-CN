@@ -31689,27 +31689,27 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
         <source>ABI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ABI：</translation>
     </message>
     <message>
         <location/>
         <source>Target API:</source>
-        <translation type="unfinished"></translation>
+        <translation>目标API：</translation>
     </message>
     <message>
         <location/>
         <source>SD card size:</source>
-        <translation type="unfinished"></translation>
+        <translation>SD卡容量：</translation>
     </message>
     <message>
         <location/>
         <source> MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
 </context>
 <context>
@@ -31722,99 +31722,101 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>Sign package</source>
-        <translation type="unfinished"></translation>
+        <translation>为包签名</translation>
     </message>
     <message>
         <location/>
         <source>Keystore:</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥库：</translation>
     </message>
     <message>
         <location/>
         <source>Create...</source>
-        <translation type="unfinished"></translation>
+        <translation>创建...</translation>
     </message>
     <message>
         <location/>
         <source>Signing a debug package</source>
-        <translation type="unfinished"></translation>
+        <translation>为调试版包签名</translation>
     </message>
     <message>
         <location/>
         <source>Certificate alias:</source>
-        <translation type="unfinished"></translation>
+        <translation>证书别名：</translation>
     </message>
     <message>
         <location/>
         <source>Signing an APK that uses &quot;Deploy local Qt libraries&quot; is not allowed.
 Deploying local Qt libraries is incompatible with Android 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用“部署到本地Qt库”并且为APK签名将不被允许。
+部署到本地Qt库于Android 5不兼容。</translation>
     </message>
     <message>
         <location/>
         <source>Application</source>
-        <translation type="unfinished">应用程序</translation>
+        <translation>应用程序</translation>
     </message>
     <message>
         <location/>
         <source>Android build SDK:</source>
-        <translation type="unfinished"></translation>
+        <translation>Android构建的SDK：</translation>
     </message>
     <message>
         <location/>
         <source>Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>高级动作</translation>
     </message>
     <message>
         <location/>
         <source>Verbose output</source>
-        <translation type="unfinished"></translation>
+        <translation>详细输出</translation>
     </message>
     <message>
         <location/>
         <source>Open package location after build</source>
-        <translation type="unfinished"></translation>
+        <translation>构建后打开包的位置</translation>
     </message>
     <message>
         <location/>
         <source>Use Gradle</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Gradle</translation>
     </message>
     <message>
         <location/>
         <source>Qt Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt部署</translation>
     </message>
     <message>
         <location/>
         <source>Uses the external Ministro application to download and maintain Qt libraries.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用外部的Ministro应用程序来下载并且维护Qt库。</translation>
     </message>
     <message>
         <location/>
         <source>Use Ministro service to install Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Ministro服务来安装Qt</translation>
     </message>
     <message>
         <location/>
         <source>Creates a standalone APK.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个独立的APK。</translation>
     </message>
     <message>
         <location/>
         <source>Bundle Qt libraries in APK</source>
-        <translation type="unfinished"></translation>
+        <translation>将Qt库捆绑至APK</translation>
     </message>
     <message>
         <location/>
         <source>Pushes local Qt libraries to device. You must have Qt libraries compiled for that platform.
 The APK will not be usable on any other device.</source>
-        <translation type="unfinished"></translation>
+        <translation>将本地Qt库推送至设备。您必须拥有在该平台下编译的Qt库。
+APK在其它任何设备上将不能使用。</translation>
     </message>
     <message>
         <location/>
         <source>Deploy local Qt libraries to temporary directory</source>
-        <translation type="unfinished"></translation>
+        <translation>将本地Qt库部署至临时的目录</translation>
     </message>
 </context>
 <context>
@@ -31827,27 +31829,27 @@ The APK will not be usable on any other device.</source>
     <message>
         <location/>
         <source>Deploy options</source>
-        <translation type="unfinished"></translation>
+        <translation>部署选项</translation>
     </message>
     <message>
         <location/>
         <source>Uninstall previous package</source>
-        <translation type="unfinished"></translation>
+        <translation>卸载之前的包</translation>
     </message>
     <message>
         <location/>
         <source>Reset Default Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>重置默认的设备</translation>
     </message>
     <message>
         <location/>
         <source>Clean Temporary Libraries Directory on Device</source>
-        <translation type="unfinished"></translation>
+        <translation>在设备中清理临时库目录</translation>
     </message>
     <message>
         <location/>
         <source>Install Ministro from APK</source>
-        <translation type="unfinished"></translation>
+        <translation>从APK中安装Ministro</translation>
     </message>
 </context>
 <context>
@@ -31926,22 +31928,22 @@ The APK will not be usable on any other device.</source>
     <message>
         <location filename="../../../src/plugins/android/androiddevicedialog.ui"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;My device is missing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;aaa&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;我的设备不在列表中&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location/>
         <source>Create Android Virtual Device</source>
-        <translation type="unfinished"></translation>
+        <translation>创建Android虚拟设备</translation>
     </message>
     <message>
         <location/>
         <source>Refresh Device List</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新设备列表</translation>
     </message>
 </context>
 <context>
@@ -31964,28 +31966,29 @@ The APK will not be usable on any other device.</source>
     <message>
         <location filename="../../../src/plugins/bazaar/uncommitdialog.ui"/>
         <source>Keep tags that point to removed revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>保留标签并指向已移除的修订版本</translation>
     </message>
     <message>
         <location/>
         <source>Only remove the commits from the local branch when in a checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>只有当检出时，从本地分支中移除这些提交</translation>
     </message>
     <message>
         <location/>
         <source>Revision:</source>
-        <translation type="unfinished">修订版本:</translation>
+        <translation>修订版本：</translation>
     </message>
     <message>
         <location/>
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
-        <translation type="unfinished"></translation>
+        <translation>若指定修订版本，将取消提交（其它）修订版本以便让分支位于指定的修订版本中。
+比如说“修订版本15”将保留位于修订版本15的分支。</translation>
     </message>
     <message>
         <location/>
         <source>Last committed</source>
-        <translation type="unfinished"></translation>
+        <translation>最近提交</translation>
     </message>
 </context>
 <context>
@@ -32003,33 +32006,33 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleoptionspage.ui"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Artistic Style command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Artistic风格命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file *.astylerc defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>在项目文件中使用*.astylerc类型的文件</translation>
     </message>
     <message>
         <location/>
         <source>Use file .astylerc or astylerc in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在用户的HOME目录下使用*.astylerc类型的文件</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用个性化的风格：</translation>
     </message>
 </context>
 <context>

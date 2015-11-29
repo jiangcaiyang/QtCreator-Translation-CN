@@ -377,14 +377,14 @@
         <source>Qt version for architecture %1 is missing.
 To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
         <translation>%1架构的Qt版本缺失。
-添加Qt版本，选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
+要添加Qt版本，请选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt versions for %1 architectures are missing.
 To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
         <translation>%1个架构的Qt版本缺失。
-添加Qt版本，选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
+要添加Qt版本，请选择选项 &gt; 构建和运行 &gt; Qt版本。</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -7776,22 +7776,22 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerplugin.cpp" line="+497"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location line="+614"/>
         <source>Option &quot;%1&quot; is missing the parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>选项&quot;%1&quot;的参数缺失。</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Only one executable allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>只允许一个可执行文件。</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>The parameter &quot;%1&quot; of option &quot;%2&quot; does not match the pattern &lt;handle&gt;:&lt;pid&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>选项&quot;%2&quot;中参数&quot;%1&quot;与&lt;handle&gt;:&lt;pid&gt;模式不匹配。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -19328,12 +19328,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwelcomepage.cpp" line="+254"/>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>新建项目</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwelcomepage.h" line="+90"/>
         <source>Projects</source>
-        <translation type="unfinished">项目</translation>
+        <translation>项目</translation>
     </message>
 </context>
 <context>
@@ -22123,37 +22123,37 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location/>
         <source>Additional arguments:</source>
-        <translation type="unfinished">额外的参数:</translation>
+        <translation>额外的参数：</translation>
     </message>
     <message>
         <location/>
         <source>Generate separate debug info:</source>
-        <translation type="unfinished"></translation>
+        <translation>生成单独的调试信息：</translation>
     </message>
     <message>
         <location/>
         <source>Link QML debugging library:</source>
-        <translation type="unfinished"></translation>
+        <translation>链接QML调试库：</translation>
     </message>
     <message>
         <location/>
         <source>Use QML compiler:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用QML编译器：</translation>
     </message>
     <message>
         <location/>
         <source>Effective qmake call:</source>
-        <translation type="unfinished"></translation>
+        <translation>有效的qmake调用：</translation>
     </message>
 </context>
 <context>

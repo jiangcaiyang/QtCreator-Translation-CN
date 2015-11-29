@@ -7732,7 +7732,7 @@ Flags: %3</source>
     <message>
         <location line="+7"/>
         <source>Always adds a breakpoint on the &lt;i&gt;%1()&lt;/i&gt; function.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在函数&lt;i&gt;%1()&lt;/i&gt;上总是添加断点。</translation>
     </message>
 </context>
 <context>
@@ -8768,13 +8768,13 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+15"/>
         <source>Attached to running application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">附加到正在运行的应用程序上</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+7"/>
         <source>Failed to attach to application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">附加到应用程序失败：%1</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -9119,7 +9119,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location line="+206"/>
         <source>Failed to start application:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动应用程序失败：</translation>
     </message>
     <message>
         <location line="+133"/>
@@ -9343,7 +9343,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+5"/>
         <source>Use Intel style disassembly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用Intel风格分解</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -11690,12 +11690,12 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginerrorview.ui"/>
         <source>State:</source>
-        <translation>状态:</translation>
+        <translation type="unfinished">状态：</translation>
     </message>
     <message>
         <location/>
         <source>Error message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误信息：</translation>
     </message>
 </context>
 <context>
@@ -14502,7 +14502,7 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location line="+6"/>
         <source>Columns</source>
-        <translation type="unfinished">列 </translation>
+        <translation type="unfinished">列</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -14653,22 +14653,22 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location filename="../../../src/plugins/help/localhelpmanager.cpp" line="+363"/>
         <source>Error loading page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载页面时发生错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&lt;p&gt;Check that you have the corresponding documentation set installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;请检查是否已安装了相应的文件集。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading: %1</source>
-        <translation type="unfinished">载入 %1 除错</translation>
+        <translation type="unfinished">载入 %1 时发生错误</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>The page could not be found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">找不到页面</translation>
     </message>
 </context>
 <context>
@@ -14856,7 +14856,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location/>
         <source>Note: This setting takes effect only if the HTML file does not use a style sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注意：这个设置只有在HTML文件不使用样式表时有效。</translation>
     </message>
     <message>
         <location/>
@@ -14941,7 +14941,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location/>
         <source>Switches to editor context after last help page is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后一个帮助页面被关闭后转换编辑环境。</translation>
     </message>
     <message>
         <location/>
@@ -15015,7 +15015,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location line="+389"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;title&gt;No Documentation&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;font color=&quot;%1&quot;&gt;&lt;b&gt;%2&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;font color=&quot;%3&quot;&gt;No documentation available.&lt;/font&gt;&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;title&gt;没有文档&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;font color=&quot;%1&quot;&gt;&lt;b&gt;%2&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;font color=&quot;%3&quot;&gt;没有可用文档。&lt;/font&gt;&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/help/helpconstants.h" line="+1"/>
@@ -16031,37 +16031,37 @@ Id必须以小写字母开头。</translation>
     <message>
         <location/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名</translation>
     </message>
     <message>
         <location/>
         <source>Username to use by default on commit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提交时默认使用的用户名。</translation>
     </message>
     <message>
         <location/>
         <source>Default username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认用户名：</translation>
     </message>
     <message>
         <location/>
         <source>Email to use by default on commit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提交时默认使用的Email。</translation>
     </message>
     <message>
         <location/>
         <source>Default email:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认email</translation>
     </message>
     <message>
         <location/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">其他</translation>
+        <translation type="unfinished">其他参数</translation>
     </message>
     <message>
         <location/>
         <source>Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超时：</translation>
     </message>
     <message>
         <location/>
@@ -16236,7 +16236,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+3"/>
         <source>C source code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C预言源码</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16246,7 +16246,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>C header</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C预言头文件</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -16256,7 +16256,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Objective-C++ source code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objective-C++语言源码</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -17051,7 +17051,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+5"/>
         <source>Perforce did not respond within timeout limit (%1 s).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在指定的时间内无响应(%1 秒)。</translation>
     </message>
     <message>
         <location line="+113"/>
@@ -17282,7 +17282,7 @@ Id必须以小写字母开头。</translation>
         <location line="+22"/>
         <location line="+26"/>
         <source>The plugin &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件&quot;%1&quot;不存在。</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -17537,7 +17537,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+4"/>
         <source>Build directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建目录：</translation>
     </message>
     <message>
         <location line="+137"/>
@@ -17904,7 +17904,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+18"/>
         <source>Deploy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">部署设置</translation>
     </message>
 </context>
 <context>
@@ -18487,13 +18487,13 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/projectexplorer/copytaskhandler.cpp" line="+50"/>
         <source>error:</source>
         <extracomment>Task is of type: error</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>warning:</source>
         <extracomment>Task is of type: warning</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告：</translation>
     </message>
 </context>
 <context>
@@ -18509,7 +18509,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/currentprojectfind.cpp" line="+62"/>
         <source>Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -18519,7 +18519,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+33"/>
         <source>Project &quot;%1&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目&quot;%1&quot;：</translation>
     </message>
 </context>
 <context>
@@ -19328,7 +19328,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwelcomepage.cpp" line="+254"/>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建项目</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwelcomepage.h" line="+90"/>
@@ -19514,26 +19514,27 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+25"/>
         <source>Rename Session</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名会话</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/sessiondialog.ui"/>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建(&amp;N)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名(&amp;R)</translation>
     </message>
     <message>
         <location/>
         <source>C&amp;lone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">克隆(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Delete</source>
+        <translatorcomment>删除(&amp;D)</translatorcomment>
         <translation type="unfinished">删除(&amp;D)</translation>
     </message>
     <message>
@@ -19544,17 +19545,17 @@ to project &quot;%2&quot;.</source>
     <message>
         <location/>
         <source>Automatically restores the last session when Qt Creator is started.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当Qt Creator启动时自动恢复最后的会话。</translation>
     </message>
     <message>
         <location/>
         <source>Restore last session on startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当启动时恢复最后会话</translation>
     </message>
     <message>
         <location/>
         <source>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-project-managing-sessions.html&quot;&gt;What is a Session?&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-project-managing-sessions.html&quot;&gt;什么是会话？&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19721,12 +19722,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+1"/>
         <source>Remove Kit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除目录</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Import directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入目录</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -19883,7 +19884,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+1"/>
         <source>Annotate using version control system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用版本控制系统注释。</translation>
     </message>
 </context>
 <context>
@@ -19959,7 +19960,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+2"/>
         <source>Kit ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">套件ID</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -19979,7 +19980,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+4"/>
         <source>The id of the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前活动的套件的ID</translation>
     </message>
     <message>
         <location line="+107"/>
@@ -20802,7 +20803,7 @@ Reason: %2</source>
     <message>
         <location line="+1"/>
         <source>Delete session %1?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">是否删除会话 %1？</translation>
     </message>
     <message>
         <location line="+68"/>
@@ -20822,7 +20823,7 @@ Reason: %2</source>
     <message>
         <location line="+131"/>
         <source>Loading Session</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在载入会话</translation>
     </message>
     <message>
         <location line="-539"/>
@@ -46560,12 +46561,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/highlightdefinition.cpp" line="+51"/>
         <source>Element name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">元素名为空。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Duplicate element name &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制元素名 &quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -47445,7 +47446,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/vcsoutputwindow.cpp" line="+194"/>
         <source>Open &quot;%1&quot;</source>
-        <translation>打开 &quot;%1&quot;</translation>
+        <translation type="unfinished">打开&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -47460,12 +47461,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+124"/>
         <source>Executing: %1 %2</source>
-        <translation>执行:%1 %2</translation>
+        <translation type="unfinished">执行:%1 %2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executing in %1: %2 %3</source>
-        <translation>正在 %1 中执行: %2 %3</translation>
+        <translation type="unfinished">正在 %1 中执行: %2 %3</translation>
     </message>
 </context>
 <context>
@@ -47595,7 +47596,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdeployconfiguration.cpp" line="+55"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">运行windeployqt</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -47681,7 +47682,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstep.cpp" line="+60"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">运行windeployqt</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -47696,7 +47697,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+58"/>
         <source>File %1 is outside of the executable&apos;s directory. These files cannot be installed.</source>
-        <translation>文件%1以外的可执行文件的目录。这些文件不能被安装。</translation>
+        <translation type="unfinished">文件%1不在可执行文件的目录中。这些文件不能被安装。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -47751,12 +47752,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunnerhelper.cpp" line="+83"/>
         <source>The current kit has no Qt version.</source>
-        <translation>当前工具没有Qt版本。</translation>
+        <translation type="unfinished">当前工具没有任何Qt版本。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot find winrtrunner.exe in &quot;%1&quot;.</source>
-        <translation>无法找到winrtrunner.exe在&quot;%1&quot;。</translation>
+        <translation type="unfinished">在&quot;%1&quot;中无法找到winrtrunner.exe。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -47767,7 +47768,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+80"/>
         <source>Error while executing the WinRT Runner Tool: %1
 </source>
-        <translation>运行WinRT工具发生错误:%1</translation>
+        <translation type="unfinished">运行WinRT工具时发生错误:%1</translation>
     </message>
 </context>
 <context>
@@ -47785,7 +47786,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+3"/>
         <source>Open Link as New Page</source>
-        <translation type="unfinished">在新页面打开连接</translation>
+        <translation type="unfinished">在新标签页中打开连接</translation>
     </message>
 </context>
 </TS>

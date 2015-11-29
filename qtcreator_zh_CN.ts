@@ -32278,32 +32278,32 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location/>
         <source>Search &amp;&amp; &amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>查找和替换(&amp;R)</translation>
     </message>
     <message>
         <location/>
         <source>Sear&amp;ch for:</source>
-        <translation type="unfinished"></translation>
+        <translation>查找(&amp;C)：</translation>
     </message>
     <message>
         <location/>
         <source>Case sensiti&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>区分大小写(&amp;V)</translation>
     </message>
     <message>
         <location/>
         <source>Whole words o&amp;nly</source>
-        <translation type="unfinished"></translation>
+        <translation>全词匹配(&amp;N)</translation>
     </message>
     <message>
         <location/>
         <source>Use re&amp;gular expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>使用正则表达式(&amp;G)</translation>
     </message>
     <message>
         <location/>
         <source>Sco&amp;pe:</source>
-        <translation type="unfinished"></translation>
+        <translation>范围(&amp;P)：</translation>
     </message>
 </context>
 <context>
@@ -32354,38 +32354,39 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location/>
         <source>File types:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件类型：</translation>
     </message>
     <message>
         <location/>
         <source>Specify file name filters, separated by comma. Filters may contain wildcards.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定文件名称过滤器，用逗号分隔。过滤器可以包含通配符。</translation>
     </message>
     <message>
         <location/>
         <source>Specify a short word/abbreviation that can be used to restrict completions to files from this directory tree.
 To do this, you type this shortcut and a space in the Locator entry field, and then the word to search for.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定用于限定此目录树的文件的关键词或者缩写。
+您可以在“定位器”的输入位置键入这个缩写和一个空格，然后输入搜索的词。</translation>
     </message>
     <message>
         <location/>
         <source>Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <source>Edit...</source>
-        <translation type="unfinished">编辑...</translation>
+        <translation>编辑...</translation>
     </message>
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
         <source>Directories:</source>
-        <translation type="unfinished"></translation>
+        <translation>目录：</translation>
     </message>
 </context>
 <context>
@@ -32398,7 +32399,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器：</translation>
     </message>
 </context>
 <context>
@@ -34420,7 +34421,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.ui"/>
         <source>Uninstall package after stop</source>
-        <translation type="unfinished"></translation>
+        <translation>停止后卸载包</translation>
     </message>
 </context>
 <context>
@@ -38153,72 +38154,72 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/coreplugin.cpp" line="+47"/>
         <source>The current date (ISO).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前日期(ISO)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (ISO).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间(ISO)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current date (RFC2822).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前日期(RFC2822)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (RFC2822).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间(RFC2822)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current date (Locale).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前日期(Locale)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (Locale).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间(Locale)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The configured default directory for projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目配置的默认目录。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The directory last visited in a file dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件对话框最后访问的目录。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Is Qt Creator running on Windows?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator正在Windows上运行吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Is Qt Creator running on OS X?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator正在OS X上运行吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Is Qt Creator running on Linux?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator正在Linux上运行吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Is Qt Creator running on any unix-based platform?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator正在任意基于unix架构的平台上运行吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current date (QDate formatstring).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前日期(QDate格式字符串)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (QTime formatstring).</source>
-        <translation type="unfinished"></translation>
+        <translation>当前时间(QDate格式字符串)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -38231,22 +38232,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/externaltoolconfig.cpp" line="+51"/>
         <source>Edit Environment Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑环境改变</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Change system environment by assigning one environment variable per line:</source>
-        <translation type="unfinished"></translation>
+        <translation>通过每一行指定一个环境变量来改变系统环境变量：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>PATH=C:\dev\bin;${PATH}</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH=C:\dev\bin;${PATH}</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>PATH=/opt/bin:${PATH}</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH=/opt/bin:${PATH}</translation>
     </message>
 </context>
 <context>
@@ -38444,288 +38445,288 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/editormanager.cpp" line="-354"/>
         <source>Revert File to Saved</source>
-        <translation type="unfinished">恢复文件到已保存的状态</translation>
+        <translation>恢复文件到已保存的状态</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Alternative Close</source>
-        <translation type="unfinished"></translation>
+        <translation>可选关闭</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished">Ctrl+F4</translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished">Ctrl+Shift+W</translation>
+        <translation>Ctrl+Shift+W</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Alt+Tab</source>
-        <translation type="unfinished">Alt+Tab</translation>
+        <translation>Alt+Tab</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+Tab</source>
-        <translation type="unfinished">Ctrl+Tab</translation>
+        <translation>Ctrl+Tab</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Alt+Shift+Tab</source>
-        <translation type="unfinished">Alt+Shift+Tab</translation>
+        <translation>Alt+Shift+Tab</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+Shift+Tab</source>
-        <translation type="unfinished">Ctrl+Shift+Tab</translation>
+        <translation>Ctrl+Shift+Tab</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ctrl+Alt+Left</source>
-        <translation type="unfinished">Ctrl+Alt+Left</translation>
+        <translation>Ctrl+Alt+Left</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+Left</source>
-        <translation type="unfinished">Alt+Left</translation>
+        <translation>Alt+Left</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ctrl+Alt+Right</source>
-        <translation type="unfinished">Ctrl+Alt+Right</translation>
+        <translation>Ctrl+Alt+Right</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+Right</source>
-        <translation type="unfinished">Alt+Right</translation>
+        <translation>Alt+Right</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Split</source>
-        <translation type="unfinished">分栏</translation>
+        <translation>分栏</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,2</source>
-        <translation type="unfinished">Meta+E,2</translation>
+        <translation>Meta+E,2</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,2</source>
-        <translation type="unfinished">Ctrl+E,2</translation>
+        <translation>Ctrl+E,2</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Split Side by Side</source>
-        <translation type="unfinished">左右分栏</translation>
+        <translation>左右分栏</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,3</source>
-        <translation type="unfinished">Meta+E,3</translation>
+        <translation>Meta+E,3</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,3</source>
-        <translation type="unfinished">Ctrl+E,3</translation>
+        <translation>Ctrl+E,3</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Open in New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>在新的窗口中打开</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,4</source>
-        <translation type="unfinished">Meta+E,4</translation>
+        <translation>Meta+E,4</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,4</source>
-        <translation type="unfinished">Ctrl+E,4</translation>
+        <translation>Ctrl+E,4</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Remove Current Split</source>
-        <translation type="unfinished">删除当前分隔</translation>
+        <translation>移除当前分隔</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,0</source>
-        <translation type="unfinished">Meta+E,0</translation>
+        <translation>Meta+E,0</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,0</source>
-        <translation type="unfinished">Ctrl+E,0</translation>
+        <translation>Ctrl+E,0</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Remove All Splits</source>
-        <translation type="unfinished">删除所有分隔</translation>
+        <translation>删除所有分隔</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,1</source>
-        <translation type="unfinished">Meta+E,1</translation>
+        <translation>Meta+E,1</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,1</source>
-        <translation type="unfinished">Ctrl+E,1</translation>
+        <translation>Ctrl+E,1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Go to Next Split or Window</source>
-        <translation type="unfinished"></translation>
+        <translation>转到下一个分隔或窗口</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,o</source>
-        <translation type="unfinished">Meta+E,o</translation>
+        <translation>Meta+E,o</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,o</source>
-        <translation type="unfinished">Ctrl+E,o</translation>
+        <translation>Ctrl+E,o</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Ad&amp;vanced</source>
-        <translation type="unfinished">高级(&amp;A)</translation>
+        <translation>高级(&amp;A)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Current document</source>
-        <translation type="unfinished"></translation>
+        <translation>当前文档</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>X-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished">当前编辑器的左上角(相对屏幕来说)X坐标轴。</translation>
+        <translation>当前编辑器的左上角(相对屏幕来说)X坐标轴。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Y-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished">当前编辑器的左上角(相对屏幕来说)Y坐标轴。</translation>
+        <translation>当前编辑器的左上角(相对屏幕来说)Y坐标轴。</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Could not open &quot;%1&quot;: Cannot open files of type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开&quot;%1&quot;：无法打开文件类型：&quot;%2&quot;。</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Could not open &quot;%1&quot; for reading. Either the file does not exist or you do not have the permissions to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法以读取方式打开&quot;%1&quot;。文件不存在或者您没有相应的权限打开。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Could not open &quot;%1&quot;: Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开&quot;%1&quot;：未知错误。</translation>
     </message>
     <message>
         <location line="+855"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file was not opened in %1 yet.</source>
-        <translation type="unfinished">&lt;b&gt;警告:&lt;/b&gt; 此文件还没有在%1中打开。</translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 此文件还没有在%1中打开。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; You are changing a read-only file.</source>
-        <translation type="unfinished">&lt;b&gt;警告:&lt;/b&gt; 您正在改写一个只读文件。</translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 您正在改写一个只读文件。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Make Writable</source>
-        <translation type="unfinished">使文件可写</translation>
+        <translation>使文件可写</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>&amp;Save %1</source>
-        <translation type="unfinished">保存%1(&amp;S)</translation>
+        <translation>保存%1(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save %1 &amp;As...</source>
-        <translation type="unfinished">%1 另存为(&amp;A)...</translation>
+        <translation>%1另存为(&amp;A)...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished">恢复%1 到已保存的状态</translation>
+        <translation>恢复%1到已保存的状态</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reload %1</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入%1</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Close %1</source>
-        <translation type="unfinished">关闭%1</translation>
+        <translation>关闭%1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close All Except %1</source>
-        <translation type="unfinished">除了%1 以外全部关闭</translation>
+        <translation>除了%1以外全部关闭</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Close Others</source>
-        <translation type="unfinished">关闭其他</translation>
+        <translation>关闭其它</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Qt Creator</source>
-        <translation type="unfinished">Qt Creator</translation>
+        <translation>Qt Creator</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Cannot Open File</source>
-        <translation type="unfinished">无法打开文件</translation>
+        <translation>无法打开文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot open the file for editing with VCS.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法以包含版本控制系统的编辑方式打开文件。</translation>
     </message>
     <message>
         <location line="+73"/>
         <location line="+199"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Revert to Saved</source>
-        <translation type="unfinished">恢复到已保存的状态</translation>
+        <translation>恢复到已保存的状态</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You will lose your current changes if you proceed reverting %1.</source>
-        <translation type="unfinished">如果恢复 %1 那么您将会丢失现有的所有修改。</translation>
+        <translation>如果恢复%1那么您将会丢失现有的所有修改。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Proceed</source>
-        <translation type="unfinished">继续</translation>
+        <translation>继续</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -38772,113 +38773,113 @@ Do you want to check them out now?</source>
         <location filename="../../../src/plugins/coreplugin/find/findtoolbar.cpp" line="+136"/>
         <location line="+13"/>
         <source>Shift+Enter</source>
-        <translation type="unfinished">Shift+Enter</translation>
+        <translation>Shift+Enter</translation>
     </message>
     <message>
         <location line="-7"/>
         <location line="+13"/>
         <source>Shift+Return</source>
-        <translation type="unfinished">Shift+Return</translation>
+        <translation>Shift+Return</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Find/Replace</source>
-        <translation type="unfinished">查找/替换</translation>
+        <translation>查找/替换</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Enter Find String</source>
-        <translation type="unfinished">输入搜索字符串</translation>
+        <translation>输入搜索字符串</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished">Ctrl+E</translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Find Next</source>
-        <translation type="unfinished">查找下一个</translation>
+        <translation>查找下一个</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Find Previous</source>
-        <translation type="unfinished">查找前一个</translation>
+        <translation>查找上一个</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Find Next (Selected)</source>
-        <translation type="unfinished">查找下一个(选中的)</translation>
+        <translation>查找下一个(选中的)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+F3</source>
-        <translation type="unfinished">Ctrl+F3</translation>
+        <translation>Ctrl+F3</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Find Previous (Selected)</source>
-        <translation type="unfinished">查找前一个(选中的)</translation>
+        <translation>查找上一个(选中的)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+Shift+F3</source>
-        <translation type="unfinished">Ctrl+Shift+F3</translation>
+        <translation>Ctrl+Shift+F3</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Replace</source>
-        <translation type="unfinished">替换</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Replace &amp;&amp; Find</source>
-        <translation type="unfinished">查找并替换</translation>
+        <translation>查找并替换</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+=</source>
-        <translation type="unfinished">Ctrl+=</translation>
+        <translation>Ctrl+=</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Replace &amp;&amp; Find Previous</source>
-        <translation type="unfinished">替换并且查找前一个</translation>
+        <translation>替换并且查找上一个</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Replace All</source>
-        <translation type="unfinished">替换所有</translation>
+        <translation>替换所有</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished">区分大小写</translation>
+        <translation>区分大小写</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Whole Words Only</source>
-        <translation type="unfinished">全词匹配</translation>
+        <translation>全词匹配</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use Regular Expressions</source>
-        <translation type="unfinished">使用正则表达式</translation>
+        <translation>使用正则表达式</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Preserve Case when Replacing</source>
-        <translation type="unfinished"></translation>
+        <translation>替换时保留大小写</translation>
     </message>
     <message>
         <location line="+128"/>
         <source>Search for...</source>
-        <translation type="unfinished">查找...</translation>
+        <translation>查找...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Replace with...</source>
-        <translation type="unfinished"></translation>
+        <translation>替换为...</translation>
     </message>
 </context>
 <context>
@@ -39085,18 +39086,18 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/directoryfilter.cpp" line="+47"/>
         <source>Generic Directory Filter</source>
-        <translation type="unfinished">标准目录过滤器</translation>
+        <translation>标准目录过滤器</translation>
     </message>
     <message>
         <location line="+101"/>
         <location line="+10"/>
         <source>Select Directory</source>
-        <translation type="unfinished">选择目录</translation>
+        <translation>选择目录</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>%1 filter update: 0 files</source>
-        <translation type="unfinished"> %1 过滤器更新: 0 个文件</translation>
+        <translation>%1过滤器更新：0个文件</translation>
     </message>
     <message numerus="yes">
         <location line="+16"/>
@@ -39108,7 +39109,7 @@ Do you want to check them out now?</source>
     <message>
         <location line="+10"/>
         <source>%1 filter update: canceled</source>
-        <translation type="unfinished">%1 过滤器更新: 已取消</translation>
+        <translation>%1过滤器更新：已取消</translation>
     </message>
 </context>
 <context>
@@ -39116,43 +39117,44 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/executefilter.cpp" line="+45"/>
         <source>Execute Custom Commands</source>
-        <translation type="unfinished">执行自定义的命令</translation>
+        <translation>执行自定义的命令</translation>
     </message>
     <message>
         <location line="+65"/>
         <source>Previous command is still running (&quot;%1&quot;).
 Do you want to kill it?</source>
-        <translation type="unfinished"></translation>
+        <translation>前一个命令正在运行中(&quot;%1&quot;)。
+您打算杀死它吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Kill Previous Process?</source>
-        <translation type="unfinished">杀死前一个进程吗？</translation>
+        <translation>杀死前一个进程吗？</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Command &quot;%1&quot; finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&quot;%1&quot;完成。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Command &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>命令&quot;%1&quot;失败。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Could not find executable for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为&quot;%1&quot;找到可执行程序。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Starting command &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动命令&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Could not start process: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动进程：%1。</translation>
     </message>
 </context>
 <context>
@@ -39160,7 +39162,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/externaltoolsfilter.cpp" line="+44"/>
         <source>Run External Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>运行外部工具</translation>
     </message>
 </context>
 <context>
@@ -39168,12 +39170,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/filesystemfilter.cpp" line="+63"/>
         <source>Files in File System</source>
-        <translation type="unfinished">文件系统中的文件</translation>
+        <translation>文件系统中的文件</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Create and Open &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>创建并且打开&quot;%1&quot;</translation>
     </message>
 </context>
 <context>

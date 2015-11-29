@@ -32050,32 +32050,32 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.ui"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Clang Format command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use predefined style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预定义的风格：</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用定制的风格：</translation>
     </message>
     <message>
         <location/>
         <source>Format entire file if no text was selected. (For action Format Selected Text)</source>
-        <translation type="unfinished"></translation>
+        <translation>如果没有选中文本则格式整个文件。(从活动的项目中选择文件)</translation>
     </message>
 </context>
 <context>
@@ -32099,7 +32099,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationdialog.ui"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
 </context>
 <context>
@@ -32122,17 +32122,17 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/configurationpanel.ui"/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
 </context>
 <context>
@@ -32150,33 +32150,33 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyoptionspage.ui"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <source>Uncrustify command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uncrustify命令：</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg defined in project files</source>
-        <translation type="unfinished"></translation>
+        <translation>使用项目文件中定义的文件uncrustify.cfg</translation>
     </message>
     <message>
         <location/>
         <source>Use file uncrustify.cfg in HOME</source>
         <extracomment>HOME is replaced by the user&apos;s home directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>使用用户的HOME目录下定义的文件uncrustify.cfg</translation>
     </message>
     <message>
         <location/>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自定义的风格：</translation>
     </message>
 </context>
 <context>
@@ -32189,27 +32189,27 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location/>
         <source>Build system (exact)</source>
-        <translation type="unfinished"></translation>
+        <translation>构建系统 (exact)</translation>
     </message>
     <message>
         <location/>
         <source>Build system (fuzzy)</source>
-        <translation type="unfinished"></translation>
+        <translation>构建系统 (fuzzy)</translation>
     </message>
     <message>
         <location/>
         <source>Custom</source>
-        <translation type="unfinished">自定义设置</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <location/>
         <source>Choose...</source>
-        <translation type="unfinished">选择...</translation>
+        <translation>选择...</translation>
     </message>
 </context>
 <context>
@@ -33630,17 +33630,17 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/ComboBoxSpecifics.qml" line="+37"/>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>组合框</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Focus on press</source>
-        <translation type="unfinished">点击后设置焦点</translation>
+        <translation>按下后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the combobox gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击后组合框决定是否获得焦点。</translation>
     </message>
 </context>
 <context>
@@ -34608,12 +34608,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/ColumnSpecifics.qml" line="+37"/>
         <source>Column</source>
-        <translation type="unfinished">列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
 </context>
 <context>
@@ -37939,17 +37939,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeopenprojectwizard.cpp" line="-73"/>
         <source>Check Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>检查工具</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>There are compatible kits.</source>
-        <translation type="unfinished"></translation>
+        <translation>有兼容的工具。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt Creator has no kits that are suitable for CMake projects. Please configure a kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator没有CMake工程适用的工具。请至少配置一个工具。</translation>
     </message>
 </context>
 <context>
@@ -37957,17 +37957,17 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+93"/>
         <source>Check CMake Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>检查CMake工具</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>There are CMake Tools registered.</source>
-        <translation type="unfinished"></translation>
+        <translation>有注册的CMake工具。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt Creator has no CMake Tools that are required for CMake projects. Please configure at least one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator没有CMake工程要求的CMake工具。请至少配置一个。</translation>
     </message>
 </context>
 <context>
@@ -38062,22 +38062,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>Set as the default CMake Tool to use when creating a new kit or when no value is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置为默认使用的CMake工具当建立一个新的构建工具或当设置值为空时。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prefer Ninja generator (CMake 2.8.9 or higher required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninja生成器优先（需要CMake2.8.9或更高）</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1的克隆</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>New CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>新的CMake</translation>
     </message>
 </context>
 <context>
@@ -38099,23 +38099,23 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/generatorinfo.cpp" line="+108"/>
         <source>Ninja (%1)</source>
-        <translation type="unfinished">Ninja (%1)</translation>
+        <translation>Ninja (%1)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>NMake Generator (%1)</source>
-        <translation type="unfinished">NMake 创建器(%1)</translation>
+        <translation>NMake创建器(%1)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>MinGW Generator (%1)</source>
-        <translation type="unfinished">MinGW 创建器 (%1)</translation>
+        <translation>MinGW创建器(%1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+4"/>
         <source>Unix Generator (%1)</source>
-        <translation type="unfinished">Unix 创建器 (%1)</translation>
+        <translation>Unix创建器(%1)</translation>
     </message>
 </context>
 <context>
@@ -38123,28 +38123,28 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/basefilewizardfactory.cpp" line="+160"/>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>为&apos;%1&apos;打开编辑器时失败。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>[read only]</source>
-        <translation type="unfinished"></translation>
+        <translation>[只读]</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[folder]</source>
-        <translation type="unfinished"></translation>
+        <translation>[文件夹]</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[symbolic link]</source>
-        <translation type="unfinished"></translation>
+        <translation>[符号链接]</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The project directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished">项目目录 %1 存在着无法被覆盖的文件:
+        <translation>项目目录%1存在着无法被覆盖的文件:
 %2。</translation>
     </message>
 </context>
@@ -38223,7 +38223,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+3"/>
         <source>A comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个注释。</translation>
     </message>
 </context>
 <context>
@@ -38431,12 +38431,12 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/documentmodel.cpp" line="+537"/>
         <source>&lt;no document&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;无文档&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No document is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择文档。</translation>
     </message>
 </context>
 <context>
@@ -38733,9 +38733,8 @@ Do you want to check them out now?</source>
     <message numerus="yes">
         <location filename="../../../src/plugins/coreplugin/find/currentdocumentfind.cpp" line="+142"/>
         <source>%n occurrences replaced.</source>
-        <translation type="unfinished">
-            <numerusform>
-            </numerusform>
+        <translation>
+            <numerusform>%n项已被替换。</numerusform>
         </translation>
     </message>
 </context>
@@ -38744,27 +38743,27 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/findplugin.cpp" line="+214"/>
         <source>&amp;Find/Replace</source>
-        <translation type="unfinished">查找/替换(&amp;F)</translation>
+        <translation>查找/替换(&amp;F)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Advanced Find</source>
-        <translation type="unfinished">高级查找</translation>
+        <translation>高级查找</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open Advanced Find...</source>
-        <translation type="unfinished">打开高级查找...</translation>
+        <translation>打开高级查找...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Advanced...</source>
-        <translation type="unfinished">高级...</translation>
+        <translation>高级...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+Shift+F</source>
-        <translation type="unfinished">Ctrl+Shift+F</translation>
+        <translation>Ctrl+Shift+F</translation>
     </message>
 </context>
 <context>
@@ -38887,37 +38886,37 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/ifindfilter.cpp" line="+271"/>
         <source>Case sensitive</source>
-        <translation type="unfinished">区分大小写</translation>
+        <translation>区分大小写</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Whole words</source>
-        <translation type="unfinished">全词匹配</translation>
+        <translation>全词匹配</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Regular expressions</source>
-        <translation type="unfinished">正则表达式</translation>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Preserve case</source>
-        <translation type="unfinished"></translation>
+        <translation>保留大小写</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Flags: %1</source>
-        <translation type="unfinished">标志: %1</translation>
+        <translation>标志：%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>, </source>
-        <translation type="unfinished">，</translation>
+        <translation>，</translation>
     </message>
 </context>
 <context>
@@ -39032,17 +39031,17 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/icore.cpp" line="+109"/>
         <source> (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Qt Creator %1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator %1%2</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Based on Qt %1 (%2, %3 bit)</source>
-        <translation type="unfinished"></translation>
+        <translation>基于Qt %1 (%2, %3 位)</translation>
     </message>
 </context>
 <context>
@@ -39182,27 +39181,27 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/ilocatorfilter.cpp" line="+154"/>
         <source>Filter Configuration</source>
-        <translation type="unfinished">过滤器配置</translation>
+        <translation>过滤器配置</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Prefix:</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Type the prefix followed by a space and search term to restrict search to the filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入前缀后紧跟空格并且搜索词以便限制搜索的过滤器。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Include by default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认包含</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Include the filter when not using a prefix for searches.</source>
-        <translation type="unfinished"></translation>
+        <translation>当不用前缀用来搜索时包含该过滤器。</translation>
     </message>
 </context>
 <context>
@@ -45519,7 +45518,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/colortool/colortool.cpp" line="+54"/>
         <source>Edit Color</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑颜色</translation>
     </message>
 </context>
 <context>
@@ -47746,7 +47745,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+6"/>
         <source>WinRT Run Control Factory</source>
-        <translation type="unfinished">WinRT运行控制工厂</translation>
+        <translation>WinRT运行控制工厂</translation>
     </message>
 </context>
 <context>

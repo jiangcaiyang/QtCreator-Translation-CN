@@ -33369,43 +33369,43 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location filename="../../../src/plugins/coreplugin/dialogs/readonlyfilesdialog.ui"/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="+103"/>
         <source>Files Without Write Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>没有写权限的一些文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="+1"/>
         <source>The following files have no write permissions. Do you want to change the permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>以下文件没有写的权限，您打算修改其权限吗？</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="+5"/>
         <source>Make Writable</source>
-        <translation type="unfinished">使文件可写</translation>
+        <translation>使文件可写</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="-1"/>
         <source>Open with VCS</source>
-        <translation type="unfinished"></translation>
+        <translation>使用版本控制系统打开</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="-1"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="-1"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_readonlyfilesdialog.h" line="+4"/>
         <source>Select all, if possible: </source>
-        <translation type="unfinished"></translation>
+        <translation>如果可能，选择所有：</translation>
     </message>
 </context>
 <context>
@@ -33465,37 +33465,37 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Find:</source>
-        <translation type="unfinished"></translation>
+        <translation>查找：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Replace with:</source>
-        <translation type="unfinished">替换为:</translation>
+        <translation>替换为：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Replace</source>
-        <translation type="unfinished">替换</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Replace &amp;&amp; Find</source>
-        <translation type="unfinished">查找并替换</translation>
+        <translation>查找并替换</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Replace All</source>
-        <translation type="unfinished">替换所有</translation>
+        <translation>替换所有</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_findwidget.h" line="+1"/>
         <source>Advanced...</source>
-        <translation type="unfinished">高级...</translation>
+        <translation>高级...</translation>
     </message>
 </context>
 <context>
@@ -33578,37 +33578,37 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+1"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+1"/>
         <source>Edit...</source>
-        <translation type="unfinished">编辑...</translation>
+        <translation>编辑...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+2"/>
         <source>Locator filters that do not update their cached data immediately, such as the custom directory filters, update it after this time interval.</source>
-        <translation type="unfinished"></translation>
+        <translation>定位器的过滤器不立即更新其高速缓存的数据，如自定义目录，过滤器，此时间间隔过后进行更新。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+2"/>
         <source>Refresh interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新时间间隔：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_locatorsettingspage.h" line="+1"/>
         <source> min</source>
-        <translation type="unfinished"></translation>
+        <translation>分钟</translation>
     </message>
 </context>
 <context>
@@ -33654,119 +33654,119 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/coreplugin/systemsettings.ui"/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>Warn before opening text files greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>提示警告当打开的文本文件大于</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>Automatically creates temporary copies of modified files. If Qt Creator is restarted after a crash or power failure, it asks whether to recover the auto-saved content.</source>
-        <translation type="unfinished"></translation>
+        <translation>为修改过的文件自动创建临时的副本。如果Qt Creator在崩溃或者电源关闭后重新启动，会提示是否恢复自动保存的内容。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>Auto-save modified files</source>
-        <translation type="unfinished"></translation>
+        <translation>自动保存修改过的文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>Interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>时间间隔：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>min</source>
         <extracomment>unit for minutes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>When files are externally modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>当文件在外部修改：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+3"/>
         <source>Always Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>始终询问</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>Reload All Unchanged Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入所有未改变的编辑器</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>Ignore Modifications</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略修改</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>Patch command:</source>
-        <translation type="unfinished"></translation>
+        <translation>补丁命令：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+1"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>？</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>Reset to default.</source>
         <comment>File Browser</comment>
-        <translation type="unfinished">重置为默认。</translation>
+        <translation>重置为默认。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <location line="+5"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="-4"/>
         <source>External file browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>外部文件浏览器：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>Reset to default.</source>
         <comment>Terminal</comment>
-        <translation type="unfinished">重置为默认。</translation>
+        <translation>重置为默认。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+4"/>
         <source>&lt;html&gt;Influences how file names are matched to decide if they are the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;影响文件是如何命名的用来决定是否它们是一样的。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_systemsettings.h" line="+2"/>
         <source>File system case sensitivity:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件系统区分大小写：</translation>
     </message>
 </context>
 <context>
@@ -33781,7 +33781,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_themeeditorwidget.h" line="+1"/>
         <source>Filter:</source>
-        <translation type="unfinished">过滤器：</translation>
+        <translation>过滤器：</translation>
     </message>
 </context>
 <context>
@@ -33801,13 +33801,13 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/coreplugin/themesettings.ui"/>
         <location filename="../../../src/plugins/coreplugin/ui_themesettings.h" line="+1"/>
         <source>Copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>复制...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/ui_themesettings.h" line="+1"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -35764,7 +35764,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/winrt/ui_winrtpackagedeploymentstepwidget.h" line="+1"/>
         <source>Restore Default Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认参数</translation>
     </message>
 </context>
 <context>
@@ -38333,7 +38333,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalconstants.h" line="+44"/>
         <source>Bare Metal</source>
-        <translation type="unfinished">裸机</translation>
+        <translation>裸机</translation>
     </message>
 </context>
 <context>
@@ -39472,7 +39472,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/coreplugin.cpp" line="+154"/>
         <source>No themes found in installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>安装中没有找到主题。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -39578,14 +39578,14 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/promptoverwritedialog.cpp" line="+68"/>
         <source>Overwrite Existing Files</source>
-        <translation type="unfinished">覆盖现有文件</translation>
+        <translation>覆盖现有文件</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>The following files already exist in the folder
 %1.
 Would you like to overwrite them?</source>
-        <translation type="unfinished">以下文件已经存在于目录
+        <translation>以下文件已经存在于目录
 %1中。
 您想要覆盖吗？</translation>
     </message>
@@ -39595,89 +39595,91 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/readonlyfilesdialog.cpp" line="+119"/>
         <source>Mixed</source>
-        <translation type="unfinished">混合</translation>
+        <translation>混合</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Make Writable</source>
-        <translation type="unfinished">使文件可写</translation>
+        <translation>使文件可写</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open with VCS</source>
-        <translation type="unfinished"></translation>
+        <translation>使用版本控制系统打开</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <location line="+98"/>
         <source>Failed to %1 File</source>
-        <translation type="unfinished"></translation>
+        <translation>%1文件失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>%1 file %2 from version control system %3 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1文件%2来自版本控制系统%3失败。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No Version Control System Found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到版本控制系统</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot open file %1 from version control system.
 No version control system found.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从版本控制系统中打开文件%1。
+没有找到版本控制系统。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Cannot Set Permissions</source>
-        <translation type="unfinished">无法设置权限</translation>
+        <translation>无法设置权限</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot set permissions for %1 to writable.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法设置权限让%1可写。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot save file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法保存文件%1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Canceled Changing Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>取消改变权限</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could Not Change Permissions on Some Files</source>
-        <translation type="unfinished"></translation>
+        <translation>在某些文件中无法改变权限</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>See details for a complete list of files.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看完整文件列表的详细信息。</translation>
     </message>
     <message>
         <location line="+135"/>
         <source>Change &amp;Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>改变权限(&amp;P)</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>The following files are not checked out yet.
 Do you want to check them out now?</source>
-        <translation type="unfinished"></translation>
+        <translation>以下文件仍未检出。
+您打算现在就检出它们吗？</translation>
     </message>
 </context>
 <context>
@@ -39685,69 +39687,69 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/shortcutsettings.cpp" line="-75"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘快捷键</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+7"/>
         <source>Shortcut</source>
-        <translation type="unfinished">快捷键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Enter key sequence as text</source>
-        <translation type="unfinished"></translation>
+        <translation>输入按键序列作为文本</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Key sequence:</source>
-        <translation type="unfinished">键位顺序:</translation>
+        <translation>按键序列：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Use &quot;Cmd&quot;, &quot;Opt&quot;, &quot;Ctrl&quot;, and &quot;Shift&quot; for modifier keys. Use &quot;Escape&quot;, &quot;Backspace&quot;, &quot;Delete&quot;, &quot;Insert&quot;, &quot;Home&quot;, and so on, for special keys. Combine individual keys with &quot;+&quot;, and combine multiple shortcuts to a shortcut sequence with &quot;,&quot;. For example, if the user must hold the Ctrl and Shift modifier keys while pressing Escape, and then release and press A, enter &quot;Ctrl+Shift+Escape,A&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用&quot;Cmd&quot;、&quot;Opt&quot;、&quot;Ctrl&quot;和&quot;Shift&quot;键作为键盘的修改键。使用&quot;Escape&quot;、&quot;Backspace&quot;、&quot;Delete&quot;、&quot;Insert&quot;、&quot;Home&quot;等等作为特殊按键。使用&quot;+&quot;键对单独按键进行组合，使用&quot;,&quot;对多个快捷键进行组合。举例来说，如果用户当按下Escape键的同时必须同时按下Ctrl以及Shift修改键，然后释放并且按下A键，请输入&quot;Ctrl+Shift+Escape,A&quot;。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Use &quot;Ctrl&quot;, &quot;Alt&quot;, &quot;Meta&quot;, and &quot;Shift&quot; for modifier keys. Use &quot;Escape&quot;, &quot;Backspace&quot;, &quot;Delete&quot;, &quot;Insert&quot;, &quot;Home&quot;, and so on, for special keys. Combine individual keys with &quot;+&quot;, and combine multiple shortcuts to a shortcut sequence with &quot;,&quot;. For example, if the user must hold the Ctrl and Shift modifier keys while pressing Escape, and then release and press A, enter &quot;Ctrl+Shift+Escape,A&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用&quot;Cmd&quot;、&quot;Alt&quot;、&quot;Meta&quot;和&quot;Shift&quot;键作为键盘的修改键。使用&quot;Escape&quot;、&quot;Backspace&quot;、&quot;Delete&quot;、&quot;Insert&quot;、&quot;Home&quot;等等作为特殊按键。使用&quot;+&quot;键对单独按键进行组合，使用&quot;,&quot;对多个快捷键进行组合。举例来说，如果用户当按下Escape键的同时必须同时按下Ctrl以及Shift修改键，然后释放并且按下A键，请输入&quot;Ctrl+Shift+Escape,A&quot;。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset to default.</source>
-        <translation type="unfinished">重置为默认。</translation>
+        <translation>重置为默认。</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Key sequence has potential conflicts. &lt;a href=&quot;#conflicts&quot;&gt;Show.&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>按键序列有潜在的冲突。&lt;a href=&quot;#conflicts&quot;&gt;显示&lt;/a&gt;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Invalid key sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的按键序列。</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Import Keyboard Mapping Scheme</source>
-        <translation type="unfinished">导入键盘映射方案</translation>
+        <translation>导入键盘映射方案</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+45"/>
         <source>Keyboard Mapping Scheme (*.kms)</source>
-        <translation type="unfinished">键盘映射方案 (*.kms)</translation>
+        <translation>键盘映射方案(*.kms)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Export Keyboard Mapping Scheme</source>
-        <translation type="unfinished">导出键盘映射方案</translation>
+        <translation>导出键盘映射方案</translation>
     </message>
 </context>
 <context>
@@ -40322,32 +40324,32 @@ Do you want to check them out now?</source>
         <location filename="../../../src/plugins/coreplugin/find/searchresultwindow.cpp" line="+116"/>
         <location line="+398"/>
         <source>Expand All</source>
-        <translation type="unfinished">展开全部</translation>
+        <translation>展开全部</translation>
     </message>
     <message>
         <location line="-396"/>
         <source>History:</source>
-        <translation type="unfinished"></translation>
+        <translation>历史：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>New Search</source>
-        <translation type="unfinished">新搜索</translation>
+        <translation>新搜索</translation>
     </message>
     <message>
         <location line="+280"/>
         <source>%1 %2</source>
-        <translation type="unfinished">%1 %2</translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Collapse All</source>
-        <translation type="unfinished">折叠全部</translation>
+        <translation>折叠全部</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/searchresultwindow.h" line="+154"/>
         <source>Search Results</source>
-        <translation type="unfinished">搜索结果</translation>
+        <translation>搜索结果</translation>
     </message>
 </context>
 <context>
@@ -40373,17 +40375,17 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/iwizardfactory.cpp" line="+240"/>
         <source>Factory with id=&quot;%1&quot; already registered. Deleting.</source>
-        <translation type="unfinished"></translation>
+        <translation>id=&quot;%1&quot;的工厂已经注册，删除中。</translation>
     </message>
     <message>
         <location line="+199"/>
         <source>Reload All Wizards</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入所有的向导</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Inspect Wizard State</source>
-        <translation type="unfinished"></translation>
+        <translation>检查向导的状态</translation>
     </message>
 </context>
 <context>
@@ -40391,17 +40393,17 @@ Do you want to check them out now?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/jsexpander.cpp" line="+65"/>
         <source>Error in &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;%1&quot;中出错：%2</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Cannot convert result of &quot;%1&quot; to string.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将&quot;%1&quot;的结果转化为字符串。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Evaluate simple JavaScript statements.&lt;br&gt;The statements may not contain &apos;{&apos; nor &apos;}&apos; characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>为简单的Javascript语句求值。&lt;br&gt;这些语句不能包含&apos;{&apos;字符也不能包含&apos;}&apos;字符。</translation>
     </message>
 </context>
 <context>
@@ -40534,37 +40536,37 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locator.cpp" line="+109"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Type to locate</source>
-        <translation type="unfinished">输入以定位</translation>
+        <translation>输入以定位</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type to locate (%1)</source>
-        <translation type="unfinished">输入以定位(%1)</translation>
+        <translation>输入以定位(%1)</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a document&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Open File or Project (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Recent Files&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Tools &gt; Locate (%2) and&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- type to open file from any open project&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%3&amp;lt;space&amp;gt;&amp;lt;filename&amp;gt;&lt;/code&gt; to open file from file system&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- select one of the other filters for jumping to a location&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Drag and drop files here&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;打开一个文档&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 打开文件或者项目(%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 最近的文件&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;工具 &gt; 定位(%2)并且&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入用来从任何一个打开的项目中打开文件&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入 &lt;code&gt;%3&amp;lt;空格&amp;gt;&amp;lt;文件名&amp;gt;&lt;/code&gt;来从文件系统中打开文件&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 选择其它过滤器中的一个用来跳转到一个路径&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;拖拽文件到这里&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%1&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to jump to a class definition&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%1&amp;lt;空格&amp;gt;&amp;lt;模式&amp;gt;&lt;/code&gt;来跳转到类定义中&lt;/div&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%1&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to jump to a function definition&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%1&amp;lt;空格&amp;gt;&amp;lt;模式&amp;gt;&lt;/code&gt;来跳转到函数定义中&lt;/div&gt;</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Updating Locator Caches</source>
-        <translation type="unfinished"></translation>
+        <translation>更新定位器缓存</translation>
     </message>
 </context>
 <context>
@@ -40572,7 +40574,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatorfiltersfilter.cpp" line="+50"/>
         <source>Available filters</source>
-        <translation type="unfinished">可使用的过滤器</translation>
+        <translation>可使用的过滤器</translation>
     </message>
 </context>
 <context>
@@ -40580,27 +40582,27 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatorsettingspage.cpp" line="+287"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>前缀</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Default</source>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Custom</source>
-        <translation type="unfinished">自定义设置</translation>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>
@@ -40608,22 +40610,22 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatorwidget.cpp" line="+229"/>
         <source>Refresh</source>
-        <translation type="unfinished">刷新</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Locate...</source>
-        <translation type="unfinished">定位...</translation>
+        <translation>定位...</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location line="+341"/>
         <source>&lt;type here&gt;</source>
-        <translation type="unfinished">&lt;在此输入&gt;</translation>
+        <translation>&lt;在此输入&gt;</translation>
     </message>
 </context>
 <context>
@@ -40631,7 +40633,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/opendocumentsfilter.cpp" line="+49"/>
         <source>Open Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文档</translation>
     </message>
 </context>
 <context>
@@ -40639,7 +40641,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/patchtool.cpp" line="+91"/>
         <source>There is no patch-command configured in the general &quot;Environment&quot; settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>在一般“环境”设置中没有配置补丁命令。</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -40672,17 +40674,17 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/progressmanager/progressmanager.cpp" line="+337"/>
         <source>Toggle Progress Details</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到进度详细信息</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Ctrl+Shift+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+0</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Alt+Shift+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+0</translation>
     </message>
 </context>
 <context>
@@ -40690,32 +40692,32 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themeeditor/themesettingsitemdelegate.cpp" line="+91"/>
         <source>&lt;Unnamed&gt; (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;未命名&gt;(当前)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source> (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>(当前)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Remove Variable Name</source>
-        <translation type="unfinished"></translation>
+        <translation>移除变量名称</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add Variable Name...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变量名称...</translation>
     </message>
     <message>
         <location line="+85"/>
         <source>Add Variable Name</source>
-        <translation type="unfinished"></translation>
+        <translation>添加变量名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Variable name:</source>
-        <translation type="unfinished"></translation>
+        <translation>变量名称：</translation>
     </message>
 </context>
 <context>
@@ -40723,27 +40725,27 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themeeditor/themesettingstablemodel.cpp" line="+121"/>
         <source>Widget Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget风格</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Colors</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Flags</source>
-        <translation type="unfinished">标志</translation>
+        <translation>标志</translation>
     </message>
     <message>
         <location line="+152"/>
         <source>Role</source>
-        <translation type="unfinished"></translation>
+        <translation>角色</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
 </context>
 <context>
@@ -40764,48 +40766,48 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themesettingswidget.cpp" line="+229"/>
         <source>Delete Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>删除主题</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to delete the theme &quot;%1&quot; permanently?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定您要永久删除主题&quot;%1&quot;吗？</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Copy Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>复制主题</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+46"/>
         <source>Theme name:</source>
-        <translation type="unfinished"></translation>
+        <translation>主题名称：</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Theme Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>主题已改变</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The theme &quot;%1&quot; was modified, do you want to save the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>主题&quot;%1&quot;已改变。您想保存这些改变吗？</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Discard</source>
-        <translation type="unfinished">丢弃</translation>
+        <translation>丢弃</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Rename Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名主题</translation>
     </message>
 </context>
 <context>
@@ -40813,12 +40815,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/windowsupport.cpp" line="+146"/>
         <source>Exit Full Screen</source>
-        <translation type="unfinished">退出全屏模式</translation>
+        <translation>退出全屏</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Enter Full Screen</source>
-        <translation type="unfinished">进入全屏模式</translation>
+        <translation>进入全屏</translation>
     </message>
 </context>
 <context>

@@ -11845,7 +11845,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Play simulation.</source>
-        <translation type="unfinished"></translation>
+        <translation>播放动画。</translation>
     </message>
     <message>
         <location/>
@@ -11863,7 +11863,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Subtype</source>
-        <translation type="unfinished"></translation>
+        <translation>图表类型</translation>
     </message>
     <message>
         <location/>
@@ -11881,7 +11881,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Duration of animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>动画持续时间。</translation>
     </message>
     <message>
         <location/>
@@ -11890,7 +11890,7 @@ Rebuilding the project might help.</source>
         <location line="+5"/>
         <location line="+5"/>
         <source>INVALID</source>
-        <translation type="unfinished"></translation>
+        <translation>无效</translation>
     </message>
     <message>
         <location/>
@@ -11902,7 +11902,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+1"/>
         <source>Amplitude</source>
-        <translation type="unfinished"></translation>
+        <translation>振幅</translation>
     </message>
     <message>
         <location/>
@@ -11914,7 +11914,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+3"/>
         <source>Period</source>
-        <translation type="unfinished"></translation>
+        <translation>周期</translation>
     </message>
     <message>
         <location/>
@@ -11926,7 +11926,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+3"/>
         <source>Overshoot</source>
-        <translation type="unfinished"></translation>
+        <translation>超越目标</translation>
     </message>
     <message>
         <location/>
@@ -12371,7 +12371,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Vim Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Vim的行为</translation>
     </message>
     <message>
         <location/>
@@ -12383,49 +12383,49 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Highlight search results</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮显示搜索结果</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Smart indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>智能缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Smart tabulators</source>
-        <translation type="unfinished"></translation>
+        <translation>智能制表符</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Expand tabulators</source>
-        <translation type="unfinished"></translation>
+        <translation>展开制表符</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Incremental search</source>
-        <translation type="unfinished"></translation>
+        <translation>增量搜索</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Use search dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>使用搜索对话框</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Use smartcase</source>
-        <translation type="unfinished"></translation>
+        <translation>使用智能大小写</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Use wrapscan</source>
-        <translation type="unfinished"></translation>
+        <translation>使用折回搜索</translation>
     </message>
     <message>
         <location/>
@@ -12437,43 +12437,43 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Pass control key</source>
-        <translation type="unfinished"></translation>
+        <translation>传递控制键</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Automatic indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>自动缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Use ignorecase</source>
-        <translation type="unfinished"></translation>
+        <translation>使用忽略大小写</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Show partial command</source>
-        <translation type="unfinished"></translation>
+        <translation>显示局部命令</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Lets Qt Creator handle some key presses in insert mode so that code can be properly completed and expanded.</source>
-        <translation type="unfinished"></translation>
+        <translation>让Qt Creator处理插件的一些按键，这样的代码可以正确完成和扩展。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Pass keys in insert mode</source>
-        <translation type="unfinished"></translation>
+        <translation>在插件中传递键</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Show position of text marks</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文本标记的位置</translation>
     </message>
     <message>
         <location/>
@@ -12485,67 +12485,67 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Show line numbers relative to cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>相对于光标显示行号</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Shift width:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变宽度:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Vim tabstop option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vim制表符选项。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Tabulator size:</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符的大小:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Scroll offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>滚动偏移：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Backspace:</source>
-        <translation type="unfinished"></translation>
+        <translation>退格：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Keyword characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>关键字字符:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Read .vimrc from location:</source>
-        <translation type="unfinished"></translation>
+        <translation>从本地读取 .vimrc：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Copy Text Editor Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>复制文本编辑器设置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Set Qt Style</source>
-        <translation type="unfinished"></translation>
+        <translation>设置Qt 风格</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Set Plain Style</source>
-        <translation type="unfinished"></translation>
+        <translation>设置普通样式</translation>
     </message>
 </context>
 <context>
@@ -12560,7 +12560,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/help/ui_filternamedialog.h" line="+1"/>
         <source>Filter Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器名称：</translation>
     </message>
 </context>
 <context>
@@ -12569,17 +12569,17 @@ will also disable the following plugins:
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/FlowSpecifics.qml" line="+37"/>
         <location line="+4"/>
         <source>Flow</source>
-        <translation type="unfinished">流程</translation>
+        <translation>流程</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Layout Direction</source>
-        <translation type="unfinished">布局方向</translation>
+        <translation>布局方向</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
 </context>
 <context>
@@ -35810,52 +35810,52 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/HelperWidgets/FlickableSection.qml" line="+33"/>
         <source>Flickable</source>
-        <translation type="unfinished">可摇动</translation>
+        <translation>可摇动</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Content size</source>
-        <translation type="unfinished">内容尺寸</translation>
+        <translation>内容尺寸</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Flick direction</source>
-        <translation type="unfinished">摇动方向</translation>
+        <translation>摇动方向</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Behavior</source>
-        <translation type="unfinished">行为</translation>
+        <translation>行为</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bounds behavior</source>
-        <translation type="unfinished">边界行为</translation>
+        <translation>边界行为</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Interactive</source>
-        <translation type="unfinished">互动</translation>
+        <translation>互动</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Max. velocity</source>
-        <translation type="unfinished">最大速度</translation>
+        <translation>最大速度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum flick velocity</source>
-        <translation type="unfinished">最大摇动速度</translation>
+        <translation>最大摇动速度</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Deceleration</source>
-        <translation type="unfinished">减速</translation>
+        <translation>减速</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Flick deceleration</source>
-        <translation type="unfinished">摇动减速</translation>
+        <translation>摇动减速</translation>
     </message>
 </context>
 <context>
@@ -35864,22 +35864,22 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/HelperWidgets/FontSection.qml" line="+35"/>
         <location line="+25"/>
         <source>Font</source>
-        <translation type="unfinished">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>Font style</source>
-        <translation type="unfinished">字体风格</translation>
+        <translation>字体风格</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Style</source>
-        <translation type="unfinished">风格</translation>
+        <translation>风格</translation>
     </message>
 </context>
 <context>
@@ -42058,141 +42058,141 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/designer/formeditorw.cpp" line="+342"/>
         <source>Widget box</source>
-        <translation type="unfinished">控件盒子</translation>
+        <translation>控件盒子</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+126"/>
         <source>Object Inspector</source>
-        <translation type="unfinished">对象查看器</translation>
+        <translation>对象查看器</translation>
     </message>
     <message>
         <location line="-123"/>
         <location line="+129"/>
         <source>Property Editor</source>
-        <translation type="unfinished">属性编辑器</translation>
+        <translation>属性编辑器</translation>
     </message>
     <message>
         <location line="-126"/>
         <location line="+132"/>
         <source>Signals &amp;&amp; Slots Editor</source>
-        <translation type="unfinished">信号和槽编辑器</translation>
+        <translation>信号和槽编辑器</translation>
     </message>
     <message>
         <location line="-129"/>
         <location line="+134"/>
         <source>Action Editor</source>
-        <translation type="unfinished">Action编辑器</translation>
+        <translation>Action编辑器</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Widget Box</source>
-        <translation type="unfinished">控件盒子</translation>
+        <translation>控件盒子</translation>
     </message>
     <message>
         <location line="+100"/>
         <source>Edit Widgets</source>
-        <translation type="unfinished">编辑控件</translation>
+        <translation>编辑控件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>F3</source>
-        <translation type="unfinished">F3</translation>
+        <translation>F3</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit Signals/Slots</source>
-        <translation type="unfinished">编辑信号/槽</translation>
+        <translation>编辑信号/槽</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>F4</source>
-        <translation type="unfinished">F4</translation>
+        <translation>F4</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit Buddies</source>
-        <translation type="unfinished">编辑伙伴(Buddy)</translation>
+        <translation>编辑伙伴(Buddy)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Edit Tab Order</source>
-        <translation type="unfinished">编辑 Tab 顺序</translation>
+        <translation>编辑 Tab 顺序</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Meta+Shift+H</source>
-        <translation type="unfinished">Meta+Shift+H</translation>
+        <translation>Meta+Shift+H</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Meta+L</source>
-        <translation type="unfinished">Meta+L</translation>
+        <translation>Meta+L</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished">Ctrl+L</translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Meta+Shift+G</source>
-        <translation type="unfinished">Meta+Shift+G</translation>
+        <translation>Meta+Shift+G</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished">Ctrl+G</translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Meta+J</source>
-        <translation type="unfinished">Mega+J</translation>
+        <translation>Mega+J</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+J</source>
-        <translation type="unfinished">Ctrl+J</translation>
+        <translation>Ctrl+J</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Alt+Shift+R</source>
-        <translation type="unfinished">Alt+Shift+R</translation>
+        <translation>Alt+Shift+R</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>About Qt Designer Plugins...</source>
-        <translation type="unfinished"></translation>
+        <translation>关于Qt设计器插件…</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Preview in</source>
-        <translation type="unfinished">预览于</translation>
+        <translation>预览于</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Designer</source>
-        <translation type="unfinished">设计师</translation>
+        <translation>设计师</translation>
     </message>
     <message>
         <location line="+72"/>
         <source>This file can only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished">此文件仅可在&lt;b&gt;设计&lt;/b&gt;模式中编辑。</translation>
+        <translation>此文件仅可在&lt;b&gt;设计&lt;/b&gt;模式中编辑。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Switch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>转换模式</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>The image could not be created: %1</source>
-        <translation type="unfinished">无法创建图片: %1</translation>
+        <translation>无法创建图片: %1</translation>
     </message>
 </context>
 <context>
@@ -43043,72 +43043,72 @@ Preselects a desktop Qt for building the application if available.</source>
         <location filename="../../../src/plugins/fakevim/fakevimactions.cpp" line="+153"/>
         <location line="+8"/>
         <source>Unknown option: %1</source>
-        <translation type="unfinished">未知选项： %1</translation>
+        <translation>未知选项： %1</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Argument must be positive: %1=%2</source>
-        <translation type="unfinished">参数必须是正值： %1=%2</translation>
+        <translation>参数必须是正值： %1=%2</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Use Vim-style Editing</source>
-        <translation type="unfinished">使用vim风格编辑</translation>
+        <translation>使用vim风格编辑</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Read .vimrc</source>
-        <translation type="unfinished"></translation>
+        <translation>读取 .vimrc</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Path to .vimrc</source>
-        <translation type="unfinished"></translation>
+        <translation>.vimrc路径</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/fakevim/fakevimhandler.cpp" line="+946"/>
         <source>Mark &quot;%1&quot; not set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有设置“%1”。</translation>
     </message>
     <message>
         <location line="+1854"/>
         <source>Recursive mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>递归映射</translation>
     </message>
     <message>
         <location line="+865"/>
         <source>%1%2%</source>
-        <translation type="unfinished">%1%2%</translation>
+        <translation>%1%2%</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1All</source>
-        <translation type="unfinished">%1所有</translation>
+        <translation>%1所有</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Not implemented in FakeVim.</source>
-        <translation type="unfinished"></translation>
+        <translation>未执行的FakeVim。</translation>
     </message>
     <message>
         <location line="+578"/>
         <source>Type Alt-V, Alt-V to quit FakeVim mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>按Alt-V，Alt-V键退出FakeVim模式。</translation>
     </message>
     <message>
         <location line="+1446"/>
         <source>Unknown option:</source>
-        <translation type="unfinished"></translation>
+        <translation>未知选项：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Invalid argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的参数：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Trailing characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>尾端字符：</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -43125,32 +43125,32 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+60"/>
         <source>File &quot;%1&quot; exists (add ! to override)</source>
-        <translation type="unfinished">文件 &apos;%1&apos; 存在 (添加 ! 覆盖)</translation>
+        <translation>文件 &apos;%1&apos; 存在 (添加 ! 覆盖)</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Cannot open file &quot;%1&quot; for writing</source>
-        <translation type="unfinished">无法打开用于写入的文件 &quot;%1&quot;</translation>
+        <translation>无法打开用于写入的文件 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; %2 %3L, %4C written.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; %2 %3L, %4C 写入。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source> [New] </source>
-        <translation type="unfinished">[新建]</translation>
+        <translation>[新建]</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot open file &quot;%1&quot; for reading</source>
-        <translation type="unfinished">无法打开用于读取的文件&quot;%1&quot;</translation>
+        <translation>无法打开用于读取的文件&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>&quot;%1&quot; %2L, %3C</source>
-        <translation type="unfinished">&quot;%1&quot; %2L, %3C</translation>
+        <translation>&quot;%1&quot; %2L, %3C</translation>
     </message>
     <message numerus="yes">
         <location line="+27"/>
@@ -43162,42 +43162,42 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+88"/>
         <source>Cannot open file %1</source>
-        <translation type="unfinished">打开文件 %1 失败</translation>
+        <translation>打开文件 %1 失败</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Not an editor command: %1</source>
-        <translation type="unfinished">不是一个编辑器命令: %1</translation>
+        <translation>不是一个编辑器命令: %1</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Invalid regular expression: %1</source>
-        <translation type="unfinished">无效的正则表达式: %1</translation>
+        <translation>无效的正则表达式: %1</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Pattern not found: %1</source>
-        <translation type="unfinished">未找到模式:%1</translation>
+        <translation>未找到模式:%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Search hit BOTTOM, continuing at TOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索到底部，从顶部重新开始。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search hit TOP, continuing at BOTTOM.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索到顶部，从底部重新开始。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Search hit BOTTOM without match for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索到底部，无匹配项：%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Search hit TOP without match for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索到顶部，无匹配项：%1</translation>
     </message>
     <message numerus="yes">
         <location line="+107"/>
@@ -43223,125 +43223,125 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+709"/>
         <source>Already at oldest change.</source>
-        <translation type="unfinished"></translation>
+        <translation>已经是最早的改变。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Already at newest change.</source>
-        <translation type="unfinished"></translation>
+        <translation>已经是最新的改变。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/fakevim/fakevimplugin.cpp" line="+368"/>
         <source>General</source>
-        <translation type="unfinished">概要</translation>
+        <translation>概要</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+235"/>
         <location line="+215"/>
         <source>FakeVim</source>
-        <translation type="unfinished">FakeVim</translation>
+        <translation>FakeVim</translation>
     </message>
     <message>
         <location line="-422"/>
         <source>Keep empty to use the default path, i.e. %USERPROFILE%\_vimrc on Windows, ~/.vimrc otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>保留空格以使用默认路径，即在Windows上的vimrc路径％USERPROFILE％\_，〜/.vimrc中并非如此。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Default: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>默认: %1</translation>
     </message>
     <message>
         <location line="+166"/>
         <location line="+37"/>
         <source>Ex Command Mapping</source>
-        <translation type="unfinished">额外命令映射</translation>
+        <translation>额外命令映射</translation>
     </message>
     <message>
         <location line="-36"/>
         <source>Ex Trigger Expression</source>
-        <translation type="unfinished">额外触发表达式</translation>
+        <translation>额外触发表达式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ex Command</source>
-        <translation type="unfinished">额外命令</translation>
+        <translation>额外命令</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reset to default.</source>
-        <translation type="unfinished">重置为默认。</translation>
+        <translation>重置为默认。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Regular expression:</source>
-        <translation type="unfinished">正则表达式:</translation>
+        <translation>正则表达式:</translation>
     </message>
     <message>
         <location line="+186"/>
         <source>Action</source>
-        <translation type="unfinished">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Command</source>
-        <translation type="unfinished">命令</translation>
+        <translation>命令</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>User Command Mapping</source>
-        <translation type="unfinished">用户命令映射</translation>
+        <translation>用户命令映射</translation>
     </message>
     <message>
         <location line="+319"/>
         <source>User command #%1</source>
-        <translation type="unfinished">用户命令#%1</translation>
+        <translation>用户命令#%1</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Meta+Shift+V,Meta+Shift+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+V,Meta+Shift+V</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+V,Alt+V</source>
-        <translation type="unfinished">Alt+V,Alt+V</translation>
+        <translation>Alt+V,Alt+V</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Execute User Action #%1</source>
-        <translation type="unfinished">执行用户操作 #%1</translation>
+        <translation>执行用户操作 #%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+V,%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+V,%1</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+V,%1</source>
-        <translation type="unfinished">Alt+V,%1</translation>
+        <translation>Alt+V,%1</translation>
     </message>
     <message>
         <location line="+758"/>
         <source>&quot;%1&quot; %2 %3L, %4C written</source>
-        <translation type="unfinished">&quot;%1&quot; %2 %3L, %4C 写入</translation>
+        <translation>&quot;%1&quot; %2 %3L, %4C 写入</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>File not saved</source>
-        <translation type="unfinished">文件未保存</translation>
+        <translation>文件未保存</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Saving succeeded</source>
-        <translation type="unfinished">成功保存</translation>
+        <translation>成功保存</translation>
     </message>
     <message numerus="yes">
         <location line="+2"/>
@@ -46660,7 +46660,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/propertyeditor/fileresourcesmodel.cpp" line="+137"/>
         <source>Open File</source>
-        <translation type="unfinished">打开文件</translation>
+        <translation>打开文件</translation>
     </message>
 </context>
 <context>
@@ -47872,7 +47872,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/fontsettings.cpp" line="+34"/>
         <source>Unused variable</source>
-        <translation type="unfinished">未使用的变量</translation>
+        <translation>未使用的变量</translation>
     </message>
 </context>
 <context>
@@ -47880,28 +47880,28 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/highlightdefinition.cpp" line="+51"/>
         <source>Element name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">元素名称是空的。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Duplicate element name &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重复的元件名称“%1”。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Name &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到“%1”名字。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/highlighter.cpp" line="+212"/>
         <location filename="../../../src/plugins/texteditor/generichighlighter/manager.cpp" line="+231"/>
         <source>Generic highlighter error: </source>
-        <translation type="unfinished"></translation>
+        <translation>通用高亮器错误：</translation>
     </message>
     <message>
         <location line="+187"/>
         <source>Reached empty context.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">达到空的上下文。</translation>
     </message>
 </context>
 <context>

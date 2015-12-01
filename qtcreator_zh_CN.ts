@@ -15843,7 +15843,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../welcomescreen/widgets/LinksBar.qml" line="+55"/>
         <source>Qt Creator</source>
-        <translation type="unfinished">Qt Creator</translation>
+        <translation>Qt Creator</translation>
     </message>
 </context>
 <context>
@@ -15851,137 +15851,137 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/ListViewSpecifics.qml" line="+42"/>
         <source>List View</source>
-        <translation type="unfinished">列表视图</translation>
+        <translation>列表视图</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cache</source>
-        <translation type="unfinished">缓存</translation>
+        <translation>缓存</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cache buffer</source>
-        <translation type="unfinished">缓存存储器</translation>
+        <translation>缓存存储器</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Navigation wraps</source>
-        <translation type="unfinished">导航跃迁</translation>
+        <translation>导航跃迁</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the grid wraps key navigation.</source>
-        <translation type="unfinished">决定框架的按键导航.</translation>
+        <translation>决定框架的按键导航.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Orientation</source>
-        <translation type="unfinished">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Orientation of the list.</source>
-        <translation type="unfinished">列表方向.</translation>
+        <translation>列表方向.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Layout Direction</source>
-        <translation type="unfinished">布局方向</translation>
+        <translation>布局方向</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Snap mode</source>
-        <translation type="unfinished">页面模式</translation>
+        <translation>页面模式</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines how the view scrolling will settle following a drag or flick.</source>
-        <translation type="unfinished">决定视图如何滚动,拖拽还是轻点.</translation>
+        <translation>决定视图如何滚动,拖拽还是轻点.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Spacing between items.</source>
-        <translation type="unfinished">项之间的间距.</translation>
+        <translation>项之间的间距.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>List View Highlight</source>
-        <translation type="unfinished">列表视图高亮</translation>
+        <translation>列表视图高亮</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Highlight range</source>
-        <translation type="unfinished">高亮范围</translation>
+        <translation>高亮范围</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Move duration</source>
-        <translation type="unfinished">移动持续时间</translation>
+        <translation>移动持续时间</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Move animation duration of the highlight delegate.</source>
-        <translation type="unfinished">高亮代表移动动画的持续时间.</translation>
+        <translation>高亮代表移动动画的持续时间.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Move speed</source>
-        <translation type="unfinished">移动速度</translation>
+        <translation>移动速度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Move animation speed of the highlight delegate.</source>
-        <translation type="unfinished">高亮代表移动动画的速度.</translation>
+        <translation>高亮代表移动动画的速度.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Resize duration</source>
-        <translation type="unfinished">调整时间</translation>
+        <translation>调整时间</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Resize animation duration of the highlight delegate.</source>
-        <translation type="unfinished">调整高亮代表的动画移动.</translation>
+        <translation>调整高亮代表的动画移动.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Preferred begin</source>
-        <translation type="unfinished">首选起始</translation>
+        <translation>首选起始</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preferred highlight begin - must be smaller than Preferred end.</source>
-        <translation type="unfinished">首选高亮起始-必须比首选结束数值要小.</translation>
+        <translation>首选高亮起始-必须比首选结束数值要小.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Preferred end</source>
-        <translation type="unfinished">首选结束</translation>
+        <translation>首选结束</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preferred highlight end - must be larger than Preferred begin.</source>
-        <translation type="unfinished">首选高亮结束-必须比首选起始数值要大.</translation>
+        <translation>首选高亮结束-必须比首选起始数值要大.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Follows current</source>
-        <translation type="unfinished">跟随当前</translation>
+        <translation>跟随当前</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the highlight is managed by the view.</source>
-        <translation type="unfinished">决定高亮是否需要由视图来管理.</translation>
+        <translation>决定高亮是否需要由视图来管理.</translation>
     </message>
 </context>
 <context>
@@ -16005,7 +16005,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/macros/macrolocatorfilter.cpp" line="+48"/>
         <source>Text Editing Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>文本编辑宏</translation>
     </message>
 </context>
 <context>
@@ -16020,43 +16020,43 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+1"/>
         <source>Preferences</source>
-        <translation type="unfinished">首选项</translation>
+        <translation>首选项</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+4"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="-1"/>
         <source>Description</source>
-        <translation type="unfinished">说明</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="-1"/>
         <source>Shortcut</source>
-        <translation type="unfinished">快捷键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+3"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+1"/>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>宏</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+1"/>
         <source>Description:</source>
-        <translation type="unfinished">说明:</translation>
+        <translation>说明:</translation>
     </message>
 </context>
 <context>
@@ -16064,7 +16064,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/macros/macrosplugin.cpp" line="+80"/>
         <source>Text Editing &amp;Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>文本编辑宏(&amp;M)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -16129,13 +16129,13 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/macros/ui_savedialog.h" line="+1"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_savedialog.h" line="+1"/>
         <source>Description:</source>
-        <translation type="unfinished">说明:</translation>
+        <translation>说明:</translation>
     </message>
 </context>
 <context>
@@ -16143,62 +16143,62 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilermodelmanager.cpp" line="+49"/>
         <source>JavaScript</source>
-        <translation type="unfinished">JavaScript</translation>
+        <translation>JavaScript</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>内存使用情况</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Pixmap Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>图片缓存</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scene Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>场景图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Painting</source>
-        <translation type="unfinished">绘制中</translation>
+        <translation>绘制中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Compiling</source>
-        <translation type="unfinished">编译中</translation>
+        <translation>编译中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Creating</source>
-        <translation type="unfinished">创建中</translation>
+        <translation>创建中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Binding</source>
-        <translation type="unfinished">绑定</translation>
+        <translation>绑定</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Handling Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>处理信号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Input Events</source>
-        <translation type="unfinished"></translation>
+        <translation>输入事件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Debug Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>调试信息</translation>
     </message>
 </context>
 <context>
@@ -16244,43 +16244,43 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>仓库：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>repository</source>
-        <translation type="unfinished"></translation>
+        <translation>仓库</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>Branch:</source>
-        <translation type="unfinished">Branch:</translation>
+        <translation>分支：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>branch</source>
-        <translation type="unfinished"></translation>
+        <translation>分支</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>Commit Information</source>
-        <translation type="unfinished">提交信息</translation>
+        <translation>提交信息</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>Author:</source>
-        <translation type="unfinished">作者：</translation>
+        <translation>作者：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_mercurialcommitpanel.h" line="+1"/>
         <source>Email:</source>
-        <translation type="unfinished">电子邮箱：</translation>
+        <translation>电子邮箱：</translation>
     </message>
 </context>
 <context>
@@ -16296,12 +16296,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/mercurial/mercurialclient.cpp" line="-232"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished">忽略空白</translation>
+        <translation>忽略空白</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ignore Blank Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空白行</translation>
     </message>
 </context>
 <context>
@@ -16359,17 +16359,17 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-43"/>
         <source>Me&amp;rcurial</source>
-        <translation type="unfinished"></translation>
+        <translation>Mercurial(&amp;r)</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Alt+G,Alt+D</source>
-        <translation type="unfinished">Alt+G,Alt+D</translation>
+        <translation>Alt+G,Alt+D</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Alt+G,Alt+L</source>
-        <translation type="unfinished">Alt+G,Alt+L</translation>
+        <translation>Alt+G,Alt+L</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -16379,7 +16379,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+0"/>
         <source>Alt+G,Alt+S</source>
-        <translation type="unfinished">Alt+G,Alt+S</translation>
+        <translation>Alt+G,Alt+S</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -16474,7 +16474,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+0"/>
         <source>Alt+G,Alt+C</source>
-        <translation type="unfinished">Alt+G,Alt+C</translation>
+        <translation>Alt+G,Alt+C</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -16575,69 +16575,69 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="-23"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+1"/>
         <source>Command:</source>
-        <translation type="unfinished">命令:</translation>
+        <translation>命令:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+1"/>
         <source>User</source>
-        <translation type="unfinished">用户</translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+2"/>
         <location line="+4"/>
         <source>Username to use by default on commit.</source>
-        <translation type="unfinished">提交时默认使用的用户名。</translation>
+        <translation>提交时默认使用的用户名。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="-2"/>
         <source>Default username:</source>
-        <translation type="unfinished">默认用户名：</translation>
+        <translation>默认用户名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+5"/>
         <location line="+4"/>
         <source>Email to use by default on commit.</source>
-        <translation type="unfinished">提交时默认使用的 Email。</translation>
+        <translation>提交时默认使用的 Email。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="-2"/>
         <source>Default email:</source>
-        <translation type="unfinished">默认电子邮箱：</translation>
+        <translation>默认电子邮箱：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+4"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">其他</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+1"/>
         <source>Timeout:</source>
-        <translation type="unfinished">超时时间：</translation>
+        <translation>超时时间：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+1"/>
         <source>s</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+2"/>
         <source>The number of recent commit logs to show, choose 0 to see all entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示最近提交日志的数量,选择0查看所有条目。</translation>
     </message>
 </context>
 <context>
@@ -16660,13 +16660,13 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_revertdialog.h" line="+1"/>
         <source>Specify a revision other than the default?</source>
-        <translation type="unfinished">指定一个修订版本而不使用默认版本？</translation>
+        <translation>指定一个修订版本而不使用默认版本？</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_revertdialog.h" line="+1"/>
         <source>Revision:</source>
-        <translation type="unfinished">修订版本:</translation>
+        <translation>修订版本:</translation>
     </message>
 </context>
 <context>
@@ -16681,32 +16681,32 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_srcdestdialog.h" line="+1"/>
         <source>Default Location</source>
-        <translation type="unfinished"></translation>
+        <translation>默认位置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_srcdestdialog.h" line="+1"/>
         <source>Local filesystem:</source>
-        <translation type="unfinished">本地文件系统：</translation>
+        <translation>本地文件系统：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_srcdestdialog.h" line="+2"/>
         <location line="+4"/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation type="unfinished">例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;。</translation>
+        <translation>例如 &apos;https://[用户名[:密码]@]主机名[:端口]/[路径]&apos;。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_srcdestdialog.h" line="-2"/>
         <source>Specify URL:</source>
-        <translation type="unfinished">指定URL：</translation>
+        <translation>指定URL：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_srcdestdialog.h" line="+5"/>
         <source>Prompt for credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>证书提示</translation>
     </message>
 </context>
 <context>
@@ -16756,7 +16756,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+9"/>
         <source>WebP Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>WebP图像文件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16766,27 +16766,27 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Python source file without console</source>
-        <translation type="unfinished"></translation>
+        <translation>没有控制台的Python源文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt Creator Python project file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator Python项目文件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt Project configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt项目配置文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt Project cache file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt项目缓存文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt Project stash file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt项目隐藏文件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16812,33 +16812,33 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+3"/>
         <source>C source code</source>
-        <translation type="unfinished"></translation>
+        <translation>C 源代码</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>NVIDIA CUDA C source code</source>
-        <translation type="unfinished"></translation>
+        <translation>NVIDIA CUDA C 源代码</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>C header</source>
-        <translation type="unfinished"></translation>
+        <translation>C 头文件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Qt MOC file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt MOC 文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Objective-C++ source code</source>
-        <translation type="unfinished"></translation>
+        <translation>Objective-C++ 源代码</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+1"/>
         <source>Git Commit File</source>
-        <translation type="unfinished"></translation>
+        <translation>Git提交文件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16888,32 +16888,32 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-33"/>
         <source>Android manifest file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Android列表文件</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Qt Build Suite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt构建套件文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QtQuick Designer ui file</source>
-        <translation type="unfinished"></translation>
+        <translation>QtQuick 设计师 ui 文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt Creator Qt UI project file</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator Qt UI项目文件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Linguist translated messages (machine-readable)</source>
-        <translation type="unfinished"></translation>
+        <translation>语言家翻译信息(机器可读)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Linguist message catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>语言家信息目录</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -16946,27 +16946,27 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/MouseAreaSpecifics.qml" line="+37"/>
         <source>Mouse Area</source>
-        <translation type="unfinished"></translation>
+        <translation>鼠标区域</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enabled</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This property holds whether the item accepts mouse events.</source>
-        <translation type="unfinished">这项属性决定这项是否接受鼠标事件.</translation>
+        <translation>这项属性决定这项是否接受鼠标事件.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Hover Enabled</source>
-        <translation type="unfinished">启用悬停</translation>
+        <translation>启用悬停</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This property holds whether hover events are handled.</source>
-        <translation type="unfinished">这项属性决定这项是否处理鼠标悬停事件事件.</translation>
+        <translation>这项属性决定这项是否处理鼠标悬停事件事件.</translation>
     </message>
 </context>
 <context>
@@ -34181,19 +34181,19 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/mercurial/authenticationdialog.ui"/>
         <location filename="../../../src/plugins/mercurial/ui_authenticationdialog.h" line="+88"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_authenticationdialog.h" line="+1"/>
         <source>Username:</source>
-        <translation type="unfinished">用户名：</translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_authenticationdialog.h" line="+1"/>
         <source>Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation>密码：</translation>
     </message>
 </context>
 <context>
@@ -36057,17 +36057,17 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/LayoutPoperties.qml" line="+122"/>
         <source>Alignment</source>
-        <translation type="unfinished">对齐方式</translation>
+        <translation>对齐方式</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Alignment of an item within the cells it occupies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目中选中部分的对齐方式。</translation>
     </message>
     <message>
         <location line="+78"/>
         <source>Fill layout</source>
-        <translation type="unfinished"></translation>
+        <translation>填充布局</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -36077,62 +36077,62 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+6"/>
         <source>Fill width</source>
-        <translation type="unfinished"></translation>
+        <translation>填充宽度</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Fill height</source>
-        <translation type="unfinished"></translation>
+        <translation>填充高度</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Preferred size</source>
-        <translation type="unfinished"></translation>
+        <translation>首选尺寸</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preferred height of an item in a layout. If the preferred height is -1, it will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>首选高度在一个布局中。如果首选的高度是-1,那么它将被忽略。</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Minimum size</source>
-        <translation type="unfinished"></translation>
+        <translation>最小尺寸</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Minimum size of an item in a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个项目布局中的最小尺寸。</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Maximum size</source>
-        <translation type="unfinished"></translation>
+        <translation>最大尺寸</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum size of an item in a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个项目布局中的最大尺寸。</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Row span</source>
-        <translation type="unfinished"></translation>
+        <translation>行间距</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Row span of an item in a GridLayout.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个项目中表格布局的行间距。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Column span</source>
-        <translation type="unfinished"></translation>
+        <translation>列间距</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Column span of an item in a GridLayout.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个项目表格布局的列间距。</translation>
     </message>
 </context>
 <context>
@@ -36140,12 +36140,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/LayoutSection.qml" line="+34"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Anchors</source>
-        <translation type="unfinished">锚点</translation>
+        <translation>锚点</translation>
     </message>
 </context>
 <context>
@@ -41188,7 +41188,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppmodelmanagersupportinternal.cpp" line="+47"/>
         <source>Qt Creator Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>内置Qt Creator</translation>
     </message>
 </context>
 <context>
@@ -44180,12 +44180,12 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/mercurial/mercurialeditor.cpp" line="+58"/>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished">注释 &quot;%1&quot;(&amp;A)</translation>
+        <translation>注释 &quot;%1&quot;(&amp;A)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation type="unfinished">注释父修订版本%1(&amp;p)</translation>
+        <translation>注释父修订版本%1(&amp;p)</translation>
     </message>
 </context>
 <context>
@@ -44193,27 +44193,27 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/actionhandler.cpp" line="+130"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">删除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">删除(&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Open Parent Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>打开父图表</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Edit Element Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑元素属性</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
 </context>
 <context>
@@ -44221,7 +44221,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modeldocument.cpp" line="+84"/>
         <source>No model loaded. Cannot save.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有加载模型。不能保存。</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -44231,12 +44231,12 @@ Remote: %4</source>
     <message>
         <location line="+22"/>
         <source>Cannot reload model file.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能重新加载模型文件。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Could not open &quot;%1&quot; for reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 %1 来读取: %2。</translation>
     </message>
 </context>
 <context>
@@ -44249,52 +44249,52 @@ Remote: %4</source>
     <message>
         <location line="+76"/>
         <source>Add Package</source>
-        <translation type="unfinished"></translation>
+        <translation>添加包</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Component</source>
-        <translation type="unfinished"></translation>
+        <translation>添加组件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Class</source>
-        <translation type="unfinished"></translation>
+        <translation>添加类</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Canvas Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>添加Canvas图表</translation>
     </message>
     <message>
         <location line="+626"/>
         <source>Package</source>
-        <translation type="unfinished">包</translation>
+        <translation>包</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Component</source>
-        <translation type="unfinished"></translation>
+        <translation>组件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Class</source>
-        <translation type="unfinished">类</translation>
+        <translation>类</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation>项目</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Boundary</source>
-        <translation type="unfinished"></translation>
+        <translation>分界线</translation>
     </message>
 </context>
 <context>
@@ -44302,7 +44302,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modeleditor_constants.h" line="+17"/>
         <source>Modeling</source>
-        <translation type="unfinished"></translation>
+        <translation>建模</translation>
     </message>
 </context>
 <context>
@@ -44310,32 +44310,32 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modeleditor_file_wizard.cpp" line="+58"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Creates an empty model</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个空模型</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>New %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新建 %1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Model Name and Location</source>
-        <translation type="unfinished"></translation>
+        <translation>模型名称和位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Model name:</source>
-        <translation type="unfinished"></translation>
+        <translation>模式名称:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location:</source>
-        <translation type="unfinished">位置:</translation>
+        <translation>位置:</translation>
     </message>
 </context>
 <context>
@@ -44343,7 +44343,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/modelsmanager.cpp" line="+118"/>
         <source>Open Diagram</source>
-        <translation type="unfinished">打开图表</translation>
+        <translation>打开图表</translation>
     </message>
 </context>
 <context>
@@ -44351,37 +44351,37 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/modeleditor/pxnodecontroller.cpp" line="+150"/>
         <source>Add Component %1</source>
-        <translation type="unfinished"></translation>
+        <translation>添加组件 %1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Add Class %1</source>
-        <translation type="unfinished"></translation>
+        <translation>添加类 %1</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Add Package %1</source>
-        <translation type="unfinished"></translation>
+        <translation>添加包 %1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Package and Diagram %1</source>
-        <translation type="unfinished"></translation>
+        <translation>添加包和图表 %1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Add Component Model</source>
-        <translation type="unfinished"></translation>
+        <translation>添加组件模型</translation>
     </message>
     <message>
         <location line="+142"/>
         <source>Create Component Model</source>
-        <translation type="unfinished"></translation>
+        <translation>创建组件模型</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Drop Node</source>
-        <translation type="unfinished"></translation>
+        <translation>下降结点</translation>
     </message>
 </context>
 <context>
@@ -46425,12 +46425,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/componentcore/modelnodeoperations.cpp" line="+554"/>
         <source>Go to Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">去执行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot find an implementation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法找到一个实现。</translation>
     </message>
 </context>
 <context>

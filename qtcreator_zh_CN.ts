@@ -12377,7 +12377,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Start of line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">行首</translation>
     </message>
     <message>
         <location/>
@@ -15135,22 +15135,22 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location filename="../../../src/plugins/help/localhelpmanager.cpp" line="+363"/>
         <source>Error loading page</source>
-        <translation type="unfinished"></translation>
+        <translation>加载页面错误</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&lt;p&gt;Check that you have the corresponding documentation set installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;检查是否安装了相关文档。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading: %1</source>
-        <translation type="unfinished">载入 %1 除错</translation>
+        <translation>载入错误：%1</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>The page could not be found</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到页面</translation>
     </message>
 </context>
 <context>
@@ -15193,7 +15193,7 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location line="+70"/>
         <source>%1 (auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (自动检测)</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/help/docsettingspage.ui"/>
@@ -15205,19 +15205,19 @@ You can choose between stashing the changes or discarding them.</source>
         <location/>
         <location filename="../../../src/plugins/help/ui_docsettingspage.h" line="+2"/>
         <source>Registered Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>注册文档</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_docsettingspage.h" line="+1"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_docsettingspage.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -15272,25 +15272,25 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/help/ui_filtersettingspage.h" line="+6"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_filtersettingspage.h" line="+2"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_filtersettingspage.h" line="+2"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_filtersettingspage.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -15331,151 +15331,151 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Font</source>
-        <translation type="unfinished">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Family:</source>
-        <translation type="unfinished">字型:</translation>
+        <translation>字型:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>风格：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>字号：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Note: This setting takes effect only if the HTML file does not use a style sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意:该设定仅在HTML文件不使用样式表时有效。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Startup</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>On context help:</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文相关帮助：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+3"/>
         <source>Show Side-by-Side if Possible</source>
-        <translation type="unfinished"></translation>
+        <translation>尽可能并排显示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Always Show Side-by-Side</source>
-        <translation type="unfinished"></translation>
+        <translation>总是并排显示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Always Show in Help Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在帮助模式显示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Always Show in External Window</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在外部窗口显示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>On help start:</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助开始时:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+3"/>
         <source>Show My Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>显示我的主页</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Show a Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>显示空白页</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Show My Tabs from Last Session</source>
-        <translation type="unfinished"></translation>
+        <translation>显示上一次会话的打开页面</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Home page:</source>
-        <translation type="unfinished"></translation>
+        <translation>主页:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Use &amp;Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>使用当前页面(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Use &amp;Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>使用空白页(&amp;B)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Reset to default.</source>
-        <translation type="unfinished">重置为默认。</translation>
+        <translation>重置为默认。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>行为</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Switches to editor context after last help page is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到编辑环境后关闭帮助页面。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Return to editor on closing the last page</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭最后一页时返回编辑器</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Import Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>导入书签…</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Export Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出书签…</translation>
     </message>
 </context>
 <context>
@@ -15534,7 +15534,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location line="+389"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;title&gt;No Documentation&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;font color=&quot;%1&quot;&gt;&lt;b&gt;%2&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;font color=&quot;%3&quot;&gt;No documentation available.&lt;/font&gt;&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;title&gt;无文档&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;font color=&quot;%1&quot;&gt;&lt;b&gt;%2&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;font color=&quot;%3&quot;&gt;没有文档可用。&lt;/font&gt;&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/help/helpconstants.h" line="+1"/>
@@ -15552,7 +15552,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location filename="../../../src/plugins/help/qtwebkithelpviewer.cpp" line="+216"/>
         <source>Unknown or unsupported content.</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的或不支持的内容。</translation>
     </message>
 </context>
 <context>
@@ -15601,7 +15601,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location filename="../../../src/plugins/help/remotehelpfilter.ui"/>
         <location filename="../../../src/plugins/help/ui_remotehelpfilter.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -15618,7 +15618,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location filename="../../../src/plugins/help/searchwidget.cpp" line="+209"/>
         <location line="+2"/>
         <source>Indexing Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>索引文档</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -15665,7 +15665,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location filename="../../../src/plugins/help/qtwebkithelpviewer.cpp" line="+134"/>
         <location filename="../../../src/plugins/help/textbrowserhelpviewer.cpp" line="+380"/>
         <source>Open Link as New Page</source>
-        <translation type="unfinished">在新页面打开连接</translation>
+        <translation>在新页面打开连接</translation>
     </message>
 </context>
 <context>
@@ -15673,22 +15673,22 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/ImageSpecifics.qml" line="+37"/>
         <source>Image</source>
-        <translation type="unfinished">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Source</source>
-        <translation type="unfinished">源</translation>
+        <translation>源</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Fill mode</source>
-        <translation type="unfinished">填充模式</translation>
+        <translation>填充模式</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Source size</source>
-        <translation type="unfinished">源尺寸</translation>
+        <translation>源尺寸</translation>
     </message>
 </context>
 <context>
@@ -43068,7 +43068,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/fakevim/fakevimhandler.cpp" line="+946"/>
         <source>Mark &quot;%1&quot; not set.</source>
-        <translation type="unfinished">没有设置“%1”。</translation>
+        <translation type="unfinished">没有设置书签“%1”。</translation>
     </message>
     <message>
         <location line="+1854"/>
@@ -43603,132 +43603,132 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/helpwidget.cpp" line="+161"/>
         <source>Go to Help Mode</source>
-        <translation type="unfinished">切换到帮助模式</translation>
+        <translation>切换到帮助模式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Home</source>
-        <translation type="unfinished">主页</translation>
+        <translation>主页</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Forward</source>
-        <translation type="unfinished">按时间顺序</translation>
+        <translation>按时间顺序</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished">添加书签</translation>
+        <translation>添加书签</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+M</source>
-        <translation type="unfinished">Meta+M</translation>
+        <translation>Meta+M</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished">Ctrl+M</translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Increase Font Size</source>
-        <translation type="unfinished">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Decrease Font Size</source>
-        <translation type="unfinished">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Reset Font Size</source>
-        <translation type="unfinished">重置字号</translation>
+        <translation>重置字号</translation>
     </message>
     <message>
         <location line="+66"/>
         <source>Meta+Shift+C</source>
-        <translation type="unfinished">Meta+Shift+C</translation>
+        <translation>Meta+Shift+C</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished">Ctrl+Shift+C</translation>
+        <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Meta+I</source>
-        <translation type="unfinished">Meta+I</translation>
+        <translation>Meta+I</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+I</source>
-        <translation type="unfinished">Ctrl+Shift+I</translation>
+        <translation>Ctrl+Shift+I</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Activate Help Bookmarks View</source>
-        <translation type="unfinished"></translation>
+        <translation>激活帮助书签视图</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Alt+Meta+M</source>
-        <translation type="unfinished">Alt+Meta+M</translation>
+        <translation>Alt+Meta+M</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished">Ctrl+Shift+B</translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Activate Help Search View</source>
-        <translation type="unfinished"></translation>
+        <translation>激活帮助搜索视图</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meta+/</source>
-        <translation type="unfinished">Meta+/</translation>
+        <translation>Meta+/</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+/</source>
-        <translation type="unfinished">Ctrl+Shift+/</translation>
+        <translation>Ctrl+Shift+/</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Activate Open Help Pages View</source>
-        <translation type="unfinished"></translation>
+        <translation>激活打开帮助页面视图</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Meta+O</source>
-        <translation type="unfinished">Meta+O</translation>
+        <translation>Meta+O</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location line="+193"/>
         <source>Help</source>
-        <translation type="unfinished">帮助</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Help - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助 - %1</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Print Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>打印文档</translation>
     </message>
 </context>
 <context>
@@ -43736,7 +43736,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/qtwebkithelpviewer.cpp" line="-81"/>
         <source>Open Link as New Page</source>
-        <translation type="unfinished">在新页面打开连接</translation>
+        <translation>在新页面打开连接</translation>
     </message>
 </context>
 <context>
@@ -43744,7 +43744,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/searchtaskhandler.cpp" line="+57"/>
         <source>Get Help Online</source>
-        <translation type="unfinished"></translation>
+        <translation>获取帮助在线</translation>
     </message>
 </context>
 <context>
@@ -43752,7 +43752,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/searchwidget.cpp" line="+48"/>
         <source>Regenerate Index</source>
-        <translation type="unfinished"></translation>
+        <translation>重新生成索引</translation>
     </message>
 </context>
 <context>
@@ -43760,22 +43760,22 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/help/textbrowserhelpviewer.cpp" line="-5"/>
         <source>Open Link</source>
-        <translation type="unfinished">打开链接</translation>
+        <translation>打开链接</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Copy Link</source>
-        <translation type="unfinished">复制链接</translation>
+        <translation>复制链接</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy</source>
-        <translation type="unfinished">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Reload</source>
-        <translation type="unfinished">重新载入</translation>
+        <translation>重新载入</translation>
     </message>
 </context>
 <context>
@@ -49100,17 +49100,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/shared/help/indexwindow.cpp" line="+74"/>
         <source>&amp;Look for:</source>
-        <translation type="unfinished">查找(&amp;L):</translation>
+        <translation>查找(&amp;L):</translation>
     </message>
     <message>
         <location line="+89"/>
         <source>Open Link</source>
-        <translation type="unfinished">打开链接</translation>
+        <translation>打开链接</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open Link as New Page</source>
-        <translation type="unfinished">在新页面打开连接</translation>
+        <translation>在新页面打开连接</translation>
     </message>
 </context>
 <context>

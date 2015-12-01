@@ -33816,19 +33816,19 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/cppeditor/cpppreprocessordialog.ui"/>
         <location filename="../../../src/plugins/cppeditor/ui_cpppreprocessordialog.h" line="+102"/>
         <source>Additional C++ Preprocessor Directives</source>
-        <translation type="unfinished"></translation>
+        <translation>额外的C++预处理指令</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cppeditor/ui_cpppreprocessordialog.h" line="+1"/>
         <source>Project:</source>
-        <translation type="unfinished"></translation>
+        <translation>项目：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cppeditor/ui_cpppreprocessordialog.h" line="+1"/>
         <source>Additional C++ Preprocessor Directives for %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>额外的C++预处理指令于%1：</translation>
     </message>
 </context>
 <context>
@@ -40828,7 +40828,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppeditor.cpp" line="+490"/>
         <source>&amp;Refactor</source>
-        <translation type="unfinished">重构(&amp;R)</translation>
+        <translation>重构(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -40836,102 +40836,102 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppeditorplugin.cpp" line="+172"/>
         <source>Additional Preprocessor Directives...</source>
-        <translation type="unfinished"></translation>
+        <translation>额外的预处理指令...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Switch Between Function Declaration/Definition</source>
-        <translation type="unfinished"></translation>
+        <translation>在函数的声明/定义中切换</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shift+F2</source>
-        <translation type="unfinished">Shift+F2</translation>
+        <translation>Shift+F2</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Open Function Declaration/Definition in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>在下一个分隔窗口中打开函数的声明/定义</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Meta+E, Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+E, Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Find Usages</source>
-        <translation type="unfinished">搜索被使用的地方</translation>
+        <translation>搜索被使用的地方</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+Shift+U</source>
-        <translation type="unfinished">Ctrl+Shift+U</translation>
+        <translation>Ctrl+Shift+U</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open Type Hierarchy</source>
-        <translation type="unfinished">打开类型分层</translation>
+        <translation>打开类型层次</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+T</source>
-        <translation type="unfinished">Meta+Shift+T</translation>
+        <translation>Meta+Shift+T</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+Shift+T</source>
-        <translation type="unfinished">Ctrl+Shift+T</translation>
+        <translation>Ctrl+Shift+T</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Open Include Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>打开包含层次</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+I</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+Shift+I</source>
-        <translation type="unfinished">Ctrl+Shift+I</translation>
+        <translation>Ctrl+Shift+I</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Rename Symbol Under Cursor</source>
-        <translation type="unfinished">重命名光标所在符号</translation>
+        <translation>重命名光标所在符号</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>CTRL+SHIFT+R</source>
-        <translation type="unfinished">CTRL+SHIFT+R</translation>
+        <translation>CTRL+SHIFT+R</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reparse Externally Changed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>外部重新解析改变的文件</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Inspect C++ Code Model...</source>
-        <translation type="unfinished"></translation>
+        <translation>检视C++代码模型...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+F12</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+Shift+F12</source>
-        <translation type="unfinished">Ctrl+Shift+F12</translation>
+        <translation>Ctrl+Shift+F12</translation>
     </message>
 </context>
 <context>
@@ -40939,7 +40939,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppincludehierarchy.cpp" line="+83"/>
         <source>No include hierarchy available</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用的包含层次</translation>
     </message>
 </context>
 <context>
@@ -40947,7 +40947,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+103"/>
         <source>Include Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>包含层次</translation>
     </message>
 </context>
 <context>
@@ -40955,22 +40955,22 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppincludehierarchymodel.cpp" line="+65"/>
         <source>Includes</source>
-        <translation type="unfinished"></translation>
+        <translation>包含</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Included by</source>
-        <translation type="unfinished"></translation>
+        <translation>包含于</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(无)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>(cyclic)</source>
-        <translation type="unfinished"></translation>
+        <translation>(循环)</translation>
     </message>
 </context>
 <context>
@@ -41012,17 +41012,17 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppinsertvirtualmethods.cpp" line="+459"/>
         <source>Insert Virtual Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>插入虚函数</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Functions to insert:</source>
-        <translation type="unfinished"></translation>
+        <translation>待插入的函数(&amp;F)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -41138,7 +41138,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppchecksymbols.cpp" line="+535"/>
         <source>Only virtual functions can be marked &apos;override&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>只有虚函数可被标记为“override”</translation>
     </message>
 </context>
 <context>
@@ -41146,17 +41146,17 @@ Do you want to kill it?</source>
     <message>
         <location line="+3"/>
         <source>Only virtual functions can be marked &apos;final&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>只有虚函数可被标记为“final”</translation>
     </message>
     <message>
         <location line="+209"/>
         <source>Expected a namespace-name</source>
-        <translation type="unfinished">应为命名空间的名称</translation>
+        <translation>应为命名空间的名称</translation>
     </message>
     <message>
         <location line="+599"/>
         <source>Too many arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>参数过多</translation>
     </message>
 </context>
 <context>
@@ -41164,7 +41164,7 @@ Do you want to kill it?</source>
     <message>
         <location line="-2"/>
         <source>Too few arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>参数过少</translation>
     </message>
 </context>
 <context>

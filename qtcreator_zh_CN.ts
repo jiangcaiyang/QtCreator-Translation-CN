@@ -34381,27 +34381,27 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/customqbspropertiesdialog.ui"/>
         <source>Custom Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>用户属性</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/customqbspropertiesdialog.cpp" line="+46"/>
         <source>Key</source>
-        <translation type="unfinished">密钥</translation>
+        <translation>密钥</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/customqbspropertiesdialog.ui"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">添加(&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">删除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -34409,107 +34409,108 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstepconfigwidget.ui"/>
         <source>Build variant:</source>
-        <translation type="unfinished"></translation>
+        <translation>构建变量：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstep.cpp" line="+551"/>
         <source>&lt;b&gt;Qbs:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt; Qbs: &lt;/b&gt; %1</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Might make your application vulnerable. Only use in a safe environment.</source>
-        <translation type="unfinished">可能导致应用程序易受攻击，请仅在安全环境中使用。</translation>
+        <translation>可能导致应用程序易受攻击，请仅在安全环境中使用。</translation>
     </message>
     <message>
         <location line="+126"/>
         <source>Could not split properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分割的属性。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>No &quot;:&quot; found in property definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>在属性定义中没有&quot;:&quot;。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstepconfigwidget.ui"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location/>
         <source>Parallel jobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>并行线程数：</translation>
     </message>
     <message>
         <location/>
         <source>Number of concurrent build jobs.</source>
-        <translation type="unfinished"></translation>
+        <translation>并行构建的线程数量。</translation>
     </message>
     <message>
         <location/>
         <source>Enable QML debugging:</source>
-        <translation type="unfinished"></translation>
+        <translation>允许 QML 调试：</translation>
     </message>
     <message>
         <location/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>属性：</translation>
     </message>
     <message>
         <location/>
         <source>Properties to pass to the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>属性传递到项目中。</translation>
     </message>
     <message>
         <location/>
         <source>Flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>标志：</translation>
     </message>
     <message>
         <location/>
         <source>No commands will be executed and no permanent changes to the build graph will be done.</source>
+        <translatorcomment>不懂</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location/>
         <source>Dry run</source>
-        <translation type="unfinished"></translation>
+        <translation>试运行</translation>
     </message>
     <message>
         <location/>
         <source>Keep going when errors occur (if at all possible).</source>
-        <translation type="unfinished"></translation>
+        <translation>当错误发生时继续（如果可以的话）。</translation>
     </message>
     <message>
         <location/>
         <source>Keep going</source>
-        <translation type="unfinished"></translation>
+        <translation>继续</translation>
     </message>
     <message>
         <location/>
         <source>Show command lines</source>
-        <translation type="unfinished"></translation>
+        <translation>显示命令行</translation>
     </message>
     <message>
         <location/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>安装</translation>
     </message>
     <message>
         <location/>
         <source>Clean install root</source>
-        <translation type="unfinished"></translation>
+        <translation>清除安装根目录</translation>
     </message>
     <message>
         <location/>
         <source>Equivalent command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>等效的命令行：</translation>
     </message>
 </context>
 <context>
@@ -34517,32 +34518,32 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbscleanstepconfigwidget.ui"/>
         <source>Flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>标志：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbscleanstep.cpp" line="+302"/>
         <source>&lt;b&gt;Qbs:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Qbs:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbscleanstepconfigwidget.ui"/>
         <source>Clean all artifacts</source>
-        <translation type="unfinished"></translation>
+        <translation>清洁所有工件</translation>
     </message>
     <message>
         <location/>
         <source>Dry run</source>
-        <translation type="unfinished"></translation>
+        <translation>试运行</translation>
     </message>
     <message>
         <location/>
         <source>Keep going</source>
-        <translation type="unfinished"></translation>
+        <translation>继续</translation>
     </message>
     <message>
         <location/>
         <source>Equivalent command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>等效的命令行：</translation>
     </message>
 </context>
 <context>
@@ -34550,42 +34551,42 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstepconfigwidget.ui"/>
         <source>Install root:</source>
-        <translation type="unfinished"></translation>
+        <translation>安装根目录：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstep.cpp" line="+282"/>
         <source>Qbs Install Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs 安装前缀</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>&lt;b&gt;Qbs:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Qbs:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstepconfigwidget.ui"/>
         <source>Flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>标志：</translation>
     </message>
     <message>
         <location/>
         <source>Dry run</source>
-        <translation type="unfinished"></translation>
+        <translation>试运行</translation>
     </message>
     <message>
         <location/>
         <source>Keep going</source>
-        <translation type="unfinished"></translation>
+        <translation>继续</translation>
     </message>
     <message>
         <location/>
         <source>Remove first</source>
-        <translation type="unfinished"></translation>
+        <translation>删除第一个</translation>
     </message>
     <message>
         <location/>
         <source>Equivalent command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>等效的命令行：</translation>
     </message>
 </context>
 <context>
@@ -34593,37 +34594,37 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprofilessettingswidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Kit:</source>
-        <translation type="unfinished"></translation>
+        <translation>套件：</translation>
     </message>
     <message>
         <location/>
         <source>Associated profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>关联的配置文件：</translation>
     </message>
     <message>
         <location/>
         <source>Profile properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件属性：</translation>
     </message>
     <message>
         <location/>
         <source>E&amp;xpand All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;x 展开全部</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;C 折叠全部</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;E 编辑...</translation>
     </message>
 </context>
 <context>
@@ -34632,70 +34633,70 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmakeandroidsupport/qmakeandroidbuildapkwidget.ui"/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+136"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/qmakeandroidbuildapkwidget.cpp" line="+123"/>
         <source>Select additional libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>选中额外的库</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Libraries (*.so)</source>
-        <translation type="unfinished"></translation>
+        <translation>库文件 （*。so）</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>&lt;b&gt;Build Android APK&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;构建Android的APK&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;构建Android的APK&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/qmakeandroidbuildapkwidget.ui"/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+1"/>
         <source>Android</source>
-        <translation type="unfinished">Android</translation>
+        <translation>Android</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+1"/>
         <source>Create Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>创建模板</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+1"/>
         <source>Additional Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>额外的库</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+2"/>
         <source>List of extra libraries to include in Android package and load on startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>额外的库列表，包括在Android包，并在启动时加载。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+3"/>
         <source>Select library to include in package.</source>
-        <translation type="unfinished"></translation>
+        <translation>选中库包含到包中。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+2"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+2"/>
         <source>Remove currently selected library from list.</source>
-        <translation type="unfinished"></translation>
+        <translation>从列表中删除当前选中的库。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeandroidsupport/ui_qmakeandroidbuildapkwidget.h" line="+2"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -34704,13 +34705,14 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmldesigner/components/debugview/debugviewwidget.ui"/>
         <location filename="../../../src/plugins/qmldesigner/ui_debugviewwidget.h" line="+188"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_debugviewwidget.h" line="+2"/>
         <source>Model Log</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>这里应该是打印日志的意思</translatorcomment>
+        <translation>模型日志</translation>
     </message>
     <message>
         <location/>
@@ -34718,25 +34720,25 @@ Partial names can be used if they are unambiguous.</source>
         <location line="+2"/>
         <location line="+2"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_debugviewwidget.h" line="-1"/>
         <source>Instance Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>实例通知</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_debugviewwidget.h" line="+2"/>
         <source>Instance Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>实例错误</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_debugviewwidget.h" line="+1"/>
         <source>Enabled</source>
-        <translation type="unfinished">启用</translation>
+        <translation>启用</translation>
     </message>
 </context>
 <context>
@@ -34745,13 +34747,13 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/addtabtotabviewdialog.ui"/>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/ui_addtabtotabviewdialog.h" line="+74"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/ui_addtabtotabviewdialog.h" line="+1"/>
         <source>Add tab:</source>
-        <translation type="unfinished"></translation>
+        <translation>添加标签：</translation>
     </message>
 </context>
 <context>
@@ -35277,19 +35279,19 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmldesigner/designercore/filemanager/qmlwarningdialog.ui"/>
         <location filename="../../../src/plugins/qmldesigner/ui_qmlwarningdialog.h" line="+82"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_qmlwarningdialog.h" line="+1"/>
         <source>This QML file contains features which are not supported by Qt Quick Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>QtQuick 设计师不支持该 QML 文件拥有的特性</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_qmlwarningdialog.h" line="+2"/>
         <source>Warn about unsupported features</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的功能将会发出警告</translation>
     </message>
 </context>
 <context>
@@ -47681,7 +47683,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/slog2inforunner.cpp" line="+185"/>
         <source>Cannot show slog2info output. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>不能显示 slog2info 输出。错误： %1</translation>
     </message>
 </context>
 <context>
@@ -47694,7 +47696,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Full path to the target bin directory of the current project&apos;s Qt version.&lt;br&gt;You probably want %1 instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目的Qt版本的目标执行路径的完整路径。&lt;br&gt;你可能想用 %1 代替。</translation>
     </message>
 </context>
 <context>
@@ -47702,7 +47704,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qtsupport/qtversionfactory.cpp" line="+84"/>
         <source>No factory found for qmake: &quot;%1&quot;</source>
-        <translation type="unfinished">无法为 qmake 找到工厂：%1</translation>
+        <translation>无法为 qmake 找到工厂：%1</translation>
     </message>
 </context>
 <context>
@@ -49156,52 +49158,52 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/libs/qmldebug/qmldebugclient.cpp" line="+81"/>
         <source>Network connection dropped</source>
-        <translation type="unfinished"></translation>
+        <translation>网络掉线</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Resolving host</source>
-        <translation type="unfinished"></translation>
+        <translation>解析主机</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Establishing network connection ...</source>
-        <translation type="unfinished"></translation>
+        <translation>建立网络连接...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Network connection established</source>
-        <translation type="unfinished"></translation>
+        <translation>网络连接已建立</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Network connection closing</source>
-        <translation type="unfinished"></translation>
+        <translation>网络连接关闭</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Socket state changed to BoundState. This should not happen!</source>
-        <translation type="unfinished"></translation>
+        <translation>套接字状态改为BoundState。这是不应该的！</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Socket state changed to ListeningState. This should not happen!</source>
-        <translation type="unfinished"></translation>
+        <translation>套接字状态改为ListeningState。这是不应该的！</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unknown state %1</source>
-        <translation type="unfinished"></translation>
+        <translation>未知状态&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Error: Remote host closed the connection</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:连接被远端主机关闭</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: Unknown socket error %1</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：未知错误 %1</translation>
     </message>
 </context>
 <context>
@@ -49255,7 +49257,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerrunconfigurationaspect.cpp" line="+48"/>
         <source>QML Profiler Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器设置</translation>
     </message>
 </context>
 </TS>

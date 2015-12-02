@@ -24221,7 +24221,7 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location line="+4"/>
         <source>Reading only version 1.1 parts.</source>
-        <translation>只读版1.1部分。</translation>
+        <translation>只读取版本1.1的部分。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -24237,7 +24237,7 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location line="+19"/>
         <source>Expected only Component and ModuleApi object definitions.</source>
-        <translation>要求只有 Component 和 ModuleApi 对象定义。</translation>
+        <translation>要求只有 Component 和ModuleApi 对象的定义。</translation>
     </message>
     <message>
         <location line="+47"/>

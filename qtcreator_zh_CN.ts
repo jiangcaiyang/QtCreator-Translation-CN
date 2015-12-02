@@ -35729,12 +35729,12 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/qmljs/qmljsqrcparser.cpp" line="+275"/>
         <source>XML error on line %1, col %2: %3</source>
-        <translation type="unfinished">XML 错误 在第 %1行,  %2列: %3</translation>
+        <translation>XML 错误 在第 %1行,  %2列: %3</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The &lt;RCC&gt; root element is missing.</source>
-        <translation type="unfinished">&lt;RCC&gt; 根元素缺失。</translation>
+        <translation>&lt;RCC&gt; 根元素缺失。</translation>
     </message>
 </context>
 <context>
@@ -35742,17 +35742,17 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location filename="../../../src/libs/qmljs/qmljssimplereader.cpp" line="+126"/>
         <source>Cannot find file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到文件 %1.</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Could not parse document.</source>
-        <translation type="unfinished">不能解析文档。</translation>
+        <translation>不能解析文档。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Expected document to contain a single object definition.</source>
-        <translation type="unfinished">要求文档包含一个对象定义。</translation>
+        <translation>要求文档包含一个对象定义。</translation>
     </message>
     <message>
         <location line="+64"/>
@@ -39377,7 +39377,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themesettingswidget.cpp" line="+112"/>
         <source>unnamed</source>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -40573,12 +40573,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/qml/qmlengine.cpp" line="+110"/>
         <source>JS Source for %1</source>
-        <translation type="unfinished">%1的JS源码</translation>
+        <translation>%1的JS源码</translation>
     </message>
     <message>
         <location line="+925"/>
         <source>Anonymous Function</source>
-        <translation type="unfinished">匿名函数</translation>
+        <translation>匿名函数</translation>
     </message>
 </context>
 <context>
@@ -46323,7 +46323,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qtsupport/qtsupportplugin.cpp" line="+118"/>
         <source>Full path to the host bin directory of the current project&apos;s Qt version.</source>
-        <translation type="unfinished">当前项目使用的Qt 版本的主机bin目录的完整路径。</translation>
+        <translation>当前项目使用的Qt 版本的主机bin目录的完整路径。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -46336,7 +46336,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qtsupport/qtversionfactory.cpp" line="+84"/>
         <source>No factory found for qmake: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法为 qmake 找到工厂：%1</translation>
     </message>
 </context>
 <context>

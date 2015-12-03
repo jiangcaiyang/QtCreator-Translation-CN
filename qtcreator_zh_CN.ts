@@ -12810,7 +12810,7 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>Cherry &amp;Pick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cherry &amp;Pick</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12887,7 +12887,7 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>Needed by</source>
-        <translation type="unfinished"></translation>
+        <translation>需求于</translation>
     </message>
     <message>
         <location line="+152"/>
@@ -13138,7 +13138,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+2"/>
         <source>Delete Tag</source>
-        <translation type="unfinished">删除便签</translation>
+        <translation>删除标签</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -13555,7 +13555,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+10"/>
         <source>Git Show &quot;%1&quot;</source>
-        <translation>Git 显示 &quot;%1&quot;</translation>
+        <translation type="unfinished">Git 显示 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -15797,31 +15797,31 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/imageviewer/ui_imageviewertoolbar.h" line="-4"/>
         <source>Show Background</source>
-        <translation type="unfinished"></translation>
+        <translation>显示背景</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/imageviewer/ui_imageviewertoolbar.h" line="+1"/>
         <source>Show Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩略图</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/imageviewer/ui_imageviewertoolbar.h" line="+1"/>
         <source>Fit to Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>适应屏幕</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/imageviewer/ui_imageviewertoolbar.h" line="+1"/>
         <source>Original Size</source>
-        <translation type="unfinished">原始大小</translation>
+        <translation>原始大小</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/imageviewer/ui_imageviewertoolbar.h" line="+2"/>
         <source>Zoom Out</source>
-        <translation type="unfinished">缩小</translation>
+        <translation>缩小</translation>
     </message>
 </context>
 <context>
@@ -17047,12 +17047,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/modeleditor/modeleditor_constants.h" line="+38"/>
         <source>Model Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>模型编辑器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/pythoneditor/pythoneditorconstants.h" line="+41"/>
         <source>Python Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Python编辑器</translation>
     </message>
 </context>
 <context>
@@ -34071,24 +34071,24 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/ios/iosbuildstep.ui"/>
         <location filename="../../../src/plugins/ios/ui_iosbuildstep.h" line="+89"/>
         <source>Base arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>基本参数:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/ios/iosbuildstep.cpp" line="+60"/>
         <source>xcodebuild</source>
-        <translation type="unfinished"></translation>
+        <translation>xcode构建</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/ios/iosbuildstep.ui"/>
         <location filename="../../../src/plugins/ios/ui_iosbuildstep.h" line="+1"/>
         <source>Reset Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosbuildstep.h" line="+1"/>
         <source>Extra arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>额外参数：</translation>
     </message>
 </context>
 <context>
@@ -34097,7 +34097,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/ios/iosdeploystepwidget.ui"/>
         <location filename="../../../src/plugins/ios/ui_iosdeploystepwidget.h" line="+47"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
 </context>
 <context>
@@ -34127,49 +34127,49 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/ios/iosrunconfiguration.ui"/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+87"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+1"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+1"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+3"/>
         <source>iPhone 3.5-inch Retina Display</source>
-        <translation type="unfinished"></translation>
+        <translation>iPhone 3.5英寸视网膜显示屏</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+1"/>
         <source>iPhone 4-inch Retina Display</source>
-        <translation type="unfinished"></translation>
+        <translation>iPhone 4英寸视网膜显示屏</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+1"/>
         <source>iPad</source>
-        <translation type="unfinished"></translation>
+        <translation>iPad</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+1"/>
         <source>iPad Retina Display</source>
-        <translation type="unfinished"></translation>
+        <translation>iPad视网膜显示屏</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iosrunconfiguration.h" line="+2"/>
         <source>Device type:</source>
-        <translation type="unfinished">设备类型:</translation>
+        <translation>设备类型:</translation>
     </message>
 </context>
 <context>
@@ -34178,13 +34178,13 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/ios/iossettingswidget.ui"/>
         <location filename="../../../src/plugins/ios/ui_iossettingswidget.h" line="+68"/>
         <source>iOS Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS配置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/ios/ui_iossettingswidget.h" line="+1"/>
         <source>Ask about devices not in developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>询问设备是否处于开发者模式</translation>
     </message>
 </context>
 <context>
@@ -36024,44 +36024,44 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/ItemPane.qml" line="+43"/>
         <location line="+7"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+8"/>
         <source>id</source>
-        <translation type="unfinished"></translation>
+        <translation>id</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+5"/>
         <source>Visibility</source>
-        <translation type="unfinished">可见性</translation>
+        <translation>可见性</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Is Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>可视性</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Clip</source>
-        <translation type="unfinished">剪贴</translation>
+        <translation>剪贴</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
 </context>
 <context>
@@ -36074,7 +36074,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+1"/>
         <source>Alignment of an item within the cells it occupies.</source>
-        <translation type="unfinished">项目中选中部分的对齐方式。</translation>
+        <translation>项目中选中部分的对齐方式。</translation>
     </message>
     <message>
         <location line="+78"/>
@@ -41850,27 +41850,27 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/imageviewer.cpp" line="+87"/>
         <source>Color at %1,%2: red: %3 green: %4 blue: %5 alpha: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色%1,%2: 红色:%3 绿色:%4 蓝色:%5 α:%6</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>&lt;Click to display color&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;点击显示颜色&gt;</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>复制图片</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open Image Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>打开图像查看器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/watchhandler.cpp" line="+1065"/>
         <source>Size: %1x%2, %3 byte, format: %4, depth: %5</source>
-        <translation type="unfinished"></translation>
+        <translation>大小:%1 x %2, %3字节, 格式:%4, 深度:%5</translation>
     </message>
 </context>
 <context>
@@ -43795,17 +43795,17 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/imageviewer/imageviewerfile.cpp" line="+108"/>
         <source>Image format not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>不支持的图像格式。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Failed to read SVG image.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取SVG图像失败。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Failed to read image.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取图片失败。</translation>
     </message>
 </context>
 <context>
@@ -43836,7 +43836,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosconfigurations.cpp" line="+260"/>
         <source>%1 %2</source>
-        <translation type="unfinished">%1 %2</translation>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -43844,7 +43844,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/ios/iosconstants.h" line="+44"/>
         <source>iOS</source>
-        <translation type="unfinished">iOS</translation>
+        <translation>iOS</translation>
     </message>
 </context>
 <context>
@@ -46638,12 +46638,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/importmanager/importmanagercombobox.cpp" line="+36"/>
         <source>Add new import</source>
-        <translation type="unfinished"></translation>
+        <translation>添加新导入</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>&lt;Add Import&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;添加导入&gt;</translation>
     </message>
 </context>
 <context>
@@ -46659,12 +46659,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/navigator/navigatortreemodel.cpp" line="+225"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reparenting the component %1 here will cause the component %2 to be deleted. Do you want to proceed?</source>
-        <translation type="unfinished">在此重定义父级组件%1 将会导致组件%2被删除。您想要继续吗？</translation>
+        <translation>在此重定义父级组件%1 将会导致组件%2被删除。您想要继续吗？</translation>
     </message>
 </context>
 <context>
@@ -46746,12 +46746,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/instances/nodeinstanceserverproxy.cpp" line="-309"/>
         <source>Cannot Connect to QML Emulation Layer (QML Puppet)</source>
-        <translation type="unfinished"></translation>
+        <translation>不能连接QML仿真层(QML Puppet)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The executable of the QML emulation layer (QML Puppet) may not be responding. Switching to another kit might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML仿真层的可执行文件(QML Puppet)可能不会回应。切换到另一个设备可能有帮助。</translation>
     </message>
 </context>
 <context>

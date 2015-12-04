@@ -12629,7 +12629,7 @@ will also disable the following plugins:
         <location filename="../../../src/plugins/genericprojectmanager/genericbuildconfiguration.cpp" line="+117"/>
         <source>Default</source>
         <extracomment>The name of the build configuration created by default for a generic project.</extracomment>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -12667,13 +12667,13 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/genericprojectmanager/ui_genericmakestep.h" line="+1"/>
         <source>Make arguments:</source>
-        <translation type="unfinished">Make 参数:</translation>
+        <translation>Make 参数:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/genericprojectmanager/ui_genericmakestep.h" line="+1"/>
         <source>Targets:</source>
-        <translation type="unfinished">目标:</translation>
+        <translation>目标:</translation>
     </message>
 </context>
 <context>
@@ -12744,7 +12744,7 @@ will also disable the following plugins:
     <message>
         <location filename="../../../src/plugins/genericprojectmanager/genericprojectmanager.cpp" line="+57"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation type="unfinished">打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
+        <translation>打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
     </message>
 </context>
 <context>
@@ -12752,7 +12752,7 @@ will also disable the following plugins:
     <message>
         <location filename="../../../src/plugins/git/gerrit/gerritplugin.cpp" line="+182"/>
         <source>Fetching from Gerrit</source>
-        <translation type="unfinished"></translation>
+        <translation>从Gerrit获取</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -12775,7 +12775,7 @@ will also disable the following plugins:
     <message>
         <location filename="../../../src/plugins/git/gerrit/gerritdialog.cpp" line="+77"/>
         <source>Apply in:</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -12805,7 +12805,7 @@ will also disable the following plugins:
     <message>
         <location line="+14"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"></translation>
+        <translation>显示(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12815,17 +12815,17 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>C&amp;heckout</source>
-        <translation type="unfinished"></translation>
+        <translation>检出(&amp;h)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location line="+142"/>
         <source>Fetching &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>获取 &quot;%1&quot;...</translation>
     </message>
 </context>
 <context>
@@ -12867,22 +12867,22 @@ will also disable the following plugins:
     <message>
         <location line="-3"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>编号</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Patch set</source>
-        <translation type="unfinished"></translation>
+        <translation>补丁设置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Depends on</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖于</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12892,12 +12892,12 @@ will also disable the following plugins:
     <message>
         <location line="+152"/>
         <source>Parse error: &quot;%1&quot; -&gt; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>语法错误：&quot;%1&quot; -&gt; %2</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Parse error: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>语法错误：&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -12959,27 +12959,27 @@ will also disable the following plugins:
     <message>
         <location line="+7"/>
         <source>Push to Gerrit...</source>
-        <translation type="unfinished"></translation>
+        <translation>推送Gerrit...</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Initialization Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>初始化失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to initialize dialog. Aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>未能初始化对话框。异常终止。</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid Gerrit configuration. Host, user and ssh binary are mandatory.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的Gerrit配置。主机、用户和ssh是必填项。</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -12989,7 +12989,7 @@ will also disable the following plugins:
     <message>
         <location line="+43"/>
         <source>Remote Not Verified</source>
-        <translation type="unfinished"></translation>
+        <translation>远程未验证</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12997,12 +12997,15 @@ will also disable the following plugins:
 and project %2
 
 were not verified among remotes in %3. Select different folder?</source>
-        <translation type="unfinished"></translation>
+        <translation>改变主机 %1
+和项目 %2
+
+没有验证远程数据库 %3。选择不同的文件夹?</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Enter Local Repository for &quot;%1&quot; (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>为&quot;%1&quot;输入本地存储库(%2)</translation>
     </message>
 </context>
 <context>
@@ -13010,7 +13013,7 @@ were not verified among remotes in %3. Select different folder?</source>
     <message>
         <location filename="../../../src/plugins/git/gerrit/gerritmodel.cpp" line="-362"/>
         <source>Querying Gerrit</source>
-        <translation type="unfinished"></translation>
+        <translation>查询Gerrit</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -13030,24 +13033,26 @@ were not verified among remotes in %3. Select different folder?</source>
     <message>
         <location line="+33"/>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>超时时间</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The gerrit process has not responded within %1 s.
 Most likely this is caused by problems with SSH authentication.
 Would you like to terminate it?</source>
-        <translation type="unfinished"></translation>
+        <translation>gerrit程序在%1秒内没有回应。
+很可能这是由于SSH认证的问题。
+是否想终止它?</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Terminate</source>
-        <translation type="unfinished"></translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Keep Running</source>
-        <translation type="unfinished">保持运行</translation>
+        <translation>保持运行</translation>
     </message>
 </context>
 <context>
@@ -13084,12 +13089,12 @@ Would you like to terminate it?</source>
     <message>
         <location filename="../../../src/plugins/git/branchadddialog.cpp" line="+115"/>
         <source>Add Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>添加分支</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Rename Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名分支</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -13105,7 +13110,7 @@ Would you like to terminate it?</source>
         <location filename="../../../src/plugins/git/branchadddialog.ui"/>
         <location filename="../../../src/plugins/git/ui_branchadddialog.h" line="+1"/>
         <source>CheckBox</source>
-        <translation type="unfinished"></translation>
+        <translation>复选框</translation>
     </message>
 </context>
 <context>
@@ -13118,47 +13123,47 @@ Would you like to terminate it?</source>
     <message>
         <location line="+84"/>
         <source>Would you like to delete the tag &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想删除标记“%1”吗?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Would you like to delete the branch &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想删除分支“%1”吗?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Would you like to delete the &lt;b&gt;unmerged&lt;/b&gt; branch &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想删除&lt;b&gt; 未合并 &lt;/b&gt;分支“%1”吗?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除便签</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Rename Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名标签</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Git Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Git重置</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Hard reset branch &quot;%1&quot; to &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">硬重置分支“%1”到“%2”?</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Fast-Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>快进</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>No Fast-Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>不快进</translation>
     </message>
     <message>
         <location line="-177"/>
@@ -13181,61 +13186,61 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="-1"/>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished">刷新(&amp;F)</translation>
+        <translation>刷新(&amp;F)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加(&amp;A)...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">删除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名(&amp;n)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>&amp;Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>检出(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>&amp;Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diff</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>&amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>日志(&amp;L)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>&amp;Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>合并(&amp;M)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;base</source>
-        <translation type="unfinished"></translation>
+        <translation>变基(&amp;b)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location/>
@@ -13253,13 +13258,13 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>Set current branch to track the selected one.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置当前分支以跟踪选定的一个。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>&amp;Track</source>
-        <translation type="unfinished"></translation>
+        <translation>跟踪(&amp;T)</translation>
     </message>
 </context>
 <context>
@@ -13272,12 +13277,12 @@ Would you like to terminate it?</source>
     <message>
         <location line="+1"/>
         <source>Remote Branches</source>
-        <translation type="unfinished">远程 分支</translation>
+        <translation>远程分支</translation>
     </message>
     <message>
         <location line="+454"/>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
 </context>
 <context>
@@ -13291,50 +13296,50 @@ Would you like to terminate it?</source>
     <message>
         <location filename="../../../src/plugins/git/changeselectiondialog.cpp" line="+131"/>
         <source>Select Commit</source>
-        <translation type="unfinished"></translation>
+        <translation>选择提交</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Select Git Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择Git目录</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Error: Unknown reference</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:未知的参考</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Bad working directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:错误的工作目录。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Error: Could not start Git.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误:无法启动Git。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fetching commit data...</source>
-        <translation type="unfinished"></translation>
+        <translation>获取提交数据...</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/changeselectiondialog.ui"/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录:</translation>
+        <translation>工作目录:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Browse &amp;Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览目录(&amp;D)...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>修改:</translation>
     </message>
     <message>
         <location/>
@@ -13346,25 +13351,25 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Browse &amp;History...</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览历史(&amp;H)...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">关闭(&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Check&amp;out</source>
-        <translation type="unfinished"></translation>
+        <translation>检出(&amp;O)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>&amp;Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>还原(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -13376,7 +13381,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"></translation>
+        <translation>显示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -13485,7 +13490,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+19"/>
         <source>Cannot run &quot;%1 %2&quot; in &quot;%2&quot;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在“%2”运行“%1 %2”：%3</translation>
     </message>
     <message>
         <location line="+79"/>
@@ -13510,17 +13515,17 @@ Would you like to terminate it?</source>
     <message>
         <location line="+37"/>
         <source>Git Diff Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Git Diff文件</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Git Diff Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Git Diff项目</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Git Diff Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Git Diff库</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -13550,12 +13555,12 @@ Would you like to terminate it?</source>
     <message>
         <location line="+10"/>
         <source>Git Show &quot;%1&quot;</source>
-        <translation>Git Show</translation>
+        <translation>Git 显示 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Git Blame &quot;%1&quot;</source>
-        <translation>Git Blame</translation>
+        <translation>Git Blame &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+152"/>
@@ -13617,12 +13622,12 @@ Would you like to terminate it?</source>
     <message>
         <location line="+424"/>
         <source>Create Local Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>创建本地分支</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Would you like to create a local branch?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想创建一个本地分支?</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -13632,7 +13637,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+1"/>
         <source>All changes in working directory will be discarded. Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>所有工作目录的更改将被丢弃。你确定吗?</translation>
     </message>
     <message>
         <location line="+364"/>
@@ -13642,27 +13647,27 @@ Would you like to terminate it?</source>
     <message>
         <location line="+323"/>
         <source>Cannot retrieve submodule status of &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检索子模块“%1”的状态: %2</translation>
     </message>
     <message>
         <location line="+213"/>
         <source>Submodules Found</source>
-        <translation type="unfinished"></translation>
+        <translation>子模块找到</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Would you like to update submodules?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想更新子模块？</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>REBASING</source>
-        <translation type="unfinished"></translation>
+        <translation>变基</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>REVERTING</source>
-        <translation type="unfinished"></translation>
+        <translation>回复</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -13672,17 +13677,17 @@ Would you like to terminate it?</source>
     <message>
         <location line="+2"/>
         <source>MERGING</source>
-        <translation type="unfinished"></translation>
+        <translation>合并</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Continue Rebase</source>
-        <translation type="unfinished"></translation>
+        <translation>继续再次基于</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rebase is in progress. What do you want to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>变基正在进行中。 您想做什么？</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13692,31 +13697,33 @@ Would you like to terminate it?</source>
     <message>
         <location line="+3"/>
         <source>Continue Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>继续合并</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You need to commit changes to finish merge.
 Commit now?</source>
-        <translation type="unfinished"></translation>
+        <translation>您需要提交修改完成合并。
+现在提交？</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+5"/>
         <location line="+5"/>
         <source>Commit</source>
-        <translation type="unfinished"></translation>
+        <translation>提交</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Continue Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>继续恢复</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You need to commit changes to finish revert.
 Commit now?</source>
-        <translation type="unfinished"></translation>
+        <translation>你需要提交修改以完成恢复。
+现在提交?</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -13732,7 +13739,7 @@ Commit now?</source>
     <message>
         <location line="+23"/>
         <source>No changes found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有发现变化。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -13766,53 +13773,54 @@ Commit now?</source>
     <message>
         <location line="+300"/>
         <source>Conflicts detected with commit %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>提交并检测冲突 %1。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Conflicts detected with files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>冲突检测和文件:
+%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Conflicts detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>冲突检测。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Conflicts Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>冲突检测</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run &amp;Merge Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>运行合并工具(&amp;M)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过(&amp;S)</translation>
     </message>
     <message>
         <location line="+174"/>
         <source>No commits were found</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现提交</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>No local commits were found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有发现本地提交</translation>
     </message>
     <message>
         <location line="+174"/>
         <source>Cannot determine Git version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定的Git版本：%1</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Uncommitted Changes Found</source>
-        <translation type="unfinished"></translation>
+        <translation>发现未提交的修改</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13847,17 +13855,17 @@ Commit now?</source>
     <message>
         <location line="+1"/>
         <source>Discard (reset) local changes and execute %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>丢弃(重置)本地更改和执行%1。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Execute %1 with local changes in working directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行在工作目录的更改%1。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cancel %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>取消 %1。</translation>
     </message>
     <message>
         <location line="-917"/>
@@ -13901,7 +13909,7 @@ Commit now?</source>
     <message>
         <location line="+35"/>
         <source>Rebase, merge or am is in progress. Finish or abort it and then try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>变基,合并或者是正在进行中。完成或中止,然后再试一次。</translation>
     </message>
     <message>
         <location line="+89"/>
@@ -33923,17 +33931,17 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/git/branchcheckoutdialog.ui"/>
         <location filename="../../../src/plugins/git/ui_branchcheckoutdialog.h" line="+102"/>
         <source>Local Changes Found. Choose Action:</source>
-        <translation type="unfinished"></translation>
+        <translation>找到本地更改。选择操作:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/branchcheckoutdialog.cpp" line="+47"/>
         <source>Checkout branch &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>检出分支 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Move Local Changes to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>移除本地更改“%1”</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -33955,19 +33963,19 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/git/ui_branchcheckoutdialog.h" line="+1"/>
         <location line="+1"/>
         <source>RadioButton</source>
-        <translation type="unfinished"></translation>
+        <translation>单选按钮</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchcheckoutdialog.h" line="+1"/>
         <source>Discard Local Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>放弃本地更改</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchcheckoutdialog.h" line="+1"/>
         <source>CheckBox</source>
-        <translation type="unfinished"></translation>
+        <translation>复选框</translation>
     </message>
 </context>
 <context>
@@ -33976,23 +33984,23 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/git/gerrit/gerritpushdialog.ui"/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+186"/>
         <source>Push to Gerrit</source>
-        <translation type="unfinished"></translation>
+        <translation>推送Gerrit</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/gerrit/gerritpushdialog.cpp" line="+221"/>
         <source>Number of commits between %1 and %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1和%2之间的提交数量:%3</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>... Include older branches ...</source>
-        <translation type="unfinished"></translation>
+        <translation>...包含分支 ...</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/gerrit/gerritpushdialog.ui"/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>&amp;Reviewers:</source>
-        <translation type="unfinished"></translation>
+        <translation>审核人(&amp;R):</translation>
     </message>
     <message>
         <location/>
@@ -34004,43 +34012,43 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+2"/>
         <source>Pushes the selected commit and all dependent commits.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将选中的提交和所有依赖提交。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+2"/>
         <source>&amp;Topic:</source>
-        <translation type="unfinished"></translation>
+        <translation>题目(&amp;T)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>Push:</source>
-        <translation type="unfinished"></translation>
+        <translation>推送：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>Commits:</source>
-        <translation type="unfinished"></translation>
+        <translation>提交：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>Local repository</source>
-        <translation type="unfinished"></translation>
+        <translation>本地仓库</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>To:</source>
-        <translation type="unfinished">到:</translation>
+        <translation>到:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>Number of commits</source>
-        <translation type="unfinished"></translation>
+        <translation>提交次数</translation>
     </message>
     <message>
         <location/>
@@ -34050,7 +34058,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
 Reviewers can be specified by nickname or email address. Spaces not allowed.
 
 Partial names can be used if they are unambiguous.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以逗号分隔评论。
+
+审阅者可以通过昵称或电子邮件地址来指定。
+
+</translation>
     </message>
 </context>
 <context>
@@ -35993,17 +36005,17 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/GeometrySection.qml" line="+31"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>几何</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Position</source>
-        <translation type="unfinished">位置</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
 </context>
 <context>
@@ -47880,7 +47892,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/highlightdefinition.cpp" line="+51"/>
         <source>Element name is empty.</source>
-        <translation type="unfinished">元素名称是空的。</translation>
+        <translation type="unfinished">元件名称是空的。</translation>
     </message>
     <message>
         <location line="+5"/>

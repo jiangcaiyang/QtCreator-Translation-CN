@@ -29964,19 +29964,19 @@ Will not be applied to whitespace in comments and strings.</source>
         <location filename="../../../src/plugins/todo/keyworddialog.ui"/>
         <location filename="../../../src/plugins/todo/ui_keyworddialog.h" line="-2"/>
         <source>Icon</source>
-        <translation type="unfinished">图标</translation>
+        <translation>图标</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_keyworddialog.h" line="+1"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_keyworddialog.h" line="+2"/>
         <source>errorLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>errorLabel</translation>
     </message>
 </context>
 <context>
@@ -29991,55 +29991,55 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>关键字</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Scanning scope</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描范围</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Scan the whole active project</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描整个活动项目</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Scan only the currently edited document</source>
-        <translation type="unfinished"></translation>
+        <translation>只能扫描当前编辑的文档</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_optionsdialog.h" line="+1"/>
         <source>Scan the current subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>扫描当前项目</translation>
     </message>
 </context>
 <context>
@@ -30129,19 +30129,19 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/plugins/help/ui_topicchooser.h" line="+1"/>
         <source>&amp;Topics</source>
-        <translation type="unfinished"></translation>
+        <translation>标题(&amp;T)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_topicchooser.h" line="+1"/>
         <source>&amp;Display</source>
-        <translation type="unfinished"></translation>
+        <translation>显示(&amp;D)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/help/ui_topicchooser.h" line="+1"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">关闭(&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -30591,55 +30591,55 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+2"/>
         <source>Inherits QWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>继承自QWidget</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>Inherits QDeclarativeItem - Qt Quick 1</source>
-        <translation type="unfinished"></translation>
+        <translation>继承自QDeclarativeItem - QtQuick 1</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>Inherits QQuickItem - Qt Quick 2</source>
-        <translation type="unfinished"></translation>
+        <translation>继承自QQuickItem - QtQuick 2</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>Based on QSharedData</source>
-        <translation type="unfinished"></translation>
+        <translation>基于QSharedData</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+2"/>
         <source>&amp;Header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件(&amp;H)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>&amp;Source file:</source>
-        <translation type="unfinished"></translation>
+        <translation>源文件(&amp;S)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>&amp;Generate form:</source>
-        <translation type="unfinished"></translation>
+        <translation>创建界面(&amp;G)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+2"/>
         <source>&amp;Form file:</source>
-        <translation type="unfinished"></translation>
+        <translation>界面文件(&amp;F)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_newclasswidget.h" line="+1"/>
         <source>&amp;Path:</source>
-        <translation type="unfinished">路径(&amp;P)：</translation>
+        <translation>路径(&amp;P)：</translation>
     </message>
 </context>
 <context>
@@ -30802,25 +30802,25 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/libs/utils/ui_projectintropage.h" line="-1"/>
         <source>Introduction and Project Location</source>
-        <translation type="unfinished"></translation>
+        <translation>项目介绍和位置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_projectintropage.h" line="+2"/>
         <source>Create in:</source>
-        <translation type="unfinished"></translation>
+        <translation>创建路径：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_projectintropage.h" line="+1"/>
         <source>Use as default project location</source>
-        <translation type="unfinished"></translation>
+        <translation>设为默认的项目路径</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_projectintropage.h" line="+1"/>
         <source>Project:</source>
-        <translation type="unfinished"></translation>
+        <translation>项目：</translation>
     </message>
 </context>
 <context>
@@ -30947,13 +30947,13 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/libs/utils/ui_filewizardpage.h" line="-1"/>
         <source>Choose the Location</source>
-        <translation type="unfinished"></translation>
+        <translation>选择位置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_filewizardpage.h" line="+2"/>
         <source>Path:</source>
-        <translation type="unfinished">路径:</translation>
+        <translation>路径：</translation>
     </message>
 </context>
 <context>
@@ -31756,69 +31756,69 @@ Will not be applied to whitespace in comments and strings.</source>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="-51"/>
         <source>Valgrind executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind执行档：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Detect self-modifying code:</source>
-        <translation type="unfinished"></translation>
+        <translation>检测自动修改的代码：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+3"/>
         <location line="+53"/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="-52"/>
         <source>Only on Stack</source>
-        <translation type="unfinished"></translation>
+        <translation>只有在堆栈</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Everywhere</source>
-        <translation type="unfinished"></translation>
+        <translation>随处可见</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Everywhere Except in File-backend Mappings</source>
-        <translation type="unfinished"></translation>
+        <translation>除了文件后端映射之外到处可用</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Profiling Options</source>
-        <translation type="unfinished"></translation>
+        <translation>分析选项</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Limits the amount of results the profiler gives you. A lower limit will likely increase performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>限制分析器输出结果的数量。较低的限制有可能提高性能。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Result view: Minimum event cost:</source>
-        <translation type="unfinished"></translation>
+        <translation>结果视图：最小事件花费：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <location line="+36"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="-35"/>
         <source>Show additional information for events in tooltips</source>
-        <translation type="unfinished"></translation>
+        <translation>在工具提示中显示事件的额外信息</translation>
     </message>
     <message>
         <location/>
@@ -31834,13 +31834,23 @@ With cache simulation, further event counters are enabled:
 &lt;/p&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行全缓存模拟。&lt;/p&gt;
+&lt;p&gt;默认情况下, 只有读取访问指令被计算在内 (&quot;Ir&quot;)。&lt;/p&gt;
+&lt;p&gt;
+缓存模拟情况下，更多事件计数器被启用：
+&lt;ul&gt;&lt;li&gt;缓存未命中的读取指令(&quot;I1mr&quot;/&quot;I2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据读取访问(&quot;Dr&quot;) 和相关的缓存未命中(&quot;D1mr&quot;/&quot;D2mr&quot;)&lt;/li&gt;
+&lt;li&gt;数据写入指令 (&quot;Dw&quot;) 和相关的缓存未命中 (&quot;D1mw&quot;/&quot;D2mw&quot;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+12"/>
         <source>Enable cache simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>开启缓存模拟</translation>
     </message>
     <message>
         <location/>
@@ -31852,97 +31862,103 @@ With cache simulation, further event counters are enabled:
 &quot;Bc&quot;/&quot;Bcm&quot;).&lt;/li&gt;
 &lt;li&gt;Executed indirect jumps and related misses of the jump address predictor (
 &quot;Bi&quot;/&quot;Bim&quot;).&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;进行分支预测模拟。&lt;/p&gt;
+&lt;p&gt;更多事件计数器将被启用: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;多个执行的条件分支和相关的预测未命中(
+&quot;Bc&quot;/&quot;Bcm&quot;)&lt;/li&gt;
+&lt;li&gt;执行的间接跳转和相关的跳转地址预测未命中(
+&quot;Bi&quot;/&quot;Bim&quot;)&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+8"/>
         <source>Enable branch prediction simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>开启分支预测模拟</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Collects information for system call times.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集系统调用时间的信息。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Collect system call time</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集系统调用时间</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Collect the number of global bus events that are executed. The event type &quot;Ge&quot; is used for these events.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集执行的全局总线事件的数量.事件类型&quot;Ge&quot;被用于此类事件。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Collect global bus events</source>
-        <translation type="unfinished"></translation>
+        <translation>搜集全局总线事件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Visualization: Minimum event cost:</source>
-        <translation type="unfinished"></translation>
+        <translation>可视化：最小事件花费：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+4"/>
         <source>Track origins of uninitialized memory</source>
-        <translation type="unfinished"></translation>
+        <translation>跟踪未初始化的内存的出处</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Show reachable and indirectly lost blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>显示可及和间接损失的区块</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Check for leaks on finish:</source>
-        <translation type="unfinished"></translation>
+        <translation>结束时检查内存泄漏：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+4"/>
         <source>Summary Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅汇总</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Full</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+2"/>
         <source>Backtrace frame count:</source>
-        <translation type="unfinished"></translation>
+        <translation>回溯帧数：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Suppression files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/valgrind/ui_valgrindconfigwidget.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -32004,7 +32020,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+141"/>
         <source>%1 in function %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1在函数%2中</translation>
     </message>
 </context>
 <context>
@@ -32211,57 +32227,59 @@ With cache simulation, further event counters are enabled:
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+1"/>
         <source> characters</source>
-        <translation type="unfinished"></translation>
+        <translation>字符</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>An executable which is called with the submit message in a temporary file as first argument. It should return with an exit != 0 and a message on standard error to indicate failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个可执行档，以保存在临时文件中的提交信息为首参数进行调用。当提交失败时应以非零值退出并在标准错误中输出信息。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>Submit message &amp;check script:</source>
-        <translation type="unfinished"></translation>
+        <translation>提交信息检查脚本(&amp;C)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>A file listing nicknames in a 4-column mailmap format:
 &apos;name &lt;email&gt; alias &lt;email&gt;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个列出用户名和电子邮件地址的文件，使用四列的邮件映射格式：
+名字&lt;电子邮件&gt;别名&lt;email&gt;。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+3"/>
         <source>User/&amp;alias configuration file:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户/别名配置文件(&amp;A)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>A simple file containing lines with field names like &quot;Reviewed-By:&quot; which will be added below the submit editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个包含了如“Reviewed-By:”等字段名的简单文件，其内容会被添加在提交编辑器的下面。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>User &amp;fields configuration file:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户字段配置文件(&amp;F)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+2"/>
         <source>Specifies a command that is executed to graphically prompt for a password,
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
-        <translation type="unfinished"></translation>
+        <translation>指定一条执行图形化提示密码的命令，
+会在代码仓库要求 SSH 身份验证的时候用到。（查看 SSH 和环境变量 SSH_ASKPASS 的相关文档）。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+3"/>
         <source>&amp;SSH prompt command:</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH提示命令(&amp;S)：</translation>
     </message>
 </context>
 <context>
@@ -32631,7 +32649,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textinput.qml" line="+31"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -32639,7 +32657,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textinputv2.qml" line="+31"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -32647,7 +32665,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textv2.qml" line="+29"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -32719,31 +32737,31 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location/>
         <location filename="../../../src/libs/utils/ui_proxycredentialsdialog.h" line="+1"/>
         <source>The proxy %1 requires a username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>代理服务器%1需要输入用户名和密码。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Username:</source>
-        <translation type="unfinished">用户名：</translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/utils/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
 </context>
 <context>
@@ -35636,30 +35654,30 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/todo/todoprojectsettingswidget.ui"/>
         <location filename="../../../src/plugins/todo/ui_todoprojectsettingswidget.h" line="+88"/>
         <source>Excluded Files</source>
-        <translation type="unfinished"></translation>
+        <translation>排除的文件</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/todo/todoplugin.cpp" line="+78"/>
         <source>To-Do Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>To-Do设置</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/todo/todoprojectsettingswidget.ui"/>
         <location filename="../../../src/plugins/todo/ui_todoprojectsettingswidget.h" line="+2"/>
         <source>Regular expressions for file paths to be excluded from scanning.</source>
-        <translation type="unfinished"></translation>
+        <translation>排除扫描的使用正则表达式表达的文件路径。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_todoprojectsettingswidget.h" line="+2"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/todo/ui_todoprojectsettingswidget.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -35674,43 +35692,43 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Automatic Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检查更新</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Check interval basis:</source>
-        <translation type="unfinished"></translation>
+        <translation>定期检查更新：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Qt Creator automatically runs a scheduled check for updates on a time interval basis. If Qt Creator is not in use on the scheduled date, the automatic check for updates will be performed next time Qt Creator starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator自动定期检查更新。如果没有在默认定期使用Qt Creator，自动更新检查将会在您下一次打开Qt Creator的时候进行。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Next check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>下次检查跟新：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+2"/>
         <source>Last check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>上次检查更新：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Not checked yet</source>
-        <translation type="unfinished">现未检查更新</translation>
+        <translation>现未检查更新</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/updateinfo/ui_settingspage.h" line="+1"/>
         <source>Check Now</source>
-        <translation type="unfinished"></translation>
+        <translation>现在检查更新</translation>
     </message>
 </context>
 <context>
@@ -35749,19 +35767,19 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/vcsbase/submiteditorwidget.ui"/>
         <location filename="../../../src/plugins/vcsbase/ui_submiteditorwidget.h" line="+1"/>
         <source>Descriptio&amp;n</source>
-        <translation type="unfinished"></translation>
+        <translation>说明(&amp;N)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_submiteditorwidget.h" line="+1"/>
         <source>F&amp;iles</source>
-        <translation type="unfinished"></translation>
+        <translation>文件(&amp;II)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_submiteditorwidget.h" line="+1"/>
         <source>Select a&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>全选(&amp;L)</translation>
     </message>
 </context>
 <context>
@@ -36180,52 +36198,52 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/TextInputSection.qml" line="+34"/>
         <source>Text Input</source>
-        <translation type="unfinished">输入文本</translation>
+        <translation>输入文本</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Input mask</source>
-        <translation type="unfinished">输入掩码</translation>
+        <translation>输入掩码</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Echo mode</source>
-        <translation type="unfinished">回显模式</translation>
+        <translation>回显模式</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pass. char</source>
-        <translation type="unfinished">密码字符</translation>
+        <translation>密码字符</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Character displayed when users enter passwords.</source>
-        <translation type="unfinished">输入密码时显示明文.</translation>
+        <translation>输入密码时显示明文.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Flags</source>
-        <translation type="unfinished">标志</translation>
+        <translation>标志</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Read only</source>
-        <translation type="unfinished">只读</translation>
+        <translation>只读</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Cursor visible</source>
-        <translation type="unfinished">光标可见</translation>
+        <translation>光标可见</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Active focus on press</source>
-        <translation type="unfinished">点击后设置焦点</translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Auto scroll</source>
-        <translation type="unfinished">自动滚动</translation>
+        <translation>自动滚动</translation>
     </message>
 </context>
 <context>
@@ -36234,13 +36252,13 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/TextInputSpecifics.qml" line="+42"/>
         <location line="+3"/>
         <source>Text Color</source>
-        <translation type="unfinished">文字颜色</translation>
+        <translation>文字颜色</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+3"/>
         <source>Selection Color</source>
-        <translation type="unfinished">选择颜色</translation>
+        <translation>选择范围的颜色</translation>
     </message>
 </context>
 <context>
@@ -36249,13 +36267,13 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/TextSpecifics.qml" line="+44"/>
         <location line="+3"/>
         <source>Text Color</source>
-        <translation type="unfinished">文字颜色</translation>
+        <translation>文字颜色</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+3"/>
         <source>Style Color</source>
-        <translation type="unfinished"></translation>
+        <translation>风格颜色</translation>
     </message>
 </context>
 <context>
@@ -40990,33 +41008,33 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppinsertvirtualmethods.cpp" line="+534"/>
         <source>Insert Virtual Functions of Base Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>在基类中插入虚函数</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppquickfixes.cpp" line="+1387"/>
         <source>Move Definition Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>将定义移动到类的外面</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+182"/>
         <source>Move Definition to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>将定义移动到%1</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>Move All Function Definitions Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>将所有函数的定义移动到类的外面</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Move All Function Definitions to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>将所有函数定义移动到%1</translation>
     </message>
     <message>
         <location line="+85"/>
         <source>Move Definition to Class</source>
-        <translation type="unfinished"></translation>
+        <translation>将定义移动到类</translation>
     </message>
 </context>
 <context>
@@ -41039,48 +41057,48 @@ Do you want to kill it?</source>
     <message>
         <location line="+7"/>
         <source>&amp;Hide reimplemented functions</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏重新实现的函数(&amp;H)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Insertion options:</source>
-        <translation type="unfinished"></translation>
+        <translation>插入选项(&amp;I)：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert only declarations</source>
-        <translation type="unfinished"></translation>
+        <translation>只插入声明</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insert definitions inside class</source>
-        <translation type="unfinished"></translation>
+        <translation>在类中插入定义</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insert definitions outside class</source>
-        <translation type="unfinished"></translation>
+        <translation>在类外插入定义</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+83"/>
         <source>Insert definitions in implementation file</source>
-        <translation type="unfinished"></translation>
+        <translation>在实现文件中插入定义</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Add &quot;&amp;virtual&quot; to function declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>在声明中插入virtual关键字(&amp;V)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add &quot;override&quot; equivalent to function declaration:</source>
-        <translation type="unfinished"></translation>
+        <translation>在函数声明中插入override等同的关键字：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Clear Added &quot;override&quot; Equivalents</source>
-        <translation type="unfinished"></translation>
+        <translation>清除添加的override等同的关键字</translation>
     </message>
 </context>
 <context>
@@ -47071,7 +47089,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/texttool/texttool.cpp" line="+54"/>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文本</translation>
     </message>
 </context>
 <context>
@@ -47079,7 +47097,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+202"/>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>文本工具</translation>
     </message>
 </context>
 <context>
@@ -48810,12 +48828,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+9"/>
         <source>The current version control topic (branch or tag) identification of the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前版本控制主题（分支或标签）标识当前的工程。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The top level path to the repository the current project is in.</source>
-        <translation type="unfinished">当前项目中的存储库的顶层路径是。</translation>
+        <translation>当前项目中的存储库的顶层路径是。</translation>
     </message>
 </context>
 <context>
@@ -48823,7 +48841,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/vcsbase/wizard/vcscommandpage.cpp" line="+149"/>
         <source>&quot;data&quot; is no JSON object in &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”不是一个JSON对象。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -48832,32 +48850,32 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+5"/>
         <location line="+6"/>
         <source>&quot;%1&quot; not set in &quot;data&quot; section of &quot;VcsCommand&quot; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”未设置。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset, String or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置，字符串或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset or List).</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置或列表）。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Job in &quot;VcsCommand&quot; page is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job是空的。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Job in &quot;VcsCommand&quot; page is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job不是一个对象。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Job in &quot;VcsCommand&quot; page has no &quot;%1&quot; set.</source>
-        <translation type="unfinished"></translation>
+        <translation>“VcsCommand”页面中的Job没有“%1”集合。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -48899,7 +48917,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdebugsupport.cpp" line="+75"/>
         <source>Not enough free ports for QML debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有足够的空闲端口为QML调试使用。</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -48932,7 +48950,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtdeployconfiguration.cpp" line="+55"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -49018,7 +49036,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstep.cpp" line="+60"/>
         <source>Run windeployqt</source>
-        <translation type="unfinished"></translation>
+        <translation>运行windeployqt</translation>
     </message>
     <message>
         <location line="+21"/>

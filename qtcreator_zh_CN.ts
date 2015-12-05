@@ -49122,7 +49122,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+85"/>
         <source>Error while executing the WinRT Runner Tool: %1
 </source>
-        <translation>运行WinRT工具发生错误:%1</translation>
+        <translation>运行WinRT工具发生错误：%1</translation>
     </message>
 </context>
 <context>

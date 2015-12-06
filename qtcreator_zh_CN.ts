@@ -11960,7 +11960,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+1"/>
         <source>Open in New Window</source>
-        <translation type="unfinished">在新的窗口中打开</translation>
+        <translation>在新的窗口中打开</translation>
     </message>
     <message>
         <location line="+271"/>
@@ -12604,7 +12604,7 @@ will also disable the following plugins:
     <message>
         <location filename="../../../src/plugins/genericprojectmanager/filesselectionwizardpage.cpp" line="+61"/>
         <source>Files</source>
-        <translation type="unfinished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Hide files matching:</source>
@@ -28074,7 +28074,7 @@ with a password, which you can enter below.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/findinfiles.cpp" line="+74"/>
         <source>Files in File System</source>
-        <translation type="unfinished">文件系统中的文件</translation>
+        <translation>文件系统中的文件</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -28227,13 +28227,13 @@ Filter: %2
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable automatic &amp;indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动缩进(&amp;i)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Backspace indentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>退格缩进:</translation>
     </message>
     <message>
         <location/>
@@ -28252,121 +28252,133 @@ Specifies how backspace interacts with indentation.
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+指定退格缩进的方式。
+
+&lt;ul&gt;
+&lt;li&gt;没有:没有互动。常规普通退格行为.
+&lt;/li&gt;
+
+&lt;li&gt;遵循之前的缩进: In leading white space it will take the cursor back to the nearest indentation level used in previous lines.
+&lt;/li&gt;
+
+&lt;li&gt;Unindents: If the character behind the cursor is a space it behaves as a backtab.
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="-5"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Follows Previous Indents</source>
-        <translation type="unfinished"></translation>
+        <translation>跟随之前的缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Unindents</source>
-        <translation type="unfinished"></translation>
+        <translation>反缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+18"/>
         <source>Tab key performs auto-indent:</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符(Tab键)提供自动缩进:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+3"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>从不</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Always</source>
-        <translation type="unfinished">总是</translation>
+        <translation>总是</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>In Leading White Space</source>
-        <translation type="unfinished"></translation>
+        <translation>用于行首空白</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+3"/>
         <source>Cleanup actions which are automatically performed right before the file is saved to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存到磁盘后自动执行的清理动作。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Cleanups Upon Saving</source>
-        <translation type="unfinished"></translation>
+        <translation>保存时清理</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Removes trailing whitespace upon saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存时去除尾部空白。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>&amp;Clean whitespace</source>
-        <translation type="unfinished"></translation>
+        <translation>清除空白(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Cleans whitespace in entire document instead of only for changed parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>清除整个文档中的空白，而不是选定部分。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>In entire &amp;document</source>
-        <translation type="unfinished"></translation>
+        <translation>用于整个文档(&amp;D)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Corrects leading whitespace according to tab settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>按选项设置更改空白字符。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Clean indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>清除缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Always writes a newline character at the end of the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在文件末尾添加一个换行符。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>&amp;Ensure newline at end of file</source>
-        <translation type="unfinished"></translation>
+        <translation>确保文件结尾有新的一行(&amp;E)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>File Encodings</source>
-        <translation type="unfinished"></translation>
+        <translation>文件编码</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Default encoding: </source>
-        <translation type="unfinished"></translation>
+        <translation>默认编码：</translation>
     </message>
     <message>
         <location/>
@@ -28384,85 +28396,85 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="-5"/>
         <source>Add If Encoding Is UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>如果编码是UTF-8则添加</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Keep If Already Present</source>
-        <translation type="unfinished"></translation>
+        <translation>目前存在了则保留</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Always Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>总是删除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+11"/>
         <source>UTF-8 BOM:</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8 BOM:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Mouse and Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘和鼠标</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Hide mouse cursor while typing</source>
-        <translation type="unfinished"></translation>
+        <translation>在输入时隐藏光标</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable &amp;mouse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>开启鼠标导航(&amp;m)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable scroll &amp;wheel zooming</source>
-        <translation type="unfinished"></translation>
+        <translation>开启鼠标滚轮缩放(&amp;w)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable built-in camel case &amp;navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>开启内建的驼峰大小写导航(&amp;n)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Pressing Alt displays context-sensitive help or type information as tooltips.</source>
-        <translation type="unfinished"></translation>
+        <translation>按下Alt显示上下文相关的帮助或类型信息提示。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+2"/>
         <source>Show help tooltips using keyboard shortcut (Alt)</source>
-        <translation type="unfinished"></translation>
+        <translation>使用键盘快捷键显示帮助提示(Alt)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Show help tooltips using the mouse:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示使用鼠标的帮助提示：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+3"/>
         <source>On Mouseover</source>
-        <translation type="unfinished"></translation>
+        <translation>在鼠标悬停时</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>On Shift+Mouseover</source>
-        <translation type="unfinished"></translation>
+        <translation>在Shift+鼠标悬停时</translation>
     </message>
 </context>
 <context>
@@ -28505,37 +28517,37 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Current settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前设置：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>复制...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Edit...</source>
-        <translation type="unfinished">编辑...</translation>
+        <translation>编辑...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Export...</source>
-        <translation type="unfinished">导出...</translation>
+        <translation>导出...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_codestyleselectorwidget.h" line="+1"/>
         <source>Import...</source>
-        <translation type="unfinished">导入...</translation>
+        <translation>导入...</translation>
     </message>
 </context>
 <context>
@@ -28621,13 +28633,13 @@ Specifies how backspace interacts with indentation.
         <location filename="../../../src/plugins/texteditor/colorschemeedit.ui"/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="-12"/>
         <source>Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>前景颜色：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="+3"/>
         <source>Erase foreground.</source>
-        <translation type="unfinished"></translation>
+        <translation>擦除前景。</translation>
     </message>
     <message>
         <location/>
@@ -28635,32 +28647,32 @@ Specifies how backspace interacts with indentation.
         <location line="+6"/>
         <location line="+8"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="-13"/>
         <source>Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>背景颜色：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="+3"/>
         <location line="+8"/>
         <source>Erase background.</source>
-        <translation type="unfinished"></translation>
+        <translation>擦除背景。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="-4"/>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_colorschemeedit.h" line="+1"/>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线：</translation>
     </message>
 </context>
 <context>
@@ -28683,103 +28695,103 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Enable text &amp;wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>开启文字折行(&amp;w)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display right &amp;margin at column:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示右边空白(&amp;m)在列：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display</source>
-        <translation type="unfinished">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display &amp;folding markers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示折行标记(&amp;f)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Center &amp;cursor on scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>滚动时居中光标(&amp;c)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight &amp;blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮显示段落(&amp;b)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Auto-fold first &amp;comment</source>
-        <translation type="unfinished"></translation>
+        <translation>自动折叠开头的注释(&amp;c)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>&amp;Animate matching parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>动画显示对应的括号(&amp;A)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight current &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮显示当前行(&amp;l)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display line &amp;numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示行号(&amp;n)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Always open links in another split</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在另一个分隔窗口中打开链接</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display file encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文件编码</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+2"/>
         <source>Shows tabs and spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示制表符和空格。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+2"/>
         <source>&amp;Visualize whitespace</source>
-        <translation type="unfinished"></translation>
+        <translation>标示空白(&amp;V)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>&amp;Highlight matching parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮显示匹配的括号(&amp;H)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Mark &amp;text changes</source>
-        <translation type="unfinished"></translation>
+        <translation>标记文本改变(&amp;t)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight search results on the scrollbar</source>
-        <translation type="unfinished"></translation>
+        <translation>在滚动条上高亮显示搜索结果</translation>
     </message>
 </context>
 <context>
@@ -28842,49 +28854,49 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="-2"/>
         <source>Font</source>
-        <translation type="unfinished">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Antialias</source>
-        <translation type="unfinished"></translation>
+        <translation>抗锯齿</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+2"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>字号：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>配色方案</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>复制...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+1"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -28900,37 +28912,38 @@ Specifies how backspace interacts with indentation.
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;p&gt;Highlight definitions are provided by the &lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate Text Editor&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;高亮定义由&lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate文本编辑器提供&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+2"/>
         <source>Syntax Highlight Definition Files</source>
-        <translation type="unfinished"></translation>
+        <translation>语法高亮定义文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>Location:</source>
-        <translation type="unfinished">位置:</translation>
+        <translation>路径:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>Use fallback location</source>
-        <translation type="unfinished"></translation>
+        <translation>使用备用路径</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>Behavior</source>
-        <translation type="unfinished">行为</translation>
+        <translation>行为</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>Ignored file patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略的文件模式：</translation>
     </message>
 </context>
 <context>
@@ -28998,31 +29011,31 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_managedefinitionsdialog.h" line="+1"/>
         <source>Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>定义</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_managedefinitionsdialog.h" line="+1"/>
         <source>Select All</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_managedefinitionsdialog.h" line="+1"/>
         <source>Clear Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>清空选择</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_managedefinitionsdialog.h" line="+1"/>
         <source>Invert Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>反选</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_managedefinitionsdialog.h" line="+1"/>
         <source>Download Selected Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>下载选中的定义</translation>
     </message>
 </context>
 <context>
@@ -29079,37 +29092,37 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Revert Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复内置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Restore Removed Built-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复删除的内置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Reset All</source>
-        <translation type="unfinished">重置所有</translation>
+        <translation>重置所有</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_snippetssettingspage.h" line="+1"/>
         <source>Group: </source>
-        <translation type="unfinished"></translation>
+        <translation>群组：</translation>
     </message>
 </context>
 <context>
@@ -29176,37 +29189,37 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>Tabs And Indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符和缩进</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+3"/>
         <source>Spaces Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅空格</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>Tabs Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅制表符</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>Mixed</source>
-        <translation type="unfinished">混合</translation>
+        <translation>混合</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>Ta&amp;b size:</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符尺寸(&amp;b):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>&amp;Indent size:</source>
-        <translation type="unfinished"></translation>
+        <translation>缩进尺寸(&amp;i):</translation>
     </message>
     <message>
         <location/>
@@ -29236,49 +29249,73 @@ Influences the indentation of continuation lines.
 &lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+改变连续行的缩进。
+
+&lt;ul&gt;
+&lt;li&gt;不对齐:不进行对齐.代码行只根据当前逻辑深度进行缩进。
+&lt;pre&gt;
+(tab)int i = foo(a, b
+(tab)c, d);
+&lt;/pre&gt;
+&lt;/li&gt;
+
+&lt;li&gt;用空格对齐:总是使用空格进行对齐,忽略其他缩进设置。
+&lt;pre&gt;
+(tab)int i = foo(a, b
+(tab)            c, d);
+&lt;/pre&gt;
+&lt;/li&gt;
+
+&lt;li&gt;用一般的缩进对齐: 根据上面的设置使用制表符或者空格进行对齐。
+&lt;pre&gt;
+(tab)int i = foo(a, b
+(tab)(tab)(tab)  c, d);
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="-5"/>
         <source>Not At All</source>
-        <translation type="unfinished"></translation>
+        <translation>不对齐</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>With Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>用空格对齐</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>With Regular Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>用一般的缩进对齐</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+29"/>
         <source>Tab policy:</source>
-        <translation type="unfinished"></translation>
+        <translation>制表符策略：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>Align continuation lines:</source>
-        <translation type="unfinished"></translation>
+        <translation>对齐连续的行：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>The text editor indentation setting is used for non-code files only. See the C++ and Qt Quick coding style settings to configure indentation for code files.</source>
-        <translation type="unfinished"></translation>
+        <translation>文本编辑器缩进设置仅用于非代码文件。请参阅C++和Qt Quick的编码风格来设置缩进代码文件。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>&lt;i&gt;Code indentation is configured in &lt;a href=&quot;C++&quot;&gt;C++&lt;/a&gt; and &lt;a href=&quot;QtQuick&quot;&gt;Qt Quick&lt;/a&gt; settings.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;缩进&lt;a href=&quot;C++&quot;&gt;C++&lt;/a&gt;和&lt;a href=&quot;QtQuick&quot;&gt;Qt Quick&lt;/a&gt;代码的设置。&lt;/i&gt;</translation>
     </message>
 </context>
 <context>
@@ -32625,7 +32662,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/text.qml" line="+29"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
 </context>
 <context>
@@ -32633,7 +32670,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/textedit.qml" line="+31"/>
         <source>Text Edit</source>
-        <translation type="unfinished">编辑文本</translation>
+        <translation>编辑文本</translation>
     </message>
 </context>
 <context>
@@ -32641,7 +32678,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="../../../src/plugins/qmldesigner/qtquickplugin/source/texteditv2.qml" line="+31"/>
         <source>Text Edit</source>
-        <translation type="unfinished">编辑文本</translation>
+        <translation>编辑文本</translation>
     </message>
 </context>
 <context>
@@ -33877,43 +33914,43 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+5"/>
         <source>Pre-compiled Headers</source>
-        <translation type="unfinished"></translation>
+        <translation>预编译头文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When pre-compiled headers are not ignored, the parsing for code completion and semantic highlighting will process the pre-compiled header before processing any file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当预编译头文件不被忽略时,解析完成代码和语义高亮处理将在处理预编译头文件之前处理任何文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+2"/>
         <source>Ignore pre-compiled headers</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略预编译头文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="-8"/>
         <source>&lt;i&gt;Activate the Clang Code Model plugin to enable the options here.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;在这里启用Clang的代码模型插件。&lt;/i&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Use Clang Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Clang代码模型</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Append additional command line options to Clang, one per line. &lt;i&gt;Use this with care.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>附加额外的Clang命令行选项，一行一个。 &lt;i&gt;请谨慎使用&lt;/i&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Reset Options</source>
-        <translation type="unfinished"></translation>
+        <translation>重置选项</translation>
     </message>
 </context>
 <context>
@@ -35106,42 +35143,42 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/TabViewSpecifics.qml" line="+38"/>
         <source>Tab View</source>
-        <translation type="unfinished"></translation>
+        <translation>标签视图</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Current index</source>
-        <translation type="unfinished"></translation>
+        <translation>当前索引</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Frame visible</source>
-        <translation type="unfinished"></translation>
+        <translation>框架可见</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines the visibility of the tab frame around contents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确定围绕内容的标签框的可见性。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Tabs visible</source>
-        <translation type="unfinished"></translation>
+        <translation>标签可见</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines the visibility of the tab bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定标签栏的可见性。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Tab position</source>
-        <translation type="unfinished"></translation>
+        <translation>标签位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines the position of the tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定标签的位置。</translation>
     </message>
 </context>
 <context>
@@ -35150,42 +35187,42 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/TextAreaSpecifics.qml" line="+38"/>
         <location line="+4"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Text Area</source>
-        <translation type="unfinished"></translation>
+        <translation>文本区域</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Text shown on the text area.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文本区域显示文本。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Read only</source>
-        <translation type="unfinished">只读</translation>
+        <translation>只读</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the text area is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定文本区域是否是只读的。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Document margins</source>
-        <translation type="unfinished"></translation>
+        <translation>文档页边距</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Margins of the text area.</source>
-        <translation type="unfinished"></translation>
+        <translation>文本区域的边缘。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -35210,12 +35247,12 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+26"/>
         <source>Focus Handling</source>
-        <translation type="unfinished"></translation>
+        <translation>焦点处理</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Highlight on focus</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮焦点</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -35225,7 +35262,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+15"/>
         <source>Tab changes focus</source>
-        <translation type="unfinished"></translation>
+        <translation>标签更改焦点</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -35235,7 +35272,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+15"/>
         <source>Focus on press</source>
-        <translation type="unfinished">点击后设置焦点</translation>
+        <translation>点击后设置焦点</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -35248,57 +35285,57 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/TextFieldSpecifics.qml" line="+37"/>
         <source>Text Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文本域 </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Text shown on the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在文本框中显示文本。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Placeholder text</source>
-        <translation type="unfinished"></translation>
+        <translation>占位文本</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Placeholder text.</source>
-        <translation type="unfinished"></translation>
+        <translation>占位文本。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Read only</source>
-        <translation type="unfinished">只读</translation>
+        <translation>只读</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Determines whether the text field is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定是否为只读文本框。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Input mask</source>
-        <translation type="unfinished">输入掩码</translation>
+        <translation>输入掩码</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Restricts the valid text in the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文本框中限制文本。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Echo mode</source>
-        <translation type="unfinished">回显模式</translation>
+        <translation>回显模式</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specifies how the text is displayed in the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定如何显示在文本框中的文本。</translation>
     </message>
 </context>
 <context>
@@ -41147,12 +41184,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/abstracteditorsupport.cpp" line="+62"/>
         <source>The file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The class name.</source>
-        <translation type="unfinished"></translation>
+        <translation>类名。</translation>
     </message>
 </context>
 <context>
@@ -41160,7 +41197,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/builtinindexingsupport.cpp" line="+377"/>
         <source>Parsing C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>解析 C/C++ 文件</translation>
     </message>
 </context>
 <context>
@@ -41202,7 +41239,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppeditoroutline.cpp" line="+123"/>
         <source>Sort Alphabetically</source>
-        <translation type="unfinished">按字母排序</translation>
+        <translation>按字母排序</translation>
     </message>
 </context>
 <context>
@@ -41210,7 +41247,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppincludesfilter.cpp" line="+139"/>
         <source>All Included C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有包含的C/C++文件</translation>
     </message>
 </context>
 <context>
@@ -41226,12 +41263,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppsourceprocessor.cpp" line="+93"/>
         <source>%1: No such file or directory</source>
-        <translation type="unfinished">%1: 没有文件或者目录</translation>
+        <translation>%1: 没有文件或者目录</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: Could not get file contents</source>
-        <translation type="unfinished"></translation>
+        <translation>%1：无法获取文件内容</translation>
     </message>
 </context>
 <context>
@@ -42964,7 +43001,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/emacskeys/emacskeysplugin.cpp" line="+95"/>
         <source>Delete Character</source>
-        <translation type="unfinished"></translation>
+        <translation>删除字符 </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -42979,12 +43016,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Insert New Line and Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>插入新行并缩进</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Go to File Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转到文件首</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -43034,7 +43071,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+3"/>
         <source>Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -43044,12 +43081,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Copy</source>
-        <translation type="unfinished">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cut</source>
-        <translation type="unfinished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -43098,7 +43135,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/fakevim/fakevimhandler.cpp" line="+946"/>
         <source>Mark &quot;%1&quot; not set.</source>
-        <translation type="unfinished">没有设置书签“%1”。</translation>
+        <translation>没有设置书签“%1”。</translation>
     </message>
     <message>
         <location line="+1854"/>
@@ -46722,12 +46759,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/addtabdesigneraction.cpp" line="+58"/>
         <source>Add Tab...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加标签...</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/entertabdesigneraction.cpp" line="+55"/>
         <source>Step into Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">单步进入标签</translation>
     </message>
 </context>
 <context>
@@ -47871,17 +47908,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/tasklist/tasklistplugin.cpp" line="+115"/>
         <source>Cannot open task file %1: %2</source>
-        <translation type="unfinished">文法打开任务文件%1:%2</translation>
+        <translation>无法打开任务文件%1:%2</translation>
     </message>
     <message>
         <location line="+66"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>My Tasks</source>
-        <translation type="unfinished">我的任务</translation>
+        <translation>我的任务</translation>
     </message>
 </context>
 <context>
@@ -47889,12 +47926,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/behaviorsettingswidget.cpp" line="+190"/>
         <source>Displays context-sensitive help or type information on mouseover.</source>
-        <translation type="unfinished"></translation>
+        <translation>鼠标悬停时显示上下文相关帮助或类型信息。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Displays context-sensitive help or type information on Shift+Mouseover.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+鼠标悬停时显示上下文相关的帮助或类型信息。</translation>
     </message>
 </context>
 <context>
@@ -47939,27 +47976,27 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/manager.cpp" line="+223"/>
         <source>Downloading Highlighting Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>下载高亮定义</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Error downloading selected definition(s).</source>
-        <translation type="unfinished">下载选中定义时出错。</translation>
+        <translation>下载选中定义时出错。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error downloading one or more definitions.</source>
-        <translation type="unfinished">下载一个或多个定义时出错。</translation>
+        <translation>下载一个或多个定义时出错。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Please check the directory&apos;s access rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>请检查目录的访问权限。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Download Error</source>
-        <translation type="unfinished">下载错误</translation>
+        <translation>下载错误</translation>
     </message>
 </context>
 <context>
@@ -47975,7 +48012,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/textdocument.cpp" line="+636"/>
         <source>Opening File</source>
-        <translation type="unfinished">打开文件</translation>
+        <translation>打开文件</translation>
     </message>
 </context>
 <context>
@@ -47983,17 +48020,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/texteditor.cpp" line="+139"/>
         <source>CTRL+D</source>
-        <translation type="unfinished">CTRL+D</translation>
+        <translation>CTRL+D</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Print Document</source>
-        <translation type="unfinished">打印文档</translation>
+        <translation>打印文档</translation>
     </message>
     <message>
         <location line="+213"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -48003,27 +48040,27 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+29"/>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding. Editing not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;错误:&lt;/b&gt;无法解码“%1”与“%2”编码。不能编辑。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select Encoding</source>
-        <translation type="unfinished">选择编码</translation>
+        <translation>选择编码</translation>
     </message>
     <message>
         <location line="+5898"/>
         <source>Delete UTF-8 BOM on Save</source>
-        <translation type="unfinished">保存时删除UTF-8 BOM</translation>
+        <translation>保存时删除UTF-8 BOM</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add UTF-8 BOM on Save</source>
-        <translation type="unfinished">保存时添加UTF-8 BOM</translation>
+        <translation>保存时添加UTF-8 BOM</translation>
     </message>
     <message>
         <location line="+155"/>
         <source>Line: %1, Col: %2</source>
-        <translation type="unfinished">行号: %1, 列号: %2</translation>
+        <translation>行号: %1, 列号: %2</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -48036,174 +48073,174 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/texteditoractionhandler.cpp" line="-15"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished">重做(&amp;R)</translation>
+        <translation>重做(&amp;R)</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Delete &amp;Line</source>
-        <translation type="unfinished">删除行(&amp;L)</translation>
+        <translation>删除行(&amp;L)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Word from Cursor On</source>
-        <translation type="unfinished">从光标处删除文字</translation>
+        <translation>从光标处删除文字</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Word Camel Case from Cursor On</source>
-        <translation type="unfinished">从光标处删除驼峰式文字</translation>
+        <translation>从光标处删除驼峰式文字</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Word up to Cursor</source>
-        <translation type="unfinished">从光标上方处删除文字</translation>
+        <translation>从光标上方处删除文字</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete Word Camel Case up to Cursor</source>
-        <translation type="unfinished">从光标上方处删除驼峰式文字</translation>
+        <translation>从光标上方处删除驼峰式文字</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Block Start with Selection</source>
-        <translation type="unfinished">选中到段落开头</translation>
+        <translation>选中到段落开头</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+{</source>
-        <translation type="unfinished">Ctrl+{</translation>
+        <translation>Ctrl+{</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Block End with Selection</source>
-        <translation type="unfinished">选中到段落末尾</translation>
+        <translation>选中到段落末尾</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+}</source>
-        <translation type="unfinished">Ctrl+}</translation>
+        <translation>Ctrl+}</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move Line Up</source>
-        <translation type="unfinished">上移一行</translation>
+        <translation>上移一行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+Up</source>
-        <translation type="unfinished">Ctrl+Shift+Up</translation>
+        <translation>Ctrl+Shift+Up</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move Line Down</source>
-        <translation type="unfinished">下移一行</translation>
+        <translation>下移一行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+Down</source>
-        <translation type="unfinished">Ctrl+Shift+Down</translation>
+        <translation>Ctrl+Shift+Down</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy Line Up</source>
-        <translation type="unfinished">向上复制本行</translation>
+        <translation>向上复制本行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Alt+Up</source>
-        <translation type="unfinished">Ctrl+Alt+Up</translation>
+        <translation>Ctrl+Alt+Up</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy Line Down</source>
-        <translation type="unfinished">向下复制本行</translation>
+        <translation>向下复制本行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Alt+Down</source>
-        <translation type="unfinished">Ctrl+Alt+Down</translation>
+        <translation>Ctrl+Alt+Down</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Join Lines</source>
-        <translation type="unfinished">合并行</translation>
+        <translation>合并行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+J</source>
-        <translation type="unfinished">Ctrl+J</translation>
+        <translation>Ctrl+J</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Insert Line Above Current Line</source>
-        <translation type="unfinished">在当前行之前插入行</translation>
+        <translation>在当前行之前插入行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+Return</source>
-        <translation type="unfinished">Ctrl+Shift+Return</translation>
+        <translation>Ctrl+Shift+Return</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Insert Line Below Current Line</source>
-        <translation type="unfinished">在当前行之后插入行</translation>
+        <translation>在当前行之后插入行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Indent</source>
-        <translation type="unfinished">缩进</translation>
+        <translation>缩进</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unindent</source>
-        <translation type="unfinished">不缩进</translation>
+        <translation>不缩进</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Follow Symbol Under Cursor</source>
-        <translation type="unfinished">跟踪光标位置的符号</translation>
+        <translation>跟踪光标位置的符号</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Follow Symbol Under Cursor in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>在下一个分隔器中跟踪光标位置的符号</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+6"/>
         <source>Meta+E, F2</source>
-        <translation type="unfinished">Meta+E, F2</translation>
+        <translation>Meta+E, F2</translation>
     </message>
     <message>
         <location line="-6"/>
         <location line="+6"/>
         <source>Ctrl+E, F2</source>
-        <translation type="unfinished">Ctrl+E, F2</translation>
+        <translation>Ctrl+E, F2</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>Jump to File Under Cursor</source>
-        <translation type="unfinished">跳转到光标下的文件</translation>
+        <translation>跳转到光标下的文件</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Jump to File Under Cursor in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>在下一个分隔器中跳转到光标下的文件</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Move the View a Page Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移动视图页面,光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48243,332 +48280,332 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+5"/>
         <source>Select Encoding...</source>
-        <translation type="unfinished">选择编码...</translation>
+        <translation>选择编码...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Paste from Clipboard History</source>
-        <translation type="unfinished">从剪贴板历史中粘贴</translation>
+        <translation>从剪贴板历史中粘贴</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Shift+V</source>
-        <translation type="unfinished">Ctrl+Shift+V</translation>
+        <translation>Ctrl+Shift+V</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Auto-&amp;indent Selection</source>
-        <translation type="unfinished">选中的文字自动缩进(&amp;i)</translation>
+        <translation>选中的文字自动缩进(&amp;i)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished">Ctrl+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Rewrap Paragraph</source>
-        <translation type="unfinished">段落重新折行(&amp;R)</translation>
+        <translation>段落重新折行(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+E, R</source>
-        <translation type="unfinished">Meta+E, R</translation>
+        <translation>Meta+E, R</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E, R</source>
-        <translation type="unfinished">Ctrl+E, R</translation>
+        <translation>Ctrl+E, R</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Visualize Whitespace</source>
-        <translation type="unfinished">标示空白(&amp;V)</translation>
+        <translation>标示空白(&amp;V)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+E, Meta+V</source>
-        <translation type="unfinished">Meta+E, Meta+V</translation>
+        <translation>Meta+E, Meta+V</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E, Ctrl+V</source>
-        <translation type="unfinished">Ctrl+E, Ctrl+V</translation>
+        <translation>Ctrl+E, Ctrl+V</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Clean Whitespace</source>
-        <translation type="unfinished">清除空白</translation>
+        <translation>清除空白</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Enable Text &amp;Wrapping</source>
-        <translation type="unfinished">开启文字折行(&amp;W)</translation>
+        <translation>开启文字折行(&amp;W)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+E, Meta+W</source>
-        <translation type="unfinished">Meta+E, Meta+W</translation>
+        <translation>Meta+E, Meta+W</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E, Ctrl+W</source>
-        <translation type="unfinished">Ctrl+E, Ctrl+W</translation>
+        <translation>Ctrl+E, Ctrl+W</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Toggle Comment &amp;Selection</source>
-        <translation type="unfinished">选中区域注释/反注释(&amp;S)</translation>
+        <translation>选中区域注释/反注释(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+/</source>
-        <translation type="unfinished">Ctrl+/</translation>
+        <translation>Ctrl+/</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cut &amp;Line</source>
-        <translation type="unfinished">剪切行(&amp;L)</translation>
+        <translation>剪切行(&amp;L)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shift+Del</source>
-        <translation type="unfinished">Shift+Del</translation>
+        <translation>Shift+Del</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Copy &amp;Line</source>
-        <translation type="unfinished">复制行(&amp;L)</translation>
+        <translation>复制行(&amp;L)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Ins</source>
-        <translation type="unfinished">Ctrl+Ins</translation>
+        <translation>Ctrl+Ins</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Uppercase Selection</source>
-        <translation type="unfinished">大写选择</translation>
+        <translation>大写选择</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+Shift+U</source>
-        <translation type="unfinished">Meta+Shift+U</translation>
+        <translation>Meta+Shift+U</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+Shift+U</source>
-        <translation type="unfinished">Alt+Shift+U</translation>
+        <translation>Alt+Shift+U</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Lowercase Selection</source>
-        <translation type="unfinished">小写选择</translation>
+        <translation>小写选择</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+U</source>
-        <translation type="unfinished">Meta+U</translation>
+        <translation>Meta+U</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+U</source>
-        <translation type="unfinished">Alt+U</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Fold</source>
-        <translation type="unfinished">折叠</translation>
+        <translation>折叠</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+&lt;</source>
-        <translation type="unfinished">Ctrl+&lt;</translation>
+        <translation>Ctrl+&lt;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unfold</source>
-        <translation type="unfinished">展开</translation>
+        <translation>展开</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+&gt;</source>
-        <translation type="unfinished">Ctrl+&gt;</translation>
+        <translation>Ctrl+&gt;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Toggle &amp;Fold All</source>
-        <translation type="unfinished">选择 折叠/展开所有(&amp;F)</translation>
+        <translation>选择 折叠/展开所有(&amp;F)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Increase Font Size</source>
-        <translation type="unfinished">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl++</source>
-        <translation type="unfinished">Ctrl++</translation>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Decrease Font Size</source>
-        <translation type="unfinished">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished">Ctrl+-</translation>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset Font Size</source>
-        <translation type="unfinished">重置字号</translation>
+        <translation>重置字号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Meta+0</source>
-        <translation type="unfinished">Meta+0</translation>
+        <translation>Meta+0</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Go to Block Start</source>
-        <translation type="unfinished">移到段落开头</translation>
+        <translation>移到段落开头</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+[</source>
-        <translation type="unfinished">Ctrl+[</translation>
+        <translation>Ctrl+[</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Go to Block End</source>
-        <translation type="unfinished">移到段落结尾</translation>
+        <translation>移到段落结尾</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+]</source>
-        <translation type="unfinished">Ctrl+]</translation>
+        <translation>Ctrl+]</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select Block Up</source>
-        <translation type="unfinished">选择段落上移</translation>
+        <translation>选择段落上移</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+U</source>
-        <translation type="unfinished">Ctrl+U</translation>
+        <translation>Ctrl+U</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Select Block Down</source>
-        <translation type="unfinished">选择的段落下移</translation>
+        <translation>选择的段落下移</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Go to Line Start</source>
-        <translation type="unfinished">移到行首</translation>
+        <translation>移到行首</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Line End</source>
-        <translation type="unfinished">移到行尾</translation>
+        <translation>移到行尾</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Line</source>
-        <translation type="unfinished">移到下一行</translation>
+        <translation>移到下一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Line</source>
-        <translation type="unfinished">移到前一行</translation>
+        <translation>移到前一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Character</source>
-        <translation type="unfinished">移到上一字符</translation>
+        <translation>移到上一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Character</source>
-        <translation type="unfinished">移到下一字符</translation>
+        <translation>移到下一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Word</source>
-        <translation type="unfinished">移到上一单词</translation>
+        <translation>移到上一单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Word</source>
-        <translation type="unfinished">移到下一单词</translation>
+        <translation>移到下一单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Word Camel Case</source>
-        <translation type="unfinished">移到上一个使用骆驼命名法的单词</translation>
+        <translation>移到上一个使用骆驼命名法的单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Word Camel Case</source>
-        <translation type="unfinished">移到下一个使用骆驼命名法的单词</translation>
+        <translation>移到下一个使用骆驼命名法的单词</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Go to Line Start with Selection</source>
-        <translation type="unfinished">选中到行首</translation>
+        <translation>选中到行首</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Line End with Selection</source>
-        <translation type="unfinished">选中到行尾</translation>
+        <translation>选中到行尾</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Line with Selection</source>
-        <translation type="unfinished">选中到下一行</translation>
+        <translation>选中到下一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Line with Selection</source>
-        <translation type="unfinished">选中到上一行</translation>
+        <translation>选中到上一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Character with Selection</source>
-        <translation type="unfinished">选中到上一字符</translation>
+        <translation>选中到上一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Character with Selection</source>
-        <translation type="unfinished">选中到下一字符</translation>
+        <translation>选中到下一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Word with Selection</source>
-        <translation type="unfinished">选中到上一单词</translation>
+        <translation>选中到上一单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Word with Selection</source>
-        <translation type="unfinished">选中到下一单词</translation>
+        <translation>选中到下一单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Word Camel Case with Selection</source>
-        <translation type="unfinished">选中到上一个使用骆驼命名法的单词</translation>
+        <translation>选中到上一个使用骆驼命名法的单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Word Camel Case with Selection</source>
-        <translation type="unfinished">选中到下一个使用骆驼命名法的单词</translation>
+        <translation>选中到下一个使用骆驼命名法的单词</translation>
     </message>
 </context>
 <context>

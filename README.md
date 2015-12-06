@@ -10,5 +10,22 @@ Qt的确是一个好的开发平台，我们希望在我们的努力下能够把
 
 翻译方法：在得到了ts文件之后找到Qt的Linguist（Qt语言家），比如说我的系统就是这样：
 ![1](http://i1288.photobucket.com/albums/b485/jiangcaiyang/1_zpsjqytudxa.png)
+
 然后简简单单三步就能够顺利地翻译了！
 ![1](http://i1288.photobucket.com/albums/b485/jiangcaiyang/2_zpsniwe87oy.png)
+
+那么如何发起pull request呢？其实也很简单。
+1、项目右上角有fork，这样我这个项目就变成你们的项目了。
+
+2、然后在你们fork的项目中发起git clone。使用https或者git协议都可。
+
+3、本地用Qt语言家修改ts文件。
+
+4、在本地commit一次，带上你的信息，究竟修改了哪些部分。
+
+5、开始提交到你的项目中，命令：
+```
+git push
+```
+
+6、在github页面上发起pull request操作，等待我的审核就好了。

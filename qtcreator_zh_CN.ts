@@ -8032,7 +8032,7 @@ Flags: %3</source>
         <location/>
         <location filename="../../../src/plugins/debugger/ui_cdboptionspagewidget.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Attempts to correct the location of a breakpoint based on file and line number should it be in a comment or in a line for which no code is generated. The correction is based on the code model.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Attempts to correct the location of a breakpoint based on file and line number should it be in a comment or in a line for which no code is generated. The correction is based on the code model.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -8046,32 +8046,32 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/shared/cdbsymbolpathlisteditor.cpp" line="+17"/>
         <source>Insert Symbol Server...</source>
-        <translation type="unfinished"></translation>
+        <translation>插入符号服务器...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Adds the Microsoft symbol server providing symbols for operating system libraries. Requires specifying a local cache directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加微软符号服务器提供操作系统库符号。需要指定一个本地缓存目录。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert Symbol Cache...</source>
-        <translation type="unfinished"></translation>
+        <translation>插入符号缓存...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Uses a directory to cache symbols used by the debugger.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用调试器使用的目录缓存符号。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set up Symbol Paths...</source>
-        <translation type="unfinished"></translation>
+        <translation>建立符号路径…</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Configure Symbol paths that are used to locate debug symbol files.</source>
-        <translation type="unfinished"></translation>
+        <translation>配置用于定位调试符号文件的符号路径。</translation>
     </message>
 </context>
 <context>
@@ -8084,7 +8084,7 @@ Flags: %3</source>
     <message>
         <location line="+7"/>
         <source>Always adds a breakpoint on the &lt;i&gt;%1()&lt;/i&gt; function.</source>
-        <translation type="unfinished"></translation>
+        <translation>总是在%1函数处添加一个断点。</translation>
     </message>
 </context>
 <context>
@@ -8205,28 +8205,29 @@ Flags: %3</source>
     <message>
         <location line="+2"/>
         <source>Sections in &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;%1&quot;节</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerruncontrol.cpp" line="-67"/>
         <source>Some breakpoints cannot be handled by the debugger languages currently active, and will be ignored.
 Affected are breakpoints %1</source>
-        <translation type="unfinished"></translation>
+        <translation>一些断点无法通过调试器语言处理当前活动，那么将被忽略。
+受影响的断点%1</translation>
     </message>
     <message>
         <location line="+321"/>
         <source>Not enough free ports for QML debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有足够的空闲端口为QML调试使用。</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Unknown debugger type &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>未知调试器类型 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Unable to create a debugger engine of the type &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建一个此类型的调试器的引擎&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -8834,12 +8835,12 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+6"/>
         <source>Always Adjust View Column Widths to Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>随时调整视图列宽度目录</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Keep Editor Stationary When Stepping</source>
-        <translation type="unfinished"></translation>
+        <translation>单步时保持编辑器的固定</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -8854,27 +8855,27 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+60"/>
         <source>Show &quot;std::&quot; namespace in types</source>
-        <translation type="unfinished"></translation>
+        <translation>显示&quot;std::&quot; 命名空间类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Shows &quot;std::&quot; prefix for types from the standard library.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;显示&quot;std::&quot;前缀从标准库类型。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Show Qt&apos;s namespace in types</source>
-        <translation type="unfinished"></translation>
+        <translation>显示Qt的命名空间类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Shows Qt namespace prefix for Qt types. This is only relevant if Qt was configured with &quot;-qtnamespace&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;显示Qt的命名空间前缀的Qt类型。如果配置了Qt的“-qtnamespace”，这只与此相关。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Sort members of classes and structs alphabetically</source>
-        <translation type="unfinished"></translation>
+        <translation>按字母顺序排序类和结构成员</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -8884,7 +8885,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+10"/>
         <source>&lt;p&gt;Displays names of QThread based threads.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;显示QThread基于线程的名称。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8969,7 +8970,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+8"/>
         <source>Use Tooltips in Stack View when Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>调试时在堆栈视图中使用工具提示</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -9119,13 +9120,13 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+15"/>
         <source>Attached to running application</source>
-        <translation type="unfinished"></translation>
+        <translation>附加到正在运行的应用程序</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+7"/>
         <source>Failed to attach to application: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到应用程序：%1</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -9470,7 +9471,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location line="+187"/>
         <source>Failed to start application:</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动应用程序：</translation>
     </message>
     <message>
         <location line="+123"/>
@@ -41297,12 +41298,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/debugger/cdb/cdboptionspage.cpp" line="+78"/>
         <source>Symbol Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>符号路径</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>源路径</translation>
     </message>
 </context>
 <context>
@@ -41310,7 +41311,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+18"/>
         <source>CDB Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>CDB路径</translation>
     </message>
 </context>
 <context>
@@ -41318,107 +41319,107 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/debugger/commonoptionspage.cpp" line="-224"/>
         <source>Behavior</source>
-        <translation type="unfinished">行为</translation>
+        <translation>行为</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Use alternating row colors in debug views</source>
-        <translation type="unfinished">在调试视图交替行的颜色</translation>
+        <translation>在调试视图交替行的颜色</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Changes the font size in the debugger views when the font size in the main editor changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>在主编辑器修改字体大小时，在调试器视图更改字体大小。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Debugger font size follows main editor</source>
-        <translation type="unfinished">调试器字体和主编辑器一致</translation>
+        <translation>调试器字体和主编辑器一致</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Use tooltips in main editor while debugging</source>
-        <translation type="unfinished">当调试时在主编辑器中启用工具提示</translation>
+        <translation>当调试时在主编辑器中启用工具提示</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stopping and stepping in the debugger will automatically open views associated with the current location.</source>
-        <translation type="unfinished"></translation>
+        <translation>在调试时停止和单步将会自动打开相关位置。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close temporary source views on debugger exit</source>
-        <translation type="unfinished"></translation>
+        <translation>在退出调试器是关闭临时资源视图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select this option to close automatically opened source views when the debugger exits.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择此选项在调试器退出时关闭自动打开源代码视图。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Close temporary memory views on debugger exit</source>
-        <translation type="unfinished"></translation>
+        <translation>在调试器退出时关闭临时内存视图</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select this option to close automatically opened memory views when the debugger exits.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择此选项在调试器退出时关闭自动打开的内存视图。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Switch to previous mode on debugger exit</source>
-        <translation type="unfinished">在调试器退出时切换到上一个模式</translation>
+        <translation>在调试器退出时切换到上一个模式</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Bring Qt Creator to foreground when application interrupts</source>
-        <translation type="unfinished">应用程序中断时将Qt Creator提到前台</translation>
+        <translation>应用程序中断时将Qt Creator提到前台</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Shows QML object tree in Locals and Expressions when connected and not stepping.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当连接并不单步时显示QML对象树和表达式。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show QML object tree</source>
-        <translation type="unfinished">显示QML对象树</translation>
+        <translation>显示QML对象树</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enables a full file path in breakpoints by default also for GDB.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使一个完整的文件路径在默认情况下也为GDB断点。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set breakpoints using a full absolute path</source>
-        <translation type="unfinished"></translation>
+        <translation>使用完全绝对路径设置断点</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Registers Qt Creator for debugging crashed applications.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">寄存器Qt Creator的调试崩溃的应用程序。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use Qt Creator for post-mortem debugging</source>
-        <translation type="unfinished">使用 Qt Creator 进行崩溃后(post-mortem)调试</translation>
+        <translation>使用 Qt Creator 进行崩溃后(post-mortem)调试</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warn when debugging &quot;Release&quot; builds</source>
-        <translation type="unfinished">在调试&quot;Release&quot;构建时发出警告</translation>
+        <translation>在调试&quot;Release&quot;构建时发出警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shows a warning when starting the debugger on a binary with insufficient debug information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当启动调试器时，调试信息不足的二进制文件时，显示一个警告。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Keep editor stationary when stepping</source>
-        <translation type="unfinished"></translation>
+        <translation>单步时保持编辑器固定</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -41428,12 +41429,12 @@ Do you want to kill it?</source>
     <message>
         <location line="+5"/>
         <source>Maximum stack depth:</source>
-        <translation type="unfinished">最大堆栈深度:</translation>
+        <translation>最大堆栈深度:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&lt;unlimited&gt;</source>
-        <translation type="unfinished">&lt;无限制&gt;</translation>
+        <translation>&lt;无限制&gt;</translation>
     </message>
 </context>
 <context>
@@ -41470,12 +41471,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerengine.cpp" line="-1784"/>
         <source>Debugged executable</source>
-        <translation type="unfinished"></translation>
+        <translation>调试的可执行文件</translation>
     </message>
     <message>
         <location line="+821"/>
         <source>Attempting to interrupt.</source>
-        <translation type="unfinished">正在尝试中断。</translation>
+        <translation>正在尝试中断。</translation>
     </message>
 </context>
 <context>
@@ -41483,28 +41484,28 @@ Do you want to kill it?</source>
     <message>
         <location line="-476"/>
         <source>Launching Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>启动调试器</translation>
     </message>
     <message>
         <location line="+262"/>
         <source>Setup failed.</source>
-        <translation type="unfinished">设置失败。</translation>
+        <translation>设置失败。</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Loading finished.</source>
-        <translation type="unfinished">载入完成。</translation>
+        <translation>载入完成。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Run failed.</source>
-        <translation type="unfinished">运行失败。</translation>
+        <translation>运行失败。</translation>
     </message>
     <message>
         <location line="+68"/>
         <location line="+29"/>
         <source>Running.</source>
-        <translation type="unfinished">正在运行。</translation>
+        <translation>正在运行。</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -41512,99 +41513,99 @@ Do you want to kill it?</source>
         <location line="+8"/>
         <location line="+746"/>
         <source>Stopped.</source>
-        <translation type="unfinished">停止。</translation>
+        <translation>停止。</translation>
     </message>
     <message>
         <location line="-802"/>
         <source>Run requested...</source>
-        <translation type="unfinished">运行已请求...</translation>
+        <translation>运行已请求...</translation>
     </message>
     <message>
         <location line="+271"/>
         <source>The %1 process terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程&quot;%1&quot;终止。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The %2 process terminated unexpectedly (exit code %1).</source>
-        <translation type="unfinished"></translation>
+        <translation>%2进程意外终止(退出代码%1)。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unexpected %1 Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>意想不到的%1退出</translation>
     </message>
     <message>
         <location line="+160"/>
         <source>Taking notice of pid %1</source>
-        <translation type="unfinished">注意pid %1</translation>
+        <translation>注意pid %1</translation>
     </message>
     <message>
         <location line="+354"/>
         <source>This debugger cannot handle user input.</source>
-        <translation type="unfinished">这个调试器无法处理用户的输入。</translation>
+        <translation>这个调试器无法处理用户的输入。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Stopped: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>停止：&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Stopped: %1 (Signal %2).</source>
-        <translation type="unfinished">已停止: %1 (信号%2)。</translation>
+        <translation>已停止: %1 (信号%2)。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Stopped in thread %1 by: %2.</source>
-        <translation type="unfinished">在线程%1中停止，因为: %2。</translation>
+        <translation>在线程%1中停止，因为: %2。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Interrupted.</source>
-        <translation type="unfinished">已中断。</translation>
+        <translation>已中断。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&lt;Unknown&gt;</source>
         <comment>name</comment>
-        <translation type="unfinished">&lt;未知&gt;</translation>
+        <translation>&lt;未知&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;Unknown&gt;</source>
         <comment>meaning</comment>
-        <translation type="unfinished">&lt;未知&gt;</translation>
+        <translation>&lt;未知&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;The inferior stopped because it received a signal from the operating system.&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Signal name : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Signal meaning : &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;弱停止因为它从操作系统接收信号。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称 : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义: &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Signal Received</source>
-        <translation type="unfinished"></translation>
+        <translation>接收信号</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&lt;p&gt;The inferior stopped because it triggered an exception.&lt;p&gt;%1</source>
-        <translation type="unfinished">&lt;p&gt;底层停止了因为它触发了一个异常。&lt;p&gt;%1</translation>
+        <translation>&lt;p&gt;底层停止了因为它触发了一个异常。&lt;p&gt;%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Exception Triggered</source>
-        <translation type="unfinished">异常被触发</translation>
+        <translation>异常被触发</translation>
     </message>
     <message>
         <location line="+147"/>
         <source>Found.</source>
-        <translation type="unfinished">已找到。</translation>
+        <translation>已找到。</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -41614,33 +41615,33 @@ Do you want to kill it?</source>
     <message>
         <location line="+8"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This does not seem to be a &quot;Debug&quot; build.
 Setting breakpoints by file name and line number may fail.</source>
-        <translation type="unfinished">没有选择Debug构建方式.为文件的某行设置断点可能会失败.</translation>
+        <translation>没有选择Debug构建方式.为文件的某行设置断点可能会失败.</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerplugin.cpp" line="+244"/>
         <source>Run to Address 0x%1</source>
-        <translation type="unfinished">运行到地址0x%1</translation>
+        <translation>运行到地址0x%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run to Line %1</source>
-        <translation type="unfinished">运行到行%1</translation>
+        <translation>运行到行%1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Jump to Address 0x%1</source>
-        <translation type="unfinished">跳到地址0x%1</translation>
+        <translation>跳到地址0x%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Jump to Line %1</source>
-        <translation type="unfinished">跳到行%1</translation>
+        <translation>跳到行%1</translation>
     </message>
 </context>
 <context>
@@ -41648,113 +41649,113 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritem.cpp" line="-67"/>
         <source>Not recognized</source>
-        <translation type="unfinished"></translation>
+        <translation>不能被识别</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Could not determine debugger type</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定调试器类型</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeroptionspage.cpp" line="+132"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Auto-detected</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Manual</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path:</source>
-        <translation type="unfinished">路径:</translation>
+        <translation>路径:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type:</source>
-        <translation type="unfinished">类型:</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ABIs:</source>
-        <translation type="unfinished"></translation>
+        <translation>ABIs:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>64-bit version</source>
-        <translation type="unfinished">32 位版本 {64-?}</translation>
+        <translation>64 位版本</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>32-bit version</source>
-        <translation type="unfinished"></translation>
+        <translation>32 位版本</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Windows Console Debugger executable&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
-        <translation type="unfinished">&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到 &lt;a href=&quot;%1&quot;&gt;Windows 控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到 &lt;a href=&quot;%1&quot;&gt;Windows 控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1 的克隆</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>New Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>新的调试器</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Debuggers</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器</translation>
     </message>
 </context>
 <context>
@@ -41762,18 +41763,18 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritemmanager.cpp" line="+194"/>
         <source>Auto-detected CDB at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检测 CDB 在 %1</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>System %1 at %2</source>
         <extracomment>%1: Debugger engine type (GDB, LLDB, CDB...), %2: Path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>在%2 系统%1</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Extracted from Kit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从工具箱中提取%1</translation>
     </message>
 </context>
 <context>
@@ -41781,12 +41782,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggermainwindow.cpp" line="-153"/>
         <source>Memory...</source>
-        <translation type="unfinished">内存...</translation>
+        <translation>内存...</translation>
     </message>
     <message>
         <location line="+172"/>
         <source>Debugger Toolbar</source>
-        <translation type="unfinished">调试器工具栏</translation>
+        <translation>调试器工具栏</translation>
     </message>
 </context>
 <context>
@@ -41827,7 +41828,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+111"/>
         <source>Debugger settings</source>
-        <translation type="unfinished">调试器的设置</translation>
+        <translation>调试器的设置</translation>
     </message>
 </context>
 <context>
@@ -41835,48 +41836,48 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggertooltipmanager.cpp" line="+242"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+270"/>
         <source>Copy Contents to Clipboard</source>
-        <translation type="unfinished">复制内容到剪贴板</translation>
+        <translation>复制内容到剪贴板</translation>
     </message>
     <message>
         <location line="+195"/>
         <source>Expression %1 in function %2 from line %3 to %4</source>
-        <translation type="unfinished"></translation>
+        <translation>表达式%1在函数%2中从行%3到%4</translation>
     </message>
     <message>
         <location line="+148"/>
         <location line="+312"/>
         <source>No valid expression</source>
-        <translation type="unfinished"></translation>
+        <translation>没有有效的表达</translation>
     </message>
     <message>
         <location line="-303"/>
         <source>%1 (Previous)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (之前)</translation>
     </message>
     <message>
         <location line="+232"/>
         <source>%1 (Restored)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (还原)</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Expression too complex</source>
-        <translation type="unfinished"></translation>
+        <translation>表达示过于复杂</translation>
     </message>
 </context>
 <context>

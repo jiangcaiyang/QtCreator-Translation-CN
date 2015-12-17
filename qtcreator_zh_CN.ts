@@ -11989,67 +11989,67 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="-1"/>
         <source>Description:</source>
-        <translation type="unfinished">说明:</translation>
+        <translation>说明:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+2"/>
         <source>Compatibility version:</source>
-        <translation type="unfinished"></translation>
+        <translation>兼容版本：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖关系：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Vendor:</source>
-        <translation type="unfinished"></translation>
+        <translation>供应商：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Location:</source>
-        <translation type="unfinished">位置:</translation>
+        <translation>位置:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Platforms:</source>
-        <translation type="unfinished"></translation>
+        <translation>平台：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>URL:</source>
-        <translation type="unfinished">URL:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>群组：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Copyright:</source>
-        <translation type="unfinished">版权:</translation>
+        <translation>版权:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>License:</source>
-        <translation type="unfinished">许可:</translation>
+        <translation>许可:</translation>
     </message>
 </context>
 <context>
@@ -12064,13 +12064,13 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_pluginerroroverview.h" line="+1"/>
         <source>The following plugins have errors and cannot be loaded:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下插件有错误,无法加载:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_pluginerroroverview.h" line="+1"/>
         <source>Details:</source>
-        <translation type="unfinished"></translation>
+        <translation>详情：</translation>
     </message>
 </context>
 <context>
@@ -12085,7 +12085,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_pluginerrorview.h" line="+1"/>
         <source>Error message:</source>
-        <translation type="unfinished"></translation>
+        <translation>错误信息：</translation>
     </message>
 </context>
 <context>
@@ -12093,12 +12093,12 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginspec.cpp" line="+650"/>
         <source>Plugin meta data not found</source>
-        <translation type="unfinished"></translation>
+        <translation>插件数据没有找到</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid platform specification &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的平台规范&quot;%1&quot;:%2</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -12107,12 +12107,12 @@ Rebuilding the project might help.</source>
         <location line="+3"/>
         <location line="+5"/>
         <source>Dependency: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖关系: %1</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Dependency: &quot;%1&quot; must be &quot;%2&quot; or &quot;%3&quot; (is &quot;%4&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖关系：&quot;%1&quot; 一定 &quot;%2&quot; 或 &quot;%3&quot; (&quot;%4&quot;)</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -12120,12 +12120,12 @@ Rebuilding the project might help.</source>
         <location line="+6"/>
         <location line="+4"/>
         <source>Argument: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>参数: %1</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Argument: &quot;%1&quot; is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>参数: %1 是空</translation>
     </message>
 </context>
 <context>
@@ -12143,7 +12143,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+1"/>
         <source>%1 (current: &quot;%2&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (当前：&quot;%2&quot;)</translation>
     </message>
 </context>
 <context>
@@ -12171,7 +12171,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+4"/>
         <source>Library is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载库。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -37050,7 +37050,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginerroroverview.cpp" line="+47"/>
         <source>Continue</source>
-        <translation type="unfinished">继续</translation>
+        <translation>继续</translation>
     </message>
 </context>
 <context>
@@ -46788,7 +46788,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/entertabdesigneraction.cpp" line="+70"/>
         <source>Step into: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>单步进入：%1</translation>
     </message>
 </context>
 <context>

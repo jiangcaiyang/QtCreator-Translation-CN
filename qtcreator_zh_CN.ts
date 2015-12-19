@@ -12234,12 +12234,12 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginmanager.cpp" line="+1302"/>
         <source>Circular dependency detected:</source>
-        <translation type="unfinished"></translation>
+        <translation>循环依赖检测:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1(%2) depends on</source>
-        <translation type="unfinished"></translation>
+        <translation>%1(%2)依赖于</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12261,45 +12261,49 @@ Reason: %3</source>
         <location filename="../../../src/libs/extensionsystem/pluginview.cpp" line="+136"/>
         <source>Path: %1
 Plugin is not available on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径:%1
+在这个平台上的插件不可用。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path: %1
 Plugin is enabled as dependency of an enabled plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径:%1
+插件允许作为一个启动插件依赖项。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path: %1
 Plugin is enabled by command line argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径:%1
+通过命令行参数启动插件。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path: %1
 Plugin is disabled by command line argument.</source>
-        <translation type="unfinished"></translation>
+        <translation>路径: %1
+通过命令行参数禁用插件。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>路径：%1</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Plugin is not available on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>在这个平台上，插件不可用。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Plugin is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>必要的插件。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Load on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时加载</translation>
     </message>
     <message>
         <location line="+80"/>
@@ -12309,22 +12313,22 @@ Plugin is disabled by command line argument.</source>
     <message>
         <location line="+72"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Load</source>
-        <translation type="unfinished">载入</translation>
+        <translation>加载</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Vendor</source>
-        <translation type="unfinished">销售商</translation>
+        <translation>销售商</translation>
     </message>
     <message>
         <location line="+79"/>
@@ -12334,7 +12338,7 @@ Plugin is disabled by command line argument.</source>
     <message>
         <location line="+32"/>
         <source>Enabling Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>启用插件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12343,12 +12347,16 @@ Plugin is disabled by command line argument.</source>
 will also enable the following plugins:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>启用
+%1
+还将启用以下插件:
+
+%2</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Disabling Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用插件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -12357,7 +12365,11 @@ will also enable the following plugins:
 will also disable the following plugins:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用
+%1
+还将禁用以下插件:
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -12378,7 +12390,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Start of line</source>
-        <translation type="unfinished">行首</translation>
+        <translation>行首</translation>
     </message>
     <message>
         <location/>
@@ -17061,68 +17073,68 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/PathViewSpecifics.qml" line="+37"/>
         <source>Path View</source>
-        <translation type="unfinished">路径查看</translation>
+        <translation>路径查看</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+1"/>
         <source>Drag margin</source>
-        <translation type="unfinished">拖拽量</translation>
+        <translation>拖拽量</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Flick deceleration</source>
-        <translation type="unfinished">摇动减速</translation>
+        <translation>摇动减速</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Interactive</source>
-        <translation type="unfinished">互动</translation>
+        <translation>互动</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A user cannot drag or flick a PathView that is not interactive.</source>
-        <translation type="unfinished">用户不可以拖拽或点击一个不是交互式类型的路径视图.</translation>
+        <translation>用户不可以拖拽或点击一个不是交互式类型的路径视图.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Offset</source>
-        <translation type="unfinished">便宜</translation>
+        <translation>偏移</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specifies how far along the path the items are from their initial positions. This is a real number that ranges from 0.0 to the count of items in the model.</source>
-        <translation type="unfinished">指定项最远离初始位置的路径.这是一个浮点数,范围从0.0到模型中项的数量.</translation>
+        <translation>指定项最远离初始位置的路径.这是一个浮点数,范围从0.0到模型中项的数量.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Item count</source>
-        <translation type="unfinished">项目计数</translation>
+        <translation>项目计数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>pathItemCount: number of items visible on the path at any one time.</source>
-        <translation type="unfinished">pathItemCount: 任何时间内可见项的数量.</translation>
+        <translation>pathItemCount: 任何时间内可见项的数量.</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Path View Highlight</source>
-        <translation type="unfinished">路径视图高亮</translation>
+        <translation>路径视图高亮</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Highlight range</source>
-        <translation type="unfinished">高亮范围</translation>
+        <translation>高亮范围</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Move duration</source>
-        <translation type="unfinished">移动持续时间</translation>
+        <translation>移动持续时间</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -17156,13 +17168,13 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/perforce/changenumberdialog.ui"/>
         <location filename="../../../src/plugins/perforce/ui_changenumberdialog.h" line="+74"/>
         <source>Change Number</source>
-        <translation>Change编号</translation>
+        <translation>改变编号</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_changenumberdialog.h" line="+1"/>
         <source>Change Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变编号：</translation>
     </message>
 </context>
 <context>
@@ -17182,13 +17194,13 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/perforce/pendingchangesdialog.ui"/>
         <location filename="../../../src/plugins/perforce/ui_pendingchangesdialog.h" line="+1"/>
         <source>Submit</source>
-        <translation type="unfinished">提交</translation>
+        <translation>提交</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_pendingchangesdialog.h" line="+1"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -17240,7 +17252,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/perforce/perforceplugin.cpp" line="+1281"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished">忽略空白</translation>
+        <translation>忽略空白</translation>
     </message>
 </context>
 <context>
@@ -17631,7 +17643,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+383"/>
         <source>p4 changelists %1</source>
-        <translation type="unfinished"></translation>
+        <translation>p4改变列表 %1</translation>
     </message>
     <message>
         <location line="+194"/>
@@ -17697,7 +17709,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/perforce/perforceversioncontrol.cpp" line="+138"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -17715,7 +17727,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -17735,73 +17747,73 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="-12"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>P4 command:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 命令：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>环境变量</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>P4 port:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 端口：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>P4 client:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 客户端：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>P4 user:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 用户名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">其他</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Log count:</source>
-        <translation type="unfinished">日志计数:</translation>
+        <translation>日志计数:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Timeout:</source>
-        <translation type="unfinished">超时时间：</translation>
+        <translation>超时时间：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>s</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Prompt on submit</source>
-        <translation type="unfinished">提交时弹出提示</translation>
+        <translation>提交时弹出提示</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Automatically open files when editing</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑时自动打开文件</translation>
     </message>
 </context>
 <context>
@@ -17834,19 +17846,19 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_submitpanel.h" line="+1"/>
         <source>Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>修改:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_submitpanel.h" line="+1"/>
         <source>Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_submitpanel.h" line="+1"/>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名：</translation>
     </message>
 </context>
 <context>
@@ -17882,14 +17894,14 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/libs/extensionsystem/optionsparser.cpp" line="+128"/>
         <source>The plugin &quot;%1&quot; is specified twice for testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件 &quot;%1&quot;指定用于测试两次。</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+22"/>
         <location line="+26"/>
         <source>The plugin &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件&quot;%1&quot;不存在。</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -17913,32 +17925,32 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginspec.cpp" line="-226"/>
         <source>&quot;%1&quot; is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; 缺失</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Value for key &quot;%1&quot; is not a string</source>
-        <translation type="unfinished"></translation>
+        <translation>关键值&quot;%1&quot;不是一个字符串</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Value for key &quot;%1&quot; is not a bool</source>
-        <translation type="unfinished"></translation>
+        <translation>关键值&quot;%1&quot;不是布尔值</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Value for key &quot;%1&quot; is not an array of objects</source>
-        <translation type="unfinished"></translation>
+        <translation>关键值&quot;%1&quot;不是一个对象数组</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Value for key &quot;%1&quot; is not a string and not an array of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>关键值&quot;%1&quot;不是一个字符串也不是一个字符串数组</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Value &quot;%2&quot; for key &quot;%1&quot; has invalid format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">值%2关键 %1是无效的</translation>
     </message>
     <message>
         <location line="+275"/>
@@ -18006,12 +18018,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+3"/>
         <source>Application</source>
-        <translation type="unfinished">应用程序</translation>
+        <translation>应用程序</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Library</source>
-        <translation type="unfinished">库</translation>
+        <translation>库</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -18027,18 +18039,18 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/projectexplorer/buildconfiguration.cpp" line="+112"/>
         <location filename="../../../src/plugins/projectexplorer/projectmacroexpander.cpp" line="+46"/>
         <source>Name of current build</source>
-        <translation type="unfinished"></translation>
+        <translation>当前构建的名字</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectmacroexpander.cpp" line="-4"/>
         <location filename="../../../src/plugins/projectexplorer/target.cpp" line="+146"/>
         <source>Name of current project</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目的名字</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Type of current build</source>
-        <translation type="unfinished"></translation>
+        <translation>当前构建的类型</translation>
     </message>
 </context>
 <context>
@@ -18054,12 +18066,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/abstractprocessstep.cpp" line="+155"/>
         <source>Configuration is faulty. Check the Issues view for details.</source>
-        <translation type="unfinished">配置错误，请检查&quot;问题&quot;视图获得详细信息。</translation>
+        <translation>配置错误，请检查&quot;问题&quot;视图获得详细信息。</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Could not create directory &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建目录 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+78"/>
@@ -18108,7 +18120,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+61"/>
         <source>Cannot retrieve debugging output.</source>
-        <translation type="unfinished">无法获取调试输出.</translation>
+        <translation>无法获取调试输出.</translation>
     </message>
 </context>
 <context>
@@ -18139,12 +18151,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-85"/>
         <source>Build Settings</source>
-        <translation type="unfinished">构建设置</translation>
+        <translation>构建设置</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Build directory</source>
-        <translation type="unfinished"></translation>
+        <translation>构建目录</translation>
     </message>
     <message>
         <location line="+133"/>
@@ -18195,12 +18207,12 @@ Id必须以小写字母开头。</translation>
         <location line="+2"/>
         <source>Deployment</source>
         <comment>Category for deployment issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Elapsed time: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">消逝的时间：%1。</translation>
     </message>
     <message>
         <location line="+142"/>
@@ -18212,13 +18224,13 @@ Id必须以小写字母开头。</translation>
         <location line="+3"/>
         <location line="+114"/>
         <source>Error while building/deploying project %1 (kit: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>构建/部署项目%1时出错 (Kit:%2)</translation>
     </message>
     <message>
         <location line="-116"/>
         <location line="+117"/>
         <source>When executing step &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>单步执行时 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="-269"/>
@@ -18246,7 +18258,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+9"/>
         <source>Timeout after %1 s.</source>
-        <translation type="unfinished"></translation>
+        <translation>超时%1秒。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -18263,13 +18275,13 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+26"/>
         <source>Error running &quot;%1&quot; in %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>在%2运行错误&quot;%1&quot;：%3</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Building helper &quot;%1&quot; in %2
 </source>
-        <translation type="unfinished"></translation>
+        <translation>在 %2 构建助手 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -18321,12 +18333,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-17"/>
         <source>Other Project</source>
-        <translation type="unfinished">其他项目</translation>
+        <translation>其他项目</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Type:</source>
-        <translation type="unfinished">类型:</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -18336,7 +18348,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Code Snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>代码片段</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -18346,12 +18358,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Code:</source>
-        <translation type="unfinished"></translation>
+        <translation>代码：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Console application</source>
-        <translation type="unfinished"></translation>
+        <translation>控制台应用程序</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18366,7 +18378,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Gui application (QtCore, QtGui, QtWidgets)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gui应用程序(QtCore, QtGui, QtWidgets)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -18378,7 +18390,7 @@ Id必须以小写字母开头。</translation>
         <location line="+15"/>
         <location line="+7"/>
         <source>Library</source>
-        <translation type="unfinished">库</translation>
+        <translation>库</translation>
     </message>
     <message>
         <location line="-21"/>
@@ -18418,19 +18430,19 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Qt Quick 1 Extension Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick 1 扩展插件</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+7"/>
         <source>Custom QML Extension Plugin Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>定制QML扩展插件参数</translation>
     </message>
     <message>
         <location line="-6"/>
         <location line="+7"/>
         <source>Object class-name:</source>
-        <translation type="unfinished"></translation>
+        <translation>对象类名：</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -18440,7 +18452,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Qt Quick 2 Extension Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick 2 扩展插件</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -18511,7 +18523,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+18"/>
         <source>Deploy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>部署设置</translation>
     </message>
 </context>
 <context>
@@ -18527,7 +18539,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopdevice.cpp" line="+53"/>
         <source>Local PC</source>
-        <translation type="unfinished"></translation>
+        <translation>本地PC</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -18540,12 +18552,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/deviceapplicationrunner.cpp" line="+98"/>
         <source>Cannot run: Device is not able to create processes.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法运行：设备不允许添加进程。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot run: No command given.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法运行：没有给定命令。</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -18555,17 +18567,17 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+13"/>
         <source>Application failed to start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>应用程序启动失败：%1</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Application finished with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>程序退出代码 %1。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Application finished with exit code 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>程序退出，退出代码0。</translation>
     </message>
     <message>
         <location line="-83"/>
@@ -34374,7 +34386,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/projectexplorer/deploymentdataview.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_deploymentdataview.h" line="+58"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
@@ -34389,35 +34401,35 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopdeviceconfigurationwidget.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_desktopdeviceconfigurationwidget.h" line="+87"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopdeviceconfigurationwidget.cpp" line="+74"/>
         <source>Physical Device</source>
-        <translation type="unfinished">物理设备</translation>
+        <translation>物理设备</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>You will need at least one port for QML debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>你需要最少需要保留一个端口用于QML调试。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopdeviceconfigurationwidget.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_desktopdeviceconfigurationwidget.h" line="+1"/>
         <source>Machine type:</source>
-        <translation type="unfinished"></translation>
+        <translation>机器类型:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_desktopdeviceconfigurationwidget.h" line="+1"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>文本标签</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_desktopdeviceconfigurationwidget.h" line="+1"/>
         <source>Free ports:</source>
-        <translation type="unfinished"></translation>
+        <translation>空闲端口：</translation>
     </message>
 </context>
 <context>
@@ -43024,52 +43036,52 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+3"/>
         <source>Go to File Start</source>
-        <translation type="unfinished">转到文件首</translation>
+        <translation>转到文件首</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to File End</source>
-        <translation type="unfinished"></translation>
+        <translation>转到文件尾</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Line Start</source>
-        <translation type="unfinished">移到行首</translation>
+        <translation>移到行首</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Line End</source>
-        <translation type="unfinished">移到行尾</translation>
+        <translation>移到行尾</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Line</source>
-        <translation type="unfinished">移到下一行</translation>
+        <translation>移到下一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Line</source>
-        <translation type="unfinished">移到前一行</translation>
+        <translation>移到前一行</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Character</source>
-        <translation type="unfinished">移到下一字符</translation>
+        <translation>移到下一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Character</source>
-        <translation type="unfinished">移到上一字符</translation>
+        <translation>移到上一字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Next Word</source>
-        <translation type="unfinished">移到下一单词</translation>
+        <translation>移到下一单词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Go to Previous Word</source>
-        <translation type="unfinished">移到上一单词</translation>
+        <translation>移到上一单词</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -43079,7 +43091,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Exchange Cursor and Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>交换光标和书签</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -43099,12 +43111,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+3"/>
         <source>Scroll Half Screen Down</source>
-        <translation type="unfinished"></translation>
+        <translation>向下滚动一半屏幕</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Scroll Half Screen Up</source>
-        <translation type="unfinished"></translation>
+        <translation>向上滚动一半屏幕</translation>
     </message>
 </context>
 <context>
@@ -44459,7 +44471,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/perforce/perforceeditor.cpp" line="+71"/>
         <source>Annotate change list &quot;%1&quot;</source>
-        <translation type="unfinished">注释变更列表 &quot;%1&quot;</translation>
+        <translation>注释变更列表 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -44588,12 +44600,12 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/deploymentdatamodel.cpp" line="+62"/>
         <source>Local File Path</source>
-        <translation type="unfinished">本地文件路径</translation>
+        <translation>本地文件路径</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Remote Directory</source>
-        <translation type="unfinished">远程目录</translation>
+        <translation>远程目录</translation>
     </message>
 </context>
 <context>
@@ -44601,48 +44613,48 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopprocesssignaloperation.cpp" line="+90"/>
         <source>Cannot kill process with pid %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法杀死pid为%1的程序: %2</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot interrupt process with pid %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法中断pid为%1的程序：%2</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Cannot open process.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开程序。</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+94"/>
         <source>Invalid process id.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的进程id。</translation>
     </message>
     <message>
         <location line="-43"/>
         <source>Cannot open process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开进程：%1</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>DebugBreakProcess failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>调试中断程序失败：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>%1 does not exist. If you built Qt Creator yourself, check out https://code.qt.io/cgit/qt-creator/binary-artifacts.git/.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1不存在。如果你要构建Qt Creator自己，检出https://code.qt.io/cgit/qt-creator/binary-artifacts.git/。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot start %1. Check src\tools\win64interrupt\win64interrupt.c for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动 %1。检查 src\tools\win64interrupt\win64interrupt.c获取更多信息。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>could not break the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法中断程序。</translation>
     </message>
 </context>
 <context>
@@ -44652,7 +44664,7 @@ Remote: %4</source>
         <location line="+9"/>
         <location line="+6"/>
         <source>No device configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有设备配置。</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -45401,12 +45413,12 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location line="+71"/>
         <source>Arguments</source>
-        <translation type="unfinished">参数</translation>
+        <translation>参数</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Command line arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>命令行参数:</translation>
     </message>
 </context>
 <context>
@@ -46495,7 +46507,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/componentcore/modelnodeoperations.cpp" line="+554"/>
         <source>Go to Implementation</source>
-        <translation type="unfinished">去执行</translation>
+        <translation>去执行</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -47092,7 +47104,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/pathtool/pathtool.cpp" line="+102"/>
         <source>Edit Path</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑路径</translation>
     </message>
 </context>
 <context>
@@ -47100,7 +47112,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+197"/>
         <source>Path Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>路径工具</translation>
     </message>
 </context>
 <context>

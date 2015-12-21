@@ -18212,7 +18212,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+73"/>
         <source>Elapsed time: %1.</source>
-        <translation type="unfinished">消逝的时间：%1。</translation>
+        <translation>已用时间：%1。</translation>
     </message>
     <message>
         <location line="+142"/>
@@ -18343,7 +18343,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-5"/>
         <source>Creates a qmake-based test project for which a code snippet can be entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>为此代码创建一个qmake测试项目。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18353,7 +18353,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+2"/>
         <source>Snippet Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>代码片断参数</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18368,7 +18368,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Application bundle (Mac)</source>
-        <translation type="unfinished"></translation>
+        <translation>应用程序包(Mac)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18425,7 +18425,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+7"/>
         <source>Creates a C++ plugin to load extensions dynamically into applications using the QDeclarativeEngine class. Requires Qt 4.7.0 or newer.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个使用QDeclarativeEngine类的C++插件的应用程序。需要Qt4.7.0或更高版本。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18447,7 +18447,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-4"/>
         <source>Creates a C++ plugin to load extensions dynamically into applications using the QQmlEngine class. Requires Qt 5.0 or newer.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个使用QQmlEngine类的C++插件的应用程序。需要Qt4.7.0或更高版本。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18590,12 +18590,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitinformation.cpp" line="+389"/>
         <source>No device set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有设备设置。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Device is incompatible with this kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>设备与此工具包不兼容。</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -18610,22 +18610,22 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+5"/>
         <source>Host address</source>
-        <translation type="unfinished"></translation>
+        <translation>主机地址</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>SSH port</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH端口</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>User name</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Private key file</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥文件</translation>
     </message>
 </context>
 <context>
@@ -18684,7 +18684,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugsupport.cpp" line="+83"/>
         <source>&amp;Attach to Process</source>
-        <translation type="unfinished">&amp;Attach到进程</translation>
+        <translation>附加到进程(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -18725,7 +18725,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+9"/>
         <source>Remote error output was: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>远程错误输出：%1</translation>
     </message>
 </context>
 <context>
@@ -18883,12 +18883,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+28"/>
         <source>Increase Font Size</source>
-        <translation type="unfinished">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Decrease Font Size</source>
-        <translation type="unfinished">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -18954,7 +18954,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-71"/>
         <source>New Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>新配置</translation>
     </message>
     <message>
         <location line="+92"/>
@@ -19080,7 +19080,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_codestylesettingspropertiespage.h" line="+1"/>
         <source>Language:</source>
-        <translation type="unfinished">语言:</translation>
+        <translation>语言:</translation>
     </message>
 </context>
 <context>
@@ -19094,12 +19094,12 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+16"/>
         <source>Increase Font Size</source>
-        <translation type="unfinished">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Decrease Font Size</source>
-        <translation type="unfinished">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
 </context>
 <context>
@@ -19108,13 +19108,13 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/projectexplorer/copytaskhandler.cpp" line="+50"/>
         <source>error:</source>
         <extracomment>Task is of type: error</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>错误：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>warning:</source>
         <extracomment>Task is of type: warning</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>警告：</translation>
     </message>
 </context>
 <context>
@@ -19130,7 +19130,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/currentprojectfind.cpp" line="+62"/>
         <source>Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>项目&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -19140,7 +19140,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+33"/>
         <source>Project &quot;%1&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation>项目&quot;%1&quot;：</translation>
     </message>
 </context>
 <context>
@@ -34282,82 +34282,82 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/projectexplorer/customparserconfigdialog.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+209"/>
         <source>Custom Parser</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义分析器</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/customparserconfigdialog.cpp" line="+151"/>
         <source>Not applicable:</source>
-        <translation type="unfinished"></translation>
+        <translation>不适用于：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Pattern is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>模式为空。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Pattern does not match the error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>模式不匹配的错误消息。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/customparserconfigdialog.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;Error message capture pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>错误信息采集模式(&amp;E)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>#error (.*):(\d+): (.*)$</source>
-        <translation type="unfinished"></translation>
+        <translation>#error (.*):(\d+): (.*)$</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>Capture Positions</source>
-        <translation type="unfinished"></translation>
+        <translation>捕捉位置</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;File name:</source>
-        <translation type="unfinished">文件名(&amp;F):</translation>
+        <translation>文件名(&amp;F):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;Line number:</source>
-        <translation type="unfinished">行号(&amp;L):</translation>
+        <translation>行号(&amp;L):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;Message:</source>
-        <translation type="unfinished">消息(&amp;M):</translation>
+        <translation>消息(&amp;M):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>Test</source>
-        <translation type="unfinished">测试</translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>E&amp;rror message:</source>
-        <translation type="unfinished"></translation>
+        <translation>错误信息(&amp;r)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>#error /home/user/src/test.c:891: Unknown identifier `test`</source>
-        <translation type="unfinished"></translation>
+        <translation>#error /home/user/src/test.c:891: 未知标识符 `test`</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名:</translation>
     </message>
     <message>
         <location/>
@@ -34365,19 +34365,19 @@ Partial names can be used if they are unambiguous.</source>
         <location line="+2"/>
         <location line="+2"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>文本标签</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="-3"/>
         <source>Line number:</source>
-        <translation type="unfinished">行号:</translation>
+        <translation>行号:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+2"/>
         <source>Message:</source>
-        <translation type="unfinished">消息:</translation>
+        <translation>消息:</translation>
     </message>
 </context>
 <context>
@@ -34392,7 +34392,7 @@ Partial names can be used if they are unambiguous.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_deploymentdataview.h" line="+1"/>
         <source>Files to deploy:</source>
-        <translation type="unfinished"></translation>
+        <translation>文件部署：</translation>
     </message>
 </context>
 <context>
@@ -44480,7 +44480,7 @@ Remote: %4</source>
         <location filename="../../../src/plugins/projectexplorer/customtoolchain.cpp" line="+87"/>
         <location line="+288"/>
         <source>Custom</source>
-        <translation type="unfinished">自定义设置</translation>
+        <translation>自定义设置</translation>
     </message>
 </context>
 <context>
@@ -44532,67 +44532,67 @@ Remote: %4</source>
     <message>
         <location line="+20"/>
         <source>Custom Parser Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义分析器设置...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Each line defines a macro. Format is MACRO[=VALUE].</source>
-        <translation type="unfinished"></translation>
+        <translation>每一行定义一个宏。格式是MACRO[=VALUE]。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Each line adds a global header lookup path.</source>
-        <translation type="unfinished"></translation>
+        <translation>每条线增加了一个全局的头查找路径。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma-separated list of flags that turn on C++11 support.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔启用C++11的支持标记列表。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma-separated list of mkspecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>逗号分隔mkspecs列表。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Compiler path:</source>
-        <translation type="unfinished">编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C):</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Make path:</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个路径(&amp;M)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
-        <translation type="unfinished">&amp;ABI:</translation>
+        <translation>&amp;ABI:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Predefined macros:</source>
-        <translation type="unfinished"></translation>
+        <translation>预定义宏(&amp;P):</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Header paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件路径(&amp;H):</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>C++11 &amp;flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>C++11的标志(&amp;f)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Qt mkspecs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt 目录(&amp;Q):</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Error parser:</source>
-        <translation type="unfinished"></translation>
+        <translation>解析错误(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -44669,17 +44669,17 @@ Remote: %4</source>
     <message>
         <location line="-11"/>
         <source>Set Up Device</source>
-        <translation type="unfinished"></translation>
+        <translation>设置设备</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>There is no device set up for this kit. Do you want to add a device?</source>
-        <translation type="unfinished"></translation>
+        <translation>没有任何设备配置此工具包。你要添加设备么？</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Check for a configured device</source>
-        <translation type="unfinished"></translation>
+        <translation>检查配置设备</translation>
     </message>
 </context>
 <context>
@@ -44705,7 +44705,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentaspect.cpp" line="+50"/>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>运行环境</translation>
     </message>
 </context>
 <context>
@@ -44713,7 +44713,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentaspectwidget.cpp" line="+64"/>
         <source>Base environment for this run configuration:</source>
-        <translation type="unfinished">运行设置的基础环境:</translation>
+        <translation>运行设置的基础环境:</translation>
     </message>
 </context>
 <context>
@@ -44721,7 +44721,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentwidget.cpp" line="-192"/>
         <source>Variable already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>变量已经存在。</translation>
     </message>
 </context>
 <context>
@@ -44729,7 +44729,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/gcctoolchain.cpp" line="-894"/>
         <source>%1 (%2 %3 in %4)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2 %3 在 %4)</translation>
     </message>
 </context>
 <context>
@@ -45185,7 +45185,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitinformation.cpp" line="+293"/>
         <source>The environment setting value is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>此环境设置是无效的。</translation>
     </message>
 </context>
 <context>
@@ -45494,7 +45494,7 @@ These files are preserved.</source>
     <message>
         <location line="+17"/>
         <source>Settings File for &quot;%1&quot; from a different Environment?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置文件&quot;%1&quot;从不同的环境?</translation>
     </message>
 </context>
 <context>

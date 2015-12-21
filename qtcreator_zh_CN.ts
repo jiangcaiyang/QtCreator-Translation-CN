@@ -33877,43 +33877,43 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+5"/>
         <source>Pre-compiled Headers</source>
-        <translation type="unfinished"></translation>
+        <translation>预编译头文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When pre-compiled headers are not ignored, the parsing for code completion and semantic highlighting will process the pre-compiled header before processing any file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果不忽略预编译头，解析的代码完成和语义高亮显示将在处理任何文件之前处理预编译的头文件。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+2"/>
         <source>Ignore pre-compiled headers</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略预编译头文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="-8"/>
         <source>&lt;i&gt;Activate the Clang Code Model plugin to enable the options here.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;激活Clang代码模型插件以便启用这里的选项。&lt;/i&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Use Clang Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Clang代码模型</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Append additional command line options to Clang, one per line. &lt;i&gt;Use this with care.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>为Clang附加额外的命令行选项，每行一个。&lt;i&gt;使用时请注意。&lt;/i&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Reset Options</source>
-        <translation type="unfinished"></translation>
+        <translation>重置选项</translation>
     </message>
 </context>
 <context>
@@ -41147,12 +41147,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/abstracteditorsupport.cpp" line="+62"/>
         <source>The file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名称。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The class name.</source>
-        <translation type="unfinished"></translation>
+        <translation>类名称。</translation>
     </message>
 </context>
 <context>
@@ -41160,7 +41160,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/builtinindexingsupport.cpp" line="+377"/>
         <source>Parsing C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>解析C/C++文件</translation>
     </message>
 </context>
 <context>
@@ -41202,7 +41202,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppeditoroutline.cpp" line="+123"/>
         <source>Sort Alphabetically</source>
-        <translation type="unfinished">按字母排序</translation>
+        <translation>按字母排序</translation>
     </message>
 </context>
 <context>
@@ -41210,7 +41210,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppincludesfilter.cpp" line="+139"/>
         <source>All Included C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有包含的C/C++文件</translation>
     </message>
 </context>
 <context>
@@ -41226,12 +41226,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppsourceprocessor.cpp" line="+93"/>
         <source>%1: No such file or directory</source>
-        <translation type="unfinished">%1: 没有文件或者目录</translation>
+        <translation>%1：没有文件或者目录</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: Could not get file contents</source>
-        <translation type="unfinished"></translation>
+        <translation>%1：无法获取文件内容</translation>
     </message>
 </context>
 <context>
@@ -41239,12 +41239,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cvs/cvscontrol.cpp" line="+135"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>CVS Checkout</source>
-        <translation type="unfinished">CVS Checkout</translation>
+        <translation>CVS检出</translation>
     </message>
 </context>
 <context>
@@ -41252,7 +41252,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cvs/cvseditor.cpp" line="+67"/>
         <source>Annotate revision &quot;%1&quot;</source>
-        <translation type="unfinished">注释修订版本 &quot;%1&quot;</translation>
+        <translation>注释修订版本&quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -41611,113 +41611,113 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritem.cpp" line="-67"/>
         <source>Not recognized</source>
-        <translation type="unfinished"></translation>
+        <translation>未被识别</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Could not determine debugger type</source>
-        <translation type="unfinished"></translation>
+        <translation>无法决定调试器的类型</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeroptionspage.cpp" line="+132"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Auto-detected</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Manual</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path:</source>
-        <translation type="unfinished">路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type:</source>
-        <translation type="unfinished">类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ABIs:</source>
-        <translation type="unfinished"></translation>
+        <translation>ABIs：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>64-bit version</source>
-        <translation type="unfinished">32 位版本 {64-?}</translation>
+        <translation>64位版本</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>32-bit version</source>
-        <translation type="unfinished"></translation>
+        <translation>32位版本</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Windows Console Debugger executable&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
-        <translation type="unfinished">&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到 &lt;a href=&quot;%1&quot;&gt;Windows 控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到&lt;a href=&quot;%1&quot;&gt;Windows控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1的克隆</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>New Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>新调试器</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Debuggers</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器</translation>
     </message>
 </context>
 <context>
@@ -41725,18 +41725,18 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritemmanager.cpp" line="+194"/>
         <source>Auto-detected CDB at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1自动检测CDB</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>System %1 at %2</source>
         <extracomment>%1: Debugger engine type (GDB, LLDB, CDB...), %2: Path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>系统%1在%2</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Extracted from Kit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从构建套件%1解压</translation>
     </message>
 </context>
 <context>
@@ -41744,12 +41744,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggermainwindow.cpp" line="-153"/>
         <source>Memory...</source>
-        <translation type="unfinished">内存...</translation>
+        <translation>内存...</translation>
     </message>
     <message>
         <location line="+172"/>
         <source>Debugger Toolbar</source>
-        <translation type="unfinished">调试器工具栏</translation>
+        <translation>调试器工具栏</translation>
     </message>
 </context>
 <context>
@@ -44436,27 +44436,27 @@ Remote: %4</source>
     <message>
         <location line="-24"/>
         <source>GCC</source>
-        <translation type="unfinished">GCC</translation>
+        <translation>GCC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clang</source>
-        <translation type="unfinished">Clang</translation>
+        <translation>Clang</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ICC</source>
-        <translation type="unfinished"></translation>
+        <translation>ICC</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>MSVC</source>
-        <translation type="unfinished">MSVC</translation>
+        <translation>MSVC</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Custom</source>
-        <translation type="unfinished">自定义设置</translation>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>

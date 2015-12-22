@@ -8845,7 +8845,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+40"/>
         <source>&lt;p&gt;This switches the debugger to instruction-wise operation mode. In this mode, stepping operates on single instructions and the source location view also shows the disassembled instructions.</source>
-        <translation type="unfinished"></translation>
+        <translation>它切换调试器到指令优先操作模式。在这个模式，单步是操作在单个指令上，并且源文件位置视图也会显示反汇编指令。</translation>
     </message>
     <message>
         <location line="+12"/>

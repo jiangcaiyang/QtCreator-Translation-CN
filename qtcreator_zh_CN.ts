@@ -8032,7 +8032,7 @@ Flags: %3</source>
         <location/>
         <location filename="../../../src/plugins/debugger/ui_cdboptionspagewidget.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Attempts to correct the location of a breakpoint based on file and line number should it be in a comment or in a line for which no code is generated. The correction is based on the code model.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Attempts to correct the location of a breakpoint based on file and line number should it be in a comment or in a line for which no code is generated. The correction is based on the code model.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;试图纠正基于文件和行号的位置，这一行为应该在注释或在不产生代码的一行触发。校正是基于该代码模型。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -33927,7 +33927,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+5"/>
         <source>Pre-compiled Headers</source>
-        <translation type="unfinished"></translation>
+        <translation>预编译头文件</translation>
     </message>
     <message>
         <location/>
@@ -33939,7 +33939,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+2"/>
         <source>Ignore pre-compiled headers</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略预编译头文件</translation>
     </message>
     <message>
         <location/>
@@ -33951,7 +33951,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Use Clang Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Clang代码模型</translation>
     </message>
     <message>
         <location/>
@@ -33963,7 +33963,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppcodemodelsettingspage.h" line="+1"/>
         <source>Reset Options</source>
-        <translation type="unfinished"></translation>
+        <translation>重置选项</translation>
     </message>
 </context>
 <context>
@@ -36398,7 +36398,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+10"/>
         <source>Learn how to develop your own applications and explore Qt Creator.</source>
-        <translation>学习如何开发自己的应用程序并探讨Qt Creator。</translation>
+        <translation>学习如何开发自己的应用程序并探索Qt Creator。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -41254,7 +41254,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppeditoroutline.cpp" line="+123"/>
         <source>Sort Alphabetically</source>
-        <translation type="unfinished">按字母排序</translation>
+        <translation>按字母排序</translation>
     </message>
 </context>
 <context>
@@ -41262,7 +41262,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cpptools/cppincludesfilter.cpp" line="+139"/>
         <source>All Included C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>所有包含的C/C++文件</translation>
     </message>
 </context>
 <context>
@@ -41283,7 +41283,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+8"/>
         <source>%1: Could not get file contents</source>
-        <translation type="unfinished"></translation>
+        <translation>%1：无法获取文件的内容</translation>
     </message>
 </context>
 <context>
@@ -41291,7 +41291,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cvs/cvscontrol.cpp" line="+135"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -41393,7 +41393,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+3"/>
         <source>Shows QML object tree in Locals and Expressions when connected and not stepping.</source>
-        <translation type="unfinished">当连接并不单步时显示QML对象树和表达式。</translation>
+        <translation>当连接且不单步运行时在“局部变量和表达式”中显示QML对象树。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -41403,7 +41403,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+3"/>
         <source>Enables a full file path in breakpoints by default also for GDB.</source>
-        <translation type="unfinished">使一个完整的文件路径在默认情况下也为GDB断点。</translation>
+        <translation>默认在断点中也为GDB启用完全文件路径。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -41413,7 +41413,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+3"/>
         <source>Registers Qt Creator for debugging crashed applications.</source>
-        <translation type="unfinished">寄存器Qt Creator的调试崩溃的应用程序。</translation>
+        <translation>为调试崩溃的应用程序注册到Qt Creator中。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -41428,7 +41428,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+1"/>
         <source>Shows a warning when starting the debugger on a binary with insufficient debug information.</source>
-        <translation type="unfinished">当启动调试器时，调试信息不足的二进制文件时，显示一个警告。</translation>
+        <translation>当启动调试器来调试信息不足的二进制文件时，显示一个警告。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -41438,7 +41438,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+1"/>
         <source>Scrolls the editor only when it is necessary to keep the current line in view, instead of keeping the next statement centered at all times.</source>
-        <translation type="unfinished"></translation>
+        <translation>滚动编辑器当且仅当有必要保持当前的行在视图中，而不是保持下一个语句在任何时候都处于中央。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -41624,7 +41624,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+1"/>
         <source>Section %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>第%1：%2</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -41673,7 +41673,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeroptionspage.cpp" line="+132"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -41683,22 +41683,22 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Auto-detected</source>
-        <translation type="unfinished">自动检测</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Manual</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -41744,12 +41744,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+49"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -41769,7 +41769,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+31"/>
         <source>Debuggers</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器</translation>
     </message>
 </context>
 <context>
@@ -41796,12 +41796,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggermainwindow.cpp" line="-153"/>
         <source>Memory...</source>
-        <translation type="unfinished">内存...</translation>
+        <translation>内存...</translation>
     </message>
     <message>
         <location line="+172"/>
         <source>Debugger Toolbar</source>
-        <translation type="unfinished">调试器工具栏</translation>
+        <translation>调试器工具栏</translation>
     </message>
 </context>
 <context>
@@ -44488,12 +44488,12 @@ Remote: %4</source>
     <message>
         <location line="-24"/>
         <source>GCC</source>
-        <translation type="unfinished">GCC</translation>
+        <translation>GCC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clang</source>
-        <translation type="unfinished">Clang</translation>
+        <translation>Clang</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -44503,7 +44503,7 @@ Remote: %4</source>
     <message>
         <location line="+2"/>
         <source>MSVC</source>
-        <translation type="unfinished">MSVC</translation>
+        <translation>MSVC</translation>
     </message>
     <message>
         <location line="+2"/>

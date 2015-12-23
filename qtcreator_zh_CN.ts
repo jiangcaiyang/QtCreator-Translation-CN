@@ -20609,32 +20609,32 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+3"/>
         <source>Kit</source>
-        <translation type="unfinished">构建套件(Kit)</translation>
+        <translation>构建套件(Kit)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Kit ID</source>
-        <translation type="unfinished"></translation>
+        <translation>构建套件 ID</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Kit filesystem-friendly name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建套件filesystem-friendly名称</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The name of the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活跃的构建套件的名称。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The name of the currently active kit in a filesystem-friendly version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前活动的构建套件名称filesystem-friendly版本。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The id of the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活动的构建套件id。</translation>
     </message>
     <message>
         <location line="+107"/>
@@ -20863,7 +20863,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="-372"/>
         <source>Configure Project</source>
-        <translation type="unfinished">配置项目</translation>
+        <translation>配置项目</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -20917,7 +20917,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="-1268"/>
         <source>Add Existing Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加现有目录...</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -20977,27 +20977,27 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+1364"/>
         <source>The project &quot;%1&quot; is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有配置项目&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The project &quot;%1&quot; has no active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>该项目&quot;%1&quot;没有有效的构建套件。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The kit &quot;%1&quot; for the project &quot;%2&quot; has no active run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>构建套件&quot;%1&quot;为项目&quot;%2&quot;没有设置有效的运行配置。</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Cannot run &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法运行&quot;%1&quot;.</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>Could not add following files to project %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为项目%1添加以下文件:</translation>
     </message>
     <message>
         <location line="+145"/>
@@ -21010,7 +21010,9 @@ to project &quot;%2&quot;.</source>
         <source>The project file %1 cannot be automatically changed.
 
 Rename %2 to %3 anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目文件%1不能自动改变。
+
+重命名 %2 为 %3 ?</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -21188,22 +21190,22 @@ Do you want to ignore them?</source>
     <message>
         <location line="-2158"/>
         <source>Quick Switch Kit Selector</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快速开关套件选择器</translation>
     </message>
     <message>
         <location line="+174"/>
         <source>Current project&apos;s main file.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目的主要文件。</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>The name of the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目的名称。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The name of the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活跃的构建套件的名称。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -21213,119 +21215,119 @@ Do you want to ignore them?</source>
     <message>
         <location line="+7"/>
         <source>The ID of the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活动的构建套件ID。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The host address of the device in the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前活跃的构建套件中的设备主机地址。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The SSH port of the device in the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前活跃的构建套件中的SSH端口。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The username with which to log into the device in the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前活跃的构建套件中登录到设备的用户名。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The private key file with which to authenticate when logging into the device in the currently active kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前活跃的构建套件中，使用私钥文件登录到设备时进行身份验证。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>The currently active build configuration&apos;s name.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活跃的构建套件的配置名字。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The currently active build configuration&apos;s type.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前活跃的构建套件的配置类型。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>File where current session is saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存当前会话的文件。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Name of current session.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前会话的名字。</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>All Projects</source>
-        <translation type="unfinished">所有项目</translation>
+        <translation>所有项目</translation>
     </message>
     <message>
         <location line="+182"/>
         <source>&lt;h3&gt;Project already open&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;项目已经打开&lt;/h3&gt;</translation>
     </message>
     <message>
         <location line="+75"/>
         <source>Failed opening project &quot;%1&quot;: No plugin can open project type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目&quot;%1&quot;失败:没有插件可以打开项目类型&quot;%2&quot;。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Failed opening project &quot;%1&quot;: Unknown project type.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目 &apos;%1&apos;失败:未知的项目类型。</translation>
     </message>
     <message>
         <location line="+263"/>
         <source>Ignore All Errors?</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略所有的错误?</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Run Configuration Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>运行配置被删除</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The configuration that was supposed to run is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>应该运行的配置不再可用。</translation>
     </message>
     <message>
         <location line="+225"/>
         <location line="+3"/>
         <source>Build</source>
         <comment>Build step</comment>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Stop Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>停止应用</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stop these applications before building?</source>
-        <translation type="unfinished"></translation>
+        <translation>构建前停止这些应用程序?</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>The project %1 is not configured, skipping it.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目%1没有被配置，跳过它。</translation>
     </message>
     <message>
         <location line="+208"/>
         <source>Building &quot;%1&quot; is disabled: %2&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>构建&quot;%1&quot;是禁用的: %2&lt;br&gt;</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>A build is in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在进行构建。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Building &quot;%1&quot; is disabled: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>构建&quot;%1&quot;是禁用的: %2</translation>
     </message>
     <message>
         <location line="+229"/>
@@ -21335,12 +21337,12 @@ Do you want to ignore them?</source>
     <message>
         <location line="+537"/>
         <source>The file %1 could not be renamed %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件%1无法重命名为%2。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>无法重命名文件</translation>
     </message>
     <message>
         <location line="-319"/>
@@ -21390,7 +21392,7 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/runconfiguration.cpp" line="+257"/>
         <source>Run Settings</source>
-        <translation type="unfinished">运行设置</translation>
+        <translation>运行设置</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -21452,12 +21454,12 @@ Reason: %2</source>
     <message>
         <location line="-68"/>
         <source>Delete Session</source>
-        <translation type="unfinished">删除会话</translation>
+        <translation>删除会话</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Delete session %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除会话%1?</translation>
     </message>
     <message>
         <location line="+68"/>
@@ -21477,7 +21479,7 @@ Reason: %2</source>
     <message>
         <location line="+131"/>
         <source>Loading Session</source>
-        <translation type="unfinished"></translation>
+        <translation>加载会话</translation>
     </message>
     <message>
         <location line="-539"/>
@@ -21505,7 +21507,7 @@ Reason: %2</source>
     <message>
         <location line="+2"/>
         <source>The version of your .shared file is not supported by Qt Creator. Do you want to try loading it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>您的 .shared文件版本不被Qt Creator支持。你想再试加载它么？</translation>
     </message>
 </context>
 <context>
@@ -21533,12 +21535,12 @@ Reason: %2</source>
     <message>
         <location line="+14"/>
         <source>Error: Kill process failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：杀死进程失败：%1</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Remote stderr was: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>远程标准错误是：%1</translation>
     </message>
 </context>
 <context>
@@ -21559,12 +21561,12 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/target.cpp" line="-10"/>
         <source>Target Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>目标文件设置</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Source directory</source>
-        <translation type="unfinished"></translation>
+        <translation>源文件目录</translation>
     </message>
 </context>
 <context>
@@ -21744,12 +21746,12 @@ Reason: %2</source>
     <message>
         <location line="+4"/>
         <source>Error creating directory &quot;%1&quot;: %2</source>
-        <translation>创建目录 &quot;%`1&quot; 出错: %2</translation>
+        <translation>创建目录 &quot;%1&quot; 出错: %2</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Could not open local file &quot;%1&quot;: %2</source>
-        <translation>打开目录 &quot;%`1&quot; 出错: %2</translation>
+        <translation>打开目录 &quot;%1&quot; 出错: %2</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -22063,55 +22065,55 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="-4"/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>Key algorithm:</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥算法:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>&amp;RSA</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;RSA</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>&amp;DSA</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;DSA</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+2"/>
         <source>Key &amp;size:</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥大小(&amp;s):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>Private key file:</source>
-        <translation type="unfinished"></translation>
+        <translation>私钥文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+3"/>
         <source>Public key file:</source>
-        <translation type="unfinished"></translation>
+        <translation>公钥文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+2"/>
         <source>&amp;Generate And Save Key Pair</source>
-        <translation type="unfinished"></translation>
+        <translation>生成和保存密钥对(&amp;G)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>

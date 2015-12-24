@@ -18373,7 +18373,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Headless (QtCore)</source>
-        <translation type="unfinished"></translation>
+        <translation>无头的</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -45673,12 +45673,12 @@ These files are preserved.</source>
     <message>
         <location line="+26"/>
         <source>Interpreter: </source>
-        <translation type="unfinished"></translation>
+        <translation>解释器: </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Script: </source>
-        <translation type="unfinished"></translation>
+        <translation>脚本: </translation>
     </message>
 </context>
 <context>
@@ -45694,27 +45694,27 @@ These files are preserved.</source>
     <message>
         <location line="+581"/>
         <source>No Python interpreter specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有Pytion解释器.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Python interpreter %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pytion 解释器 %1 不存在.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Starting %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>开始 %1...</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>%1 crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 崩溃</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 exited with code %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 在代码 %2处退出</translation>
     </message>
 </context>
 <context>
@@ -49294,17 +49294,17 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/selectablefilesmodel.cpp" line="-208"/>
         <source>Source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>资源目录:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Start Parsing</source>
-        <translation type="unfinished"></translation>
+        <translation>开始分析</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show files matching:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示符合条件的文件:</translation>
     </message>
     <message>
         <location line="+5"/>

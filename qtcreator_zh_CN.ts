@@ -18373,7 +18373,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Headless (QtCore)</source>
-        <translation type="unfinished"></translation>
+        <translation>无头的</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -42290,42 +42290,42 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizard.cpp" line="+59"/>
         <source>Check whether a variable exists.&lt;br&gt;Returns &quot;true&quot; if it does and an empty string if not.</source>
-        <translation type="unfinished">检查一个变量是否存在。&lt;br&gt;返回&quot;true&quot;如果是这样,如果不是一个空字符串。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Could not determine target path. &quot;TargetPath&quot; was not set on any page.</source>
-        <translation>无法确定目标路径。&quot;定位路径&quot;没有任何页面。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+15"/>
         <source>File Generation Failed</source>
-        <translation>文件生成失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The wizard failed to generate files.&lt;br&gt;The error message was: &quot;%1&quot;.</source>
-        <translation>该向导无法生成文件。&lt;br&gt;错误消息是:&quot;%1&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Failed to Overwrite Files</source>
-        <translation>覆盖文件失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Format Files</source>
-        <translation>格式文件失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Write Files</source>
-        <translation>写入文件失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Post-Process Files</source>
-        <translation>后置处理文件失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -42335,52 +42335,52 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+6"/>
         <source>Failed to Open Files</source>
-        <translation>打开文件失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+50"/>
         <source>&quot;%1&quot; does not exist in the file system.</source>
-        <translation>&quot;%1&quot;在文件系统中不存在。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Failed to open &quot;%1&quot; as a project.</source>
-        <translation>无法将&quot;%1&quot;作为一个项目打开。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation>为&apos;%1&apos;打开编辑器时失败。</translation>
+        <translation type="unfinished">为&apos;%1&apos;打开编辑器时失败。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>No file to open found in &quot;%1&quot;.</source>
-        <translation>在打开的文件中未找到&quot;%1&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Failed to open project.</source>
-        <translation>打开项目失败。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to open project in &quot;%1&quot;.</source>
-        <translation>在&quot;%1&quot;中打开项目失败。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot Open Project</source>
-        <translation>无法打开项目</translation>
+        <translation type="unfinished">无法打开项目</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardfilegenerator.cpp" line="+154"/>
         <source>When processing &quot;%1&quot;:&lt;br&gt;%2</source>
-        <translation>处理 &quot;%1&quot;:&lt;br&gt;%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardpagefactory_p.cpp" line="+89"/>
         <source>When parsing fields of page &apos;%1&apos;: %2</source>
-        <translation>解析页面&apos;%1&apos;的字段：%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+39"/>
@@ -42390,7 +42390,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+40"/>
         <source>Error parsing &quot;%1&quot; in &quot;Kits&quot; page: %2</source>
-        <translation>在&quot;构建套件&quot;页面解析错误&quot;%1&quot; : %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
@@ -42410,7 +42410,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+10"/>
         <source>Invalid regular expression &quot;%1&quot; in &quot;%2&quot;. %3</source>
-        <translation>在&quot;%2&quot;中无效的正则表达式&quot;%1&quot;. %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
@@ -44689,17 +44689,17 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/sshdeviceprocess.cpp" line="+287"/>
         <source>Failed to kill remote process: %1</source>
-        <translation>未能杀死远程进程: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Timeout waiting for remote process to finish.</source>
-        <translation>超时等待远程进程完成。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Terminated by request.</source>
-        <translation>根据请求终止。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -44787,42 +44787,42 @@ Remote: %4</source>
     <message>
         <location line="+143"/>
         <source>Label data is not an object.</source>
-        <translation>标签数据不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
         <source>No text given for Label.</source>
-        <translation>没有标签的文本。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Spacer data is not an object.</source>
-        <translation type="unfinished">间隔数据是不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&quot;factor&quot; is no integer value.</source>
-        <translation type="unfinished">&quot;factor&quot;没有整数值。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+34"/>
         <source>LineEdit data is not an object.</source>
-        <translation type="unfinished">行编辑的数据不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Invalid regular expression &quot;%1&quot; in &quot;validator&quot;.</source>
-        <translation type="unfinished">在“校验器”中无效的正则表达式“%1”。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+92"/>
         <source>TextEdit data is not an object.</source>
-        <translation type="unfinished">文本编辑的数据不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+68"/>
         <source>PathChooser data is not an object.</source>
-        <translation type="unfinished">路径选择器数据不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
@@ -44914,7 +44914,7 @@ Remote: %4</source>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonprojectpage.cpp" line="+81"/>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation>未命名</translation>
+        <translation type="unfinished">untitled</translation>
     </message>
 </context>
 <context>
@@ -44922,32 +44922,30 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonsummarypage.cpp" line="+166"/>
         <source>Failed to Commit to Version Control</source>
-        <translation>未能提交到版本控制中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error message from Version Control System: &quot;%1&quot;.</source>
-        <translation>版本控制系统的错误消息:&quot;%1&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
         <location line="+13"/>
         <source>Failed to Add to Project</source>
-        <translation>添加到项目失败</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Failed to add subproject &quot;%1&quot;
 to project &quot;%2&quot;.</source>
-        <translation>未能添加子项目&quot;%1&quot;
-到项目&quot;%2&quot;中。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Failed to add one or more files to project
 &quot;%1&quot; (%2).</source>
-        <translation>添加一个或多个文件到项目失败
-&quot;%1&quot; (%2)。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -44955,117 +44953,110 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="+120"/>
         <source>Generator is not a object.</source>
-        <translation>创建不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Generator has no typeId set.</source>
-        <translation>创建器没有设置类型ID。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>TypeId &quot;%1&quot; of generator is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation>产生的类型ID&quot;%1&quot;是未知的。支持的类型ID是：&quot;%2&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Page is not an object.</source>
-        <translation>页面不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Page has no typeId set.</source>
-        <translation>页面没有类型id设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+8"/>
         <source>TypeId &quot;%1&quot; of page is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation>页面类型ID&quot;%1&quot;是未知的。支持的类型ID是：&quot;%2&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Page with typeId &quot;%1&quot; has invalid &quot;index&quot;.</source>
-        <translation>页面类型ID为&quot;%1&quot;是无效的&quot;索引&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Path &quot;%1&quot; does not exist when checking Json wizard search paths.
 </source>
-        <translation>检查的Json向导搜索路径时，路径&quot;%1&quot;不存在。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Checking &quot;%1&quot; for %2.
 </source>
-        <translation>为%2校验&quot;%1&quot;。
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+22"/>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4
 </source>
-        <translation>* 未能解析&quot;%1&quot;:%2:%3: %4
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+8"/>
         <source>* Did not find a JSON object in &quot;%1&quot;.
 </source>
-        <translation>* 没有在&quot;%1&quot;找到JSON对象。
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Configuration found and parsed.
 </source>
-        <translation>* 配置发现和解析。
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Version %1 not supported.
 </source>
-        <translation>* 不支持版本%1。
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Failed to create: %1
 </source>
-        <translation>* 未能创建:%1
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+12"/>
         <source>JsonWizard: &quot;%1&quot; not found
 </source>
-        <translation>JsonWizard: &quot;%1&quot;未找到
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+163"/>
         <source>key not found.</source>
-        <translation>密钥未找到。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Expected an object or a list.</source>
-        <translation>预计一个对象或一个列表。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+30"/>
         <source>The platform selected for the wizard.</source>
-        <translation>为向导选择平台。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The features available to this wizard.</source>
-        <translation>此功能适用于该向导。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The plugins loaded.</source>
-        <translation>插件加载。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+28"/>
@@ -45075,62 +45066,62 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+10"/>
         <source>No id set.</source>
-        <translation>没有id设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No category is set.</source>
-        <translation>没有类别设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Icon file &quot;%1&quot; not found.</source>
-        <translation>图标文件&quot;%1&quot;未找到。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Image file &quot;%1&quot; not found.</source>
-        <translation>图像文件&quot;%1&quot;未找到。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+12"/>
         <source>No displayName set.</source>
-        <translation>没有显示名称设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No displayCategory set.</source>
-        <translation>没有显示类别设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No description set.</source>
-        <translation>没有说明设置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+8"/>
         <source>When parsing &quot;generators&quot;: %1</source>
-        <translation>解析“生成器”：%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When parsing &quot;pages&quot;: %1</source>
-        <translation>解析&quot;页面&quot;: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+23"/>
         <source>List element of &quot;options&quot; is not an object.</source>
-        <translation>列表元素的“选项”不是一个对象。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No &quot;key&quot; given for entry in &quot;options&quot;.</source>
-        <translation>给出的&quot;选项&quot;中没有&quot;密钥&quot;。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>When parsing &quot;options&quot;: Key &quot;%1&quot; set more than once.</source>
-        <translation>解析“选项”:密钥&quot;%1&quot;设置了不止一次。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45146,24 +45137,23 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardgeneratorfactory.cpp" line="+189"/>
         <source>%1 [folder]</source>
-        <translation>%1 [目录]</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 [symbolic link]</source>
-        <translation>%1 [符号链接]</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 [read only]</source>
-        <translation>%1 [只读]</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation>目录%1包含不能写入的文件：
-%2。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45189,7 +45179,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitconfigwidget.cpp" line="+59"/>
         <source>Manage...</source>
-        <translation>管理...</translation>
+        <translation type="unfinished">管理...</translation>
     </message>
 </context>
 <context>
@@ -45238,27 +45228,27 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/localapplicationruncontrol.cpp" line="+105"/>
         <source>No executable specified.</source>
-        <translation>未指定可执行文件。</translation>
+        <translation type="unfinished">未指定可执行文件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Executable %1 does not exist.</source>
-        <translation>可执行文件%1不存在。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Starting %1...</source>
-        <translation>正在启动 %1...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+52"/>
         <source>%1 crashed</source>
-        <translation>%1 崩溃</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 exited with code %2</source>
-        <translation>%1 退出代码 %2</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45266,17 +45256,17 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/localenvironmentaspect.cpp" line="+57"/>
         <source>Build Environment</source>
-        <translation>构建环境</translation>
+        <translation type="unfinished">构建环境</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>System Environment</source>
-        <translation>系统环境变量</translation>
+        <translation type="unfinished">系统环境变量</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clean Environment</source>
-        <translation>清理环境变量</translation>
+        <translation type="unfinished">清理时的环境变量</translation>
     </message>
 </context>
 <context>
@@ -45285,8 +45275,7 @@ to project &quot;%2&quot;.</source>
         <location filename="../../../src/plugins/projectexplorer/osparser.cpp" line="+61"/>
         <source>The process can not access the file because it is being used by another process.
 Please close all running instances of your application before starting a build.</source>
-        <translation>该进程不能访问该文件，因为它正被另一个进程使用。
-请在开始构建应用之前关闭所有正在运行的实例。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45294,47 +45283,47 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/project.cpp" line="+121"/>
         <source>Project</source>
-        <translation>项目</translation>
+        <translation type="unfinished">项目</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Project Name</source>
-        <translation>项目名称</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+237"/>
         <source>Incompatible Kit</source>
-        <translation>不兼容的构建套件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kit %1 is incompatible with kit %2.</source>
-        <translation>构建套件%1与构建套件%2不兼容。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Build configurations:</source>
-        <translation>构建配置：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Deploy configurations:</source>
-        <translation>部署配置：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Run configurations:</source>
-        <translation>运行配置：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Partially Incompatible Kit</source>
-        <translation>部分不兼容的构建套装</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Some configurations could not be copied.</source>
-        <translation>一些配置无法复制。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45342,7 +45331,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectimporter.cpp" line="+64"/>
         <source>%1 - temporary</source>
-        <translation>%1 - 临时</translation>
+        <translation type="unfinished">%1 - 临时</translation>
     </message>
 </context>
 <context>
@@ -45350,7 +45339,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projecttree.cpp" line="+483"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is outside the project directory.</source>
-        <translation>&lt;b&gt;警告：&lt;/b&gt; 这个文件是在项目目录之外。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45358,17 +45347,17 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwizardpage.cpp" line="-391"/>
         <source>The files are implicitly added to the projects:</source>
-        <translation>这些文件默认添加到项目：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+67"/>
         <source>&lt;None&gt;</source>
-        <translation>&lt;无&gt;</translation>
+        <translation type="unfinished">&lt;无&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;Implicitly Add&gt;</source>
-        <translation>&lt;隐式添加&gt;</translation>
+        <translation type="unfinished">&lt;隐式添加&gt;</translation>
     </message>
 </context>
 <context>
@@ -45391,12 +45380,12 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/runconfigurationaspects.cpp" line="+61"/>
         <source>Terminal</source>
-        <translation>终端</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Run in terminal</source>
-        <translation>在终端中运行</translation>
+        <translation type="unfinished">在终端中运行</translation>
     </message>
 </context>
 <context>
@@ -45404,22 +45393,22 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location line="+63"/>
         <source>Working Directory</source>
-        <translation>工作目录</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Select Working Directory</source>
-        <translation>选择工作目录</translation>
+        <translation type="unfinished">选择工作目录</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset to Default</source>
-        <translation>恢复默认设置</translation>
+        <translation type="unfinished">恢复默认设置</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation type="unfinished">工作目录:</translation>
     </message>
 </context>
 <context>
@@ -45440,7 +45429,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/selectablefilesmodel.cpp" line="+735"/>
         <source>Edit Files</source>
-        <translation>编辑文件</translation>
+        <translation type="unfinished">编辑文件</translation>
     </message>
     <message>
         <source>Hide files matching:</source>
@@ -45472,7 +45461,7 @@ These files are preserved.</source>
     <message>
         <location line="+32"/>
         <source>Add Existing Directory</source>
-        <translation>添加现有目录</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45537,38 +45526,38 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/targetsetuppage.cpp" line="+86"/>
         <source>&lt;span style=&quot; font-weight:600;&quot;&gt;No valid kits found.&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; font-weight:600;&quot;&gt;没有找到可用的构建套件。&lt;/span&gt;</translation>
+        <translation type="unfinished">&lt;span style=&quot; font-weight:600;&quot;&gt;没有找到可用的构建套件。&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Please add a kit in the &lt;a href=&quot;buildandrun&quot;&gt;options&lt;/a&gt; or via the maintenance tool of the SDK.</source>
-        <translation>请在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或者通过SDK的维护工具添加一个构建套件。</translation>
+        <translation type="unfinished">请在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或者通过SDK的维护工具添加一个构建套件。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Select all kits</source>
-        <translation>选择所有的构建套件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Select Kits for Your Project</source>
-        <translation>为您的项目选择构建套件</translation>
+        <translation type="unfinished">为您的项目选择构建套件</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Kit Selection</source>
-        <translation>选择构建套件</translation>
+        <translation type="unfinished">选择构建套件</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Kits</source>
-        <translation>构建套件(Kit)</translation>
+        <translation type="unfinished">构建套件(Kit)</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>Qt Creator can use the following kits for project &lt;b&gt;%1&lt;/b&gt;:</source>
         <comment>%1: Project name</comment>
-        <translation>Qt Creator为项目&lt;b&gt;%1&lt;/b&gt;使用下列构建套件：</translation>
+        <translation type="unfinished">Qt Creator为项目&lt;b&gt;%1&lt;/b&gt;使用下列构建套件：</translation>
     </message>
 </context>
 <context>
@@ -45591,12 +45580,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/task.cpp" line="+77"/>
         <source>Qt Creator needs a compiler set up to build. Configure a compiler in the kit options.</source>
-        <translation>Qt Creator需要设置一个编译器进行构建。在套件选项中配置编译器。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Qt Creator needs a build configuration set up to build. Configure a build configuration in the project settings.</source>
-        <translation>Qt Creator的需要设置构建配置进行构建。在项目设置中设置构建配置。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45651,14 +45640,14 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/projectexplorer/xcodebuildparser.cpp" line="+82"/>
         <location line="+181"/>
         <source>Replacing signature</source>
-        <translation>更换签名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-159"/>
         <location line="+129"/>
         <location line="+17"/>
         <source>Xcodebuild failed.</source>
-        <translation>Xcode构建失败。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45666,17 +45655,17 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/pythoneditor/pythoneditorplugin.cpp" line="+471"/>
         <source>Run %1</source>
-        <translation>运行 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>(disabled)</source>
-        <translation>(禁用)</translation>
+        <translation type="unfinished">(禁用)</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>The script is currently disabled.</source>
-        <translation>该脚本当前被禁用。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45684,12 +45673,12 @@ These files are preserved.</source>
     <message>
         <location line="+26"/>
         <source>Interpreter: </source>
-        <translation>解释器:</translation>
+        <translation>解释器: </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Script: </source>
-        <translation>脚本:</translation>
+        <translation>脚本: </translation>
     </message>
 </context>
 <context>
@@ -45697,7 +45686,7 @@ These files are preserved.</source>
     <message>
         <location line="+22"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation>打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
+        <translation type="unfinished">打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
     </message>
 </context>
 <context>
@@ -45720,7 +45709,7 @@ These files are preserved.</source>
     <message>
         <location line="+35"/>
         <source>%1 crashed</source>
-        <translation>%1 崩溃</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -45733,12 +45722,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildconfiguration.cpp" line="+157"/>
         <source>Parsing the Qbs project.</source>
-        <translation>正在解析Qbs项目。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Parsing of Qbs project has failed.</source>
-        <translation>Qbs项目解析失败。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45746,33 +45735,33 @@ These files are preserved.</source>
     <message>
         <location line="+219"/>
         <source>Build</source>
-        <translation>构建</translation>
+        <translation type="unfinished">构建</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Debug</source>
         <extracomment>The name of the debug build configuration created by default for a qbs project.</extracomment>
-        <translation>调试</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Release</source>
         <extracomment>The name of the release build configuration created by default for a qbs project.</extracomment>
-        <translation>发布</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Release</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>发布</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45780,7 +45769,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildconfigurationwidget.cpp" line="+65"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation type="unfinished">构建目录:</translation>
     </message>
 </context>
 <context>
@@ -45788,7 +45777,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstep.cpp" line="-631"/>
         <source>Qbs Build</source>
-        <translation>Qbs构建</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45820,12 +45809,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsconstants.h" line="+55"/>
         <source>Qbs</source>
-        <translation>Qbs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprofilessettingspage.cpp" line="+82"/>
         <source>Profiles</source>
-        <translation>配置文件</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45833,7 +45822,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsdeployconfigurationfactory.cpp" line="+49"/>
         <source>Qbs Install</source>
-        <translation>Qbsa安装</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -45857,7 +45846,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsnodes.cpp" line="+66"/>
         <source>%1 in %2</source>
-        <translation>在 %2 中的%1</translation>
+        <translation type="unfinished">在 %2 中的%1</translation>
     </message>
 </context>
 <context>
@@ -46843,32 +46832,32 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/instances/puppetcreator.cpp" line="+216"/>
         <source>QML Emulation Layer (QML Puppet) Building was Unsuccessful</source>
-        <translation>QML 仿真层(QML Puppet)构建不成功</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真层(QML Puppet)不能构建。退回仿真层，它不支持所有功能，将被使用。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Qt Version is not supported</source>
-        <translation>Qt版本不支持</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the Qt version is too old or it cannot run natively on your computer. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真层(QML Puppet)不能构建，因为Qt版本太旧或者无法在本地计算机上运行。退回仿真层，它不支持所有功能，将被使用。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Kit is invalid</source>
-        <translation>构建套件失效</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the kit is not configured correctly. For example the compiler can be misconfigured. Fix the kit configuration and restart Qt Creator. Otherwise, the fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真层(QML Puppet)不能构建，因为该构建套件配置不正确。例如，编译器配置错误。修复构建套件配置并重新启动Qt Creator。否则，将退回仿真层，它不支持所有功能，将被使用。</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -49315,24 +49304,24 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+11"/>
         <source>Show files matching:</source>
-        <translation>显示符合条件的文件:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Hide files matching:</source>
-        <translation>隐藏符合条件的文件:</translation>
+        <translation type="unfinished">隐藏符合条件的文件:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Apply Filter</source>
-        <translation>应用过滤器</translation>
+        <translation type="unfinished">应用过滤器</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Generating file list...
 
 %1</source>
-        <translation>生成文件列表...
+        <translation type="unfinished">生成文件列表...
 
 %1</translation>
     </message>
@@ -49340,7 +49329,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+14"/>
         <source>Not showing %n files that are outside of the base directory.
 These files are preserved.</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>未显示基础目录外部的 %n个文件。
 这些文件受到保护。</numerusform>
         </translation>

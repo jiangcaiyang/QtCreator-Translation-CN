@@ -8850,7 +8850,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+12"/>
         <source>&lt;p&gt;This switches the Locals&amp;&amp;Watchers view to automatically dereference pointers. This saves a level in the tree view, but also loses data for the now-missing intermediate level.</source>
-        <translation type="unfinished"></translation>
+        <translation>它切换“本地和观察器”视图用来自动对指针进行解引用。它减少树状视图的一个层级，但同时会失去即时缺失中间层级中的数据。</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -8880,7 +8880,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+20"/>
         <source>&lt;p&gt;Selecting this causes the C++ Code Model being asked for variable scope information. This might result in slightly faster debugger operation but may fail for optimized code.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选择它将会导致C++代码模型被询问变量所在的域信息。它会导致调试器运行更快，但在优化代码中可能会失效。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -8895,7 +8895,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+16"/>
         <source>&lt;p&gt;Not all source code lines generate executable code. Putting a breakpoint on such a line acts as if the breakpoint was set on the next line that generated code. Selecting &apos;Adjust Breakpoint Locations&apos; shifts the red breakpoint markers in such cases to the location of the true breakpoint.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;不是所有的源代码行产生可执行的代码。在这样的行中设置一个断点会导致这样的行为，该行为似乎将断点设置在下一个产生代码的行上。在这种情况下，选定“调整断点位置”会将红色的断点符号切换到正确的位置上。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -8940,12 +8940,12 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Checking this will enable tooltips for variable values during debugging. Since this can slow down debugging and does not provide reliable information as it does not use scope information, it is switched off by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试期间启用变量的工具提示。因为这会拖慢调试的速度，并且由于不使用域信息，它提供的信息并不是可靠的，所以默认它是关闭的。</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>&lt;p&gt;Checking this will show a column with address information in the stack view during debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试的过程中在堆栈视图中显示一列地址信息。</translation>
     </message>
     <message>
         <location line="-37"/>
@@ -8955,7 +8955,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Checking this will enable tooltips in the locals view during debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试过程中在本地视图中启用工具提示。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -8965,7 +8965,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Checking this will enable tooltips in the breakpoints view during debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试过程中在断点视图中启用工具提示。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -8975,7 +8975,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Checking this will enable tooltips in the stack view during debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试过程中在堆栈视图中启用工具提示。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -8985,7 +8985,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Checking this will show a column with address information in the breakpoint view during debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;选定此项会在调试过程中在断点视图中显示一列地址信息。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -9014,12 +9014,12 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+33"/>
         <source>&lt;p&gt;The maximum length of string entries in the Locals and Expressions pane. Longer than that are cut off and displayed with an ellipsis attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;在“本地变量和表达式”面板中最大字符串入口长度。超长的字符串将会被截除并显示附加的省略号。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&lt;p&gt;The maximum length for strings in separated windows. Longer strings are cut off and displayed with an ellipsis attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;在单独窗口中最大字符串长度。超长的字符串将会被截除并显示附加的省略号。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -9077,7 +9077,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;Mappings of source file folders to be used in the debugger can be entered here.&lt;/p&gt;&lt;p&gt;This is useful when using a copy of the source tree at a location different from the one at which the modules where built, for example, while doing remote debugging.&lt;/p&gt;&lt;p&gt;If source is specified as a regular expression by starting it with an open parenthesis, Qt Creator matches the paths in the ELF with the regular expression to automatically determine the source path.&lt;/p&gt;&lt;p&gt;Example: &lt;b&gt;(/home/.*/Project)/KnownSubDir -&gt; D:\Project&lt;/b&gt; will substitute ELF built by any user to your local project directory.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;在此输入源文件文件夹的映射以便在调试器中使用。&lt;/p&gt;&lt;p&gt;这将对于使用那些和源码构建路径不同路径的源码副本将会非常有用。比如进行远程调试。&lt;/p&gt;&lt;p&gt;如果源被指定为一个以开放括号开头的正则表达式，Qt Creator通过正则表达式匹配在ELF中的路径以便自动决定源路径。&lt;/p&gt;&lt;p&gt;举一个例子：&lt;b&gt;(/home/.*/Project)/KnownSubDir -&gt; D:\Project&lt;/b&gt;将会将被任一用户构建的ELF代替为您本地项目的目录。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+25"/>

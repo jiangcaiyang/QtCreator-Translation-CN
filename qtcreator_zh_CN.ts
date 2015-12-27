@@ -4053,14 +4053,14 @@ Continue?</source>
         <location filename="../../../src/plugins/coreplugin/dialogs/externaltoolconfig.ui"/>
         <location filename="../../../src/plugins/coreplugin/ui_externaltoolconfig.h" line="+2"/>
         <source>Add tool.</source>
-        <translation>添加工具.</translation>
+        <translation>添加工具。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/coreplugin/dialogs/externaltoolconfig.cpp" line="+180"/>
         <location filename="../../../src/plugins/coreplugin/ui_externaltoolconfig.h" line="+44"/>
         <source>No changes to apply.</source>
-        <translation>申请没有更改。</translation>
+        <translation>没有应用变更。</translation>
     </message>
     <message>
         <location/>

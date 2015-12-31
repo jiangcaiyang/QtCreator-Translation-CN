@@ -2641,7 +2641,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="+75"/>
         <source>Enter &amp;comment:</source>
-        <translation type="unfinished">输入注释(&amp;C):</translation>
+        <translation>输入注释(&amp;C):</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2795,7 +2795,7 @@ Local pulls are not applied to the master branch.</source>
         <location filename="../../../src/plugins/clearcase/ui_settingspage.h" line="+1"/>
         <source>&amp;Index only VOBs:</source>
         <extracomment>VOB: Versioned Object Base</extracomment>
-        <translation type="unfinished">仅对下列VOB索引(&amp;I)：</translation>
+        <translation>仅对下列VOB索引(&amp;I)：</translation>
     </message>
     <message>
         <location/>
@@ -2825,7 +2825,7 @@ Local pulls are not applied to the master branch.</source>
         <location/>
         <location filename="../../../src/plugins/clearcase/ui_settingspage.h" line="+2"/>
         <source>Do &amp;not prompt for comment during checkout or check-in</source>
-        <translation type="unfinished">在检入或检出期间不显示注释(&amp;N)</translation>
+        <translation>在检入或检出期间不显示注释(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -6018,7 +6018,7 @@ if they would align to the next line</source>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>S&amp;earch paths:</source>
-        <translation type="unfinished">搜索路径(&amp;E)：</translation>
+        <translation>搜索路径(&amp;E)：</translation>
     </message>
     <message>
         <location/>
@@ -6060,13 +6060,13 @@ These prefixes are used in addition to current file name on Switch Header/Source
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>S&amp;uffix:</source>
-        <translation type="unfinished">后缀(&amp;U)：</translation>
+        <translation>后缀(&amp;U)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>Se&amp;arch paths:</source>
-        <translation type="unfinished">搜索路径(&amp;A)：</translation>
+        <translation>搜索路径(&amp;A)：</translation>
     </message>
     <message>
         <location/>
@@ -6086,7 +6086,7 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+6"/>
         <source>P&amp;refixes:</source>
-        <translation type="unfinished">前缀(&amp;R)：</translation>
+        <translation>前缀(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -6108,7 +6108,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>License &amp;template:</source>
-        <translation type="unfinished">许可协议模板(&amp;T)：</translation>
+        <translation>许可协议模板(&amp;T)：</translation>
     </message>
 </context>
 <context>
@@ -7787,7 +7787,7 @@ Flags: %3</source>
     <message>
         <location line="+6"/>
         <source>&amp;Ignore count:</source>
-        <translation type="unfinished">忽略次数(&amp;I):</translation>
+        <translation>忽略次数(&amp;I):</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -10203,7 +10203,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+1"/>
         <source>&amp;Ignore count:</source>
-        <translation type="unfinished">忽略次数(&amp;I):</translation>
+        <translation>忽略次数(&amp;I):</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -10845,7 +10845,7 @@ Do you want to retry?</source>
     <message>
         <location line="+21"/>
         <source>&amp;Kit:</source>
-        <translation type="unfinished">构建套件(&amp;K):</translation>
+        <translation>构建套件(&amp;K):</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10875,7 +10875,7 @@ Do you want to retry?</source>
     <message>
         <location line="+2"/>
         <source>Debug &amp;information:</source>
-        <translation type="unfinished">调试信息(&amp;I):</translation>
+        <translation>调试信息(&amp;I):</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10931,7 +10931,7 @@ Do you want to retry?</source>
     <message>
         <location line="+1"/>
         <source>&amp;Inferior path:</source>
-        <translation type="unfinished">底层(&amp;I)路径:</translation>
+        <translation>底层(&amp;I)路径:</translation>
     </message>
 </context>
 <context>
@@ -12803,7 +12803,7 @@ will also disable the following plugins:
     <message>
         <location line="+4"/>
         <source>&amp;Query:</source>
-        <translation type="unfinished">查询(&amp;Q):</translation>
+        <translation>查询(&amp;Q):</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -12828,7 +12828,7 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>C&amp;heckout</source>
-        <translation>检出(&amp;h)</translation>
+        <translation>检出(&amp;H)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13217,7 +13217,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;name</source>
-        <translation type="unfinished">重命名(&amp;N)</translation>
+        <translation>重命名(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -13247,7 +13247,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;base</source>
-        <translation type="unfinished">变基(&amp;B)</translation>
+        <translation>变基(&amp;B)</translation>
     </message>
     <message>
         <location/>
@@ -14599,7 +14599,7 @@ Commit now?</source>
     <message>
         <location line="+2"/>
         <source>&amp;Commit</source>
-        <translation type="unfinished">提交(&amp;C)</translation>
+        <translation>提交(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -14709,7 +14709,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_remotedialog.h" line="-4"/>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished">刷新(&amp;F)</translation>
+        <translation>刷新(&amp;F)</translation>
     </message>
     <message>
         <location/>
@@ -14727,7 +14727,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_remotedialog.h" line="+2"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">删除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -14758,7 +14758,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="-5"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
@@ -14939,7 +14939,7 @@ instead of its installation directory when run outside git bash.</source>
     <message>
         <location line="+1"/>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished">刷新(&amp;F)</translation>
+        <translation>刷新(&amp;F)</translation>
     </message>
     <message>
         <location line="+81"/>
@@ -16380,7 +16380,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-43"/>
         <source>Me&amp;rcurial</source>
-        <translation type="unfinished">Mercurial(&amp;R)</translation>
+        <translation>Mercurial(&amp;R)</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -19379,7 +19379,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_editorsettingspropertiespage.h" line="+1"/>
         <source>Display right &amp;margin at column:</source>
-        <translation type="unfinished">显示右边空白(&amp;M)在列：</translation>
+        <translation>显示右边空白(&amp;M)在列：</translation>
     </message>
 </context>
 <context>
@@ -20209,7 +20209,7 @@ to project &quot;%2&quot;.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_sessiondialog.h" line="+1"/>
         <source>C&amp;lone</source>
-        <translation type="unfinished">克隆(&amp;L)</translation>
+        <translation>克隆(&amp;L)</translation>
     </message>
     <message>
         <location/>
@@ -20596,7 +20596,7 @@ to project &quot;%2&quot;.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_projectwizardpage.h" line="+2"/>
         <source>Add to &amp;version control:</source>
-        <translation type="unfinished">添加到版本控制系统(&amp;V):</translation>
+        <translation>添加到版本控制系统(&amp;V):</translation>
     </message>
 </context>
 <context>
@@ -22089,7 +22089,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+2"/>
         <source>Key &amp;size:</source>
-        <translation type="unfinished">密钥大小(&amp;S):</translation>
+        <translation>密钥大小(&amp;S):</translation>
     </message>
     <message>
         <location/>
@@ -22158,19 +22158,19 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-16"/>
         <source>Widget librar&amp;y:</source>
-        <translation type="unfinished">Widget库(&amp;Y):</translation>
+        <translation>Widget库(&amp;Y):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget project &amp;file:</source>
-        <translation type="unfinished">Widget项目文件(&amp;F):</translation>
+        <translation>Widget项目文件(&amp;F):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget h&amp;eader file:</source>
-        <translation type="unfinished">Widget头文件(&amp;E)：</translation>
+        <translation>Widget头文件(&amp;E)：</translation>
     </message>
     <message>
         <location/>
@@ -22182,13 +22182,13 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+2"/>
         <source>Widge&amp;t source file:</source>
-        <translation type="unfinished">Widget源文件(&amp;T):</translation>
+        <translation>Widget源文件(&amp;T):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget &amp;base class:</source>
-        <translation type="unfinished">Widget基类(&amp;B):</translation>
+        <translation>Widget基类(&amp;B):</translation>
     </message>
     <message>
         <location/>
@@ -22200,19 +22200,19 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin class &amp;name:</source>
-        <translation type="unfinished">插件类名(&amp;N):</translation>
+        <translation>插件类名(&amp;N):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin &amp;header file:</source>
-        <translation type="unfinished">插件头文件(&amp;H):</translation>
+        <translation>插件头文件(&amp;H):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin sou&amp;rce file:</source>
-        <translation type="unfinished">插件源文件(&amp;R):</translation>
+        <translation>插件源文件(&amp;R):</translation>
     </message>
     <message>
         <location/>
@@ -22236,7 +22236,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Include pro&amp;ject</source>
-        <translation type="unfinished">包含项目(&amp;J)</translation>
+        <translation>包含项目(&amp;J)</translation>
     </message>
     <message>
         <location/>
@@ -22248,7 +22248,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-4"/>
         <source>G&amp;roup:</source>
-        <translation type="unfinished">群组(&amp;R)：</translation>
+        <translation>群组(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -22260,19 +22260,19 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>W&amp;hat&apos;s this:</source>
-        <translation type="unfinished">这是什么(&amp;H):</translation>
+        <translation>这是什么(&amp;H):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>The widget is a &amp;container</source>
-        <translation type="unfinished">小部件是一个容器(&amp;C)</translation>
+        <translation>小部件是一个容器(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+3"/>
         <source>Property defa&amp;ults</source>
-        <translation type="unfinished">属性默认值(&amp;U)</translation>
+        <translation>属性默认值(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -24916,7 +24916,7 @@ Qt Creator 知道一个相似的URI。</translation>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.ui"/>
         <source>&amp;Host:</source>
-        <translation type="unfinished">主机(&amp;H):</translation>
+        <translation>主机(&amp;H):</translation>
     </message>
     <message>
         <location/>
@@ -28243,7 +28243,7 @@ Filter: %2
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable automatic &amp;indentation</source>
-        <translation type="unfinished">启用自动缩进(&amp;I)</translation>
+        <translation>启用自动缩进(&amp;I)</translation>
     </message>
     <message>
         <location/>
@@ -28448,19 +28448,19 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable &amp;mouse navigation</source>
-        <translation type="unfinished">开启鼠标导航(&amp;M)</translation>
+        <translation>开启鼠标导航(&amp;M)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable scroll &amp;wheel zooming</source>
-        <translation type="unfinished">开启鼠标滚轮缩放(&amp;W)</translation>
+        <translation>开启鼠标滚轮缩放(&amp;W)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable built-in camel case &amp;navigation</source>
-        <translation type="unfinished">开启内建的驼峰大小写导航(&amp;N)</translation>
+        <translation>开启内建的驼峰大小写导航(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -28711,13 +28711,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Enable text &amp;wrapping</source>
-        <translation type="unfinished">开启文字折行(&amp;W)</translation>
+        <translation>开启文字折行(&amp;W)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display right &amp;margin at column:</source>
-        <translation type="unfinished">显示右边空白(&amp;M)在列：</translation>
+        <translation>显示右边空白(&amp;M)在列：</translation>
     </message>
     <message>
         <location/>
@@ -28729,43 +28729,43 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display &amp;folding markers</source>
-        <translation type="unfinished">显示折行标记(&amp;F)</translation>
+        <translation>显示折行标记(&amp;F)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Center &amp;cursor on scroll</source>
-        <translation type="unfinished">滚动时居中光标(&amp;C)</translation>
+        <translation>滚动时居中光标(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight &amp;blocks</source>
-        <translation type="unfinished">高亮显示段落(&amp;B)</translation>
+        <translation>高亮显示段落(&amp;B)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Auto-fold first &amp;comment</source>
-        <translation type="unfinished">自动折叠开头的注释(&amp;C)</translation>
+        <translation>自动折叠开头的注释(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>&amp;Animate matching parentheses</source>
-        <translation type="unfinished">动画显示对应的括号(&amp;A)</translation>
+        <translation>动画显示对应的括号(&amp;A)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight current &amp;line</source>
-        <translation type="unfinished">高亮显示当前行(&amp;L)</translation>
+        <translation>高亮显示当前行(&amp;L)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display line &amp;numbers</source>
-        <translation type="unfinished">显示行号(&amp;N)</translation>
+        <translation>显示行号(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -28801,7 +28801,7 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Mark &amp;text changes</source>
-        <translation type="unfinished">标记文本改变(&amp;T)</translation>
+        <translation>标记文本改变(&amp;T)</translation>
     </message>
     <message>
         <location/>
@@ -29229,13 +29229,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>Ta&amp;b size:</source>
-        <translation type="unfinished">制表符尺寸(&amp;B):</translation>
+        <translation>制表符尺寸(&amp;B):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>&amp;Indent size:</source>
-        <translation type="unfinished">缩进尺寸(&amp;I):</translation>
+        <translation>缩进尺寸(&amp;I):</translation>
     </message>
     <message>
         <location/>
@@ -30235,7 +30235,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+338"/>
         <source>Do not &amp;ask again</source>
-        <translation type="unfinished">下次不再询问(&amp;A)</translation>
+        <translation>下次不再询问(&amp;A)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -34348,7 +34348,7 @@ Partial names can be used if they are unambiguous.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>E&amp;rror message:</source>
-        <translation type="unfinished">错误信息(&amp;R)：</translation>
+        <translation>错误信息(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -35313,7 +35313,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+1"/>
         <source>Text shown on the text field.</source>
-        <translation type="unfinished">在文本框中显示文本。</translation>
+        <translation>在文本框中显示文本。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -35828,7 +35828,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_submiteditorwidget.h" line="+1"/>
         <source>F&amp;iles</source>
-        <translation type="unfinished">文件(&amp;I)</translation>
+        <translation>文件(&amp;I)</translation>
     </message>
     <message>
         <location/>
@@ -47180,62 +47180,62 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/shortcutmanager.cpp" line="+53"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished">重做(&amp;R)</translation>
+        <translation>重做(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Delete &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>删除 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished">剪切(&amp;T)</translation>
+        <translation>剪切(&amp;T)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Cut &quot;%1&quot;</source>
-        <translation type="unfinished">剪切 &quot;%1&quot;</translation>
+        <translation>剪切 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">复制(&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Copy &quot;%1&quot;</source>
-        <translation type="unfinished">复制 &quot;%1&quot;</translation>
+        <translation>复制 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished">粘贴(&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Paste &quot;%1&quot;</source>
-        <translation type="unfinished">粘贴 &quot;%1&quot;</translation>
+        <translation>粘贴 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished">全选(&amp;A)</translation>
+        <translation>全选(&amp;A)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Select All &quot;%1&quot;</source>
-        <translation type="unfinished">全选&quot;%1&quot;</translation>
+        <translation>全选&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -47245,52 +47245,52 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>&amp;Restore Default View</source>
-        <translation type="unfinished">重置到默认视图(&amp;R)</translation>
+        <translation>重置到默认视图(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Toggle &amp;Left Sidebar</source>
-        <translation type="unfinished">切换左边栏(&amp;L)</translation>
+        <translation>切换左边栏(&amp;L)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Toggle &amp;Right Sidebar</source>
-        <translation type="unfinished">切换右边栏(&amp;R)</translation>
+        <translation>切换右边栏(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Go into Component</source>
-        <translation type="unfinished">进入组件(&amp;G)</translation>
+        <translation>进入组件(&amp;G)</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Save %1 As...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1另存为...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Save %1</source>
-        <translation type="unfinished">保存%1(&amp;S)</translation>
+        <translation>保存%1(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished">恢复%1 到已保存的状态</translation>
+        <translation>恢复%1 到已保存的状态</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close %1</source>
-        <translation type="unfinished">关闭%1</translation>
+        <translation>关闭%1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close All Except %1</source>
-        <translation type="unfinished">除了%1 以外全部关闭</translation>
+        <translation>除了%1 以外全部关闭</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Close Others</source>
-        <translation type="unfinished">关闭其他</translation>
+        <translation>关闭其他</translation>
     </message>
 </context>
 <context>
@@ -47298,7 +47298,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljseditor.cpp" line="+315"/>
         <source>Show Qt Quick ToolBar</source>
-        <translation type="unfinished">显示Qt Quick工具栏</translation>
+        <translation>显示Qt Quick工具栏</translation>
     </message>
     <message>
         <location line="+375"/>
@@ -47318,7 +47318,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+136"/>
         <source>Refactoring</source>
-        <translation type="unfinished">重构</translation>
+        <translation>重构</translation>
     </message>
 </context>
 <context>
@@ -47759,7 +47759,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+51"/>
         <source>&amp;Compiler path:</source>
-        <translation type="unfinished">编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C):</translation>
     </message>
     <message>
         <location line="+2"/>

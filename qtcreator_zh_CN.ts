@@ -2641,7 +2641,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="+75"/>
         <source>Enter &amp;comment:</source>
-        <translation>输入注释(&amp;c):</translation>
+        <translation>输入注释(&amp;C):</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2795,7 +2795,7 @@ Local pulls are not applied to the master branch.</source>
         <location filename="../../../src/plugins/clearcase/ui_settingspage.h" line="+1"/>
         <source>&amp;Index only VOBs:</source>
         <extracomment>VOB: Versioned Object Base</extracomment>
-        <translation>仅对下列VOB索引(&amp;i)：</translation>
+        <translation>仅对下列VOB索引(&amp;I)：</translation>
     </message>
     <message>
         <location/>
@@ -2825,7 +2825,7 @@ Local pulls are not applied to the master branch.</source>
         <location/>
         <location filename="../../../src/plugins/clearcase/ui_settingspage.h" line="+2"/>
         <source>Do &amp;not prompt for comment during checkout or check-in</source>
-        <translation>在检入或检出期间不显示注释(&amp;n)</translation>
+        <translation>在检入或检出期间不显示注释(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -6018,7 +6018,7 @@ if they would align to the next line</source>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>S&amp;earch paths:</source>
-        <translation>搜索路径(&amp;e)：</translation>
+        <translation>搜索路径(&amp;E)：</translation>
     </message>
     <message>
         <location/>
@@ -6060,13 +6060,13 @@ These prefixes are used in addition to current file name on Switch Header/Source
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>S&amp;uffix:</source>
-        <translation>后缀(&amp;u)：</translation>
+        <translation>后缀(&amp;U)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>Se&amp;arch paths:</source>
-        <translation>搜索路径(&amp;a)：</translation>
+        <translation>搜索路径(&amp;A)：</translation>
     </message>
     <message>
         <location/>
@@ -6086,7 +6086,7 @@ These paths are used in addition to current directory on Switch Header/Source.</
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+6"/>
         <source>P&amp;refixes:</source>
-        <translation>前缀(&amp;r)：</translation>
+        <translation>前缀(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -6108,7 +6108,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
         <location/>
         <location filename="../../../src/plugins/cpptools/ui_cppfilesettingspage.h" line="+1"/>
         <source>License &amp;template:</source>
-        <translation>许可协议模板(&amp;t)：</translation>
+        <translation>许可协议模板(&amp;T)：</translation>
     </message>
 </context>
 <context>
@@ -7787,7 +7787,7 @@ Flags: %3</source>
     <message>
         <location line="+6"/>
         <source>&amp;Ignore count:</source>
-        <translation>忽略次数(&amp;i):</translation>
+        <translation>忽略次数(&amp;I):</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -10203,7 +10203,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+1"/>
         <source>&amp;Ignore count:</source>
-        <translation>忽略次数(&amp;i):</translation>
+        <translation>忽略次数(&amp;I):</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -10845,7 +10845,7 @@ Do you want to retry?</source>
     <message>
         <location line="+21"/>
         <source>&amp;Kit:</source>
-        <translation>构建套件(&amp;Kit):</translation>
+        <translation>构建套件(&amp;K):</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10875,7 +10875,7 @@ Do you want to retry?</source>
     <message>
         <location line="+2"/>
         <source>Debug &amp;information:</source>
-        <translation>调试信息(&amp;i):</translation>
+        <translation>调试信息(&amp;I):</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10931,7 +10931,7 @@ Do you want to retry?</source>
     <message>
         <location line="+1"/>
         <source>&amp;Inferior path:</source>
-        <translation>底层(&amp;Inferior)路径:</translation>
+        <translation>底层(&amp;I)路径:</translation>
     </message>
 </context>
 <context>
@@ -12803,7 +12803,7 @@ will also disable the following plugins:
     <message>
         <location line="+4"/>
         <source>&amp;Query:</source>
-        <translation>查询(&amp;Query):</translation>
+        <translation>查询(&amp;Q):</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -12828,7 +12828,7 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>C&amp;heckout</source>
-        <translation>检出(&amp;h)</translation>
+        <translation>检出(&amp;H)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13217,7 +13217,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;name</source>
-        <translation>重命名(&amp;n)</translation>
+        <translation>重命名(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -13247,7 +13247,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+1"/>
         <source>Re&amp;base</source>
-        <translation>变基(&amp;b)</translation>
+        <translation>变基(&amp;B)</translation>
     </message>
     <message>
         <location/>
@@ -14599,7 +14599,7 @@ Commit now?</source>
     <message>
         <location line="+2"/>
         <source>&amp;Commit</source>
-        <translation type="unfinished">提交(&amp;C)</translation>
+        <translation>提交(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -14709,7 +14709,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_remotedialog.h" line="-4"/>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished">刷新(&amp;F)</translation>
+        <translation>刷新(&amp;F)</translation>
     </message>
     <message>
         <location/>
@@ -14727,7 +14727,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_remotedialog.h" line="+2"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">删除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -14758,7 +14758,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="-5"/>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location/>
@@ -14939,7 +14939,7 @@ instead of its installation directory when run outside git bash.</source>
     <message>
         <location line="+1"/>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished">刷新(&amp;F)</translation>
+        <translation>刷新(&amp;F)</translation>
     </message>
     <message>
         <location line="+81"/>
@@ -16380,7 +16380,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-43"/>
         <source>Me&amp;rcurial</source>
-        <translation>Mercurial(&amp;r)</translation>
+        <translation>Mercurial(&amp;R)</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -19379,7 +19379,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_editorsettingspropertiespage.h" line="+1"/>
         <source>Display right &amp;margin at column:</source>
-        <translation>显示右边空白(&amp;m)在列：</translation>
+        <translation>显示右边空白(&amp;M)在列：</translation>
     </message>
 </context>
 <context>
@@ -20209,7 +20209,7 @@ to project &quot;%2&quot;.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_sessiondialog.h" line="+1"/>
         <source>C&amp;lone</source>
-        <translation>克隆(&amp;l)</translation>
+        <translation>克隆(&amp;L)</translation>
     </message>
     <message>
         <location/>
@@ -20596,7 +20596,7 @@ to project &quot;%2&quot;.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_projectwizardpage.h" line="+2"/>
         <source>Add to &amp;version control:</source>
-        <translation>添加到版本控制系统(&amp;v):</translation>
+        <translation>添加到版本控制系统(&amp;V):</translation>
     </message>
 </context>
 <context>
@@ -22089,7 +22089,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+2"/>
         <source>Key &amp;size:</source>
-        <translation>密钥大小(&amp;s):</translation>
+        <translation>密钥大小(&amp;S):</translation>
     </message>
     <message>
         <location/>
@@ -22146,133 +22146,133 @@ Reason: %2</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/customwidgetwizard/classdefinition.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+2"/>
         <source>The header file</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+18"/>
         <source>&amp;Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>源文件(&amp;S)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-16"/>
         <source>Widget librar&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget库(&amp;Y):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget project &amp;file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget项目文件(&amp;F):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget h&amp;eader file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget头文件(&amp;E)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+2"/>
         <source>The header file has to be specified in source code.</source>
-        <translation type="unfinished"></translation>
+        <translation>头文件必须在源代码中指定。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+2"/>
         <source>Widge&amp;t source file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget源文件(&amp;T):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget &amp;base class:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget基类(&amp;B):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>QWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>QWidget</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin class &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>插件类名(&amp;N):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin &amp;header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>插件头文件(&amp;H):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin sou&amp;rce file:</source>
-        <translation type="unfinished"></translation>
+        <translation>插件源文件(&amp;R):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Icon file:</source>
-        <translation type="unfinished"></translation>
+        <translation>图标文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>&amp;Link library</source>
-        <translation type="unfinished"></translation>
+        <translation>动态链接库(&amp;L)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Create s&amp;keleton</source>
-        <translation type="unfinished"></translation>
+        <translation>创建框架(&amp;k)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Include pro&amp;ject</source>
-        <translation type="unfinished"></translation>
+        <translation>包含项目(&amp;J)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+6"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>说明(&amp;D)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-4"/>
         <source>G&amp;roup:</source>
-        <translation type="unfinished"></translation>
+        <translation>群组(&amp;R)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>&amp;Tooltip:</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示(&amp;T):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>W&amp;hat&apos;s this:</source>
-        <translation type="unfinished"></translation>
+        <translation>这是什么(&amp;H):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>The widget is a &amp;container</source>
-        <translation type="unfinished"></translation>
+        <translation>小部件是一个容器(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+3"/>
         <source>Property defa&amp;ults</source>
-        <translation type="unfinished"></translation>
+        <translation>属性默认值(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -22316,13 +22316,13 @@ Reason: %2</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/customwidgetwizard/customwidgetpluginwizardpage.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Plugin and Collection Class Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件和集合类信息</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Specify the properties of the plugin library and the collection class.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">指定插件库和集合类的属性。</translation>
     </message>
     <message>
         <location/>
@@ -22346,13 +22346,13 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Plugin name:</source>
-        <translation type="unfinished">插件名称:</translation>
+        <translation>插件名称:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Resource file:</source>
-        <translation type="unfinished"></translation>
+        <translation>资源文件：</translation>
     </message>
     <message>
         <location/>
@@ -22378,26 +22378,26 @@ Reason: %2</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/customwidgetwizard/customwidgetwidgetswizardpage.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetwidgetswizardpage.h" line="+1"/>
         <source>Custom Widget List</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义小部件列表</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetwidgetswizardpage.h" line="+1"/>
         <source>Specify the list of custom widgets and their properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定自定义小部件的列表及其属性。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetwidgetswizardpage.h" line="+1"/>
         <source>Widget &amp;Classes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget类(&amp;C):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetwidgetswizardpage.h" line="+1"/>
         <location line="+1"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -23157,7 +23157,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>Class name:</source>
-        <translation type="unfinished">类名:</translation>
+        <translation>类名:</translation>
     </message>
     <message>
         <location/>
@@ -23169,13 +23169,13 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>Type:</source>
-        <translation type="unfinished">类型:</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+3"/>
         <source>Test</source>
-        <translation type="unfinished">测试</translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location/>
@@ -23187,7 +23187,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+2"/>
         <source>Use a test data set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用一个测试数据集</translation>
     </message>
     <message>
         <location/>
@@ -23205,7 +23205,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>File:</source>
-        <translation type="unfinished">文件:</translation>
+        <translation>文件:</translation>
     </message>
 </context>
 <context>
@@ -24916,7 +24916,7 @@ Qt Creator 知道一个相似的URI。</translation>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.ui"/>
         <source>&amp;Host:</source>
-        <translation type="unfinished">主机(&amp;H):</translation>
+        <translation>主机(&amp;H):</translation>
     </message>
     <message>
         <location/>
@@ -28243,7 +28243,7 @@ Filter: %2
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable automatic &amp;indentation</source>
-        <translation>启用自动缩进(&amp;i)</translation>
+        <translation>启用自动缩进(&amp;I)</translation>
     </message>
     <message>
         <location/>
@@ -28448,19 +28448,19 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable &amp;mouse navigation</source>
-        <translation>开启鼠标导航(&amp;m)</translation>
+        <translation>开启鼠标导航(&amp;M)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable scroll &amp;wheel zooming</source>
-        <translation>开启鼠标滚轮缩放(&amp;w)</translation>
+        <translation>开启鼠标滚轮缩放(&amp;W)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Enable built-in camel case &amp;navigation</source>
-        <translation>开启内建的驼峰大小写导航(&amp;n)</translation>
+        <translation>开启内建的驼峰大小写导航(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -28711,13 +28711,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Enable text &amp;wrapping</source>
-        <translation>开启文字折行(&amp;w)</translation>
+        <translation>开启文字折行(&amp;W)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display right &amp;margin at column:</source>
-        <translation>显示右边空白(&amp;m)在列：</translation>
+        <translation>显示右边空白(&amp;M)在列：</translation>
     </message>
     <message>
         <location/>
@@ -28729,25 +28729,25 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display &amp;folding markers</source>
-        <translation>显示折行标记(&amp;f)</translation>
+        <translation>显示折行标记(&amp;F)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Center &amp;cursor on scroll</source>
-        <translation>滚动时居中光标(&amp;c)</translation>
+        <translation>滚动时居中光标(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight &amp;blocks</source>
-        <translation>高亮显示段落(&amp;b)</translation>
+        <translation>高亮显示段落(&amp;B)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Auto-fold first &amp;comment</source>
-        <translation>自动折叠开头的注释(&amp;c)</translation>
+        <translation>自动折叠开头的注释(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -28759,13 +28759,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Highlight current &amp;line</source>
-        <translation>高亮显示当前行(&amp;l)</translation>
+        <translation>高亮显示当前行(&amp;L)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Display line &amp;numbers</source>
-        <translation>显示行号(&amp;n)</translation>
+        <translation>显示行号(&amp;N)</translation>
     </message>
     <message>
         <location/>
@@ -28801,7 +28801,7 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_displaysettingspage.h" line="+1"/>
         <source>Mark &amp;text changes</source>
-        <translation>标记文本改变(&amp;t)</translation>
+        <translation>标记文本改变(&amp;T)</translation>
     </message>
     <message>
         <location/>
@@ -29229,13 +29229,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>Ta&amp;b size:</source>
-        <translation>制表符尺寸(&amp;b):</translation>
+        <translation>制表符尺寸(&amp;B):</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>&amp;Indent size:</source>
-        <translation>缩进尺寸(&amp;i):</translation>
+        <translation>缩进尺寸(&amp;I):</translation>
     </message>
     <message>
         <location/>
@@ -30235,7 +30235,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+338"/>
         <source>Do not &amp;ask again</source>
-        <translation>下次不再询问(&amp;)</translation>
+        <translation>下次不再询问(&amp;A)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -34348,7 +34348,7 @@ Partial names can be used if they are unambiguous.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>E&amp;rror message:</source>
-        <translation>错误信息(&amp;r)：</translation>
+        <translation>错误信息(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -35313,7 +35313,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+1"/>
         <source>Text shown on the text field.</source>
-        <translation type="unfinished">在文本框中显示文本。</translation>
+        <translation>在文本框中显示文本。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -35424,7 +35424,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/connectioneditor/connectionviewwidget.ui"/>
         <location filename="../../../src/plugins/qmldesigner/ui_connectionviewwidget.h" line="+152"/>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
 </context>
 <context>
@@ -35828,7 +35828,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/vcsbase/ui_submiteditorwidget.h" line="+1"/>
         <source>F&amp;iles</source>
-        <translation>文件(&amp;II)</translation>
+        <translation>文件(&amp;I)</translation>
     </message>
     <message>
         <location/>
@@ -37642,17 +37642,17 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+1"/>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation type="unfinished"></translation>
+        <translation>移除并重新安装dock widget</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Closes the dock widget</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭dock widget</translation>
     </message>
 </context>
 <context>
@@ -38898,7 +38898,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation>注释父修订版本%1(&amp;p)</translation>
+        <translation type="unfinished">注释父修订版本%1(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -40843,7 +40843,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+2"/>
         <source>%1 (built-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (内置)</translation>
     </message>
 </context>
 <context>
@@ -42290,42 +42290,42 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizard.cpp" line="+59"/>
         <source>Check whether a variable exists.&lt;br&gt;Returns &quot;true&quot; if it does and an empty string if not.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查一个变量是否存在。&lt;br&gt;返回&quot;true&quot;如果是这样,如果不是一个空字符串。</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Could not determine target path. &quot;TargetPath&quot; was not set on any page.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法确定目标路径。&quot;定位路径&quot;没有任何页面。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>File Generation Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>文件生成失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The wizard failed to generate files.&lt;br&gt;The error message was: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>该向导无法生成文件。&lt;br&gt;错误消息是:&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+114"/>
         <source>Failed to Overwrite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖文件失败</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Format Files</source>
-        <translation type="unfinished"></translation>
+        <translation>格式文件失败</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Write Files</source>
-        <translation type="unfinished"></translation>
+        <translation>写入文件失败</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Failed to Post-Process Files</source>
-        <translation type="unfinished"></translation>
+        <translation>后置处理文件失败</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -42335,52 +42335,52 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+6"/>
         <source>Failed to Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件失败</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>&quot;%1&quot; does not exist in the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;在文件系统中不存在。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Failed to open &quot;%1&quot; as a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将&quot;%1&quot;作为一个项目打开。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation type="unfinished">为&apos;%1&apos;打开编辑器时失败。</translation>
+        <translation>为&apos;%1&apos;打开编辑器时失败。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>No file to open found in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>在打开的文件中未找到&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Failed to open project.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目失败。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to open project in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;%1&quot;中打开项目失败。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot Open Project</source>
-        <translation type="unfinished">无法打开项目</translation>
+        <translation>无法打开项目</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardfilegenerator.cpp" line="+154"/>
         <source>When processing &quot;%1&quot;:&lt;br&gt;%2</source>
-        <translation type="unfinished"></translation>
+        <translation>处理 &quot;%1&quot;:&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardpagefactory_p.cpp" line="+89"/>
         <source>When parsing fields of page &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>解析页面&apos;%1&apos;的字段：%2</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -42390,7 +42390,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+40"/>
         <source>Error parsing &quot;%1&quot; in &quot;Kits&quot; page: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;构建套件&quot;页面解析错误&quot;%1&quot; : %2</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -42410,7 +42410,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+10"/>
         <source>Invalid regular expression &quot;%1&quot; in &quot;%2&quot;. %3</source>
-        <translation type="unfinished"></translation>
+        <translation>在&quot;%2&quot;中无效的正则表达式&quot;%1&quot;. %3</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -44270,7 +44270,7 @@ Remote: %4</source>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation>注释父修订版本%1(&amp;p)</translation>
+        <translation type="unfinished">注释父修订版本%1(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -44584,7 +44584,7 @@ Remote: %4</source>
     <message>
         <location line="+1"/>
         <source>C++11 &amp;flags:</source>
-        <translation>C++11的标志(&amp;f)：</translation>
+        <translation type="unfinished">C++11的标志(&amp;F)：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -44689,17 +44689,17 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/sshdeviceprocess.cpp" line="+287"/>
         <source>Failed to kill remote process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>未能杀死远程进程: %1</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Timeout waiting for remote process to finish.</source>
-        <translation type="unfinished"></translation>
+        <translation>等待远程进程完成超时。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Terminated by request.</source>
-        <translation type="unfinished"></translation>
+        <translation>根据请求终止。</translation>
     </message>
 </context>
 <context>
@@ -44787,42 +44787,42 @@ Remote: %4</source>
     <message>
         <location line="+143"/>
         <source>Label data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>标签数据不是一个对象。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>No text given for Label.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有标签的文本。</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Spacer data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">间隔数据是不是一个对象。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&quot;factor&quot; is no integer value.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;factor&quot;没有整数值。</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>LineEdit data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">行编辑的数据不是一个对象。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Invalid regular expression &quot;%1&quot; in &quot;validator&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在“校验器”中无效的正则表达式“%1”。</translation>
     </message>
     <message>
         <location line="+92"/>
         <source>TextEdit data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文本编辑的数据不是一个对象。</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>PathChooser data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">路径选择器数据不是一个对象。</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -44914,7 +44914,7 @@ Remote: %4</source>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonprojectpage.cpp" line="+81"/>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation type="unfinished">untitled</translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
@@ -44922,30 +44922,32 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonsummarypage.cpp" line="+166"/>
         <source>Failed to Commit to Version Control</source>
-        <translation type="unfinished"></translation>
+        <translation>未能提交到版本控制中</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error message from Version Control System: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本控制系统的错误消息:&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+16"/>
         <location line="+13"/>
         <source>Failed to Add to Project</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到项目失败</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Failed to add subproject &quot;%1&quot;
 to project &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>未能添加子项目&quot;%1&quot;
+到项目&quot;%2&quot;中。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Failed to add one or more files to project
 &quot;%1&quot; (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>添加一个或多个文件到项目失败
+&quot;%1&quot; (%2)。</translation>
     </message>
 </context>
 <context>
@@ -44953,110 +44955,117 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="+120"/>
         <source>Generator is not a object.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建不是一个对象。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Generator has no typeId set.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建器没有设置类型ID。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>TypeId &quot;%1&quot; of generator is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>产生的类型ID&quot;%1&quot;是未知的。支持的类型ID是：&quot;%2&quot;。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Page is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>页面不是一个对象。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Page has no typeId set.</source>
-        <translation type="unfinished"></translation>
+        <translation>页面没有类型id设置。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>TypeId &quot;%1&quot; of page is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>页面类型ID&quot;%1&quot;是未知的。支持的类型ID是：&quot;%2&quot;。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Page with typeId &quot;%1&quot; has invalid &quot;index&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>页面类型ID为&quot;%1&quot;是无效的&quot;索引&quot;。</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Path &quot;%1&quot; does not exist when checking Json wizard search paths.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>检查的Json向导搜索路径时，路径&quot;%1&quot;不存在。</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Checking &quot;%1&quot; for %2.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>为%2校验&quot;%1&quot;。
+</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* 未能解析&quot;%1&quot;:%2:%3: %4
+</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>* Did not find a JSON object in &quot;%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* 没有在&quot;%1&quot;找到JSON对象。
+</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Configuration found and parsed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* 配置发现和解析。
+</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Version %1 not supported.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* 不支持版本%1。
+</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>* Failed to create: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* 未能创建:%1
+</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>JsonWizard: &quot;%1&quot; not found
 </source>
-        <translation type="unfinished"></translation>
+        <translation>JsonWizard: &quot;%1&quot;未找到
+</translation>
     </message>
     <message>
         <location line="+163"/>
         <source>key not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥未找到。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Expected an object or a list.</source>
-        <translation type="unfinished"></translation>
+        <translation>预计一个对象或一个列表。</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>The platform selected for the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>为向导选择平台。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The features available to this wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>此功能适用于该向导。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The plugins loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件加载。</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -45066,62 +45075,62 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+10"/>
         <source>No id set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有id设置。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No category is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有类别设置。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Icon file &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>图标文件&quot;%1&quot;未找到。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Image file &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像文件&quot;%1&quot;未找到。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>No displayName set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有显示名称设置。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No displayCategory set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有显示类别设置。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No description set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有说明设置。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>When parsing &quot;generators&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>解析“生成器”：%1</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When parsing &quot;pages&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>解析&quot;页面&quot;: %1</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>List element of &quot;options&quot; is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>列表元素的“选项”不是一个对象。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No &quot;key&quot; given for entry in &quot;options&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>给出的&quot;选项&quot;中没有&quot;密钥&quot;。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>When parsing &quot;options&quot;: Key &quot;%1&quot; set more than once.</source>
-        <translation type="unfinished"></translation>
+        <translation>解析“选项”:密钥&quot;%1&quot;设置了不止一次。</translation>
     </message>
 </context>
 <context>
@@ -45137,23 +45146,24 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/jsonwizard/jsonwizardgeneratorfactory.cpp" line="+189"/>
         <source>%1 [folder]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [目录]</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 [symbolic link]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [符号链接]</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 [read only]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [只读]</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>目录%1包含不能写入的文件：
+%2。</translation>
     </message>
 </context>
 <context>
@@ -45179,7 +45189,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitconfigwidget.cpp" line="+59"/>
         <source>Manage...</source>
-        <translation type="unfinished">管理...</translation>
+        <translation>管理...</translation>
     </message>
 </context>
 <context>
@@ -45228,27 +45238,27 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/localapplicationruncontrol.cpp" line="+105"/>
         <source>No executable specified.</source>
-        <translation type="unfinished">未指定可执行文件。</translation>
+        <translation>未指定可执行文件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Executable %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行文件%1不存在。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Starting %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在启动 %1...</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>%1 crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 崩溃</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 exited with code %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 退出代码 %2</translation>
     </message>
 </context>
 <context>
@@ -45256,17 +45266,17 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/localenvironmentaspect.cpp" line="+57"/>
         <source>Build Environment</source>
-        <translation type="unfinished">构建环境</translation>
+        <translation>构建环境</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>System Environment</source>
-        <translation type="unfinished">系统环境变量</translation>
+        <translation>系统环境变量</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Clean Environment</source>
-        <translation type="unfinished">清理时的环境变量</translation>
+        <translation>清理环境变量</translation>
     </message>
 </context>
 <context>
@@ -45275,7 +45285,8 @@ to project &quot;%2&quot;.</source>
         <location filename="../../../src/plugins/projectexplorer/osparser.cpp" line="+61"/>
         <source>The process can not access the file because it is being used by another process.
 Please close all running instances of your application before starting a build.</source>
-        <translation type="unfinished"></translation>
+        <translation>该进程不能访问该文件，因为它正被另一个进程使用。
+请在开始构建应用之前关闭所有正在运行的实例。</translation>
     </message>
 </context>
 <context>
@@ -45283,47 +45294,47 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/project.cpp" line="+121"/>
         <source>Project</source>
-        <translation type="unfinished">项目</translation>
+        <translation>项目</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Project Name</source>
-        <translation type="unfinished"></translation>
+        <translation>项目名称</translation>
     </message>
     <message>
         <location line="+237"/>
         <source>Incompatible Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>不兼容的构建套件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Kit %1 is incompatible with kit %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>构建套件%1与构建套件%2不兼容。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Build configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>构建配置：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Deploy configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>部署配置：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Run configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>运行配置：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Partially Incompatible Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>部分不兼容的构建套装</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Some configurations could not be copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>一些配置无法复制。</translation>
     </message>
 </context>
 <context>
@@ -45331,7 +45342,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectimporter.cpp" line="+64"/>
         <source>%1 - temporary</source>
-        <translation type="unfinished">%1 - 临时</translation>
+        <translation>%1 - 临时</translation>
     </message>
 </context>
 <context>
@@ -45339,7 +45350,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projecttree.cpp" line="+483"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is outside the project directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 这个文件是在项目目录之外。</translation>
     </message>
 </context>
 <context>
@@ -45347,17 +45358,17 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/projectwizardpage.cpp" line="-391"/>
         <source>The files are implicitly added to the projects:</source>
-        <translation type="unfinished"></translation>
+        <translation>这些文件默认添加到项目：</translation>
     </message>
     <message>
         <location line="+67"/>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished">&lt;无&gt;</translation>
+        <translation>&lt;无&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;Implicitly Add&gt;</source>
-        <translation type="unfinished">&lt;隐式添加&gt;</translation>
+        <translation>&lt;隐式添加&gt;</translation>
     </message>
 </context>
 <context>
@@ -45380,12 +45391,12 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/runconfigurationaspects.cpp" line="+61"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>终端</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Run in terminal</source>
-        <translation type="unfinished">在终端中运行</translation>
+        <translation>在终端中运行</translation>
     </message>
 </context>
 <context>
@@ -45393,22 +45404,22 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location line="+63"/>
         <source>Working Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>工作目录</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Select Working Directory</source>
-        <translation type="unfinished">选择工作目录</translation>
+        <translation>选择工作目录</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reset to Default</source>
-        <translation type="unfinished">恢复默认设置</translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录:</translation>
+        <translation>工作目录:</translation>
     </message>
 </context>
 <context>
@@ -45429,7 +45440,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="../../../src/plugins/projectexplorer/selectablefilesmodel.cpp" line="+735"/>
         <source>Edit Files</source>
-        <translation type="unfinished">编辑文件</translation>
+        <translation>编辑文件</translation>
     </message>
     <message>
         <source>Hide files matching:</source>
@@ -45461,7 +45472,7 @@ These files are preserved.</source>
     <message>
         <location line="+32"/>
         <source>Add Existing Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>添加现有目录</translation>
     </message>
 </context>
 <context>
@@ -45526,38 +45537,38 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/targetsetuppage.cpp" line="+86"/>
         <source>&lt;span style=&quot; font-weight:600;&quot;&gt;No valid kits found.&lt;/span&gt;</source>
-        <translation type="unfinished">&lt;span style=&quot; font-weight:600;&quot;&gt;没有找到可用的构建套件。&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; font-weight:600;&quot;&gt;没有找到可用的构建套件。&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Please add a kit in the &lt;a href=&quot;buildandrun&quot;&gt;options&lt;/a&gt; or via the maintenance tool of the SDK.</source>
-        <translation type="unfinished">请在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或者通过SDK的维护工具添加一个构建套件。</translation>
+        <translation>请在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或者通过SDK的维护工具添加一个构建套件。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Select all kits</source>
-        <translation type="unfinished"></translation>
+        <translation>选择所有的构建套件</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Select Kits for Your Project</source>
-        <translation type="unfinished">为您的项目选择构建套件</translation>
+        <translation>为您的项目选择构建套件</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Kit Selection</source>
-        <translation type="unfinished">选择构建套件</translation>
+        <translation>选择构建套件</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Kits</source>
-        <translation type="unfinished">构建套件(Kit)</translation>
+        <translation>构建套件(Kit)</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>Qt Creator can use the following kits for project &lt;b&gt;%1&lt;/b&gt;:</source>
         <comment>%1: Project name</comment>
-        <translation type="unfinished">Qt Creator为项目&lt;b&gt;%1&lt;/b&gt;使用下列构建套件：</translation>
+        <translation>Qt Creator为项目&lt;b&gt;%1&lt;/b&gt;使用下列构建套件：</translation>
     </message>
 </context>
 <context>
@@ -45580,12 +45591,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/task.cpp" line="+77"/>
         <source>Qt Creator needs a compiler set up to build. Configure a compiler in the kit options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator需要设置一个编译器进行构建。在套件选项中配置编译器。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Qt Creator needs a build configuration set up to build. Configure a build configuration in the project settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator的需要设置构建配置进行构建。在项目设置中设置构建配置。</translation>
     </message>
 </context>
 <context>
@@ -45640,14 +45651,14 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/projectexplorer/xcodebuildparser.cpp" line="+82"/>
         <location line="+181"/>
         <source>Replacing signature</source>
-        <translation type="unfinished"></translation>
+        <translation>更换签名</translation>
     </message>
     <message>
         <location line="-159"/>
         <location line="+129"/>
         <location line="+17"/>
         <source>Xcodebuild failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xcode构建失败。</translation>
     </message>
 </context>
 <context>
@@ -45655,17 +45666,17 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/pythoneditor/pythoneditorplugin.cpp" line="+471"/>
         <source>Run %1</source>
-        <translation type="unfinished"></translation>
+        <translation>运行 %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>(disabled)</source>
-        <translation type="unfinished">(禁用)</translation>
+        <translation>(禁用)</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>The script is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>该脚本当前被禁用。</translation>
     </message>
 </context>
 <context>
@@ -45673,12 +45684,12 @@ These files are preserved.</source>
     <message>
         <location line="+26"/>
         <source>Interpreter: </source>
-        <translation>解释器: </translation>
+        <translation>解释器:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Script: </source>
-        <translation>脚本: </translation>
+        <translation>脚本:</translation>
     </message>
 </context>
 <context>
@@ -45686,7 +45697,7 @@ These files are preserved.</source>
     <message>
         <location line="+22"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation type="unfinished">打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
+        <translation>打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
     </message>
 </context>
 <context>
@@ -45709,12 +45720,12 @@ These files are preserved.</source>
     <message>
         <location line="+35"/>
         <source>%1 crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 崩溃</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%1 exited with code %2</source>
-        <translation>%1 退出代码 %2</translation>
+        <translation>%1 在代码 %2处退出</translation>
     </message>
 </context>
 <context>
@@ -45722,12 +45733,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildconfiguration.cpp" line="+157"/>
         <source>Parsing the Qbs project.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析Qbs项目。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Parsing of Qbs project has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs项目解析失败。</translation>
     </message>
 </context>
 <context>
@@ -45735,33 +45746,33 @@ These files are preserved.</source>
     <message>
         <location line="+219"/>
         <source>Build</source>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Debug</source>
         <extracomment>The name of the debug build configuration created by default for a qbs project.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Release</source>
         <extracomment>The name of the release build configuration created by default for a qbs project.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Release</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
 </context>
 <context>
@@ -45769,7 +45780,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildconfigurationwidget.cpp" line="+65"/>
         <source>Build directory:</source>
-        <translation type="unfinished">构建目录:</translation>
+        <translation>构建目录:</translation>
     </message>
 </context>
 <context>
@@ -45777,7 +45788,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildstep.cpp" line="-631"/>
         <source>Qbs Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs构建</translation>
     </message>
 </context>
 <context>
@@ -45785,7 +45796,7 @@ These files are preserved.</source>
     <message>
         <location line="+663"/>
         <source>Qbs Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs构建</translation>
     </message>
 </context>
 <context>
@@ -45793,7 +45804,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbscleanstep.cpp" line="-237"/>
         <source>Qbs Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs清除</translation>
     </message>
 </context>
 <context>
@@ -45801,7 +45812,7 @@ These files are preserved.</source>
     <message>
         <location line="+283"/>
         <source>Qbs Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs清除</translation>
     </message>
 </context>
 <context>
@@ -45809,12 +45820,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsconstants.h" line="+55"/>
         <source>Qbs</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprofilessettingspage.cpp" line="+82"/>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件</translation>
     </message>
 </context>
 <context>
@@ -45822,7 +45833,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsdeployconfigurationfactory.cpp" line="+49"/>
         <source>Qbs Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbsa安装</translation>
     </message>
 </context>
 <context>
@@ -45830,7 +45841,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsinstallstep.cpp" line="-257"/>
         <source>Qbs Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbsa安装</translation>
     </message>
 </context>
 <context>
@@ -45838,7 +45849,7 @@ These files are preserved.</source>
     <message>
         <location line="+310"/>
         <source>Qbs Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbsa安装</translation>
     </message>
 </context>
 <context>
@@ -45846,7 +45857,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsnodes.cpp" line="+66"/>
         <source>%1 in %2</source>
-        <translation type="unfinished">在 %2 中的%1</translation>
+        <translation>在 %2 中的%1</translation>
     </message>
 </context>
 <context>
@@ -45854,7 +45865,7 @@ These files are preserved.</source>
     <message>
         <location line="+786"/>
         <source>Qbs files</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs文件</translation>
     </message>
 </context>
 <context>
@@ -45862,22 +45873,22 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsproject.cpp" line="+248"/>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>失败!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not write project file %1.</source>
-        <translation type="unfinished">无法写入项目文件 %1。</translation>
+        <translation>无法写入项目文件 %1。</translation>
     </message>
     <message>
         <location line="+139"/>
         <source>Cannot build: Selected products do not exist anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法构建：选择的products不存在了。</translation>
     </message>
     <message>
         <location line="+276"/>
         <source>Reading Project &quot;%1&quot;</source>
-        <translation type="unfinished">正在读取项目 %1</translation>
+        <translation>正在读取项目 %1</translation>
     </message>
 </context>
 <context>
@@ -45885,12 +45896,12 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprojectmanager.cpp" line="+116"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation type="unfinished">打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
+        <translation>打开项目 &apos;%1&apos;失败:打开的项目不是文件。</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Failed to set up kit for Qbs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>为Qbs设置构建套件失败：%1</translation>
     </message>
 </context>
 <context>
@@ -45899,29 +45910,29 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsprojectmanagerplugin.cpp" line="+129"/>
         <location line="+6"/>
         <source>Reparse Qbs</source>
-        <translation type="unfinished"></translation>
+        <translation>重新解析Qbs</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+16"/>
         <location line="+16"/>
         <source>Build</source>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location line="-26"/>
         <source>Build File</source>
-        <translation type="unfinished">构建文件</translation>
+        <translation>构建文件</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Build File &quot;%1&quot;</source>
-        <translation type="unfinished">构建文件&quot;%1&quot;</translation>
+        <translation>构建文件&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ctrl+Alt+B</source>
-        <translation type="unfinished">Ctrl+Alt+B</translation>
+        <translation>Ctrl+Alt+B</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -45936,22 +45947,22 @@ These files are preserved.</source>
     <message>
         <location line="+6"/>
         <source>Ctrl+Alt+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+Shift+B</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Build Subproject</source>
-        <translation type="unfinished">构建子项目</translation>
+        <translation>构建子项目</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Build Subproject &quot;%1&quot;</source>
-        <translation type="unfinished">构建子项目 &quot;%1&quot; </translation>
+        <translation>构建子项目 &quot;%1&quot; </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished">Ctrl+Shift+B</translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
 </context>
 <context>
@@ -45959,17 +45970,17 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsrunconfiguration.cpp" line="+149"/>
         <source>The .qbs files are currently being parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析.qbs文件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Parsing of .qbs files has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>解析.qbs文件失败。</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Qbs Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs运行配置</translation>
     </message>
 </context>
 <context>
@@ -45977,12 +45988,12 @@ These files are preserved.</source>
     <message>
         <location line="+59"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;unknown&gt;</source>
-        <translation type="unfinished">&lt;未知&gt;</translation>
+        <translation>&lt;未知&gt;</translation>
     </message>
 </context>
 <context>
@@ -46037,17 +46048,17 @@ These files are preserved.</source>
     <message>
         <location line="+12"/>
         <source>Select the .pro file for which you want to create the Android template files.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择您想要创建Android的模板文件的.pro文件。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>.pro file:</source>
-        <translation type="unfinished"></translation>
+        <translation>.pro文件：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select a .pro File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个.pro文件</translation>
     </message>
 </context>
 <context>
@@ -46055,29 +46066,31 @@ These files are preserved.</source>
     <message>
         <location line="+23"/>
         <source>Android package source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Android包源代码目录：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>The Android package source directory cannot be the same as the project directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android包源代码目录不能与项目目录相同。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Copy the Gradle files to Android directory</source>
-        <translation type="unfinished"></translation>
+        <translation>复制Gradle文件到Android目录</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>It is highly recommended if you are planning to extend the Java part of your Qt application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">强烈建议，如果你正计划扩大您的Qt应用程序的Java的一部分。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Select the Android package source directory.
 
 The files in the Android package source directory are copied to the build directory&apos;s Android directory and the default files are overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择Android包的源目录。
+
+在Android包源目录中的文件将复制到构建目录中Android目录并覆盖默认文件。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -46090,37 +46103,37 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+15"/>
         <source>Create Android Template Files Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>创建Android的模板文件向导</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Overwrite %1 file</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖%1文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Overwrite existing &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖现有&quot;%1&quot;?</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>File Creation Error</source>
-        <translation type="unfinished"></translation>
+        <translation>文件创建错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished">无法复制文件&apos;%1&apos;到&apos;%2&apos;。</translation>
+        <translation>无法复制文件&apos;%1&apos;到&apos;%2&apos;。</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Project File not Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>项目文件没有更新</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not update the .pro file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法更新.pro文件%1.</translation>
     </message>
 </context>
 <context>
@@ -46128,7 +46141,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/qmakeandroidbuildapkstep.cpp" line="+86"/>
         <source>Build Android APK</source>
-        <translation type="unfinished">构建Android的APK</translation>
+        <translation>构建Android的APK</translation>
     </message>
 </context>
 <context>
@@ -46136,18 +46149,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+88"/>
         <source>Found old folder &quot;android&quot; in source directory. Qt 5.2 does not use that folder by default.</source>
-        <translation type="unfinished">在源目录中发现旧文件夹“Android”。 Qt5.2默认情况下不使用该文件夹。</translation>
+        <translation>在源目录中发现旧文件夹“Android”。 Qt5.2默认情况下不使用该文件夹。</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>No application .pro file found, not building an APK.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到应用程序的.pro文件，无法构建一个APK。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Starting: &quot;%1&quot; %2</source>
-        <translation type="unfinished">正在启动 &quot;%1&quot; %2
-</translation>
+        <translation>正在启动 &quot;%1&quot; %2</translation>
     </message>
 </context>
 <context>
@@ -46155,7 +46167,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmakeandroidsupport/qmakeandroidrunconfiguration.cpp" line="+133"/>
         <source>The .pro file &quot;%1&quot; is currently being parsed.</source>
-        <translation type="unfinished">该.pro文件&quot;%1&quot;正在解析。</translation>
+        <translation>正在解析.pro文件&quot;%1&quot;。</translation>
     </message>
 </context>
 <context>
@@ -46163,12 +46175,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/desktopqmakerunconfiguration.cpp" line="+120"/>
         <source>The .pro file &quot;%1&quot; is currently being parsed.</source>
-        <translation type="unfinished">该.pro文件&quot;%1&quot;正在解析。</translation>
+        <translation>正在解析.pro文件&quot;%1&quot;。</translation>
     </message>
     <message>
         <location line="+489"/>
         <source>Qt Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt运行配置</translation>
     </message>
 </context>
 <context>
@@ -46176,37 +46188,37 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="-408"/>
         <source>Executable:</source>
-        <translation type="unfinished">执行档:</translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Arguments:</source>
-        <translation type="unfinished">参数:</translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Select Working Directory</source>
-        <translation type="unfinished">选择工作目录</translation>
+        <translation>选择工作目录</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reset to Default</source>
-        <translation type="unfinished">恢复默认设置</translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录:</translation>
+        <translation>工作目录:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Run in terminal</source>
-        <translation type="unfinished">在终端中运行</translation>
+        <translation>在终端中运行</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Run on QVFb</source>
-        <translation type="unfinished"></translation>
+        <translation>在QVFb上运行</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -46216,7 +46228,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+8"/>
         <source>Use debug version of frameworks (DYLD_IMAGE_SUFFIX=_debug)</source>
-        <translation type="unfinished">使用开发框架的调试版 (DYLD_IMAGE_SUFFIX=_debug)</translation>
+        <translation>使用开发框架的调试版 (DYLD_IMAGE_SUFFIX=_debug)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -46239,17 +46251,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakenodes.cpp" line="+1125"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not write project file %1.</source>
-        <translation type="unfinished">无法写入项目文件 %1。</translation>
+        <translation>无法写入项目文件 %1。</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
 </context>
 <context>
@@ -46257,12 +46269,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+749"/>
         <source>Error while parsing file %1. Giving up.</source>
-        <translation type="unfinished"></translation>
+        <translation>解析文件%1时发生错误。放弃。</translation>
     </message>
     <message>
         <location line="+308"/>
         <source>Could not find .pro file for subdirectory &quot;%1&quot; in &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到.pro文件&quot;%2&quot;中的子目录&quot;%1&quot;。</translation>
     </message>
 </context>
 <context>
@@ -46502,7 +46514,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Always save when leaving subcomponent</source>
-        <translation type="unfinished"></translation>
+        <translation>当离开子部件时总是保存</translation>
     </message>
 </context>
 <context>
@@ -46523,171 +46535,171 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/debugview/debugview.cpp" line="+68"/>
         <source>Model attached</source>
-        <translation type="unfinished"></translation>
+        <translation>附加的模型</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+9"/>
         <source>Filename %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名%1</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>Debug view is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用调试视图</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Model detached</source>
-        <translation type="unfinished"></translation>
+        <translation>模型分离</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Added imports:</source>
-        <translation type="unfinished"></translation>
+        <translation>增加导入：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Removed imports:</source>
-        <translation type="unfinished"></translation>
+        <translation>删除导入：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Imports changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>导入改为：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Node created:</source>
-        <translation type="unfinished"></translation>
+        <translation>添加节点：</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Child node:</source>
-        <translation type="unfinished"></translation>
+        <translation>子节点：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Node about to be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>结点即将被删除：</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>New parent property:</source>
-        <translation type="unfinished"></translation>
+        <translation>新的父属性:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Old parent property:</source>
-        <translation type="unfinished"></translation>
+        <translation>旧的父属性:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Property change flag</source>
-        <translation type="unfinished"></translation>
+        <translation>属性改变标志</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Node reparented:</source>
-        <translation type="unfinished"></translation>
+        <translation>结点重定父对象：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>New id:</source>
-        <translation type="unfinished">新ID:</translation>
+        <translation>新ID:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Old id:</source>
-        <translation type="unfinished"></translation>
+        <translation>旧ID：</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+58"/>
         <source>Node id changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变节点ID:</translation>
     </message>
     <message>
         <location line="-40"/>
         <source>Variant properties changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变Variant类型属性：</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Binding properties changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变绑定属性:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Signal handler properties changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变信号处理器属性:</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Node selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>选中结点：</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Properties removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>删除属性：</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Auxiliary data changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>改变辅助数据:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Begin rewriter transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>开始重写事务处理</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>End rewriter transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>结束重写事务处理</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Debug View</source>
-        <translation type="unfinished"></translation>
+        <translation>调试视图</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Instance property change</source>
-        <translation type="unfinished"></translation>
+        <translation>改变实例属性</translation>
     </message>
     <message>
         <location line="+18"/>
         <location line="+43"/>
         <source>parent: </source>
-        <translation type="unfinished"></translation>
+        <translation>父：</translation>
     </message>
     <message>
         <location line="-39"/>
         <location line="+16"/>
         <source>Instance completed</source>
-        <translation type="unfinished"></translation>
+        <translation>实例完成</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Instance&apos;s children changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>实例的孩子改变:</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Custom notification:</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义通知:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Node source changed:</source>
-        <translation type="unfinished"></translation>
+        <translation>源节点改变:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Node removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>节点删除:</translation>
     </message>
 </context>
 <context>
@@ -46695,7 +46707,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/formeditor/formeditorview.cpp" line="+264"/>
         <source>Form Editor</source>
-        <translation type="unfinished">界面编辑器</translation>
+        <translation>界面编辑器</translation>
     </message>
 </context>
 <context>
@@ -46703,7 +46715,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/importmanager/importlabel.cpp" line="+49"/>
         <source>Remove Import</source>
-        <translation type="unfinished"></translation>
+        <translation>删除导入</translation>
     </message>
 </context>
 <context>
@@ -46724,7 +46736,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/importmanager/importswidget.cpp" line="+40"/>
         <source>Import Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>导入管理器</translation>
     </message>
 </context>
 <context>
@@ -46790,12 +46802,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/addtabdesigneraction.cpp" line="+57"/>
         <source>Naming Error</source>
-        <translation type="unfinished"></translation>
+        <translation>命名错误</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Component already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>组件已经存在。</translation>
     </message>
 </context>
 <context>
@@ -46811,7 +46823,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/exceptions/exception.cpp" line="+152"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
@@ -46832,32 +46844,32 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/designercore/instances/puppetcreator.cpp" line="+216"/>
         <source>QML Emulation Layer (QML Puppet) Building was Unsuccessful</source>
-        <translation type="unfinished"></translation>
+        <translation>QML 仿真层(QML Puppet)构建不成功</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>该QML仿真层(QML Puppet)不能构建。退回仿真层，它不支持所有功能，将被使用。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Qt Version is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt版本不支持</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the Qt version is too old or it cannot run natively on your computer. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>该QML仿真层(QML Puppet)不能构建，因为Qt版本太旧或者无法在本地计算机上运行。退回仿真层，它不支持所有功能，将被使用。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Kit is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>构建套件失效</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the kit is not configured correctly. For example the compiler can be misconfigured. Fix the kit configuration and restart Qt Creator. Otherwise, the fallback emulation layer, which does not support all features, will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>该QML仿真层(QML Puppet)不能构建，因为该构建套件配置不正确。例如，编译器配置错误。修复构建套件配置并重新启动Qt Creator。否则，将退回仿真层，它不支持所有功能，将被使用。</translation>
     </message>
 </context>
 <context>
@@ -46937,7 +46949,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+164"/>
         <source>Color Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色工具</translation>
     </message>
 </context>
 <context>
@@ -46950,7 +46962,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Property</source>
-        <translation type="unfinished">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -46965,7 +46977,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+219"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
@@ -46973,17 +46985,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/connectioneditor/connectionmodel.cpp" line="+100"/>
         <source>Target</source>
-        <translation type="unfinished">目标</translation>
+        <translation>目标</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Signal Handler</source>
-        <translation type="unfinished">信号处理</translation>
+        <translation>信号处理</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Action</source>
-        <translation type="unfinished">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <location line="+123"/>
@@ -46991,7 +47003,7 @@ The files in the Android package source directory are copied to the build direct
         <location line="+60"/>
         <location line="+25"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
 </context>
 <context>
@@ -46999,12 +47011,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+118"/>
         <source>Change to default state</source>
-        <translation type="unfinished"></translation>
+        <translation>更改为默认状态</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Change state to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更改状态为%1</translation>
     </message>
 </context>
 <context>
@@ -47012,7 +47024,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/connectioneditor/connectionview.cpp" line="+153"/>
         <source>Connection View</source>
-        <translation type="unfinished"></translation>
+        <translation>连接视图</translation>
     </message>
 </context>
 <context>
@@ -47022,29 +47034,29 @@ The files in the Android package source directory are copied to the build direct
         <location line="+7"/>
         <source>Connections</source>
         <comment>Title of connection view</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bindings</source>
         <comment>Title of connection view</comment>
-        <translation type="unfinished"></translation>
+        <translation>绑定</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Dynamic Properties</source>
         <comment>Title of dynamic properties view</comment>
-        <translation type="unfinished"></translation>
+        <translation>动态属性 </translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Add binding or connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加绑定或连接。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Remove selected binding or connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除选择的绑定或连接。</translation>
     </message>
 </context>
 <context>
@@ -47168,62 +47180,62 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/shortcutmanager.cpp" line="+53"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished">重做(&amp;R)</translation>
+        <translation>重做(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Delete &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>删除 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished">剪切(&amp;T)</translation>
+        <translation>剪切(&amp;T)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Cut &quot;%1&quot;</source>
-        <translation type="unfinished">剪切 &quot;%1&quot;</translation>
+        <translation>剪切 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">复制(&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Copy &quot;%1&quot;</source>
-        <translation type="unfinished">复制 &quot;%1&quot;</translation>
+        <translation>复制 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished">粘贴(&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Paste &quot;%1&quot;</source>
-        <translation type="unfinished">粘贴 &quot;%1&quot;</translation>
+        <translation>粘贴 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished">全选(&amp;A)</translation>
+        <translation>全选(&amp;A)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Select All &quot;%1&quot;</source>
-        <translation type="unfinished">全选&quot;%1&quot;</translation>
+        <translation>全选&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -47233,52 +47245,52 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>&amp;Restore Default View</source>
-        <translation type="unfinished">重置到默认视图(&amp;R)</translation>
+        <translation>重置到默认视图(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Toggle &amp;Left Sidebar</source>
-        <translation type="unfinished">切换左边栏(&amp;L)</translation>
+        <translation>切换左边栏(&amp;L)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Toggle &amp;Right Sidebar</source>
-        <translation type="unfinished">切换右边栏(&amp;R)</translation>
+        <translation>切换右边栏(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Go into Component</source>
-        <translation type="unfinished">进入组件(&amp;G)</translation>
+        <translation>进入组件(&amp;G)</translation>
     </message>
     <message>
         <location line="+153"/>
         <source>Save %1 As...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1另存为...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Save %1</source>
-        <translation type="unfinished">保存%1(&amp;S)</translation>
+        <translation>保存%1(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished">恢复%1 到已保存的状态</translation>
+        <translation>恢复%1 到已保存的状态</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close %1</source>
-        <translation type="unfinished">关闭%1</translation>
+        <translation>关闭%1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Close All Except %1</source>
-        <translation type="unfinished">除了%1 以外全部关闭</translation>
+        <translation>除了%1 以外全部关闭</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Close Others</source>
-        <translation type="unfinished">关闭其他</translation>
+        <translation>关闭其他</translation>
     </message>
 </context>
 <context>
@@ -47286,7 +47298,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljseditor.cpp" line="+315"/>
         <source>Show Qt Quick ToolBar</source>
-        <translation type="unfinished">显示Qt Quick工具栏</translation>
+        <translation>显示Qt Quick工具栏</translation>
     </message>
     <message>
         <location line="+375"/>
@@ -47306,7 +47318,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+136"/>
         <source>Refactoring</source>
-        <translation type="unfinished">重构</translation>
+        <translation>重构</translation>
     </message>
 </context>
 <context>
@@ -47747,7 +47759,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+51"/>
         <source>&amp;Compiler path:</source>
-        <translation type="unfinished">编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C):</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -48313,7 +48325,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+5"/>
         <source>Auto-&amp;indent Selection</source>
-        <translation>选中的文字自动缩进(&amp;i)</translation>
+        <translation type="unfinished">选中的文字自动缩进(&amp;I)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49304,24 +49316,24 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+11"/>
         <source>Show files matching:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示符合条件的文件:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Hide files matching:</source>
-        <translation type="unfinished">隐藏符合条件的文件:</translation>
+        <translation>隐藏符合条件的文件:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Apply Filter</source>
-        <translation type="unfinished">应用过滤器</translation>
+        <translation>应用过滤器</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Generating file list...
 
 %1</source>
-        <translation type="unfinished">生成文件列表...
+        <translation>生成文件列表...
 
 %1</translation>
     </message>
@@ -49329,7 +49341,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
         <location line="+14"/>
         <source>Not showing %n files that are outside of the base directory.
 These files are preserved.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>未显示基础目录外部的 %n个文件。
 这些文件受到保护。</numerusform>
         </translation>

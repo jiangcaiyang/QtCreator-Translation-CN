@@ -46302,7 +46302,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>No build found in %1 matching project %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>在%1中没有找到匹配的%2工程。</translation>
     </message>
 </context>
 <context>
@@ -46466,7 +46466,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Position in Flow</source>
-        <translation type="unfinished">在流动位置</translation>
+        <translation type="unfinished">在列的位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -46514,7 +46514,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/components/componentcore/crumblebar.cpp" line="+149"/>
         <source>Save the changes to preview them correctly.</source>
-        <translation type="unfinished">将更改保存到准确预览。</translation>
+        <translation>将更改的内容正确地保存到预览中。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -46532,7 +46532,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Cannot find an implementation.</source>
-        <translation type="unfinished">无法找到一个实现。</translation>
+        <translation>无法找到一个实现。</translation>
     </message>
 </context>
 <context>
@@ -47101,7 +47101,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmldesigner/qmldesignerextension/pathtool/pathitem.cpp" line="+610"/>
         <source>Closed Path</source>
-        <translation>关闭路径</translation>
+        <translation type="unfinished">闭合路径</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -47331,12 +47331,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljseditordocument.cpp" line="+532"/>
         <source>This file should only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个文件只能在&lt;b&gt;设计&lt;/b&gt;模式中被编辑。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Switch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换模式</translation>
     </message>
 </context>
 <context>
@@ -47385,12 +47385,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="-23"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GUI 线程</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Render Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">渲染线程</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -47400,12 +47400,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帧率</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上下文</translation>
     </message>
 </context>
 <context>
@@ -47418,7 +47418,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+17"/>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">匿名函数</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -47464,22 +47464,22 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilermodelmanager.cpp" line="+278"/>
         <source>Could not open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法以写方式打开%1文件。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存追踪数据</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Could not open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法以读方式打开%1文件。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载追踪数据</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -47559,7 +47559,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/fileformat/qmlprojectfileformat.cpp" line="+139"/>
         <source>Invalid root element: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的根元素: %1</translation>
     </message>
 </context>
 <context>
@@ -47572,7 +47572,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Kit Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建套件环境变量</translation>
     </message>
 </context>
 <context>
@@ -47580,7 +47580,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxabstractrunsupport.cpp" line="+130"/>
         <source>Not enough free ports on device for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设备上没有足够的闲置端口用来进行调试.</translation>
     </message>
 </context>
 <context>
@@ -47611,7 +47611,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugdialog.cpp" line="+51"/>
         <source>Project source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目源码目录:</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -47629,7 +47629,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+18"/>
         <source>Remote: &quot;%1:%2&quot; - Process %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">远端: &quot;%1:%2&quot; - 进程 %3</translation>
     </message>
 </context>
 <context>
@@ -47637,12 +47637,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxconfiguration.cpp" line="+162"/>
         <source>The following errors occurred while activating the QNX configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在激活QNX配置期间发生了如下错误:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Set Up QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法构建QNX配置</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -47731,7 +47731,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxplugin.cpp" line="+95"/>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">挂接到远端QNX应用...</translation>
     </message>
 </context>
 <context>
@@ -47775,6 +47775,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
+        <translatorcomment>二进制接口(&amp;A)</translatorcomment>
         <translation type="unfinished">&amp;ABI:</translation>
     </message>
 </context>
@@ -48275,7 +48276,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Move the View a Page Up and Keep the Cursor Position</source>
-        <translation type="unfinished">移动视图页面,光标位置</translation>
+        <translation type="unfinished">向上移动一个视图页面并且保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48285,7 +48286,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Move the View a Page Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">向下移动一个视图页面并且保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48295,7 +48296,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Move the View a Line Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">视图向上移动一行并且保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48305,7 +48306,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Move the View a Line Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">视图向下移动一行并且保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49220,22 +49221,22 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/Layouts/GridLayoutSpecifics.qml" line="+37"/>
         <source>GridLayout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网格布局</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Columns</source>
-        <translation type="unfinished">列 </translation>
+        <translation type="unfinished">列布局</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Rows</source>
-        <translation type="unfinished">行</translation>
+        <translation type="unfinished">行布局</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Flow</source>
-        <translation type="unfinished">流程</translation>
+        <translation type="unfinished">流布局</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -49245,12 +49246,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+15"/>
         <source>Row Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">行间距</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Column Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">列间距</translation>
     </message>
 </context>
 <context>

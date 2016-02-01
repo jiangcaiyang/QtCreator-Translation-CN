@@ -47380,17 +47380,17 @@ The files in the Android package source directory are copied to the build direct
         <location line="+8"/>
         <location line="+16"/>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">动画</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图形线程</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Render Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">渲染线程</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -47400,12 +47400,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帧率</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上下文</translation>
     </message>
 </context>
 <context>
@@ -47418,12 +47418,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+17"/>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">匿名函数</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图形线程</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -47464,27 +47464,27 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilermodelmanager.cpp" line="+278"/>
         <source>Could not open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法打开文件 %1 用于写入。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在保存轨迹数据</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Could not open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法打开文件 %1 用于读取。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在载入轨迹数据</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Trying to set unknown state in events list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在试图设置未知状态到事件列表中。</translation>
     </message>
 </context>
 <context>
@@ -47492,7 +47492,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofileroptionspage.cpp" line="+42"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -47505,12 +47505,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerplugin.cpp" line="+11"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>QML Profiler (External)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器（外部的）</translation>
     </message>
 </context>
 <context>
@@ -47528,7 +47528,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">位置</translation>
     </message>
 </context>
 <context>
@@ -47543,7 +47543,7 @@ The files in the Android package source directory are copied to the build direct
         <source>Could not connect to the in-process QML debugger:
 %1</source>
         <extracomment>%1 is detailed error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法连接到进程内(in-process)QML调试器：%1</translation>
     </message>
 </context>
 <context>
@@ -47551,7 +47551,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilertracefile.cpp" line="+195"/>
         <source>Error while parsing trace data file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">解析跟踪文件时发生错误：%1</translation>
     </message>
 </context>
 <context>

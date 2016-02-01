@@ -47559,7 +47559,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/fileformat/qmlprojectfileformat.cpp" line="+139"/>
         <source>Invalid root element: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的根元素： %1</translation>
     </message>
 </context>
 <context>
@@ -47572,7 +47572,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Kit Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建套件环境变量</translation>
     </message>
 </context>
 <context>
@@ -47580,7 +47580,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxabstractrunsupport.cpp" line="+130"/>
         <source>Not enough free ports on device for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在设备上没有可用于调试的空闲端口。</translation>
     </message>
 </context>
 <context>
@@ -47611,7 +47611,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugdialog.cpp" line="+51"/>
         <source>Project source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目源文件目录：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -47624,12 +47624,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugsupport.cpp" line="+24"/>
         <source>No free ports for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有可用于调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Remote: &quot;%1:%2&quot; - Process %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">远程: &quot;%1:%2&quot; - 进程 %3</translation>
     </message>
 </context>
 <context>
@@ -47637,57 +47637,57 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxconfiguration.cpp" line="+162"/>
         <source>The following errors occurred while activating the QNX configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在启动 QNX 程序的过程中发生了下列错误：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Set Up QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法创建 QNX 配置</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>QCC for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的 QCC（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>QCC for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的 QCC（x86）</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Debugger for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的调试器（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Debugger for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的调试器（x86）</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Kit for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的构建套件（armv7）</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kit for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的构建套件（x86）</translation>
     </message>
     <message>
         <location line="+170"/>
         <source>- No GCC compiler found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 GCC 编译器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for armvle7.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 armvle7 的调试器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for x86.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 x86 的调试器。</translation>
     </message>
 </context>
 <context>
@@ -47703,17 +47703,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicetester.cpp" line="+125"/>
         <source>%1 found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 已找到。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 未找到。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>An error occurred checking for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在检查 %1 的时候发生了错误。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -47723,7 +47723,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+14"/>
         <source>Checking for %1...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查 %1...</translation>
     </message>
 </context>
 <context>
@@ -47731,7 +47731,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxplugin.cpp" line="+95"/>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绑定到远程 QNX 程序...</translation>
     </message>
 </context>
 <context>
@@ -47756,7 +47756,7 @@ The files in the Android package source directory are copied to the build direct
         <location filename="../../../src/plugins/qnx/qnxtoolchain.cpp" line="+72"/>
         <location line="+83"/>
         <source>QCC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QCC</translation>
     </message>
 </context>
 <context>
@@ -47770,7 +47770,7 @@ The files in the Android package source directory are copied to the build direct
         <location line="+2"/>
         <source>NDK/SDP path:</source>
         <extracomment>SDP refers to &apos;Software Development Platform&apos;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NDK/SDP 路径:</translation>
     </message>
     <message>
         <location line="+1"/>

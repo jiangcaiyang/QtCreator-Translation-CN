@@ -47380,17 +47380,17 @@ The files in the Android package source directory are copied to the build direct
         <location line="+8"/>
         <location line="+16"/>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">动画</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图形线程</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Render Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">渲染线程</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -47400,12 +47400,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帧率</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上下文</translation>
     </message>
 </context>
 <context>
@@ -47418,12 +47418,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+17"/>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">匿名函数</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图形线程</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -47464,27 +47464,27 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilermodelmanager.cpp" line="+278"/>
         <source>Could not open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法打开文件 %1 用于写入。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在保存轨迹数据</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Could not open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法打开文件 %1 用于读取。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在载入轨迹数据</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Trying to set unknown state in events list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在试图设置未知状态到事件列表中。</translation>
     </message>
 </context>
 <context>
@@ -47492,7 +47492,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofileroptionspage.cpp" line="+42"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -47505,12 +47505,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerplugin.cpp" line="+11"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>QML Profiler (External)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QML 分析器（外部的）</translation>
     </message>
 </context>
 <context>
@@ -47528,7 +47528,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">位置</translation>
     </message>
 </context>
 <context>
@@ -47543,7 +47543,7 @@ The files in the Android package source directory are copied to the build direct
         <source>Could not connect to the in-process QML debugger:
 %1</source>
         <extracomment>%1 is detailed error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法连接到进程内(in-process)QML调试器：%1</translation>
     </message>
 </context>
 <context>
@@ -47551,7 +47551,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilertracefile.cpp" line="+195"/>
         <source>Error while parsing trace data file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">解析跟踪文件时发生错误：%1</translation>
     </message>
 </context>
 <context>
@@ -47559,7 +47559,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/fileformat/qmlprojectfileformat.cpp" line="+139"/>
         <source>Invalid root element: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的根元素： %1</translation>
     </message>
 </context>
 <context>
@@ -47572,7 +47572,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Kit Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">构建套件环境变量</translation>
     </message>
 </context>
 <context>
@@ -47580,7 +47580,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxabstractrunsupport.cpp" line="+130"/>
         <source>Not enough free ports on device for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在设备上没有可用于调试的空闲端口。</translation>
     </message>
 </context>
 <context>
@@ -47611,7 +47611,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugdialog.cpp" line="+51"/>
         <source>Project source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目源文件目录：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -47624,12 +47624,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugsupport.cpp" line="+24"/>
         <source>No free ports for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有可用于调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Remote: &quot;%1:%2&quot; - Process %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">远程: &quot;%1:%2&quot; - 进程 %3</translation>
     </message>
 </context>
 <context>
@@ -47637,57 +47637,57 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxconfiguration.cpp" line="+162"/>
         <source>The following errors occurred while activating the QNX configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在启动 QNX 程序的过程中发生了下列错误：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Set Up QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法创建 QNX 配置</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>QCC for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的 QCC（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>QCC for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的 QCC（x86）</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Debugger for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的调试器（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Debugger for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的调试器（x86）</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Kit for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的构建套件（armv7）</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kit for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 的构建套件（x86）</translation>
     </message>
     <message>
         <location line="+170"/>
         <source>- No GCC compiler found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 GCC 编译器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for armvle7.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 armvle7 的调试器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for x86.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未发现 x86 的调试器。</translation>
     </message>
 </context>
 <context>
@@ -47703,17 +47703,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicetester.cpp" line="+125"/>
         <source>%1 found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 已找到。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 未找到。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>An error occurred checking for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在检查 %1 的时候发生了错误。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -47723,7 +47723,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+14"/>
         <source>Checking for %1...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查 %1...</translation>
     </message>
 </context>
 <context>
@@ -47731,7 +47731,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxplugin.cpp" line="+95"/>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绑定到远程 QNX 程序...</translation>
     </message>
 </context>
 <context>
@@ -47756,7 +47756,7 @@ The files in the Android package source directory are copied to the build direct
         <location filename="../../../src/plugins/qnx/qnxtoolchain.cpp" line="+72"/>
         <location line="+83"/>
         <source>QCC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QCC</translation>
     </message>
 </context>
 <context>
@@ -47770,7 +47770,7 @@ The files in the Android package source directory are copied to the build direct
         <location line="+2"/>
         <source>NDK/SDP path:</source>
         <extracomment>SDP refers to &apos;Software Development Platform&apos;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NDK/SDP 路径:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48275,42 +48275,42 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Move the View a Page Up and Keep the Cursor Position</source>
-        <translation type="unfinished">移动视图页面,光标位置</translation>
+        <translation type="unfinished">将视图向上移动一页，同时保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+PgUp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+PgUp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move the View a Page Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将视图向下移动一页，同时保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+PgDown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+PgDown</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move the View a Line Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将视图向上移动一行，同时保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Up</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move the View a Line Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将视图向下移动一行，同时保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Down</translation>
     </message>
     <message>
         <location line="+5"/>

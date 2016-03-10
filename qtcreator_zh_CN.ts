@@ -4060,7 +4060,7 @@ Continue?</source>
         <location filename="../../../src/plugins/coreplugin/dialogs/externaltoolconfig.cpp" line="+180"/>
         <location filename="../../../src/plugins/coreplugin/ui_externaltoolconfig.h" line="+44"/>
         <source>No changes to apply.</source>
-        <translation>申请没有更改。</translation>
+        <translation>没有应用变更。</translation>
     </message>
     <message>
         <location/>
@@ -28930,7 +28930,7 @@ Specifies how backspace interacts with indentation.
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;p&gt;Highlight definitions are provided by the &lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate Text Editor&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;p&gt;高亮定义由&lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate文本编辑器提供&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p&gt;高亮定义由&lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate文本编辑器提供&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -34698,17 +34698,17 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location/>
         <source>E&amp;xpand All</source>
-        <translation>&amp;x 展开全部</translation>
+        <translation>展开全部(&amp;X)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Collapse All</source>
-        <translation>&amp;C 折叠全部</translation>
+        <translation>折叠全部(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Edit...</source>
-        <translation>&amp;E 编辑...</translation>
+        <translation>编辑...(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -47381,17 +47381,17 @@ The files in the Android package source directory are copied to the build direct
         <location line="+8"/>
         <location line="+16"/>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation>动画</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI线程</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Render Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染线程</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -47401,12 +47401,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation>帧率</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文</translation>
     </message>
 </context>
 <context>
@@ -47419,12 +47419,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+17"/>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation>匿名函数</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>GUI Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI线程</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -47465,27 +47465,27 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilermodelmanager.cpp" line="+278"/>
         <source>Could not open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件 %1 用于写入。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>正在保存轨迹数据</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Could not open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件 %1 用于读取。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>正在载入轨迹数据</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Trying to set unknown state in events list.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在试图设置未知状态到事件列表中。</translation>
     </message>
 </context>
 <context>
@@ -47493,7 +47493,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofileroptionspage.cpp" line="+42"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>QML 分析器</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -47506,12 +47506,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerplugin.cpp" line="+11"/>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>QML 分析器</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>QML Profiler (External)</source>
-        <translation type="unfinished"></translation>
+        <translation>QML 分析器（外部的）</translation>
     </message>
 </context>
 <context>
@@ -47519,17 +47519,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerrangemodel.cpp" line="+236"/>
         <source>Duration</source>
-        <translation type="unfinished">持续时间</translation>
+        <translation>持续时间</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation >位置</translation>
     </message>
 </context>
 <context>
@@ -47544,7 +47544,7 @@ The files in the Android package source directory are copied to the build direct
         <source>Could not connect to the in-process QML debugger:
 %1</source>
         <extracomment>%1 is detailed error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到进程内(in-process)QML调试器：%1</translation>
     </message>
 </context>
 <context>
@@ -47552,7 +47552,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilertracefile.cpp" line="+195"/>
         <source>Error while parsing trace data file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>解析跟踪文件时发生错误：%1</translation>
     </message>
 </context>
 <context>
@@ -47560,7 +47560,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/fileformat/qmlprojectfileformat.cpp" line="+139"/>
         <source>Invalid root element: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的根元素： %1</translation>
     </message>
 </context>
 <context>
@@ -47568,12 +47568,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/qmlprojectenvironmentaspect.cpp" line="+52"/>
         <source>System Environment</source>
-        <translation type="unfinished">系统环境变量</translation>
+        <translation>系统环境变量</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Kit Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>构建套件环境变量</translation>
     </message>
 </context>
 <context>
@@ -47581,7 +47581,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxabstractrunsupport.cpp" line="+130"/>
         <source>Not enough free ports on device for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>在设备上没有可用于调试的空闲端口。</translation>
     </message>
 </context>
 <context>
@@ -47612,12 +47612,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugdialog.cpp" line="+51"/>
         <source>Project source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>项目源文件目录：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Local executable:</source>
-        <translation type="unfinished">本地执行档:</translation>
+        <translation>本地执行档:</translation>
     </message>
 </context>
 <context>
@@ -47625,12 +47625,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxattachdebugsupport.cpp" line="+24"/>
         <source>No free ports for debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可用于调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Remote: &quot;%1:%2&quot; - Process %3</source>
-        <translation type="unfinished"></translation>
+        <translation>远程: &quot;%1:%2&quot; - 进程 %3</translation>
     </message>
 </context>
 <context>
@@ -47638,57 +47638,57 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxconfiguration.cpp" line="+162"/>
         <source>The following errors occurred while activating the QNX configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>在启动 QNX 程序的过程中发生了下列错误：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot Set Up QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 QNX 配置</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>QCC for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的 QCC（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>QCC for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的 QCC（x86）</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Debugger for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的调试器（armv7）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Debugger for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的调试器（x86）</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Kit for %1 (armv7)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的构建套件（armv7）</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Kit for %1 (x86)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 的构建套件（x86）</translation>
     </message>
     <message>
         <location line="+170"/>
         <source>- No GCC compiler found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现 GCC 编译器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for armvle7.</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现 armvle7 的调试器。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>- No GDB debugger found for x86.</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现 x86 的调试器。</translation>
     </message>
 </context>
 <context>
@@ -47714,7 +47714,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>An error occurred checking for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>在检查 %1 的时候发生了错误。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -47740,7 +47740,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxruncontrol.cpp" line="+72"/>
         <source>Warning: &quot;slog2info&quot; is not found on the device, debug output not available.</source>
-        <translation>警告：没有在设备上发现“slog2info”，无法使用调试输出。</translation>
+        <translation>警告：“slog2info”在设备上没有发现的，调试输出无法使用。</translation>
     </message>
 </context>
 <context>

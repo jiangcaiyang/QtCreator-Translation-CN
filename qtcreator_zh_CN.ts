@@ -25441,37 +25441,37 @@ Do you want to save the data first?</source>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Remove Missing Files</source>
-        <translation type="unfinished">删除缺失的文件</translation>
+        <translation>删除缺失的文件</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Properties</source>
-        <translation type="unfinished">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Alias:</source>
-        <translation type="unfinished"></translation>
+        <translation>别名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Prefix:</source>
-        <translation type="unfinished">前缀：</translation>
+        <translation>前缀：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Language:</source>
-        <translation type="unfinished">语言:</translation>
+        <translation>语言:</translation>
     </message>
 </context>
 <context>
@@ -25734,7 +25734,7 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_debugginghelper.h" line="-2"/>
         <source>Build</source>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location/>
@@ -25746,25 +25746,25 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_debugginghelper.h" line="+1"/>
         <source>Compiler:</source>
-        <translation type="unfinished">编译器:</translation>
+        <translation>编译器:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_debugginghelper.h" line="+2"/>
         <source>Show compiler output of last build.</source>
-        <translation type="unfinished"></translation>
+        <translation>最后构建的显示编译器输出。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_debugginghelper.h" line="+2"/>
         <source>Show Log</source>
-        <translation type="unfinished"></translation>
+        <translation>查看日志</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_debugginghelper.h" line="+1"/>
         <source>Build All</source>
-        <translation type="unfinished">构建所有项目</translation>
+        <translation>构建所有项目</translation>
     </message>
 </context>
 <context>
@@ -25996,13 +25996,13 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_qtversioninfo.h" line="+1"/>
         <source>qmake location:</source>
-        <translation type="unfinished"></translation>
+        <translation>qmake路径：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_qtversioninfo.h" line="+2"/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
 </context>
 <context>
@@ -26017,13 +26017,13 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_qtversionmanager.h" line="-1"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_qtversionmanager.h" line="+2"/>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
 </context>
 <context>
@@ -35304,7 +35304,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location filename="../../../src/plugins/qmldesigner/componentsplugin/Controls/TextFieldSpecifics.qml" line="+37"/>
         <source>Text Field</source>
-        <translation type="unfinished">文本域 </translation>
+        <translation>文本域</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -35472,22 +35472,22 @@ the program.</source>
         <location filename="../../../src/plugins/qnx/qnxdeployqtlibrariesdialog.ui"/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+143"/>
         <source>Deploy Qt to BlackBerry Device</source>
-        <translation type="unfinished"></translation>
+        <translation>部署Qt到黑莓设备</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qnx/qnxdeployqtlibrariesdialog.cpp" line="+119"/>
         <source>Closing the dialog will stop the deployment. Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭对话框将会停止部署。你确定要这样做吗?</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Please input a remote directory to deploy to.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入部署到的远程目录。</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Connection failed: %1</source>
-        <translation type="unfinished">连接失败:%1</translation>
+        <translation>连接失败:%1</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -35504,31 +35504,31 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+13"/>
         <source>Removing &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>删除 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qnx/qnxdeployqtlibrariesdialog.ui"/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+1"/>
         <source>Qt library to deploy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt库部署:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+1"/>
         <source>Deploy</source>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+1"/>
         <source>Remote directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>远程目录:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+3"/>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -35542,28 +35542,29 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/qnx/qnxsettingswidget.cpp" line="+89"/>
         <source>Select QNX Environment File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择QNX环境文件</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Configuration already exists or is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>配置已经存在或者是无效的。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Remove QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>删除QNX配置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to remove:
  %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定你想要删除:
+%1吗?</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qnx/qnxsettingswidget.ui"/>
@@ -35575,43 +35576,43 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Configuration Information:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置信息：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本:</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Host:</source>
-        <translation type="unfinished">主机:</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>目标:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+5"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -35620,13 +35621,13 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/qtsupport/codegensettingspagewidget.ui"/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+111"/>
         <source>Form</source>
-        <translation type="unfinished">界面</translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Embedding of the UI Class</source>
-        <translation type="unfinished"></translation>
+        <translation>嵌入的UI类</translation>
     </message>
     <message>
         <location/>
@@ -35644,25 +35645,25 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Multiple inheritance</source>
-        <translation type="unfinished"></translation>
+        <translation>多重继承</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Code Generation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">代码生成</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Support for changing languages at runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>支持在运行时改变语言</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Use Qt module name in #include-directive</source>
-        <translation type="unfinished"></translation>
+        <translation>在#include指令中使用Qt模块名称</translation>
     </message>
     <message>
         <location/>
@@ -36240,13 +36241,13 @@ Are you sure you want to continue?</source>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/QtObjectPane.qml" line="+43"/>
         <location line="+7"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+8"/>
         <source>id</source>
-        <translation type="unfinished"></translation>
+        <translation>id</translation>
     </message>
 </context>
 <context>
@@ -41166,32 +41167,32 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/cppeditor/cppquickfixes.cpp" line="-1989"/>
         <source>Create Getter and Setter Member Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>添加Getter和Setter成员函数</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Create Getter Member Function</source>
-        <translation type="unfinished"></translation>
+        <translation>添加Getter成员函数</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Create Setter Member Function</source>
-        <translation type="unfinished"></translation>
+        <translation>添加Setter成员函数</translation>
     </message>
     <message>
         <location line="+1124"/>
         <source>Convert to Stack Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为堆栈变量</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Convert to Pointer</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为指针</translation>
     </message>
     <message>
         <location line="+346"/>
         <source>Generate Missing Q_PROPERTY Members...</source>
-        <translation type="unfinished">生成缺失的Q_PROPERTY成员...</translation>
+        <translation>生成缺失的Q_PROPERTY成员...</translation>
     </message>
 </context>
 <context>
@@ -47695,7 +47696,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxconstants.h" line="+69"/>
         <source>QNX</source>
-        <translation type="unfinished">QNX</translation>
+        <translation>QNX</translation>
     </message>
 </context>
 <context>
@@ -47703,12 +47704,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicetester.cpp" line="+125"/>
         <source>%1 found.</source>
-        <translation type="unfinished"></translation>
+        <translation>找到了 %1 个。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到 %1。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -47718,12 +47719,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+11"/>
         <source>SSH connection error: %1</source>
-        <translation type="unfinished">SSH连接错误:%1</translation>
+        <translation>SSH连接错误:%1</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Checking for %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>检查 %1...</translation>
     </message>
 </context>
 <context>
@@ -47731,7 +47732,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxplugin.cpp" line="+95"/>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished"></translation>
+        <translation>连接到远程QNX应用程序...</translation>
     </message>
 </context>
 <context>
@@ -47739,7 +47740,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxruncontrol.cpp" line="+72"/>
         <source>Warning: &quot;slog2info&quot; is not found on the device, debug output not available.</source>
-        <translation type="unfinished">警告：“slog2info”在设备上没有发现的，调试输出无法使用。</translation>
+        <translation>警告：没有在设备上发现“slog2info”，无法使用调试输出。</translation>
     </message>
 </context>
 <context>
@@ -47747,7 +47748,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxsettingspage.cpp" line="+51"/>
         <source>QNX</source>
-        <translation type="unfinished">QNX</translation>
+        <translation>QNX</translation>
     </message>
 </context>
 <context>
@@ -47756,7 +47757,7 @@ The files in the Android package source directory are copied to the build direct
         <location filename="../../../src/plugins/qnx/qnxtoolchain.cpp" line="+72"/>
         <location line="+83"/>
         <source>QCC</source>
-        <translation type="unfinished"></translation>
+        <translation>QCC</translation>
     </message>
 </context>
 <context>
@@ -47770,12 +47771,12 @@ The files in the Android package source directory are copied to the build direct
         <location line="+2"/>
         <source>NDK/SDP path:</source>
         <extracomment>SDP refers to &apos;Software Development Platform&apos;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>NDK/SDP 路径：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
-        <translation type="unfinished">&amp;ABI:</translation>
+        <translation>&amp;ABI:</translation>
     </message>
 </context>
 <context>
@@ -48275,22 +48276,22 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Move the View a Page Up and Keep the Cursor Position</source>
-        <translation type="unfinished">移动视图页面,光标位置</translation>
+        <translation>向上移动页面，并保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+PgUp</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+PgUp</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Move the View a Page Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>向下移动页面，并保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+PgDown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+PgDown</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -48300,7 +48301,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Ctrl+Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Up</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -48310,7 +48311,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>Ctrl+Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Down</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -48330,7 +48331,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+5"/>
         <source>Auto-&amp;indent Selection</source>
-        <translation type="unfinished">选中的文字自动缩进(&amp;I)</translation>
+        <translation>选中的文字自动缩进(&amp;I)</translation>
     </message>
     <message>
         <location line="+1"/>

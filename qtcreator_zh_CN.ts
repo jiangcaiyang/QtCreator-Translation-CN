@@ -28930,7 +28930,7 @@ Specifies how backspace interacts with indentation.
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;p&gt;Highlight definitions are provided by the &lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate Text Editor&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;p&gt;高亮定义由&lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate文本编辑器提供&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p&gt;高亮定义由&lt;a href=&quot;http://kate-editor.org/&quot;&gt;Kate文本编辑器提供&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -34698,17 +34698,17 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location/>
         <source>E&amp;xpand All</source>
-        <translation>&amp;x 展开全部</translation>
+        <translation>展开全部(&amp;X)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Collapse All</source>
-        <translation>&amp;C 折叠全部</translation>
+        <translation>折叠全部(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Edit...</source>
-        <translation>&amp;E 编辑...</translation>
+        <translation>编辑...(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -37441,7 +37441,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+2"/>
         <source>Unknown component.</source>
-        <translation>未知的组成部分。</translation>
+        <translation>未知的组件。</translation>
     </message>
     <message>
         <location line="+2"/>

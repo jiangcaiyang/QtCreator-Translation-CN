@@ -52051,17 +52051,17 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/autotestplugin.cpp" line="+97"/>
         <source>&amp;Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>测试(&amp;A)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run &amp;All Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行所有测试(&amp;A)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Alt+Shift+T,Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+A</translation>
     </message>
     <message>
         <location line="+5"/>

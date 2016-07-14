@@ -915,7 +915,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location filename="../../../src/plugins/qtsupport/baseqtversion.cpp" line="+491"/>
         <source>Device type is not supported by Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>设备类型不被Qt版本支持。</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -33590,13 +33590,13 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location/>
         <source>This can be later reset in deployment settings in the Projects mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>这在项目模式的部署设置中可被稍后重置。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/android/androiddevicedialog.cpp" line="-35"/>
         <source>Always use this device for architecture %1 for this project</source>
-        <translation type="unfinished"></translation>
+        <translation>对这个项目始终使用这个设备%1的架构</translation>
     </message>
 </context>
 <context>
@@ -33703,7 +33703,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location/>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>限制MIME类型：</translation>
     </message>
 </context>
 <context>
@@ -33757,17 +33757,17 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatoptionspage.ui"/>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>限制MIME类型：</translation>
     </message>
     <message>
         <location/>
         <source>For action Format Selected Text</source>
-        <translation type="unfinished"></translation>
+        <translation>行动格式的文本选择</translation>
     </message>
     <message>
         <location/>
         <source>Format entire file if no text was selected</source>
-        <translation type="unfinished"></translation>
+        <translation>如果没有文本被选中则格式化整个文件</translation>
     </message>
 </context>
 <context>
@@ -33887,17 +33887,17 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location/>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>限制MIME类型：</translation>
     </message>
     <message>
         <location/>
         <source>For action Format Selected Text</source>
-        <translation type="unfinished"></translation>
+        <translation>行动格式的文本选择</translation>
     </message>
     <message>
         <location/>
         <source>Format entire file if no text was selected</source>
-        <translation type="unfinished"></translation>
+        <translation>如果没有文本被选中则格式化整个文件</translation>
     </message>
 </context>
 <context>
@@ -36630,32 +36630,32 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+58"/>
         <source>Anchor to the top of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在顶部锚定目标。</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Anchor to the left of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在左边锚定目标。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Anchor to the vertical center of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在垂直中心锚定目标。</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Anchor to the horizontal center of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在水平中心锚定目标。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Anchor to the bottom of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在底部锚定目标。</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Anchor to the right of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>在右边锚定目标。</translation>
     </message>
 </context>
 <context>
@@ -39513,7 +39513,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+1"/>
         <source>Annotate &amp;parent revision %1</source>
-        <translation type="unfinished">注释父修订版本%1(&amp;P)</translation>
+        <translation>注释父修订版本%1(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -39565,7 +39565,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+12"/>
         <source>Failed to format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>未能格式：％1。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -39580,7 +39580,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+23"/>
         <source>Cannot call %1 or some other error occurred. Timeout reached while formatting file %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能调用％1或发生其他一些错误。当格式化文件％2时超时。</translation>
     </message>
     <message>
         <location line="+182"/>
@@ -39783,7 +39783,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="-38"/>
         <source>The file is too big for the Binary Editor (max. 32GB).</source>
-        <translation type="unfinished">这个文件对二进制编辑器来说太大了(最大2GB)。 {32G?}</translation>
+        <translation>这个文件对二进制编辑器来说太大了(最大2GB)。 {32G?}</translation>
     </message>
     <message>
         <source>The file is too big for the Binary Editor (max. 2GB).</source>
@@ -39844,7 +39844,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangprojectsettingswidget.ui"/>
         <source>Warnings</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangcodemodelplugin.cpp" line="+60"/>
@@ -51126,203 +51126,203 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/autotest/testsettingspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/autotest/testsettingspage.cpp" line="+170"/>
         <source>General</source>
-        <translation type="unfinished">概要</translation>
+        <translation>概要</translation>
     </message>
     <message>
         <location/>
         <source>Hides internal messages by default. You can still enable them by using the test results filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>在默认情况下隐藏的内部消息。您仍然可以通过测试结果过滤器启用它们。</translation>
     </message>
     <message>
         <location/>
         <source>Omit internal messages</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略内部信息</translation>
     </message>
     <message>
         <location/>
         <source>Hides warnings related to a guessed run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏联系到一个试运行配置的警告。</translation>
     </message>
     <message>
         <location/>
         <source>Omit run configuration warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略运行配置警告</translation>
     </message>
     <message>
         <location/>
         <source>Limit result output to 100000 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>限制结果输出上线为100000 字符.</translation>
     </message>
     <message>
         <location/>
         <source>Limit result output</source>
-        <translation type="unfinished"></translation>
+        <translation>限制结果输出</translation>
     </message>
     <message>
         <location/>
         <source>Automatically scroll down when new items are added and scrollbar is at bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>当增加新项目而且滚动条在底部时自动向下滚动。</translation>
     </message>
     <message>
         <location/>
         <source>Automatically scroll results</source>
-        <translation type="unfinished"></translation>
+        <translation>自动滚动结果</translation>
     </message>
     <message>
         <location/>
         <source>Parse for tests even when no Tests related widget is displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>解析测试，即使测试没有相关的部件被显示。</translation>
     </message>
     <message>
         <location/>
         <source>Always parse current project for tests</source>
-        <translation type="unfinished"></translation>
+        <translation>始终解析当前测试项目</translation>
     </message>
     <message>
         <location/>
         <source>Timeout used when executing each test case.</source>
-        <translation type="unfinished"></translation>
+        <translation>每个测试事件执行时超时启用。</translation>
     </message>
     <message>
         <location/>
         <source>Timeout:</source>
-        <translation type="unfinished">超时时间：</translation>
+        <translation>超时时间：</translation>
     </message>
     <message>
         <location/>
         <source>Timeout used when executing test cases. This will apply for each test case on its own, not the whole project.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行测试事件时启用超时。这将适用于每个测试事件自身，而不是整个项目。</translation>
     </message>
     <message>
         <location/>
         <source> s</source>
-        <translation type="unfinished">秒</translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location/>
         <source>Active Test Frameworks</source>
-        <translation type="unfinished"></translation>
+        <translation>有效的测试框架</translation>
     </message>
     <message>
         <location/>
         <source>Select the test frameworks to be handled by the AutoTest plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>用自动处理插件来处理选择的测试插件。</translation>
     </message>
     <message>
         <location/>
         <source>Benchmark Metrics</source>
-        <translation type="unfinished"></translation>
+        <translation>基准指标</translation>
     </message>
     <message>
         <location/>
         <source>Uses walltime metrics for executing benchmarks (default).</source>
-        <translation type="unfinished"></translation>
+        <translation>使用挂钟时间指标执行基准（默认）。</translation>
     </message>
     <message>
         <location/>
         <source>Walltime</source>
-        <translation type="unfinished"></translation>
+        <translation>挂钟时间</translation>
     </message>
     <message>
         <location/>
         <source>Uses tick counter when executing benchmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>在执行基准测试时使用毫秒计时器。</translation>
     </message>
     <message>
         <location/>
         <source>Tick counter</source>
-        <translation type="unfinished"></translation>
+        <translation>毫秒计时器</translation>
     </message>
     <message>
         <location/>
         <source>Uses event counter when executing benchmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行基准时使用事件计时器。</translation>
     </message>
     <message>
         <location/>
         <source>Event counter</source>
-        <translation type="unfinished"></translation>
+        <translation>事件计时器</translation>
     </message>
     <message>
         <location/>
         <source>Uses Valgrind Callgrind when executing benchmarks (it must be installed).</source>
-        <translation type="unfinished"></translation>
+        <translation>当执行基准时使用 Valgrind Callgrind（必须被安装）。</translation>
     </message>
     <message>
         <location/>
         <source>Callgrind</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind</translation>
     </message>
     <message>
         <location/>
         <source>Uses Perf when executing benchmarks (it must be installed).</source>
-        <translation type="unfinished"></translation>
+        <translation>当执行基准时使用 Perf（必须被安装）。</translation>
     </message>
     <message>
         <location/>
         <source>Perf</source>
-        <translation type="unfinished"></translation>
+        <translation>Perf</translation>
     </message>
     <message>
         <location/>
         <source>Google Test</source>
-        <translation type="unfinished"></translation>
+        <translation>谷歌测试</translation>
     </message>
     <message>
         <location/>
         <source>Executes disabled tests when performing a test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行测试运行时执行禁用测试。</translation>
     </message>
     <message>
         <location/>
         <source>Run disabled tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行被禁用的测试</translation>
     </message>
     <message>
         <location/>
         <source>Repeats a test run (you might be required to increase the timeout to avoid canceling the tests).</source>
-        <translation type="unfinished"></translation>
+        <translation>重复测试运行（您可能需要增加超时，以避免取消测试）。</translation>
     </message>
     <message>
         <location/>
         <source>Repeat tests</source>
-        <translation type="unfinished"></translation>
+        <translation>重复测试</translation>
     </message>
     <message>
         <location/>
         <source>Iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>迭代：</translation>
     </message>
     <message>
         <location/>
         <source>Shuffle tests automatically on every iteration by the given seed.</source>
-        <translation type="unfinished"></translation>
+        <translation>由给定的种子每次迭代自动随机运行测试。</translation>
     </message>
     <message>
         <location/>
         <source>Shuffle tests</source>
-        <translation type="unfinished"></translation>
+        <translation>随机运行</translation>
     </message>
     <message>
         <location/>
         <source>Seed:</source>
-        <translation type="unfinished"></translation>
+        <translation>种子：</translation>
     </message>
     <message>
         <location/>
         <source>A seed of 0 generates a seed based on the current timestamp.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个0的种子生成基于当前时间戳的种子。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/autotest/testsettingspage.cpp" line="+2"/>
         <source>Test Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>项目设置</translation>
     </message>
 </context>
 <context>
@@ -51330,37 +51330,37 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/beautifier/generaloptionspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Automatic formatting on file save</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存时自动格式</translation>
     </message>
     <message>
         <location/>
         <source>Enable auto format on file save</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存时启用自动格式</translation>
     </message>
     <message>
         <location/>
         <source>Tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>工具：</translation>
     </message>
     <message>
         <location/>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>限制MIME类型：</translation>
     </message>
     <message>
         <location/>
         <source>Restrict to files contained in the current project</source>
-        <translation type="unfinished"></translation>
+        <translation>对包含在当前项目的文件的限制</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/beautifier/generaloptionspage.cpp" line="+83"/>
         <source>General</source>
-        <translation type="unfinished">概要</translation>
+        <translation>概要</translation>
     </message>
 </context>
 <context>
@@ -51851,27 +51851,27 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+21"/>
         <source>Anchor item to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>在左边锚定项目。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Anchor item to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>在右边锚定项目。</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Fill parent item.</source>
-        <translation type="unfinished"></translation>
+        <translation>填充上级项目。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Anchor item vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直锚定项目。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Anchor item horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>水平锚定项目。</translation>
     </message>
 </context>
 <context>
@@ -52097,35 +52097,35 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message numerus="yes">
         <location filename="../../../src/plugins/autotest/gtest/gtestoutputreader.cpp" line="+96"/>
         <source>You have %n disabled test(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>你有%n的被禁用测试。</numerusform>
         </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Test execution took %1</source>
-        <translation type="unfinished"></translation>
+        <translation>测试执行了%1</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Repeating test case %1 (iteration %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>重复中的测试事件％1（迭代％2）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Executing test case %1</source>
-        <translation type="unfinished"></translation>
+        <translation>执行中测试事件%1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Entering test set %1</source>
-        <translation type="unfinished"></translation>
+        <translation>进入测试集%1</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+31"/>
         <source>Execution took %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行了%1.</translation>
     </message>
 </context>
 <context>
@@ -52154,47 +52154,47 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/qtest/qttestoutputreader.cpp" line="+118"/>
         <source>%1 %2 per iteration (total: %3, iterations: %4)</source>
-        <translation type="unfinished"></translation>
+        <translation>％1％2每次迭代（总：％3，迭代：％4）</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Executing test case %1</source>
-        <translation type="unfinished"></translation>
+        <translation>执行中测试事件%1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Entering test function %1::%2</source>
-        <translation type="unfinished"></translation>
+        <translation>进入测试函数%1::%2</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Qt version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt 版本:%1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Qt build: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt构建：&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QTest version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QTest 版本:%1</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Execution took %1 ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行了%1毫秒.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Test finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>测试已结束。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Test execution took %1 ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>测试执行了%1毫秒。</translation>
     </message>
 </context>
 <context>
@@ -52223,7 +52223,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/testcodeparser.cpp" line="+339"/>
         <source>Scanning for Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>测试的扫描</translation>
     </message>
 </context>
 <context>
@@ -52231,68 +52231,68 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/testnavigationwidget.cpp" line="+58"/>
         <source>Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>No active test frameworks.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有有效的测试框架。</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Run This Test</source>
-        <translation type="unfinished"></translation>
+        <translation>运行此测试</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Debug This Test</source>
-        <translation type="unfinished"></translation>
+        <translation>调试此测试</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Select All</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>全不选</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Filter Test Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤测试视图</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+36"/>
         <source>Sort Naturally</source>
-        <translation type="unfinished"></translation>
+        <translation>自然排序</translation>
     </message>
     <message>
         <location line="-32"/>
         <source>Expand All</source>
-        <translation type="unfinished">展开全部</translation>
+        <translation>展开全部</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Collapse All</source>
-        <translation type="unfinished">折叠全部</translation>
+        <translation>折叠全部</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Sort Alphabetically</source>
-        <translation type="unfinished">按字母排序</translation>
+        <translation>按字母排序</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Show Init and Cleanup Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>显示初始化和清理函数</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show Data Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>显示日期函数</translation>
     </message>
 </context>
 <context>
@@ -52300,7 +52300,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+38"/>
         <source>Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>测试</translation>
     </message>
 </context>
 <context>
@@ -52308,149 +52308,149 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/testresultspane.cpp" line="+150"/>
         <source>Expand All</source>
-        <translation type="unfinished">展开全部</translation>
+        <translation>展开全部</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Run All Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行全部测试</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Run Selected Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行被选择的测试</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Stop Test Run</source>
-        <translation type="unfinished"></translation>
+        <translation>停止测试运行</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Filter Test Results</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤测试结果</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Test Results</source>
-        <translation type="unfinished"></translation>
+        <translation>测试结果</translation>
     </message>
     <message>
         <location line="+178"/>
         <source>Pass</source>
-        <translation type="unfinished"></translation>
+        <translation>通过</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Fail</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Expected Fail</source>
-        <translation type="unfinished"></translation>
+        <translation>预料中的失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Unexpected Pass</source>
-        <translation type="unfinished"></translation>
+        <translation>未预料的通过</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Skip</source>
-        <translation type="unfinished">跳过</translation>
+        <translation>跳过</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Benchmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>基准</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Debug Messages</source>
-        <translation type="unfinished">调试信息</translation>
+        <translation>调试信息</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>警告消息</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Internal Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>内部信息</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Check All Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>检查所有过滤器</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>passes</source>
-        <translation type="unfinished"></translation>
+        <translation>通过</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>fails</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>unexpected passes</source>
-        <translation type="unfinished"></translation>
+        <translation>未预料的通过</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>expected fails</source>
-        <translation type="unfinished"></translation>
+        <translation>预料中的失败</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>fatals</source>
-        <translation type="unfinished"></translation>
+        <translation>致命错误</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>blacklisted</source>
-        <translation type="unfinished"></translation>
+        <translation>列入黑名单</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>, %1 disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>，%1禁用</translation>
     </message>
     <message>
         <location line="+66"/>
         <source>Copy</source>
-        <translation type="unfinished">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Copy All</source>
-        <translation type="unfinished"></translation>
+        <translation>复制全部</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Save Output to File...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存输出到文件...</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Save Output To...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存输出到...</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write &quot;%1&quot;.
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>写入失败“%1”.%2</translation>
     </message>
 </context>
 <context>
@@ -52458,7 +52458,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/testrunconfiguration.h" line="+48"/>
         <source>AutoTest Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>自动测试调试</translation>
     </message>
 </context>
 <context>
@@ -52466,68 +52466,68 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/testrunner.cpp" line="+107"/>
         <source>Test run canceled by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>测试运行被用户取消。</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Project is null for &quot;%1&quot;. Removing from test run.
 Check the test environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目是空的&quot;％1&quot;。从试运行中删除。检查测试环境。</translation>
     </message>
     <message>
         <location line="+25"/>
         <location line="+136"/>
         <source>Could not find command &quot;%1&quot;. (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到命令&quot;%1&quot;.(%2)</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Test case canceled due to timeout. 
 Maybe raise the timeout?</source>
-        <translation type="unfinished"></translation>
+        <translation>测试由于超时而被取消。尝试提高超时时间？</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Project&apos;s run configuration was guessed for &quot;%1&quot;.
 This might cause trouble during execution.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目运行配置被猜测为“％1”。这可能在执行过程中引起麻烦。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No tests selected. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有测试被选择。取消测试中。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Project is null. Canceling test run.
 Only desktop kits are supported. Make sure the currently active kit is a desktop kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目为空。取消测试运行。只有桌面套件支持。确保当前活动的套件是一个桌面套件。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Project is not configured. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目没有被配置。取消测试运行中。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Running Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行测试中</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Failed to get run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>获取运行配置失败。</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Failed to create run configuration.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>创建运行配置失败。%1</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Build failed. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>构建失败。取消测试运行中。</translation>
     </message>
 </context>
 <context>
@@ -52535,12 +52535,12 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/autotest/testsettingspage.cpp" line="-122"/>
         <source>No active test frameworks.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有活动的测试框架。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You will not be able to use the AutoTest plugin without having at least one active test framework.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有至少一个活动的测试框架你将不能够使用自动测试插件。</translation>
     </message>
 </context>
 <context>
@@ -52556,37 +52556,37 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/beautifier/abstractsettings.cpp" line="+246"/>
         <source>Cannot save styles. %1 does not exist.</source>
-        <translation type="unfinished">无法保存样式。%1不存在。</translation>
+        <translation>无法保存样式。%1不存在。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot open file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished">文法打开文件&apos;%1&apos;:&apos;%2&apos;。</translation>
+        <translation>文法打开文件&apos;%1&apos;:&apos;%2&apos;。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Cannot save file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished">文法保存文件&apos;%1&apos;:&apos;%2&apos;。</translation>
+        <translation>文法保存文件&apos;%1&apos;:&apos;%2&apos;。</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>No documentation file specified.</source>
-        <translation type="unfinished">未指定文档文件。</translation>
+        <translation>未指定文档文件。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Cannot open documentation file &quot;%1&quot;.</source>
-        <translation type="unfinished">无法打开文档文件%1。</translation>
+        <translation>无法打开文档文件%1。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>The file &quot;%1&quot; is not a valid documentation file.</source>
-        <translation type="unfinished">文件 %1 不是一个有效的文档文件。</translation>
+        <translation>文件 %1 不是一个有效的文档文件。</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Cannot read documentation file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished">无法读取文档文件&quot;%1&quot;：%2。</translation>
+        <translation>无法读取文档文件&quot;%1&quot;：%2。</translation>
     </message>
 </context>
 <context>
@@ -52594,7 +52594,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/beautifier/artisticstyle/artisticstyleconstants.h" line="+34"/>
         <source>Artistic Style</source>
-        <translation type="unfinished">艺术风格</translation>
+        <translation>艺术风格</translation>
     </message>
 </context>
 <context>
@@ -52602,7 +52602,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatconstants.h" line="+34"/>
         <source>ClangFormat</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang格式</translation>
     </message>
 </context>
 <context>
@@ -52610,7 +52610,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/beautifier/clangformat/clangformatsettings.cpp" line="+137"/>
         <source>No description available.</source>
-        <translation type="unfinished">没有可用的描述。</translation>
+        <translation>没有可用的描述。</translation>
     </message>
 </context>
 <context>
@@ -52618,7 +52618,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/beautifier/uncrustify/uncrustifyconstants.h" line="+34"/>
         <source>Uncrustify</source>
-        <translation type="unfinished">Uncrustify</translation>
+        <translation>Uncrustify</translation>
     </message>
 </context>
 <context>
@@ -52626,7 +52626,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangdiagnosticmanager.cpp" line="+217"/>
         <source>Inspect available fixits</source>
-        <translation type="unfinished"></translation>
+        <translation>检查可用fixits</translation>
     </message>
 </context>
 <context>

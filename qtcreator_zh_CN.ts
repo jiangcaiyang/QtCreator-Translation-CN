@@ -1943,53 +1943,53 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="+63"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">添加(&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Boolean</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔(&amp;B)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;String</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串(&amp;S)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录(&amp;D)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;File</source>
-        <translation type="unfinished">文件(&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished">重置(&amp;R)</translation>
+        <translation>重置(&amp;R)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Apply Configuration Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>应用配置更改</translation>
     </message>
     <message>
         <location line="+50"/>
         <location line="+4"/>
         <source>&lt;UNSET&gt;</source>
-        <translation type="unfinished">&lt;未设定&gt;</translation>
+        <translation>&lt;未设定&gt;</translation>
     </message>
     <message>
         <location line="-171"/>
@@ -2027,7 +2027,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="-1"/>
         <source>Clear CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>清除Cmake 配置</translation>
     </message>
     <message>
         <location line="+84"/>
@@ -3751,22 +3751,22 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editortoolbar.cpp" line="+4"/>
         <source>Split</source>
-        <translation type="unfinished">分栏</translation>
+        <translation>分栏</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Split Side by Side</source>
-        <translation type="unfinished">左右分栏</translation>
+        <translation>左右分栏</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open in New Window</source>
-        <translation type="unfinished">在新的窗口中打开</translation>
+        <translation>在新的窗口中打开</translation>
     </message>
     <message>
         <location line="+275"/>
         <source>Close Document</source>
-        <translation type="unfinished">关闭文档</translation>
+        <translation>关闭文档</translation>
     </message>
 </context>
 <context>
@@ -4075,12 +4075,12 @@ Continue?</source>
     <message>
         <location line="+169"/>
         <source>PATH=C:\dev\bin;${PATH}</source>
-        <translation type="unfinished">PATH=C:\dev\bin;${PATH}</translation>
+        <translation>PATH=C:\dev\bin;${PATH}</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>PATH=/opt/bin:${PATH}</source>
-        <translation type="unfinished">PATH=/opt/bin:${PATH}</translation>
+        <translation>PATH=/opt/bin:${PATH}</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/externaltoolconfig.ui"/>
@@ -4315,7 +4315,7 @@ Continue?</source>
     <message>
         <location line="+97"/>
         <source>Restart Required</source>
-        <translation type="unfinished">需要重新启动</translation>
+        <translation>需要重新启动</translation>
     </message>
     <message>
         <source>Restart required</source>
@@ -5018,12 +5018,12 @@ Continue?</source>
     <message>
         <location line="+92"/>
         <source>Ctrl+Shift+9</source>
-        <translation type="unfinished">Ctrl+Shift+9</translation>
+        <translation>Ctrl+Shift+9</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+Shift+9</source>
-        <translation type="unfinished">Alt+Shift+9</translation>
+        <translation>Alt+Shift+9</translation>
     </message>
     <message>
         <location line="-127"/>
@@ -34353,7 +34353,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location/>
         <source>Influences how file names are matched to decide if they are the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>影响文件名的匹配方式，以决定它们是否是相同的。</translation>
     </message>
     <message>
         <location/>
@@ -39565,7 +39565,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+12"/>
         <source>Failed to format: %1.</source>
-        <translation>未能格式：％1。</translation>
+        <translation>未能格式：%1。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -39580,7 +39580,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+23"/>
         <source>Cannot call %1 or some other error occurred. Timeout reached while formatting file %2.</source>
-        <translation>不能调用％1或发生其他一些错误。当格式化文件％2时超时。</translation>
+        <translation>不能调用%1或发生其他一些错误。当格式化文件%2时超时。</translation>
     </message>
     <message>
         <location line="+182"/>
@@ -39783,7 +39783,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="-38"/>
         <source>The file is too big for the Binary Editor (max. 32GB).</source>
-        <translation>这个文件对二进制编辑器来说太大了(最大2GB)。 {32G?}</translation>
+        <translation>这个文件对二进制编辑器来说太大了(最大32GB).</translation>
     </message>
     <message>
         <source>The file is too big for the Binary Editor (max. 2GB).</source>
@@ -39849,12 +39849,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangcodemodelplugin.cpp" line="+60"/>
         <source>Clang Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang代码模型</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clangcodemodel/clangprojectsettingswidget.cpp" line="+51"/>
         <source>Global setting (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>全居设置(%1)</translation>
     </message>
 </context>
 <context>
@@ -39961,7 +39961,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+10"/>
         <source>Path to the cmake executable</source>
-        <translation type="unfinished"></translation>
+        <translation>cmake执行档路径</translation>
     </message>
 </context>
 <context>
@@ -40021,7 +40021,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeproject.cpp" line="+367"/>
         <source>No cmake tool set.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有cmake工具集</translation>
     </message>
 </context>
 <context>
@@ -40247,7 +40247,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>Generate a new UUID.</source>
-        <translation type="unfinished"></translation>
+        <translation>生成新的UUID。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -40609,17 +40609,17 @@ Do you want to check them out now?</source>
     <message>
         <location line="+5"/>
         <source>Go to Previous Split or Window</source>
-        <translation type="unfinished"></translation>
+        <translation>转到上一个分隔或窗口</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Meta+E,i</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+E,i</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Ctrl+E,i</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E,i</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -51368,27 +51368,27 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerconfigwidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location/>
         <source>General</source>
-        <translation type="unfinished">概要</translation>
+        <translation>概要</translation>
     </message>
     <message>
         <location/>
         <source>Clang executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 执行档：</translation>
     </message>
     <message>
         <location/>
         <source>Simultaneous processes:</source>
-        <translation type="unfinished"></translation>
+        <translation>同步进程：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerconfigwidget.cpp" line="+49"/>
         <source>Clang Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 命令</translation>
     </message>
 </context>
 <context>
@@ -51396,22 +51396,22 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerprojectsettingswidget.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表单</translation>
     </message>
     <message>
         <location/>
         <source>Suppressed diagnostics:</source>
-        <translation type="unfinished"></translation>
+        <translation>抑制诊断：</translation>
     </message>
     <message>
         <location/>
         <source>Remove Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>移除选中</translation>
     </message>
     <message>
         <location/>
         <source>Remove All</source>
-        <translation type="unfinished">全部删除</translation>
+        <translation>全部删除</translation>
     </message>
 </context>
 <context>
@@ -52066,22 +52066,22 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>&amp;Run Selected Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>运行被选择的测试(&amp;R)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Alt+Shift+T,Alt+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+R</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Re&amp;scan Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>重新扫描测试(&amp;s)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Alt+Shift+T,Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+S</translation>
     </message>
 </context>
 <context>
@@ -52109,7 +52109,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+9"/>
         <source>Repeating test case %1 (iteration %2)</source>
-        <translation>重复中的测试事件％1（迭代％2）</translation>
+        <translation>重复中的测试事件%1（迭代%2）</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -52154,7 +52154,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/qtest/qttestoutputreader.cpp" line="+118"/>
         <source>%1 %2 per iteration (total: %3, iterations: %4)</source>
-        <translation>％1％2每次迭代（总：％3，迭代：％4）</translation>
+        <translation>%1 %2每次迭代(总:%3,迭代:%4)</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -52472,7 +52472,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
         <location line="+31"/>
         <source>Project is null for &quot;%1&quot;. Removing from test run.
 Check the test environment.</source>
-        <translation>项目是空的&quot;％1&quot;。从试运行中删除。检查测试环境。</translation>
+        <translation>项目是空的&quot;%1&quot;。从试运行中删除。检查测试环境。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -52490,7 +52490,7 @@ Maybe raise the timeout?</source>
         <location line="+28"/>
         <source>Project&apos;s run configuration was guessed for &quot;%1&quot;.
 This might cause trouble during execution.</source>
-        <translation>项目运行配置被猜测为“％1”。这可能在执行过程中引起麻烦。</translation>
+        <translation>项目运行配置被猜测为“%1”。这可能在执行过程中引起麻烦。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -52634,12 +52634,12 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerdiagnosticmodel.cpp" line="+71"/>
         <source>Issue</source>
-        <translation type="unfinished">问题</translation>
+        <translation>问题</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
 </context>
 <context>
@@ -52647,22 +52647,22 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+24"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Context:</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>路径:</translation>
     </message>
 </context>
 <context>
@@ -52670,17 +52670,17 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+29"/>
         <source>Message:</source>
-        <translation type="unfinished">消息:</translation>
+        <translation>消息:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Extended message:</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展信息：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>路径:</translation>
     </message>
 </context>
 <context>
@@ -52688,7 +52688,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerdiagnosticview.cpp" line="+47"/>
         <source>Suppress This Diagnostic</source>
-        <translation type="unfinished"></translation>
+        <translation>抑制此诊断</translation>
     </message>
 </context>
 <context>
@@ -52696,27 +52696,27 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerlogfilereader.cpp" line="+83"/>
         <source>File &quot;%1&quot; does not exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件“%1”不存在或无法读取。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Could not read file &quot;%1&quot;: UnexpectedElementError.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”：意外的元素的错误。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could not read file &quot;%1&quot;: CustomError.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”：自定义错误。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could not read file &quot;%1&quot;: NotWellFormedError.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”：格式不正确错误。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Could not read file &quot;%1&quot;: PrematureEndOfDocumentError.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取文件“%1”：夭折文档的错误。</translation>
     </message>
 </context>
 <context>
@@ -52724,22 +52724,22 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+49"/>
         <source>File is not a plist version 1.0 file.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件不是plist 1.0文件。</translation>
     </message>
     <message>
         <location line="+183"/>
         <source>Expected a string element.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要一个字符串元素。</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Expected an array element.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要一个字符串元素。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Expected an integer element.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要一个整数元素。</translation>
     </message>
 </context>
 <context>
@@ -52747,7 +52747,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerplugin.cpp" line="-4"/>
         <source>Clang Static Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器</translation>
     </message>
 </context>
 <context>
@@ -52755,7 +52755,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+54"/>
         <source>Clang Static Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器</translation>
     </message>
 </context>
 <context>
@@ -52763,22 +52763,22 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerprojectsettingswidget.cpp" line="+139"/>
         <source>File</source>
-        <translation type="unfinished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Context</source>
-        <translation type="unfinished">上下文</translation>
+        <translation>上下文</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Diagnostic</source>
-        <translation type="unfinished"></translation>
+        <translation>诊断</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Function &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>函数 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -52786,53 +52786,53 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerruncontrol.cpp" line="+78"/>
         <source>Clang Static Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器</translation>
     </message>
     <message>
         <location line="+362"/>
         <source>Running Clang Static Analyzer on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>运行Clang静态分析器%1</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Clang Static Analyzer: Invalid executable &quot;%1&quot;, stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器：无效可执行文件“%1”，停止。</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Clang Static Analyzer: Failed to create temporary dir, stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器：无法创建临时目录，停止。</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Analyzing</source>
-        <translation type="unfinished"></translation>
+        <translation>分析中</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Clang Static Analyzer stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器被用户停止。</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Analyzing &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>分析中“%1”。</translation>
     </message>
     <message>
         <location line="+30"/>
         <location line="+21"/>
         <source>Failed to analyze &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>分析失败“%1”:%2</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Clang Static Analyzer finished: Processed %1 files successfully, %2 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器:处理%1文件成功，%2失败。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Clang Static Analyzer: Not all files could be analyzed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器:不是所有的文件都能被分析。</translation>
     </message>
 </context>
 <context>
@@ -52840,7 +52840,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerruncontrolfactory.cpp" line="+103"/>
         <source>The project configuration changed since the start of the Clang Static Analyzer. Please re-run with current configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang 静态分析器启动时项目配置发生更改。请在当前配置下重新运行。</translation>
     </message>
 </context>
 <context>
@@ -52848,17 +52848,17 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerrunner.cpp" line="+46"/>
         <source>An error occurred with the Clang Static Analyzer process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器进程发生错误。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Clang Static Analyzer crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器崩溃。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Clang Static Analyzer finished with exit code: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器完成退出代码:%1.</translation>
     </message>
     <message>
         <location line="+105"/>
@@ -52866,7 +52866,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
 Process Error: %2
 Output:
 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>命令行:%1进程错误%2输出%3</translation>
     </message>
 </context>
 <context>
@@ -52874,7 +52874,7 @@ Output:
     <message>
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzertool.cpp" line="+71"/>
         <source>Clang Static Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器</translation>
     </message>
 </context>
 <context>
@@ -52882,75 +52882,75 @@ Output:
     <message>
         <location line="+32"/>
         <source>Clang Static Analyzer Issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器问题</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Go to previous bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>转到之前的错误。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Go to next bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>转到下一个错误。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Clang Static Analyzer uses the analyzer from the Clang project to find bugs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器使用Clang项目的分析器去发现错误。</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+5"/>
         <location line="+69"/>
         <source>Clang Static Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Run %1 in %2 Mode?</source>
-        <translation type="unfinished">在%2模式下运行%1吗？</translation>
+        <translation>在%2模式下运行%1吗？</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used in Debug mode since enabled assertions can reduce the number of false positives.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您尝试运行在2%模式中应用的工具“%1”。该工具的目的是在调试模式下使用，因为启用断言可以减少误报的数量。&lt;/p&gt;&lt;p&gt;是否要继续运行%2模式中的工具吗?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>Clang Static Analyzer is still running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器仍在运行。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start Clang Static Analyzer.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动Clang静态分析器。</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Clang Static Analyzer is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器在运行。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Clang Static Analyzer finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang静态分析器完成。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>No issues found.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有发现问题。</translation>
     </message>
     <message numerus="yes">
         <location line="+2"/>
         <source>%n issues found (%1 suppressed).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 问题发现 (%1抑制)。</numerusform>
         </translation>
     </message>
 </context>
@@ -52960,7 +52960,7 @@ Output:
         <location filename="../../../src/plugins/clangstaticanalyzer/clangstaticanalyzerutils.cpp" line="+101"/>
         <source>The chosen file &quot;%1&quot; seems to point to an icecc binary not suitable for analyzing.
 Please set a real Clang executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选文件“%1”似乎指向一个ICECC二进制文件不适合分析。请设置一个Clang可执行文件。</translation>
     </message>
 </context>
 <context>
@@ -52968,52 +52968,52 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/builddirmanager.cpp" line="+295"/>
         <source>The build directory is not for %1 but for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>构建目录不是为%1而是为%2</translation>
     </message>
     <message>
         <location line="+152"/>
         <source>Running &quot;%1 %2&quot; in %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>在运行&quot;%1 %2&quot;:%3.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Configuring &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>配置中 “%1”</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>*** cmake process crashed!</source>
-        <translation type="unfinished"></translation>
+        <translation>*** cmake进程崩溃！</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>*** cmake process exited with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>*** cmake进程终止，退出码 %1 .</translation>
     </message>
     <message>
         <location line="+81"/>
         <source>&lt;removed&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;已删除&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;empty&gt;</source>
-        <translation type="unfinished">&lt;空&gt;</translation>
+        <translation>&lt;空&gt;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>CMake configuration has changed on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置已经在磁盘上更改。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The CMakeCache.txt file has changed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>该CMakeCache.txt文件已更改:%1</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Failed to open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 %1 用于读取失败了。</translation>
     </message>
 </context>
 <context>
@@ -53021,7 +53021,7 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="-212"/>
         <source>CMake configuration set by the kit was overridden in the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>套件的CMake配置集在项目中被忽略。</translation>
     </message>
 </context>
 <context>
@@ -53030,12 +53030,12 @@ Please set a real Clang executable.</source>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildstep.cpp" line="-88"/>
         <source>Make</source>
         <extracomment>Default display name for the cmake make step.</extracomment>
-        <translation type="unfinished">Make</translation>
+        <translation>Make</translation>
     </message>
     <message>
         <location line="+137"/>
         <source>Persisting CMake state...</source>
-        <translation type="unfinished"></translation>
+        <translation>保持CMake状态...</translation>
     </message>
 </context>
 <context>
@@ -53043,7 +53043,7 @@ Please set a real Clang executable.</source>
     <message>
         <location line="-60"/>
         <source>Qt Creator needs a CMake Tool set up to build. Configure a CMake Tool in the kit options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Creator的需要CMAKE工具来构建。在套件的选项配置CMAKE工具。</translation>
     </message>
 </context>
 <context>
@@ -53051,23 +53051,23 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+211"/>
         <source>Tool arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>工具参数：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Targets:</source>
-        <translation type="unfinished">目标:</translation>
+        <translation>目标:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Build</source>
         <comment>CMakeProjectManager::CMakeBuildStepConfigWidget display name.</comment>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&lt;b&gt;No build configuration found on this kit.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;未找到此工具包的构建配置。&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;未找到此工具包的构建配置。&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -53076,7 +53076,7 @@ Please set a real Clang executable.</source>
         <location line="+33"/>
         <source>Build</source>
         <comment>Display name for CMakeProjectManager::CMakeBuildStep id.</comment>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
 </context>
 <context>
@@ -53084,17 +53084,17 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakekitconfigwidget.cpp" line="+51"/>
         <source>CMake Generator:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 创建器:</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&lt;Use Default Generator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;使用默认创建器&gt;</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>CMake generator defines how a project is built when using CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake创建器定义当使用CMake时一个项目如何构建。&lt;br&gt;当使用其他构建系统时，这个设置被忽略。</translation>
     </message>
 </context>
 <context>
@@ -53102,32 +53102,32 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+15"/>
         <source>Change...</source>
-        <translation type="unfinished">修改...</translation>
+        <translation>修改...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Cmake 配置</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&lt;No Changes to Apply&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;没有应用变更&gt;</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Default configuration passed to CMake when setting up a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>当设置项目时CMake默认配置通过。</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Edit CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑CMake 配置</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter one variable per line with the variable name separated from the variable value by &quot;=&quot;.&lt;br&gt;You may provide a type hint by adding &quot;:TYPE&quot; before the &quot;=&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>每行输入一个变量，从变量值中以&quot;=&quot;分离出变量名。&lt;br&gt;你可以通过添加来提供一个类型提示。“类型”在“=”之前。</translation>
     </message>
 </context>
 <context>
@@ -53135,27 +53135,27 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="+91"/>
         <source>CMake Tool is unconfigured, CMake generator will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake工具未配置，CMake创建器将被忽略。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>CMake Tool does not support the configured generator.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 工具不支持配置生成。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>CMake generator does not generate a CodeBlocks file. Qt Creator will not be able to parse the CMake project.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake创建器不生成代码块文件。 QtCreator 将不能够解析CMake的项目。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>CMake Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 创建器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;Use Default Generator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;使用默认创建器&gt;</translation>
     </message>
 </context>
 <context>
@@ -53163,37 +53163,37 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+103"/>
         <source>CMake configuration has no path to qmake binary set, even though the kit has a valid Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置没有连接路径到qmake二进制集，尽管套件具有有效的Qt版本。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>CMake configuration has a path to a qmake binary set, even though the kit has no valid Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置有连接路径到qmake二进制集，尽管套件具有无效的Qt版本。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>CMake configuration has a path to a qmake binary set, which does not match up with the qmake binary path configured in the Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置有连接路径到qmake二进制集，其不配对Qt版本中的qmake二进制路径配置。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>CMake configuration has no path to a C++ compiler set, even though the kit has a valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置没有连接路径到C ++编译器集，尽管套件具有有效的工具链。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>CMake configuration has a path to a C++ compiler set, even though the kit has no valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置有连接路径到C ++编译器集，尽管套件没有有效的工具链。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>CMake configuration has a path to a C++ compiler set, that does not match up with the compiler path configured in the tool chain of the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake的配置有连接路径到C ++编译器集，其不与工具链中套件的编译器路径配置匹配。</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Cmake 配置</translation>
     </message>
 </context>
 <context>
@@ -53201,7 +53201,7 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakeprojectconstants.h" line="+37"/>
         <source>CMake Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake 编辑器</translation>
     </message>
 </context>
 <context>
@@ -53209,22 +53209,22 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/configmodel.cpp" line="+95"/>
         <source>&lt;UNSET&gt;</source>
-        <translation type="unfinished">&lt;未设定&gt;</translation>
+        <translation>&lt;未设定&gt;</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>设定</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
 </context>
 <context>
@@ -53232,17 +53232,17 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/shortcutsettings.cpp" line="-344"/>
         <source>Click and type the new key sequence.</source>
-        <translation type="unfinished">点击并输入新的密钥序列。</translation>
+        <translation>点击并输入新的密钥序列。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stop Recording</source>
-        <translation type="unfinished">停止录制</translation>
+        <translation>停止录制</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Record</source>
-        <translation type="unfinished">录制</translation>
+        <translation>录制</translation>
     </message>
 </context>
 <context>
@@ -53250,12 +53250,12 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/editormanager/documentmodel.cpp" line="+267"/>
         <source>&lt;no document&gt;</source>
-        <translation type="unfinished">&lt;无文档&gt;</translation>
+        <translation>&lt;无文档&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>No document is selected.</source>
-        <translation type="unfinished">未选择文档。</translation>
+        <translation>未选择文档。</translation>
     </message>
 </context>
 <context>
@@ -53263,27 +53263,27 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/findplugin.cpp" line="+206"/>
         <source>&amp;Find/Replace</source>
-        <translation type="unfinished">查找/替换(&amp;F)</translation>
+        <translation>查找/替换(&amp;F)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Advanced Find</source>
-        <translation type="unfinished">高级查找</translation>
+        <translation>高级查找</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Open Advanced Find...</source>
-        <translation type="unfinished">打开高级查找...</translation>
+        <translation>打开高级查找...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Advanced...</source>
-        <translation type="unfinished">高级...</translation>
+        <translation>高级...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ctrl+Shift+F</source>
-        <translation type="unfinished">Ctrl+Shift+F</translation>
+        <translation>Ctrl+Shift+F</translation>
     </message>
 </context>
 <context>
@@ -53309,7 +53309,7 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/spotlightlocatorfilter.h" line="+41"/>
         <source>Spotlight File Name Index</source>
-        <translation type="unfinished"></translation>
+        <translation>聚焦文件名索引</translation>
     </message>
 </context>
 <context>
@@ -53363,22 +53363,22 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cpptools/clangdiagnosticconfigsmodel.cpp" line="+40"/>
         <source>Warnings for questionable constructs</source>
-        <translation type="unfinished"></translation>
+        <translation>警告可疑结构</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pedantic Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>学究式的警告</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Warnings for almost everything</source>
-        <translation type="unfinished"></translation>
+        <translation>警告几乎所有的事物</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>%1 [built-in]</source>
-        <translation type="unfinished">%1 [内置]</translation>
+        <translation>%1 [内置]</translation>
     </message>
 </context>
 <context>

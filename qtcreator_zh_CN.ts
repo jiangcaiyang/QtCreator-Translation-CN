@@ -10072,7 +10072,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+28"/>
         <source>Repeat last command for debug reasons.</source>
-        <translation type="unfinished"></translation>
+        <translation>调试原因重复上一指令。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -10200,7 +10200,7 @@ Stepping into the module or setting breakpoints by file and line will not work.<
         <location line="+5"/>
         <source>This module contains debug information.
 Stepping into the module or setting breakpoints by file and line is expected to work.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -10255,7 +10255,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+2"/>
         <source>Show Sections</source>
-        <translation type="unfinished"></translation>
+        <translation>显示选择</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10280,7 +10280,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+3"/>
         <source>Show Sections in File &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件中显示选择“%1”</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10354,12 +10354,12 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="-258"/>
         <source>Unable to start pdb &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动 pdb&quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+267"/>
         <source>The Pdb process failed to start. Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdb进程未能启动。要么调用程序“%1”不存在，或者您可能没有足够的权限调用该程序。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -10384,7 +10384,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+3"/>
         <source>An unknown error in the Pdb process occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdb进程发生了未知的错误。</translation>
     </message>
 </context>
 <context>
@@ -10434,7 +10434,7 @@ Do you want to retry?</source>
     <message>
         <location line="+174"/>
         <source>QML debugging port not set: Unable to convert %1 to unsigned int.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML调试端口没有设置：无法%1转换为unsigned int类型。</translation>
     </message>
     <message>
         <location line="+616"/>
@@ -10459,7 +10459,7 @@ Do you want to retry?</source>
     <message>
         <location line="-111"/>
         <source>Could not connect to the in-process QML debugger. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接到该进程中的QML调试器。%1</translation>
     </message>
     <message>
         <location line="+146"/>
@@ -10495,37 +10495,37 @@ Do you want to retry?</source>
     <message>
         <location filename="../../../src/plugins/debugger/registerhandler.cpp" line="+493"/>
         <source>Content as ASCII Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>连接所有ASCII 字符</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Content as %1-bit Signed Decimal Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位有符号十进制值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Content as %1-bit Unsigned Decimal Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位无符号十进制值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Content as %1-bit Hexadecimal Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位十六进制值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Content as %1-bit Octal Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位八进制值</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Content as %1-bit Binary Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位二进制值</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Content as %1-bit Floating Point Values</source>
-        <translation type="unfinished"></translation>
+        <translation>内容%1位浮点值</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -10540,7 +10540,7 @@ Do you want to retry?</source>
     <message>
         <location line="+66"/>
         <source>Edit bits %1...%2 of register %3</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑位%1...%2寄存器%3</translation>
     </message>
 </context>
 <context>
@@ -10548,12 +10548,12 @@ Do you want to retry?</source>
     <message>
         <location filename="../../../src/plugins/debugger/memoryview.cpp" line="+156"/>
         <source>Memory at Register &quot;%1&quot; (0x%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>寄存器 &quot;%1&quot; (0x%2)处的存储</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Register &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>寄存器 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -10738,7 +10738,7 @@ Do you want to retry?</source>
     <message>
         <location line="+48"/>
         <source>JS-Function:</source>
-        <translation type="unfinished"></translation>
+        <translation>JS-函数：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -10748,7 +10748,7 @@ Do you want to retry?</source>
     <message>
         <location line="+2"/>
         <source>Receiver:</source>
-        <translation type="unfinished"></translation>
+        <translation>接受器：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10763,17 +10763,17 @@ Do you want to retry?</source>
     <message>
         <location line="+3"/>
         <source>Binary debug information is not accessible for this frame. This either means the core was not compiled with debug information, or the debug information is not accessible.</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制调试信息没有被这个框架访问。这意味着核心不是用调试信息便宜的，或者调试信息不可访问。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Binary debug information is accessible for this frame. However, matching sources have not been found.</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制调试信息是此框架访问。但是，也没有发现匹配的来源。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Note that most distributions ship debug information in separate packages.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意大多数发行版附带的调试信息在单独的包中。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/stackhandler.cpp" line="+43"/>
@@ -10821,12 +10821,12 @@ Do you want to retry?</source>
     <message>
         <location line="+31"/>
         <source>Cannot Open Task File</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开任务文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot open &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开%1 : %2</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -10836,12 +10836,12 @@ Do you want to retry?</source>
     <message>
         <location line="+3"/>
         <source>Save as Task File...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存为任务文件...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Load QML Stack</source>
-        <translation type="unfinished"></translation>
+        <translation>加载QML堆栈</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -10909,7 +10909,7 @@ Do you want to retry?</source>
     <message>
         <location line="+4"/>
         <source>Override server address</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖服务地址</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -11048,7 +11048,7 @@ Do you want to retry?</source>
     <message>
         <location line="+3"/>
         <source>Group&amp;nbsp;id:</source>
-        <translation type="unfinished"></translation>
+        <translation>群组&amp;nbsp;id:</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11181,12 +11181,12 @@ Do you want to retry?</source>
     <message>
         <location line="+13"/>
         <source>... &lt;cut off&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>... &lt;隔断&gt;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Pointer Address</source>
-        <translation type="unfinished"></translation>
+        <translation>指针地址</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -11196,7 +11196,7 @@ Do you want to retry?</source>
     <message>
         <location line="+4"/>
         <source>Array Index</source>
-        <translation type="unfinished"></translation>
+        <translation>数组索引</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -11250,17 +11250,17 @@ Do you want to retry?</source>
     <message>
         <location line="+20"/>
         <source>&lt;not callable&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;不可调用&gt;</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>&lt;null reference&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;空引用&gt;</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>&lt;optimized out&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;优化掉&gt;</translation>
     </message>
     <message numerus="yes">
         <location line="-4"/>
@@ -11288,7 +11288,7 @@ Do you want to retry?</source>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to remove all expression evaluators?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要删除所有表达式求值器？</translation>
     </message>
 </context>
 <context>
@@ -11343,117 +11343,117 @@ Do you want to retry?</source>
     <message>
         <location line="+2"/>
         <source>Raw Data</source>
-        <translation type="unfinished"></translation>
+        <translation>原始数据</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Normal</source>
-        <translation type="unfinished">正常</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enhanced</source>
-        <translation type="unfinished"></translation>
+        <translation>增强</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Separate Window</source>
-        <translation type="unfinished">分离式窗口</translation>
+        <translation>分离式窗口</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Latin1 String</source>
-        <translation type="unfinished"></translation>
+        <translation>Latin1的字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Latin1 String in Separate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Latin1的字符串在分离式窗口</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>UTF-8 String</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8 字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>UTF-8 String in Separate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8 字符串在分离式窗口</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Local 8-Bit String</source>
-        <translation type="unfinished"></translation>
+        <translation>Local 8-Bit 字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>UTF-16 String</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16 字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>UCS-4 String</source>
-        <translation type="unfinished"></translation>
+        <translation>UCS-4 字符串</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Plot in Separate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>基址图在分离式窗口</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Display Keys and Values Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>并排显示按键和值</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Force Display as Direct Storage Form</source>
-        <translation type="unfinished"></translation>
+        <translation>强制显示为直接储存形式</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Force Display as Indirect Storage Form</source>
-        <translation type="unfinished"></translation>
+        <translation>强制显示为间接储存形式</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Display Boolean Values as True or False</source>
-        <translation type="unfinished"></translation>
+        <translation>显示布尔值为真或假</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Display Boolean Values as 1 or 0</source>
-        <translation type="unfinished"></translation>
+        <translation>显示布尔值为1或0</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Decimal Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>十进制整数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Hexadecimal Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>十六进制</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Binary Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制整数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Octal Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>八进制整数</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Compact Float</source>
-        <translation type="unfinished"></translation>
+        <translation>紧凑型浮动</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Scientific Float</source>
-        <translation type="unfinished"></translation>
+        <translation>科学浮动</translation>
     </message>
     <message>
         <location line="+306"/>
@@ -11498,12 +11498,12 @@ Do you want to retry?</source>
     <message>
         <location line="+76"/>
         <source>Memory at Pointer&apos;s Address &quot;%1&quot; (0x%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>指针的地址处 &quot;%1&quot; (0x%2)的存储</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Memory at Object&apos;s Address &quot;%1&quot; (0x%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>对象的地址处 &quot;%1&quot; (0x%2)的存储</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -11548,77 +11548,77 @@ Do you want to retry?</source>
     <message>
         <location line="+58"/>
         <source>Use Display Format Based on Type</source>
-        <translation type="unfinished">使用基于类型的显示格式</translation>
+        <translation>使用基于类型的显示格式</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Add Data Breakpoint at Pointer&apos;s Address</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址处添加数据断点</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Add Data Breakpoint at Pointer&apos;s Address (0x%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址处添加数据断点(0x%1)</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Add New Expression Evaluator...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加新的表达式求值器...</translation>
     </message>
     <message>
         <location line="+66"/>
         <source>Open Memory Editor at Pointer&apos;s Address (0x%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址 (0x%1)处打开内存编辑器</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open Memory View at Pointer&apos;s Address (0x%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址 (0x%1)处打开内存查看器</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Open Memory Editor at Pointer&apos;s Address</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址处打开内存编辑器</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open Memory View at Pointer&apos;s Address</source>
-        <translation type="unfinished"></translation>
+        <translation>在指针的地址处打开内存查看器</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Copy View Contents to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制查看内容到剪贴板</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy Current Value to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制当前值到剪贴板</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy Selected Rows to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制选定行到剪贴板</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open View Contents in Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>复制查看的内容到编辑器</translation>
     </message>
     <message>
         <location line="+282"/>
         <source>New Evaluated Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>新的评估表达</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter an expression to evaluate.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入要计算的表达式。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Note: Evaluators will be re-evaluated after each step. For details check the &lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debug-mode.html#locals-and-expressions&quot;&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：每个步骤后评估将被重新评估。细节查看&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debug-mode.html#locals-and-expressions&quot;&gt;文档&lt;/a&gt;.</translation>
     </message>
     <message>
         <location line="-540"/>
@@ -11704,12 +11704,12 @@ Do you want to retry?</source>
     <message>
         <location line="+4"/>
         <source>Change Value Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>改变值显示形式</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Open Memory Editor</source>
-        <translation type="unfinished">打开内存编辑器</translation>
+        <translation>打开内存编辑器</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -11780,12 +11780,12 @@ Do you want to retry?</source>
     <message>
         <location filename="../welcomescreen/widgets/Delegate.qml" line="+116"/>
         <source>2D PAINTING EXAMPLE long description</source>
-        <translation type="unfinished"></translation>
+        <translation>2D绘图实例详细描述</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>The 2D Painting example shows how QPainter and QGLWidget work together.</source>
-        <translation type="unfinished"></translation>
+        <translation>二维绘画的例子显示了QPainter和QGLWidget是如何协同工作。</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -11830,13 +11830,13 @@ Do you want to retry?</source>
         <location filename="../../../src/plugins/designer/codemodelhelpers.cpp" line="+118"/>
         <source>The generated header of the form &quot;%1&quot; could not be found.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>形式为“%1”的生成的头也不会被发现。重建工程可能有帮助。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>The generated header &quot;%1&quot; could not be found in the code model.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>生成的头“%1”不能在代码模型被发现。重建工程可能有帮助。</translation>
     </message>
 </context>
 <context>
@@ -11869,7 +11869,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/plugins/designer/ui_formclasswizardpage.h" line="-1"/>
         <source>Choose a Class Name</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个类名称</translation>
     </message>
 </context>
 <context>
@@ -11924,7 +11924,7 @@ Rebuilding the project might help.</source>
         <location filename="../../../src/plugins/designer/qtcreatorintegration.cpp" line="+73"/>
         <source>The class containing &quot;%1&quot; could not be found in %2.
 Please verify the #include-directives.</source>
-        <translation type="unfinished"></translation>
+        <translation>含“%1”的类不能在%2中找到。请验证＃包括-指令。</translation>
     </message>
     <message>
         <location line="+398"/>
@@ -11935,7 +11935,7 @@ Please verify the #include-directives.</source>
         <location line="+95"/>
         <source>No documents matching &quot;%1&quot; could be found.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有匹配“%1”的文件可以发现。重建工程可能有帮助。</translation>
     </message>
     <message>
         <location line="+64"/>
@@ -11968,13 +11968,13 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Easing</source>
-        <translation type="unfinished"></translation>
+        <translation>缓和</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Type of easing curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>缓和曲线类型。</translation>
     </message>
     <message>
         <location/>
@@ -11986,7 +11986,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Acceleration or deceleration of easing curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>加速或减速缓和曲线。</translation>
     </message>
     <message>
         <location/>
@@ -12025,7 +12025,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Amplitude of elastic and bounce easing curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>弹性及反弹缓和曲线的振幅。</translation>
     </message>
     <message>
         <location/>
@@ -12037,7 +12037,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Easing period of an elastic curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个弹性曲线的缓和期。</translation>
     </message>
     <message>
         <location/>
@@ -12049,7 +12049,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/qmleditorwidgets/ui_easingcontextpane.h" line="+2"/>
         <source>Easing overshoot for a back curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>背部曲线的缓和过冲。</translation>
     </message>
 </context>
 <context>
@@ -12266,17 +12266,17 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+1"/>
         <source>Description file found, but error on read.</source>
-        <translation type="unfinished"></translation>
+        <translation>说明文件中发现的，但错误的读取。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Description successfully read.</source>
-        <translation type="unfinished"></translation>
+        <translation>说明正确读取。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Dependencies are successfully resolved.</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖被成功解决。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12286,22 +12286,22 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+4"/>
         <source>Plugin&apos;s initialization function succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件初始化函数成功。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Plugin successfully loaded and running.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件成功加载运行。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Plugin was shut down.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件被关闭。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Plugin ended its life cycle and was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>插件结束其生命周期并被删除。</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -12554,7 +12554,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Passes key sequences like Ctrl-S to Qt Creator core instead of interpreting them in FakeVim. This gives easier access to Qt Creator core functionality at the price of losing some features of FakeVim.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过按键序列如Ctrl-S以Qt Creator的核心，而不是FakeVim解释它们。这使得在失去FakeVim的某些功能的代价下Qt Creator的核心功能更容易获得。</translation>
     </message>
     <message>
         <location/>
@@ -12602,7 +12602,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Displays line numbers relative to the line containing text cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示每一行相对于包含文本光标的行号。</translation>
     </message>
     <message>
         <location/>
@@ -12933,7 +12933,7 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>Cherry &amp;Pick</source>
-        <translation type="unfinished">Cherry &amp;Pick</translation>
+        <translation>Cherry &amp;Pick</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13276,7 +13276,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+0"/>
         <source>Hard reset branch &quot;%1&quot; to &quot;%2&quot;?</source>
-        <translation type="unfinished">硬重置分支“%1”到“%2”?</translation>
+        <translation>硬重置分支“%1”到“%2”?</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -13296,8 +13296,8 @@ Would you like to terminate it?</source>
     <message numerus="yes">
         <location line="-130"/>
         <source>Include branches and tags that have not been active for %n days.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>包括分支和标签没有一直没有活跃%n天。</numerusform>
         </translation>
     </message>
     <message>
@@ -13376,19 +13376,19 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>Cherry pick top commit from selected branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>从选择的分支中Cherry-pick 顶部commit。</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>Cherry Pick</source>
-        <translation type="unfinished"></translation>
+        <translation>择优挑选</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_branchdialog.h" line="+2"/>
         <source>Set current branch to track the selected one.</source>
-        <translation type="unfinished">设置当前分支以跟踪选定的一个。</translation>
+        <translation>设置当前分支以跟踪选定的一个。</translation>
     </message>
     <message>
         <location/>
@@ -13399,7 +13399,7 @@ Would you like to terminate it?</source>
     <message>
         <location/>
         <source>&amp;Include old entries</source>
-        <translation type="unfinished"></translation>
+        <translation>包含旧条目(&amp;I)</translation>
     </message>
 </context>
 <context>
@@ -13479,7 +13479,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>HEAD</source>
-        <translation type="unfinished"></translation>
+        <translation>头</translation>
     </message>
     <message>
         <location/>
@@ -13509,7 +13509,7 @@ Would you like to terminate it?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Cherry &amp;Pick</source>
-        <translation type="unfinished">Cherry &amp;Pick</translation>
+        <translation>Cherry &amp;Pick</translation>
     </message>
     <message>
         <location/>
@@ -13558,17 +13558,17 @@ Would you like to terminate it?</source>
     <message>
         <location line="+3"/>
         <source> by both</source>
-        <translation type="unfinished"></translation>
+        <translation>被全体</translation>
     </message>
     <message>
         <location line="+2"/>
         <source> by us</source>
-        <translation type="unfinished"></translation>
+        <translation>被我们</translation>
     </message>
     <message>
         <location line="+2"/>
         <source> by them</source>
-        <translation type="unfinished"></translation>
+        <translation>被他们</translation>
     </message>
 </context>
 <context>
@@ -13628,22 +13628,22 @@ Would you like to terminate it?</source>
     <message>
         <location line="+94"/>
         <source>Stage Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>表现块</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unstage Chunk</source>
-        <translation type="unfinished"></translation>
+        <translation>不表现块</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Chunk successfully unstaged</source>
-        <translation type="unfinished"></translation>
+        <translation>块成功不表现</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Chunk successfully staged</source>
-        <translation type="unfinished"></translation>
+        <translation>块成功表现</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -13678,7 +13678,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+33"/>
         <source>Git Reflog &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Git Reflog &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -13688,7 +13688,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+10"/>
         <source>Git Show &quot;%1&quot;</source>
-        <translation type="unfinished">Git 显示 &quot;%1&quot;</translation>
+        <translation>Git 显示 &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -13755,7 +13755,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+14"/>
         <source>Cannot run &quot;%1&quot; in &quot;%2&quot;: %3</source>
-        <translation type="unfinished">无法在“%2”运行“%1 %2”：%3 {1&quot;?} {2&quot;?}</translation>
+        <translation>无法在“%2:%3”运行“%1”</translation>
     </message>
     <message>
         <location line="+394"/>
@@ -13810,7 +13810,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+2"/>
         <source>CHERRY-PICKING</source>
-        <translation type="unfinished"></translation>
+        <translation>CHERRY-PICKING</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -13866,13 +13866,13 @@ Commit now?</source>
     <message>
         <location line="+4"/>
         <source>Continue Cherry-Picking</source>
-        <translation type="unfinished"></translation>
+        <translation>继续Cherry-Picking</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>You need to commit changes to finish cherry-picking.
 Commit now?</source>
-        <translation type="unfinished"></translation>
+        <translation>您需要提交修改到完成cherry-picking。现在提交？</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -13887,7 +13887,7 @@ Commit now?</source>
     <message>
         <location line="+51"/>
         <source>&lt;Detached HEAD&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;分离的HEAD&gt;</translation>
     </message>
     <message>
         <location line="+211"/>
@@ -13963,27 +13963,27 @@ Commit now?</source>
     <message>
         <location line="+1"/>
         <source>What would you like to do with local changes in:</source>
-        <translation type="unfinished"></translation>
+        <translation>你想用本地更改做：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Stash &amp;&amp; Pop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stash &amp;&amp; Pop</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stash local changes and pop when %1 finishes.</source>
-        <translation type="unfinished"></translation>
+        <translation>当%1完成时藏匿本地改变和流行。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stash</source>
-        <translation type="unfinished">Stash</translation>
+        <translation>Stash</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stash local changes and execute %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stash本地改变和执行%1.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -14070,12 +14070,12 @@ Commit now?</source>
     <message>
         <location line="+10"/>
         <source>Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>图形</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show textual graph log.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文本图形记录。</translation>
     </message>
 </context>
 <context>
@@ -14123,7 +14123,7 @@ Commit now?</source>
     <message>
         <location line="+40"/>
         <source>&amp;Local Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>本地仓库(&amp;L)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -14133,7 +14133,7 @@ Commit now?</source>
     <message>
         <location line="+6"/>
         <source>Reflog</source>
-        <translation type="unfinished"></translation>
+        <translation>重记录</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -14233,7 +14233,7 @@ Commit now?</source>
     <message>
         <location line="-3"/>
         <source>Current &amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>当前文件(&amp;F)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -14303,7 +14303,7 @@ Commit now?</source>
     <message>
         <location line="+5"/>
         <source>Current &amp;Project</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目(&amp;P)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -14374,77 +14374,77 @@ Commit now?</source>
     <message>
         <location line="-132"/>
         <source>Fixup Previous Commit...</source>
-        <translation type="unfinished"></translation>
+        <translation>修正前提交...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Interactive Rebase...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Update Submodules</source>
-        <translation type="unfinished"></translation>
+        <translation>更新子模块</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Abort Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>中止合并</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Abort Rebase</source>
-        <translation type="unfinished"></translation>
+        <translation>衍合中止</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Abort Cherry Pick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cherry Pick中止</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Abort Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>中止还原</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Rebase</source>
-        <translation type="unfinished">继续再次基于</translation>
+        <translation>继续再次基于</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Cherry Pick</source>
-        <translation type="unfinished"></translation>
+        <translation>继续Cherry-Pick</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Revert</source>
-        <translation type="unfinished">继续恢复</translation>
+        <translation>继续恢复</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Patch</source>
-        <translation type="unfinished"></translation>
+        <translation>路径(&amp;P)</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Stash</source>
-        <translation type="unfinished"></translation>
+        <translation>Stash(&amp;S)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Stash Unstaged Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Stash unstage文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Saves the current state of your unstaged files and resets the repository to its staged state.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存你不分级文件的当前状态，并重置存储库，以它的上演状态。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Remote Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>远程仓库(&amp;R)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -14455,57 +14455,57 @@ Commit now?</source>
     <message>
         <location line="-6"/>
         <source>&amp;Subversion</source>
-        <translation type="unfinished">&amp;Subversion</translation>
+        <translation>颠覆(&amp;S)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Manage Remotes...</source>
-        <translation type="unfinished"></translation>
+        <translation>远程管理...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Revert...</source>
-        <translation type="unfinished">还原...</translation>
+        <translation>还原...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cherry Pick...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cherry Pick...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Checkout...</source>
-        <translation type="unfinished">Checkout...</translation>
+        <translation>Checkout...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Rebase...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebase...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Merge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Merge...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Git &amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Git 工具(&amp;T)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gitk</source>
-        <translation type="unfinished">Gitk</translation>
+        <translation>Gitk</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Gitk Current File</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Gitk of &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;的 Gitk</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -34499,25 +34499,25 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/debugger/shared/symbolpathsdialog.ui"/>
         <location filename="../../../src/plugins/debugger/ui_symbolpathsdialog.h" line="+108"/>
         <source>Set up Symbol Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>设置符号路径</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/debugger/ui_symbolpathsdialog.h" line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The debugger is not configured to use the public Microsoft Symbol Server.&lt;br/&gt;This is recommended for retrieval of the symbols of the operating system libraries.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note:&lt;/span&gt; It is recommended, that if you use the Microsoft Symbol Server, to also use a local symbol cache.&lt;br/&gt;A fast internet connection is required for this to work smoothly,&lt;br/&gt;and a delay might occur when connecting for the first time and caching the symbols.&lt;/p&gt;&lt;p&gt;What would you like to set up?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;HTML&gt; &lt;HEAD/&gt; &lt;BODY&gt; &lt;p&gt;调试器未配置为使用公共Microsoft符号服务器。&lt;BR/&gt;此建议适用于操作系统库的符号进行检索。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;注意:&lt;/span&gt; 建议，如果您使用Microsoft符号服务器，也使用本地缓存符号&lt;BR/&gt;一个快速的互联网连接。这个工作的顺利开展，&lt;BR/&gt;和连接，第一次和缓存的符号时可能会出现延迟必需的。&lt;/p&gt;&lt;p&gt;你想如何设置?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/debugger/ui_symbolpathsdialog.h" line="+1"/>
         <source>Use Local Symbol Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>使用本地符号缓存</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/debugger/ui_symbolpathsdialog.h" line="+1"/>
         <source>Use Microsoft Symbol Server</source>
-        <translation type="unfinished"></translation>
+        <translation>使用符号服务器</translation>
     </message>
 </context>
 <context>
@@ -34541,17 +34541,17 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location line="+1"/>
         <source>Pop Stash of &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>弹出藏匿&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Create Branch Stash for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>创建stash 到分支&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Create Branch Stash for Current Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>为当前分支创建Stash分支</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/branchcheckoutdialog.ui"/>
@@ -34601,13 +34601,13 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>&amp;Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>草稿(&amp;D)</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+2"/>
         <source>Pushes the selected commit and all dependent commits.</source>
-        <translation type="unfinished">将选中的提交和所有依赖提交。</translation>
+        <translation>将选中的提交和所有依赖提交。</translation>
     </message>
     <message>
         <location/>
@@ -34653,11 +34653,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
 Reviewers can be specified by nickname or email address. Spaces not allowed.
 
 Partial names can be used if they are unambiguous.</source>
-        <translation type="unfinished">以逗号分隔评论。
-
-审阅者可以通过昵称或电子邮件地址来指定。
-
-</translation>
+        <translation>以逗号分隔评论。审阅者可以通过昵称或电子邮件地址来指定。</translation>
     </message>
 </context>
 <context>
@@ -36676,7 +36672,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../qmldesigner/propertyEditorQmlSources/QtQuick/FlipableSpecifics.qml" line="+37"/>
         <source>Flipable</source>
-        <translation type="unfinished"></translation>
+        <translation>翻动</translation>
     </message>
 </context>
 <context>
@@ -42052,28 +42048,28 @@ Do you want to kill it?</source>
     <message>
         <location line="+210"/>
         <source>Use Debugging Helper</source>
-        <translation type="unfinished">使用调试助手</translation>
+        <translation>使用调试助手</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>The debugging helpers are used to produce a nice display of objects of certain types like QString or std::map in the &amp;quot;Locals and Expressions&amp;quot; view. </source>
-        <translation type="unfinished"></translation>
+        <translation>调试助手被用来生成一个对象的好的显现，包含类型如QString或std::map在&amp;quot;局部和表达式&amp;quot;视图。</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+6"/>
         <source>&lt;unlimited&gt;</source>
-        <translation type="unfinished">&lt;无限制&gt;</translation>
+        <translation>&lt;无限制&gt;</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Maximum string length:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大字符串长度：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Display string length:</source>
-        <translation type="unfinished"></translation>
+        <translation>显示字符串长度：</translation>
     </message>
 </context>
 <context>
@@ -42428,32 +42424,32 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerrunconfigurationaspect.cpp" line="+72"/>
         <source>Debugger Settings</source>
-        <translation type="unfinished">调试器的设置</translation>
+        <translation>调试器的设置</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Enable C++</source>
-        <translation type="unfinished">启用C++</translation>
+        <translation>启用C++</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enable QML</source>
-        <translation type="unfinished">启用QML</translation>
+        <translation>启用QML</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Debug port:</source>
-        <translation type="unfinished">调试端口:</translation>
+        <translation>调试端口:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debugging-qml.html&quot;&gt;What are the prerequisites?&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debugging-qml.html&quot;&gt;先决条件是什么?&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debugging-qml.html&quot;&gt;先决条件是什么?&lt;/a&gt;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enable Debugging of Subprocesses</source>
-        <translation type="unfinished">打开子进程的调试功能</translation>
+        <translation>打开子进程的调试功能</translation>
     </message>
 </context>
 <context>
@@ -42567,12 +42563,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/lldb/lldbengine.cpp" line="+190"/>
         <source>Run in Terminal is not supported with the LLDB backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>在终端中运行不与LLDB后端支持。</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Unable to start LLDB &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动 LLDB&quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -42582,12 +42578,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+11"/>
         <source>Setting up inferior...</source>
-        <translation type="unfinished">正在设置 inferior...</translation>
+        <translation>正在设置 inferior...</translation>
     </message>
     <message>
         <location line="+124"/>
         <source>Running requested...</source>
-        <translation type="unfinished"></translation>
+        <translation>请求执行...</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -42602,17 +42598,17 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+9"/>
         <source>The LLDB process failed to start. Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>该LLDB进程未能启动。要么调用程序“%1”不存在，或者您可能没有足够的权限调用该程序。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The LLDB process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>该LLDB过程成功启动后崩溃一段时间。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The last waitFor...() function timed out. The state of QProcess is unchanged, and you can try calling waitFor...() again.</source>
-        <translation type="unfinished"></translation>
+        <translation>最后的WAITFOR...（）函数超时。另外，QProcess的状态不变，你可以尝试再次调用WAITFOR...（）。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -42658,37 +42654,37 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/terminal.cpp" line="+70"/>
         <source>Terminal: Cannot open /dev/ptmx: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：无法打开 /dev/ptmx: %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Terminal: ptsname failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：ptsname失败：%1</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Terminal: Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：错误：%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Terminal: Slave is no character device.</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：从机不是字符设备。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Terminal: grantpt failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：grantpt失败：%1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Terminal: unlock failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：解锁失败：%1</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Terminal: Read failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>终端：读取失败：%1</translation>
     </message>
 </context>
 <context>
@@ -42696,37 +42692,37 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/unstartedappwatcherdialog.cpp" line="+90"/>
         <source>Attach to Process Not Yet Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Attach到进程尚未开始</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reopen dialog when application finishes</source>
-        <translation type="unfinished"></translation>
+        <translation>重新打开对话框，当应用程序完成</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reopens this dialog when application finishes.</source>
-        <translation type="unfinished"></translation>
+        <translation>重新打开此对话框，当应用程序完成。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue on attach</source>
-        <translation type="unfinished"></translation>
+        <translation>继续 attach</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Debugger does not stop the application after attach.</source>
-        <translation type="unfinished"></translation>
+        <translation>attch之后调试器没有停止应用程序。</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Start Watching</source>
-        <translation type="unfinished"></translation>
+        <translation>开始监控</translation>
     </message>
     <message>
         <source>Close</source>
@@ -42735,32 +42731,32 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+7"/>
         <source>Kit: </source>
-        <translation type="unfinished"></translation>
+        <translation>套件：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executable: </source>
-        <translation type="unfinished"></translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+171"/>
         <source>Select valid executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择有效执行档。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Not watching.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有监控。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Waiting for process to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>等待进程开始...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
 </context>
 <context>
@@ -44344,46 +44340,46 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditor.cpp" line="+269"/>
         <source>Context lines:</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文行:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished">忽略空白</translation>
+        <translation>忽略空白</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+1"/>
         <source>Reload Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入Diff</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>[%1] vs. [%2] %3</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] 对 [%2] %3</translation>
     </message>
     <message>
         <location line="+9"/>
         <location line="+6"/>
         <source>%1 vs. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 对. %2</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>[%1] %2 vs. [%3] %4</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] %2 对. [%3] %4</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+2"/>
         <source>Hide Change Description</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏变更说明</translation>
     </message>
     <message>
         <location line="-1"/>
         <location line="+2"/>
         <source>Show Change Description</source>
-        <translation type="unfinished"></translation>
+        <translation>显示变更说明</translation>
     </message>
 </context>
 <context>
@@ -44391,7 +44387,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditorconstants.h" line="+34"/>
         <source>Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff编辑器</translation>
     </message>
 </context>
 <context>
@@ -44415,7 +44411,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditordocument.cpp" line="+258"/>
         <source>Could not parse patch file &quot;%1&quot;. The content is not of unified diff format.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析补丁文件“%1”。没有内容是统一的diff格式。</translation>
     </message>
 </context>
 <context>
@@ -44423,22 +44419,22 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditorplugin.cpp" line="+138"/>
         <source>Diff...</source>
-        <translation type="unfinished">Diff...</translation>
+        <translation>Diff...</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Select First File for Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>选择DIFF第一个文件</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Select Second File for Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>选择DIFF第二个文件</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Diff &quot;%1&quot;, &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;, &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -44446,17 +44442,17 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/differ.cpp" line="+971"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>插入</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Equal</source>
-        <translation type="unfinished"></translation>
+        <translation>等于</translation>
     </message>
 </context>
 <context>
@@ -44464,7 +44460,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffview.cpp" line="+96"/>
         <source>Switch to Unified Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到统一DIFF编辑器</translation>
     </message>
 </context>
 <context>
@@ -44472,12 +44468,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+23"/>
         <source>Waiting for data...</source>
-        <translation type="unfinished">等待数据...</translation>
+        <translation>等待数据...</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Failed</source>
-        <translation type="unfinished">失败</translation>
+        <translation>失败</translation>
     </message>
 </context>
 <context>
@@ -44485,7 +44481,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+18"/>
         <source>Switch to Side By Side Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到并排DIFF编辑器</translation>
     </message>
 </context>
 <context>
@@ -44493,17 +44489,17 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+3"/>
         <source>Synchronize Horizontal Scroll Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>同步水平滚动条</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Waiting for data...</source>
-        <translation type="unfinished">等待数据...</translation>
+        <translation>等待数据...</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Failed</source>
-        <translation type="unfinished">失败</translation>
+        <translation>失败</translation>
     </message>
 </context>
 <context>
@@ -44518,53 +44514,53 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Binary files differ</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制文件不同</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Skipped unknown number of lines...</source>
-        <translation type="unfinished"></translation>
+        <translation>行跳过数目不详...</translation>
     </message>
     <message>
         <location line="+152"/>
         <source>No difference</source>
-        <translation type="unfinished"></translation>
+        <translation>没有差异</translation>
     </message>
     <message>
         <location line="+288"/>
         <location line="+38"/>
         <source>Send Chunk to CodePaster...</source>
-        <translation type="unfinished"></translation>
+        <translation>发送块到CodePaster...</translation>
     </message>
     <message>
         <location line="-33"/>
         <source>Apply Chunk...</source>
-        <translation type="unfinished">应用块...</translation>
+        <translation>应用块...</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Revert Chunk...</source>
-        <translation type="unfinished">恢复块...</translation>
+        <translation>恢复块...</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Revert Chunk</source>
-        <translation type="unfinished">恢复块</translation>
+        <translation>恢复块</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Apply Chunk</source>
-        <translation type="unfinished">应用块</translation>
+        <translation>应用块</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Would you like to revert the chunk?</source>
-        <translation type="unfinished">您想要恢复块吗？</translation>
+        <translation>您想要恢复块吗？</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Would you like to apply the chunk?</source>
-        <translation type="unfinished">您想要应用块吗？</translation>
+        <translation>您想要应用块吗？</translation>
     </message>
 </context>
 <context>
@@ -44572,7 +44568,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="-505"/>
         <source>[%1] %2</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] %2</translation>
     </message>
 </context>
 <context>
@@ -44580,47 +44576,47 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/unifieddiffeditorwidget.cpp" line="+96"/>
         <source>No document</source>
-        <translation type="unfinished"></translation>
+        <translation>无文档</translation>
     </message>
     <message>
         <location line="+97"/>
         <source>Send Chunk to CodePaster...</source>
-        <translation type="unfinished"></translation>
+        <translation>发送块到CodePaster...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Apply Chunk...</source>
-        <translation type="unfinished">应用块...</translation>
+        <translation>应用块...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Revert Chunk...</source>
-        <translation type="unfinished">恢复块...</translation>
+        <translation>恢复块...</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Revert Chunk</source>
-        <translation type="unfinished">恢复块</translation>
+        <translation>恢复块</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Apply Chunk</source>
-        <translation type="unfinished">应用块</translation>
+        <translation>应用块</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Would you like to revert the chunk?</source>
-        <translation type="unfinished">您想要恢复块吗？</translation>
+        <translation>您想要恢复块吗？</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Would you like to apply the chunk?</source>
-        <translation type="unfinished">您想要应用块吗？</translation>
+        <translation>您想要应用块吗？</translation>
     </message>
     <message>
         <location line="+331"/>
         <source>No difference.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有差异.</translation>
     </message>
 </context>
 <context>
@@ -44633,12 +44629,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Kill Word</source>
-        <translation type="unfinished"></translation>
+        <translation>删除词</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Kill Line</source>
-        <translation type="unfinished"></translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -44718,7 +44714,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+2"/>
         <source>Yank</source>
-        <translation type="unfinished"></translation>
+        <translation>Yank</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -44807,7 +44803,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+82"/>
         <source>Move lines into themselves.</source>
-        <translation type="unfinished"></translation>
+        <translation>移动行到自己。</translation>
     </message>
     <message numerus="yes">
         <location line="+42"/>
@@ -45050,67 +45046,67 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/git/giteditor.cpp" line="+73"/>
         <source>&amp;Blame %1</source>
-        <translation type="unfinished"></translation>
+        <translation>责任%1(&amp;B)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Blame &amp;Parent Revision %1</source>
-        <translation type="unfinished"></translation>
+        <translation>责任家长修订%1(&amp;P)</translation>
     </message>
     <message>
         <location line="+164"/>
         <source>Chunk successfully staged</source>
-        <translation type="unfinished"></translation>
+        <translation>块成功表现</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Stage Chunk...</source>
-        <translation type="unfinished"></translation>
+        <translation>表现块...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unstage Chunk...</source>
-        <translation type="unfinished"></translation>
+        <translation>不表现块...</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>Cherr&amp;y-Pick Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cherry-Pick改变%1(&amp;y)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Re&amp;vert Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>还原改变%1(&amp;v)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>C&amp;heckout Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>检出分支 &quot;%1&quot;(&amp;h)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Log for Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更改记录%1(&amp;L)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Reset to Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更改重值%1(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>困难(&amp;H)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>混合(&amp;M)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Soft</source>
-        <translation type="unfinished"></translation>
+        <translation>软件(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -49746,12 +49742,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/texteditor/generichighlighter/highlightdefinition.cpp" line="+46"/>
         <source>Element name is empty.</source>
-        <translation type="unfinished">元件名称是空的。</translation>
+        <translation>元件名称是空的。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Duplicate element name &quot;%1&quot;.</source>
-        <translation type="unfinished">重复的元件名称“%1”。</translation>
+        <translation>重复的元件名称“%1”。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -49767,7 +49763,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+187"/>
         <source>Reached empty context.</source>
-        <translation type="unfinished">达到空的上下文。</translation>
+        <translation>达到空的上下文。</translation>
     </message>
 </context>
 <context>
@@ -51601,47 +51597,47 @@ These files are preserved.</source>
         <location filename="../../../src/plugins/qmlprofiler/qml/FlameGraphView.qml" line="+130"/>
         <location line="+3"/>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Various Events</source>
-        <translation type="unfinished"></translation>
+        <translation>各种活动</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Calls</source>
-        <translation type="unfinished">调用</translation>
+        <translation>调用</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Total Time</source>
-        <translation type="unfinished"></translation>
+        <translation>总时间</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mean Time</source>
-        <translation type="unfinished"></translation>
+        <translation>于此同时</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>In Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>百分比的</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>路径</translation>
     </message>
     <message>
         <location line="+126"/>
         <source>No data available</source>
-        <translation type="unfinished"></translation>
+        <translation>无可用数据</translation>
     </message>
 </context>
 <context>
@@ -52919,7 +52915,7 @@ Output:
     <message>
         <location line="+2"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used in Debug mode since enabled assertions can reduce the number of false positives.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您尝试运行在2%模式中应用的工具“%1”。该工具的目的是在调试模式下使用，因为启用断言可以减少误报的数量。&lt;/p&gt;&lt;p&gt;是否要继续运行%2模式中的工具吗?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您尝试运行在%2模式中应用的工具“%1”。该工具的目的是在调试模式下使用，因为启用断言可以减少误报的数量。&lt;/p&gt;&lt;p&gt;是否要继续运行%2模式中的工具吗?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+91"/>
@@ -53407,27 +53403,27 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/debugger/analyzer/startremotedialog.cpp" line="+64"/>
         <source>Start Remote Analysis</source>
-        <translation type="unfinished">开始远程分析</translation>
+        <translation>开始远程分析</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Kit:</source>
-        <translation type="unfinished"></translation>
+        <translation>套件：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>执行档:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>参数:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>工作目录:</translation>
     </message>
 </context>
 <context>
@@ -53563,13 +53559,13 @@ Please set a real Clang executable.</source>
         <location filename="../../../src/plugins/debugger/watchdata.cpp" line="-311"/>
         <source>&lt;not in scope&gt;</source>
         <extracomment>Value of variable in Debugger Locals display for variables out of scope (stopped above initialization).</extracomment>
-        <translation type="unfinished">&lt;超出范围&gt;</translation>
+        <translation>&lt;超出范围&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>%1 &lt;shadowed %2&gt;</source>
         <extracomment>Display of variables shadowed by variables of the same name in nested scopes: Variable %1 is the variable name, %2 is a simple count.</extracomment>
-        <translation type="unfinished">%1 &lt;隐藏了 %2&gt;</translation>
+        <translation>%1 &lt;隐藏了 %2&gt;</translation>
     </message>
 </context>
 <context>
@@ -54126,31 +54122,31 @@ cannot be found in the path.</source>
         <location filename="../../../src/plugins/qmlprofiler/debugmessagesmodel.cpp" line="+48"/>
         <location filename="../../../src/plugins/qmlprofiler/tests/debugmessagesmodel_test.cpp" line="+72"/>
         <source>Debug Message</source>
-        <translation type="unfinished"></translation>
+        <translation>调试信息</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../src/plugins/qmlprofiler/tests/debugmessagesmodel_test.cpp" line="+1"/>
         <source>Warning Message</source>
-        <translation type="unfinished"></translation>
+        <translation>警告消息</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../src/plugins/qmlprofiler/tests/debugmessagesmodel_test.cpp" line="+1"/>
         <source>Critical Message</source>
-        <translation type="unfinished"></translation>
+        <translation>关键信息</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../src/plugins/qmlprofiler/tests/debugmessagesmodel_test.cpp" line="+1"/>
         <source>Fatal Message</source>
-        <translation type="unfinished"></translation>
+        <translation>致命的消息</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../src/plugins/qmlprofiler/tests/debugmessagesmodel_test.cpp" line="+1"/>
         <source>Info Message</source>
-        <translation type="unfinished"></translation>
+        <translation>信息消息</translation>
     </message>
 </context>
 <context>

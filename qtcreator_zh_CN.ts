@@ -31492,7 +31492,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+20"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">关闭(&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -32107,50 +32107,50 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+20"/>
         <source>Memcheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
-        <translation type="unfinished">Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏。</translation>
+        <translation>Valgrind内存分析器使用“Memcheck”工具来查找内存泄漏。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Valgrind Memory Analyzer</source>
-        <translation type="unfinished">Valgrind 内存分析器</translation>
+        <translation>Valgrind内存分析器</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Valgrind Memory Analyzer with GDB</source>
-        <translation type="unfinished">GDB Valgrind 内存分析器</translation>
+        <translation>GDB Valgrind内存分析器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished">GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
-</translation>
+        <translation>GDB Valgrind 内存分析器使用Memcheck工具发现内存泄漏。
+当问题检测出来时，应用程序可被中断并且可被调试。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Valgrind Memory Analyzer (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind内存分析器(外部应用程序)</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+2"/>
         <source>A Valgrind Memcheck analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个Valgrind的Memcheck分析仍在进行中。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start a Valgrind Memcheck analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>开始Valgrind的Memcheck分析。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Start a Valgrind Memcheck with GDB analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>开始附带GDB分析的Valgrind的Memcheck。</translation>
     </message>
     <message>
         <location line="+122"/>
@@ -32175,15 +32175,15 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message numerus="yes">
         <location line="+53"/>
         <source>Memory Analyzer Tool finished, %n issues were found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>内存分析工具完成，共发现%n个问题。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>Log file processed, %n issues were found.</source>
-        <translation type="unfinished">
-            <numerusform>处理日志文件，%n个问题被发现。</numerusform>
+        <translation>
+            <numerusform>日志文件处理完成，共发现%n个问题。</numerusform>
         </translation>
     </message>
     <message>
@@ -32796,12 +32796,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location/>
         <source>Reset information about which version control system handles which directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>重设关于何种版本控制系统处理哪个目录的信息。</translation>
     </message>
     <message>
         <location/>
         <source>Reset VCS Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>重设版本控制系统缓存</translation>
     </message>
 </context>
 <context>
@@ -36300,12 +36300,12 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/todo/todoplugin.cpp" line="+73"/>
         <source>To-Do</source>
-        <translation type="unfinished">To-Do</translation>
+        <translation>待办事项</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/todo/todoprojectsettingswidget.cpp" line="+34"/>
         <source>&lt;Enter regular expression to exclude&gt;</source>
-        <translation type="unfinished">&lt; 输入正则表达式 &gt;</translation>
+        <translation>&lt;输入排除的正则表达式&gt;</translation>
     </message>
 </context>
 <context>
@@ -36440,7 +36440,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+14"/>
         <source>Uninstall package after application stops</source>
-        <translation type="unfinished"></translation>
+        <translation>程序停止后卸载包</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/ui_winrtrunconfigurationwidget.h" line="+1"/>
@@ -42495,7 +42495,7 @@ Setting breakpoints by file name and line number may fail.</source>
         <location line="+148"/>
         <location line="+312"/>
         <source>No valid expression</source>
-        <translation>没有有效的表达</translation>
+        <translation>没有有效的表达式</translation>
     </message>
     <message>
         <location line="-303"/>
@@ -52033,17 +52033,17 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/libs/utils/environmentdialog.cpp" line="+117"/>
         <source>Enter one variable per line with the variable name separated from the variable value by &quot;=&quot;.&lt;br&gt;Environment variables can be referenced with ${OTHER}.</source>
-        <translation type="unfinished">每行输入一个变量，从变量值中以&quot;=&quot;分离出变量名。&lt;br&gt;环境变量可以使用${其他}引用。</translation>
+        <translation>每行输入一个变量，以“=”从变量值中分离出变量名。&lt;br&gt;环境变量可以使用${OTHER}引用。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Change environment by assigning one environment variable per line:</source>
-        <translation type="unfinished"></translation>
+        <translation>通过指定每行一个环境变量来改变运行环境：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit Environment</source>
-        <translation type="unfinished">编辑时的环境变量</translation>
+        <translation>编辑环境变量</translation>
     </message>
 </context>
 <context>
@@ -53481,22 +53481,22 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggermainwindow.cpp" line="+148"/>
         <source>Views</source>
-        <translation type="unfinished"></translation>
+        <translation>视图</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>工具条</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerplugin.cpp" line="+1271"/>
         <source>Start</source>
-        <translation type="unfinished">启动</translation>
+        <translation>启动</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Stop</source>
-        <translation type="unfinished">停止</translation>
+        <translation>停止</translation>
     </message>
 </context>
 <context>
@@ -54909,27 +54909,27 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/texteditor.cpp" line="-6248"/>
         <source>CTRL+D</source>
-        <translation type="unfinished">CTRL+D</translation>
+        <translation>CTRL+D</translation>
     </message>
     <message>
         <location line="+318"/>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding. Editing not possible.</source>
-        <translation type="unfinished">&lt;b&gt;错误:&lt;/b&gt;无法解码“%1”与“%2”编码。不能编辑。</translation>
+        <translation>&lt;b&gt;错误：&lt;/b&gt;无法使用“%2”编码来解码“%1”。无法编辑。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Select Encoding</source>
-        <translation type="unfinished">选择编码</translation>
+        <translation>选择编码</translation>
     </message>
     <message>
         <location line="+6095"/>
         <source>Line: %1, Col: %2</source>
-        <translation type="unfinished">行号: %1, 列号: %2</translation>
+        <translation>行号：%1，列号：%2</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Line: 9999, Col: 999</source>
-        <translation type="unfinished">行号：9999，列号：999</translation>
+        <translation>行号：9999，列号：999</translation>
     </message>
 </context>
 <context>
@@ -54937,503 +54937,503 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/texteditorsettings.cpp" line="+96"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generic text.
 Applied to text, if no other rules matching.</source>
-        <translation type="unfinished">一般文本
+        <translation>一般文本。
 当没有其他规则时应用于文本。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Link</source>
-        <translation type="unfinished">链接</translation>
+        <translation>链接</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Links that follow symbol under cursor.</source>
-        <translation type="unfinished">跟随光标所在符号的链接。</translation>
+        <translation>跟随光标所在符号的链接。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Selection</source>
-        <translation type="unfinished">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Selected text.</source>
-        <translation type="unfinished">选中的文本。</translation>
+        <translation>选中的文本。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Line Number</source>
-        <translation type="unfinished">行号</translation>
+        <translation>行号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line numbers located on the left side of the editor.</source>
-        <translation type="unfinished">位于编辑器左侧的行号。</translation>
+        <translation>位于编辑器左侧的行号。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Search Result</source>
-        <translation type="unfinished">搜索结果</translation>
+        <translation>搜索结果</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Highlighted search results inside the editor.</source>
-        <translation type="unfinished">在编辑器中高亮搜索结果。</translation>
+        <translation>在编辑器中高亮搜索结果。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Search Scope</source>
-        <translation type="unfinished">搜索范围</translation>
+        <translation>搜索范围</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Section where the pattern is searched in.</source>
-        <translation type="unfinished">搜索模式所在的搜索段落范围。</translation>
+        <translation>搜索模式所在搜索的段落。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Parentheses</source>
-        <translation type="unfinished">括号</translation>
+        <translation>括号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Displayed when matching parentheses, square brackets or curly brackets are found.</source>
-        <translation type="unfinished">当匹配到括号、方括号和大括号时显示。</translation>
+        <translation>当匹配到括号、方括号和大括号时显示。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mismatched Parentheses</source>
-        <translation type="unfinished">不匹配的圆括号</translation>
+        <translation>不匹配的括号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Displayed when mismatched parentheses, square brackets, or curly brackets are found.</source>
-        <translation type="unfinished">显示不匹配的括号，方括号或花括号。</translation>
+        <translation>当不匹配到括号、方括号和大括号时显示。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Auto Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>自动补全</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Displayed when a character is automatically inserted like brackets or quotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>当字符自动被插入例如括号或者引用时显示。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Current Line</source>
-        <translation type="unfinished">当前行</translation>
+        <translation>当前行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line where the cursor is placed in.</source>
-        <translation type="unfinished">光标所在的行号。</translation>
+        <translation>光标所在的行。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Current Line Number</source>
-        <translation type="unfinished">当前行号</translation>
+        <translation>当前行号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line number located on the left side of the editor where the cursor is placed in.</source>
-        <translation type="unfinished">当前光标所在位置、位于编辑器左侧的行号。</translation>
+        <translation>当前光标所在位置、位于编辑器左侧的行号。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Occurrences</source>
-        <translation type="unfinished">出现位置</translation>
+        <translation>出现位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Occurrences of the symbol under the cursor.
 (Only the background will be applied.)</source>
-        <translation type="unfinished">光标处的符号出现的位置。
-（仅应用背景颜色。）</translation>
+        <translation>光标处的符号出现的位置。
+（仅应用背景颜色的部分。）</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Unused Occurrence</source>
-        <translation type="unfinished">未使用的出现位置</translation>
+        <translation>未使用的出现位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Occurrences of unused variables.</source>
-        <translation type="unfinished">未用到的变量出现的位置。</translation>
+        <translation>未用到的变量出现的位置。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Renaming Occurrence</source>
-        <translation type="unfinished">重命名出现位置</translation>
+        <translation>重命名出现位置</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Occurrences of a symbol that will be renamed.</source>
-        <translation type="unfinished">将要被更名的符号出现的位置。</translation>
+        <translation>将要被更名的符号出现的位置。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>数字</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Number literal.</source>
-        <translation type="unfinished">数字。</translation>
+        <translation>数字常量。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>String</source>
-        <translation type="unfinished">字符串</translation>
+        <translation>字符串</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Character and string literals.</source>
-        <translation type="unfinished">字符和字符串。</translation>
+        <translation>字符和字符串常量。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Primitive Type</source>
-        <translation type="unfinished">原始类型</translation>
+        <translation>元类型</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of a primitive data type.</source>
-        <translation type="unfinished">原始数据类型的名称。</translation>
+        <translation>元数据类型的名称。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Name of a type.</source>
-        <translation type="unfinished">类型名称。</translation>
+        <translation>类型名称。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Local</source>
-        <translation type="unfinished">局部</translation>
+        <translation>局部</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Local variables.</source>
-        <translation type="unfinished">局部变量。</translation>
+        <translation>局部变量。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Field</source>
-        <translation type="unfinished">字段</translation>
+        <translation>字段</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Class&apos; data members.</source>
-        <translation type="unfinished">类的数据成员。</translation>
+        <translation>类的数据成员。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>全局</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Global variables.</source>
-        <translation type="unfinished"></translation>
+        <translation>全局变量。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enumeration</source>
-        <translation type="unfinished">枚举量</translation>
+        <translation>枚举值</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to enumeration items.</source>
-        <translation type="unfinished">用于枚举项目。</translation>
+        <translation>用于枚举项目。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Function</source>
-        <translation type="unfinished">函数</translation>
+        <translation>函数</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Name of a function.</source>
-        <translation type="unfinished">函数名。</translation>
+        <translation>函数名。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Virtual Function</source>
-        <translation type="unfinished">虚函数</translation>
+        <translation>虚函数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of function declared as virtual.</source>
-        <translation type="unfinished">声明为虚函数。</translation>
+        <translation>声明为虚函数。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QML Binding</source>
-        <translation type="unfinished">QML 绑定</translation>
+        <translation>QML绑定</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML item property, that allows a binding to another property.</source>
-        <translation type="unfinished">允许绑定到另一个属性的QML项属性。</translation>
+        <translation>允许绑定到另一个属性的QML项属性。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>QML Local Id</source>
-        <translation type="unfinished">QML 局部 ID</translation>
+        <translation>QML局部ID</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML item id within a QML file.</source>
-        <translation type="unfinished">QML文件中的QML项的id。</translation>
+        <translation>QML文件中的QML项的id。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>QML Root Object Property</source>
-        <translation type="unfinished">QML 根对象属性</translation>
+        <translation>QML根对象属性</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML property of a parent item.</source>
-        <translation type="unfinished">父项的QML属性。</translation>
+        <translation>父项的QML属性。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>QML Scope Object Property</source>
-        <translation type="unfinished">QML 范围对象的属性</translation>
+        <translation>QML范围对象的属性</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Property of the same QML item.</source>
-        <translation type="unfinished">同一个QML项的属性。</translation>
+        <translation>同一个QML项的属性。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML State Name</source>
-        <translation type="unfinished">QML 状态名</translation>
+        <translation>QML状态名</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of a QML state.</source>
-        <translation type="unfinished">QML状态的名称。</translation>
+        <translation>QML状态的名称。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>QML Type Name</source>
-        <translation type="unfinished">QML类型名</translation>
+        <translation>QML类型名</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of a QML type.</source>
-        <translation type="unfinished">QML类型名。</translation>
+        <translation>QML类型名。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>QML External Id</source>
-        <translation type="unfinished">QML 外部 ID</translation>
+        <translation>QML外部ID</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML id defined in another QML file.</source>
-        <translation type="unfinished">在另一个QML文件中定义的QML id。</translation>
+        <translation>在另一个QML文件中定义的QML id。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>QML External Object Property</source>
-        <translation type="unfinished">QML 外部对象属性</translation>
+        <translation>QML外部对象属性</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>QML property defined in another QML file.</source>
-        <translation type="unfinished">在另一个QML文件中定义的QML属性。</translation>
+        <translation>在另一个QML文件中定义的QML属性。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>JavaScript Scope Var</source>
-        <translation type="unfinished">JavaScript 范围变量</translation>
+        <translation>JavaScript范围var</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Variables defined inside the JavaScript file.</source>
-        <translation type="unfinished">JavaScript文件内定义的变量。</translation>
+        <translation>JavaScript文件内定义的变量。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>JavaScript Import</source>
-        <translation type="unfinished">JavaScript 导入</translation>
+        <translation>JavaScript 导入</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Name of a JavaScript import inside a QML file.</source>
-        <translation type="unfinished">QML文件内的JavaScript导入的名称。</translation>
+        <translation>QML文件内的JavaScript导入的名称。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>JavaScript Global Variable</source>
-        <translation type="unfinished">JavaScript 全局变量</translation>
+        <translation>JavaScript 全局变量</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Variables defined outside the script.</source>
-        <translation type="unfinished">脚本内定义的变量。</translation>
+        <translation>脚本外定义的变量。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Keyword</source>
-        <translation type="unfinished">关键字</translation>
+        <translation>关键字</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reserved keywords of the programming language except keywords denoting primitive types.</source>
-        <translation type="unfinished">保留关键字的编程语言，除了表示原始类型关键词。</translation>
+        <translation>除了表示元类型外为编程语言保留的关键词。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Operator</source>
-        <translation type="unfinished">运算符</translation>
+        <translation>运算符</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Operators (for example operator++ or operator-=).</source>
-        <translation type="unfinished">运算符（例如运算符++或运算符-=）。</translation>
+        <translation>运算符（例如运算符++或运算符-=）。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preprocessor</source>
-        <translation type="unfinished">预处理器</translation>
+        <translation>预处理器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Preprocessor directives.</source>
-        <translation type="unfinished">预处理指令。</translation>
+        <translation>预处理指令。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation type="unfinished">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Labels for goto statements.</source>
-        <translation type="unfinished">goto语句的标签。</translation>
+        <translation>goto语句的标签。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation type="unfinished">注释</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>All style of comments except Doxygen comments.</source>
-        <translation type="unfinished">除Doxygen注释之外的所有风格的注释。</translation>
+        <translation>除Doxygen注释之外的所有风格的注释。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Doxygen Comment</source>
-        <translation type="unfinished">Doxgen注释</translation>
+        <translation>Doxgen注释</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doxygen comments.</source>
-        <translation type="unfinished">Doxgen注释。</translation>
+        <translation>Doxgen注释。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Doxygen Tag</source>
-        <translation type="unfinished">Doxgen标签</translation>
+        <translation>Doxgen标签</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Doxygen tags.</source>
-        <translation type="unfinished">Doxygen的标签。</translation>
+        <translation>Doxygen的标签。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Visual Whitespace</source>
-        <translation type="unfinished">标示空白</translation>
+        <translation>可见空白</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Whitespace.
 Will not be applied to whitespace in comments and strings.</source>
-        <translation type="unfinished">空格。
-不应用于注释和字符串的空格。</translation>
+        <translation>空格。
+不应用于注释和字符串。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Disabled Code</source>
-        <translation type="unfinished">禁用的代码</translation>
+        <translation>禁用的代码</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Code disabled by preprocessor directives.</source>
-        <translation type="unfinished">被预处理指令禁用的代码。</translation>
+        <translation>被预处理指令禁用的代码。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Added Line</source>
-        <translation type="unfinished">添加的行</translation>
+        <translation>添加的行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to added lines in differences (in diff editor).</source>
-        <translation type="unfinished">应用于（diff编辑器的）差异中增加的行。</translation>
+        <translation>应用于（diff编辑器的）差异中增加的行。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Removed Line</source>
-        <translation type="unfinished">删除的行</translation>
+        <translation>删除的行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to removed lines in differences (in diff editor).</source>
-        <translation type="unfinished">应用于（diff编辑器的）差异中删除的行。</translation>
+        <translation>应用于（diff编辑器的）差异中删除的行。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Diff File</source>
-        <translation type="unfinished">Diff文件</translation>
+        <translation>Diff文件</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Compared files (in diff editor).</source>
-        <translation type="unfinished">（diff编辑中）比较的文件。</translation>
+        <translation>（diff编辑中）比较的文件。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Diff Location</source>
-        <translation type="unfinished">Diff路径</translation>
+        <translation>Diff路径</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location in the files where the difference is (in diff editor).</source>
-        <translation type="unfinished">diff编辑器中显示文件差别所在的位置。</translation>
+        <translation>文件差别所在的位置（在diff编辑器中）。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Diff File Line</source>
-        <translation type="unfinished">Diff文件行</translation>
+        <translation>Diff文件行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Applied to lines with file information in differences (in side-by-side diff editor).</source>
-        <translation type="unfinished">用于不同的文件信息系（并排比较编辑）。</translation>
+        <translation>用于在不同文件信息中的行（在并排diff编辑器中）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Diff Context Line</source>
-        <translation type="unfinished">Diff上下文行</translation>
+        <translation>Diff上下文行</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -55556,202 +55556,202 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/callgrindtool.cpp" line="+260"/>
         <source>Valgrind Function Profiler uses the Callgrind tool to record function calls when a program runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>当程序运行时，Valgrind函数性能分析器使用Callgrind工具来记录函数的调用。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Valgrind Function Profiler</source>
-        <translation type="unfinished">Valgrind 功能分析器</translation>
+        <translation>Valgrind函数性能分析器</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Valgrind Function Profiler (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind函数性能分析器(外部应用程序)</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Profile Costs of This Function and Its Callees</source>
-        <translation type="unfinished">分析此函数和被调用者的花销</translation>
+        <translation>性能分析此函数和被调用者的开销</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Visualization</source>
-        <translation type="unfinished">可视化</translation>
+        <translation>可视化</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Callers</source>
-        <translation type="unfinished">调用者</translation>
+        <translation>调用者</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Callees</source>
-        <translation type="unfinished">被调用者</translation>
+        <translation>被调用者</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Functions</source>
-        <translation type="unfinished">函数</translation>
+        <translation>函数</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Load External Log File</source>
-        <translation type="unfinished">加载外部日志文件</translation>
+        <translation>加载外部日志文件</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Request the dumping of profile information. This will update the Callgrind visualization.</source>
-        <translation type="unfinished">请求dump分析信息。这将更新callgrind的可视化。</translation>
+        <translation>请求dump分析信息。这将更新Callgrind的可视化。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reset all event counters.</source>
-        <translation type="unfinished">重置所有的事件计数器。</translation>
+        <translation>重置所有的事件计数器。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Pause event logging. No events are counted which will speed up program execution during profiling.</source>
-        <translation type="unfinished">暂停事件记录日志。不对事件计数，这将加快程序在分析时的执行速度。</translation>
+        <translation>暂停事件记录日志。不对事件计数，这将加快程序在分析时的执行速度。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Go back one step in history. This will select the previously selected item.</source>
-        <translation type="unfinished">在历史中返回一步。这将选中之前选过的项。</translation>
+        <translation>在历史中后退一步。这将选中之前选过的项。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Go forward one step in history.</source>
-        <translation type="unfinished">在历史中向前一步。</translation>
+        <translation>在历史中向前一步。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Selects which events from the profiling data are shown and visualized.</source>
-        <translation type="unfinished">选择分析数据时显示哪些事件并且图形化。</translation>
+        <translation>选择分析数据时显示哪些事件并且可视化。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Absolute Costs</source>
-        <translation type="unfinished">绝对花费</translation>
+        <translation>绝对开销</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show costs as absolute numbers.</source>
-        <translation type="unfinished">显示花费的确切数字。</translation>
+        <translation>显示开销的绝对数字。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Relative Costs</source>
-        <translation type="unfinished">相对花费</translation>
+        <translation>相对开销</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show costs relative to total inclusive cost.</source>
-        <translation type="unfinished">显示相对于总花费的花费。</translation>
+        <translation>显示相对于总包含开销的开销。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Relative Costs to Parent</source>
-        <translation type="unfinished">相对于父级的花费</translation>
+        <translation>相对于父级的开销</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show costs relative to parent function&apos;s inclusive cost.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示相对于父函数总包含开销的开销。</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Cost Format</source>
-        <translation type="unfinished">花费格式</translation>
+        <translation>开销格式</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Enable cycle detection to properly handle recursive or circular function calls.</source>
-        <translation type="unfinished">启用循环检测来正确处理递归或循环的函数调用。</translation>
+        <translation>启用循环检测来正确处理递归或循环的函数调用。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove template parameter lists when displaying function names.</source>
-        <translation type="unfinished"></translation>
+        <translation>当显示函数名称时，移除模板参数列表。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show Project Costs Only</source>
-        <translation type="unfinished">仅显示项目花费</translation>
+        <translation>仅显示项目开销</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Show only profiling info that originated from this project source.</source>
-        <translation type="unfinished">仅显示源于本项目代码的分析信息。</translation>
+        <translation>仅显示源于本项目代码的分析信息。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Filter...</source>
-        <translation type="unfinished">过滤器...</translation>
+        <translation>过滤器...</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Callgrind</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind</translation>
     </message>
     <message>
         <location line="+290"/>
         <source>A Valgrind Callgrind analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个Valgrind的Callgrind分析仍在进行中。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start a Valgrind Callgrind analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动一个Valgrind的Callgrind分析。</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Profiling aborted.</source>
-        <translation type="unfinished">分析中断。</translation>
+        <translation>性能分析终止。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Parsing finished, no data.</source>
-        <translation type="unfinished">分析完成，无数据。</translation>
+        <translation>解析完成，无数据。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Parsing finished, total cost of %1 reported.</source>
-        <translation type="unfinished">分析完成，报告总花费%1 。</translation>
+        <translation>解析完成，报告总开销为%1。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Parsing failed.</source>
-        <translation type="unfinished">分析失败。</translation>
+        <translation>解析失败。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Select This Function in the Analyzer Output</source>
-        <translation type="unfinished"></translation>
+        <translation>在分析输出中选择该函数</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Populating...</source>
-        <translation type="unfinished">正在填充...</translation>
+        <translation>正在填充...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Open Callgrind Log File</source>
-        <translation type="unfinished">打开Callgrind日志文件</translation>
+        <translation>打开Callgrind日志文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Callgrind Output (callgrind.out*);;All Files (*)</source>
-        <translation type="unfinished">Callgrind输出(callgrind.out *);,所有文件(*)</translation>
+        <translation>Callgrind输出(callgrind.out *);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Callgrind: Failed to open file for reading: %1</source>
-        <translation type="unfinished">Callgrind:读取文件失败:%1</translation>
+        <translation>Callgrind：读取文件失败：%1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Parsing Profile Data...</source>
-        <translation type="unfinished">解析分析数据...</translation>
+        <translation>解析性能分析的数据...</translation>
     </message>
 </context>
 </TS>

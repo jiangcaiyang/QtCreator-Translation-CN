@@ -5568,7 +5568,7 @@ to version control (%2)
     <name>CppTools::Internal::CompletionSettingsPage</name>
     <message>
         <source>Completion</source>
-        <translation type="vanished">补全</translation>
+        <translation>补全</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/cpptools/ui_completionsettingspage.h" line="+219"/>
@@ -6198,7 +6198,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/cpptools/cpplocatorfilter.cpp" line="+40"/>
         <source>C++ Classes, Enums and Functions</source>
-        <translation>C++ 类，枚举和函数</translation>
+        <translation>C++类、枚举和函数</translation>
     </message>
 </context>
 <context>
@@ -6968,7 +6968,7 @@ Flags: %3</source>
         <location line="+71"/>
         <source>Locals &amp;&amp; Expressions</source>
         <extracomment>&apos;&amp;&amp;&apos; will appear as one (one is marking keyboard shortcut)</extracomment>
-        <translation>局部变量和表达式(&amp;&amp;)</translation>
+        <translation>局部变量和表达式</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerinternalconstants.h" line="+50"/>
@@ -10192,7 +10192,7 @@ Use &quot;Examine Symbols&quot; from the context menu to initiate a check.</sour
         <location line="+5"/>
         <source>This module neither contains nor references debug information.
 Stepping into the module or setting breakpoints by file and line will not work.</source>
-        <translation>这个模块既不包含也不引用调试信息。
+        <translation>该模块既不包含也不引用调试信息。
 单步进入模块或按文件和行号设置断点将不起作用。</translation>
     </message>
     <message>
@@ -10200,12 +10200,12 @@ Stepping into the module or setting breakpoints by file and line will not work.<
         <location line="+5"/>
         <source>This module contains debug information.
 Stepping into the module or setting breakpoints by file and line is expected to work.</source>
-        <translation></translation>
+        <translation>该模块包含调试信息，单步进入模块或者设置文件和行的断点能按预期工作。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This module does not contain debug information itself, but contains a reference to external debug information.</source>
-        <translation>这个模块本身没有包含调试信息，但包含了外部调试信息的引用。</translation>
+        <translation>该模块本身没有包含调试信息，但包含了外部调试信息的引用。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -13426,7 +13426,7 @@ Would you like to terminate it?</source>
         <location filename="../../../src/plugins/git/changeselectiondialog.ui"/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+138"/>
         <source>Select a Git Commit</source>
-        <translation>选择一个 Git commit</translation>
+        <translation>选择一个Git提交</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/changeselectiondialog.cpp" line="+126"/>
@@ -13441,17 +13441,17 @@ Would you like to terminate it?</source>
     <message>
         <location line="+121"/>
         <source>Error: Unknown reference</source>
-        <translation>错误:未知的参考</translation>
+        <translation>错误：未知的引用</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Bad working directory.</source>
-        <translation>错误:错误的工作目录。</translation>
+        <translation>错误：错误的工作目录。</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Error: Could not start Git.</source>
-        <translation>错误:无法启动Git。</translation>
+        <translation>错误：无法启动Git。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -13473,13 +13473,13 @@ Would you like to terminate it?</source>
         <location filename="../../../src/plugins/git/changeselectiondialog.ui"/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Change:</source>
-        <translation>修改:</translation>
+        <translation>修改：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>HEAD</source>
-        <translation>头</translation>
+        <translation>HEAD</translation>
     </message>
     <message>
         <location/>
@@ -14133,7 +14133,7 @@ Commit now?</source>
     <message>
         <location line="+6"/>
         <source>Reflog</source>
-        <translation>重记录</translation>
+        <translation>Reflog</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -14173,7 +14173,7 @@ Commit now?</source>
     <message>
         <location line="+2"/>
         <source>Amend Last Commit...</source>
-        <translation>增订最后一个 Commit...</translation>
+        <translation>增订最后一次提交...</translation>
     </message>
     <message>
         <location line="+222"/>
@@ -14374,12 +14374,12 @@ Commit now?</source>
     <message>
         <location line="-132"/>
         <source>Fixup Previous Commit...</source>
-        <translation>修正前提交...</translation>
+        <translation>修正以前的提交...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Interactive Rebase...</source>
-        <translation></translation>
+        <translation>交互性变基</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -14404,27 +14404,27 @@ Commit now?</source>
     <message>
         <location line="+5"/>
         <source>Abort Revert</source>
-        <translation>中止还原</translation>
+        <translation>中止Revert</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Rebase</source>
-        <translation>继续再次基于</translation>
+        <translation>继续Rebase</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Cherry Pick</source>
-        <translation>继续Cherry-Pick</translation>
+        <translation>继续Cherry Pick</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Continue Revert</source>
-        <translation>继续恢复</translation>
+        <translation>继续Revert</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Patch</source>
-        <translation>路径(&amp;P)</translation>
+        <translation>Patch(&amp;P)</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -14434,12 +14434,12 @@ Commit now?</source>
     <message>
         <location line="+12"/>
         <source>Stash Unstaged Files</source>
-        <translation>Stash unstage文件</translation>
+        <translation>Stash unstaged的文件</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Saves the current state of your unstaged files and resets the repository to its staged state.</source>
-        <translation>保存你不分级文件的当前状态，并重置存储库，以它的上演状态。</translation>
+        <translation>保存你当前unstaged的文件的状态并重置仓库至staged的状态</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -14455,17 +14455,17 @@ Commit now?</source>
     <message>
         <location line="-6"/>
         <source>&amp;Subversion</source>
-        <translation>颠覆(&amp;S)</translation>
+        <translation>Subversion(&amp;S)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Manage Remotes...</source>
-        <translation>远程管理...</translation>
+        <translation>管理远程...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Revert...</source>
-        <translation>还原...</translation>
+        <translation>Revert...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -14490,7 +14490,7 @@ Commit now?</source>
     <message>
         <location line="+7"/>
         <source>Git &amp;Tools</source>
-        <translation>Git 工具(&amp;T)</translation>
+        <translation>Git工具(&amp;T)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -14500,7 +14500,7 @@ Commit now?</source>
     <message>
         <location line="+3"/>
         <source>Gitk Current File</source>
-        <translation></translation>
+        <translation>Gitk当前文件</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -14525,7 +14525,7 @@ Commit now?</source>
     <message>
         <location line="+8"/>
         <source>Repository Browser</source>
-        <translation>库浏览器</translation>
+        <translation>仓库浏览器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -14535,7 +14535,7 @@ Commit now?</source>
     <message>
         <location line="+8"/>
         <source>Actions on Commits...</source>
-        <translation>提交激活...</translation>
+        <translation>提交的行为...</translation>
     </message>
     <message>
         <location line="+175"/>
@@ -14545,7 +14545,7 @@ Commit now?</source>
     <message>
         <location line="+16"/>
         <source>Interactive Rebase</source>
-        <translation>衍合互动</translation>
+        <translation>交互性Rebase</translation>
     </message>
     <message>
         <location line="+170"/>
@@ -14565,7 +14565,7 @@ Commit now?</source>
     <message>
         <location line="+5"/>
         <source>The repository is clean.</source>
-        <translation>代码仓库是clean状态。</translation>
+        <translation>仓库是干净的。</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -14620,7 +14620,7 @@ Commit now?</source>
     <message>
         <location line="-112"/>
         <source>Commit...</source>
-        <translation>Commit...</translation>
+        <translation>提交...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -24362,7 +24362,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location line="+22"/>
         <source>Become last sibling of parent (CTRL + Left).</source>
-        <translation></translation>
+        <translation>变为父项最后的兄弟项(CTRL + Left)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -25721,12 +25721,12 @@ Do you want to save the data first?</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilertraceview.cpp" line="+246"/>
         <source>Analyze Current Range</source>
-        <translation></translation>
+        <translation>分析当前范围</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Analyze Full Range</source>
-        <translation></translation>
+        <translation>分析完整范围</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -30428,11 +30428,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Behavior</source>
-        <translation type="vanished">行为</translation>
+        <translation>行为</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="vanished">显示</translation>
+        <translation>显示</translation>
     </message>
 </context>
 <context>
@@ -31559,7 +31559,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Git Rebase Editor</source>
-        <translation>Git变基编辑器</translation>
+        <translation>Git Rebase编辑器</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -32142,7 +32142,7 @@ Will not be applied to whitespace in comments and strings.</source>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished">GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
+        <translation>GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
 当问题检测出来时，应用程序可被中断并且可被调试。</translation>
     </message>
     <message>
@@ -39825,7 +39825,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>&amp;Redo</source>
-        <translation></translation>
+        <translation>重做</translation>
     </message>
 </context>
 <context>
@@ -40801,23 +40801,23 @@ Do you want to check them out now?</source>
     <name>Core::FindPlugin</name>
     <message>
         <source>&amp;Find/Replace</source>
-        <translation type="vanished">查找/替换(&amp;F)</translation>
+        <translation>查找/替换(&amp;F)</translation>
     </message>
     <message>
         <source>Advanced Find</source>
-        <translation type="vanished">高级查找</translation>
+        <translation>高级查找</translation>
     </message>
     <message>
         <source>Open Advanced Find...</source>
-        <translation type="vanished">打开高级查找...</translation>
+        <translation>打开高级查找...</translation>
     </message>
     <message>
         <source>Advanced...</source>
-        <translation type="vanished">高级...</translation>
+        <translation>高级...</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F</source>
-        <translation type="vanished">Ctrl+Shift+F</translation>
+        <translation>Ctrl+Shift+F</translation>
     </message>
 </context>
 <context>
@@ -41559,12 +41559,12 @@ Do you want to kill it?</source>
     <message>
         <location line="+4"/>
         <source>Meta+E, Shift+F2</source>
-        <translation></translation>
+        <translation>Meta+E, Shift+F2</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Ctrl+E, Shift+F2</source>
-        <translation></translation>
+        <translation>Ctrl+E, Shift+F2</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -41599,7 +41599,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+I</source>
-        <translation></translation>
+        <translation>Meta+Shift+I</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -41629,7 +41629,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+2"/>
         <source>Meta+Shift+F12</source>
-        <translation></translation>
+        <translation>Meta+Shift+F12</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -42488,7 +42488,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggertooltipmanager.cpp" line="+239"/>
         <source>Name</source>
-        <translation></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49593,7 +49593,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Creating remote socket ...</source>
-        <translation></translation>
+        <translation>创建远程套接字</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -50820,7 +50820,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+92"/>
         <source>Run windeployqt</source>
-        <translation></translation>
+        <translation>运行windeployqt</translation>
     </message>
 </context>
 <context>
@@ -50916,7 +50916,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/winrt/winrtphoneqtversion.cpp" line="+46"/>
         <source>Windows Phone</source>
-        <translation></translation>
+        <translation>Windows Phone</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtqtversion.cpp" line="+55"/>
@@ -52666,22 +52666,22 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+24"/>
         <source>Category:</source>
-        <translation></translation>
+        <translation>分类：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Type:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Context:</source>
-        <translation>上下文:</translation>
+        <translation>上下文：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Location:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
 </context>
 <context>
@@ -52689,7 +52689,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+29"/>
         <source>Message:</source>
-        <translation>消息:</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -52699,7 +52699,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <location line="+5"/>
         <source>Location:</source>
-        <translation>路径:</translation>
+        <translation>位置：</translation>
     </message>
 </context>
 <context>

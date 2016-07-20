@@ -22116,12 +22116,12 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/libs/ssh/sshchannelmanager.cpp" line="+182"/>
         <source>Unexpected request success packet.</source>
-        <translation type="unfinished"></translation>
+        <translation>意外的请求成功的数据包。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Unexpected request failure packet.</source>
-        <translation type="unfinished"></translation>
+        <translation>意外的请求失败的数据包。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -25544,7 +25544,7 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerstatewidget.cpp" line="+114"/>
         <source>Profiling application: %1 events</source>
-        <translation type="unfinished"></translation>
+        <translation>分析应用程序：%1事件</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -25559,23 +25559,23 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+6"/>
         <source>Processing data: %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>进程数据:%1/%2</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Loading buffered data: %1 events</source>
-        <translation type="unfinished"></translation>
+        <translation>装载缓冲数据：%1事件</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Loading offline data: %1 events</source>
-        <translation type="unfinished"></translation>
+        <translation>加载离线数据：%1事件</translation>
     </message>
     <message>
         <location line="-4"/>
         <location line="+7"/>
         <source>Clearing old trace</source>
-        <translation type="unfinished"></translation>
+        <translation>清除旧的跟踪</translation>
     </message>
     <message>
         <source>Application stopped before loading all data</source>
@@ -25626,22 +25626,22 @@ references to elements in other files, loops, and so on.)</source>
     <message>
         <location line="+33"/>
         <source>A QML Profiler analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个QML探查分析仍在进程中。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start QML Profiler analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动QML探查分析。</translation>
     </message>
     <message>
         <location line="+135"/>
         <source>Disable Profiling</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用分析器</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Enable Profiling</source>
-        <translation type="unfinished"></translation>
+        <translation>启用分析器</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -25657,7 +25657,7 @@ references to elements in other files, loops, and so on.)</source>
         <location line="+136"/>
         <location line="+22"/>
         <source>QML traces (*%1 *%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>QML 追踪文件(*%1*%2)</translation>
     </message>
     <message>
         <source>QML traces (*%1)</source>
@@ -25721,12 +25721,12 @@ Do you want to save the data first?</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilertraceview.cpp" line="+246"/>
         <source>Analyze Current Range</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Analyze Full Range</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -26109,12 +26109,12 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+4"/>
         <source>Classes for displaying and editing Web content using Chromium backend</source>
-        <translation type="unfinished"></translation>
+        <translation>类用来显示和编辑网页内容使用Chromium 后端</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>WebEngine and QWidget-based classes using Chromium backend</source>
-        <translation type="unfinished"></translation>
+        <translation>使用Chromium后端WebEngine和基于QWidget的类</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -26244,7 +26244,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+4"/>
         <source>QML Dump:</source>
-        <translation type="unfinished"></translation>
+        <translation>QML Dump:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -26611,17 +26611,17 @@ cannot be found in the path.</source>
     <message>
         <location line="+4"/>
         <source>The current Qt version&apos;s default mkspecs (Qt 4).</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的Qt版本默认mkspecs（QT4）。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; host system)</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的Qt版本默认mkspec（QT5;主机系统）</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; target system).</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的Qt版本默认mkspec（QT5;目标系统）。</translation>
     </message>
     <message>
         <source>The current Qt version&apos;s default mkspecs.</source>
@@ -26650,7 +26650,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+2"/>
         <source>Path to the qmake executable</source>
-        <translation type="unfinished"></translation>
+        <translation>路径可执行的qmake</translation>
     </message>
 </context>
 <context>
@@ -28811,7 +28811,7 @@ Specifies how backspace interacts with indentation.
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 指定退格缩进的方式。
 
 &lt;ul&gt;
@@ -28949,7 +28949,13 @@ Specifies how backspace interacts with indentation.
 &lt;li&gt;&lt;i&gt;Always Delete:&lt;/i&gt; never write an UTF-8 BOM, possibly deleting a pre-existing one.&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Note that UTF-8 BOMs are uncommon and treated incorrectly by some editors, so it usually makes little sense to add any.&lt;/p&gt;
 &lt;p&gt;This setting does &lt;b&gt;not&lt;/b&gt; influence the use of UTF-16 and UTF-32 BOMs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;文本编辑器应如何处理UTF-8字节顺序标记。选项有：&lt;/p&gt;
+&lt;ul &gt;&lt;li&gt;&lt;i&gt;添加如果编码为 UTF-8:&lt;/i&gt; 当用UTF-8编码保存一个文件总是添加一个BOM。 注意这将不会生效如果编码是 &lt;i&gt;系统&lt;/i&gt;,因为Qt Creator的不知道它实际上是什么.&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;保存如果已经存在: &lt;/i&gt;保存该文件一个BOM，如果它已经有了，当它被加载到。&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;始终删除:&lt;/i&gt; 永远不写一个 UTF-8 BOM, 可能删除预先现有的.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;需要注意的是UTF-8 BOM是罕见的和一些编辑错误处理，因此通常意义不大添加任何&lt;/p&gt;
+&lt;p&gt;此设置确实 &lt;b&gt;不是&lt;/b&gt;影响使用UTF-16和UTF-32的BOM的。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location/>
@@ -29038,12 +29044,12 @@ Specifies how backspace interacts with indentation.
     <message>
         <location/>
         <source>Using Select Block Up / Down actions will now provide smarter selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用选择阻止向上/向下的动作现在将提供更聪明的选择。</translation>
     </message>
     <message>
         <location/>
         <source>Enable smart selection changing</source>
-        <translation type="unfinished"></translation>
+        <translation>启用智能选择变化</translation>
     </message>
 </context>
 <context>
@@ -32115,50 +32121,50 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+20"/>
         <source>Memcheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
-        <translation type="unfinished">Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏。</translation>
+        <translation>Valgrind 分析内存使用&quot;memcheck&quot; 工具来查找内存泄漏。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Valgrind Memory Analyzer</source>
-        <translation type="unfinished">Valgrind 内存分析器</translation>
+        <translation>Valgrind 内存分析器</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Valgrind Memory Analyzer with GDB</source>
-        <translation type="unfinished">GDB Valgrind 内存分析器</translation>
+        <translation>GDB Valgrind 内存分析器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished">GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
+        <translation>GDB Valgrind 内存分析器使用内存诊断工具发现内存泄漏。
 </translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Valgrind Memory Analyzer (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind内存分析器（外部应用程序）</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+2"/>
         <source>A Valgrind Memcheck analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个Valgrind Memcheck分析仍然在进程中。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start a Valgrind Memcheck analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动一个Valgrind Memcheck 分析。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Start a Valgrind Memcheck with GDB analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>用GDB 分析启动一个Valgrind Memcheck </translation>
     </message>
     <message>
         <location line="+122"/>
@@ -32183,14 +32189,14 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message numerus="yes">
         <location line="+53"/>
         <source>Memory Analyzer Tool finished, %n issues were found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>内存分析工具完成，共发现%n个问题。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>Log file processed, %n issues were found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>处理日志文件，%n个问题被发现。</numerusform>
         </translation>
     </message>
@@ -35994,26 +36000,28 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerconfigwidget.ui"/>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+85"/>
         <source>Flush data while profiling:</source>
-        <translation type="unfinished"></translation>
+        <translation>分析时刷新数据:</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+2"/>
         <source>Periodically flush pending data to Qt Creator. This reduces the delay when loading the
 data and the memory usage in the application. It distorts the profile as the flushing
 itself takes time. </source>
-        <translation type="unfinished"></translation>
+        <translation>定期刷新新待处理数据到Qt Creator。这减少了装载时的延迟。
+在应用程序中数据和内存的使用。它扭曲了配置作为刷新。
+本身需要时间。</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerconfigwidget.ui"/>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+4"/>
         <source>Flush interval (ms):</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新时间间隔(毫秒)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+1"/>
         <source>Process data only when process ends:</source>
-        <translation type="unfinished"></translation>
+        <translation>只有当进程结束时的进程数据：</translation>
     </message>
     <message>
         <location/>
@@ -36022,14 +36030,19 @@ itself takes time. </source>
 session ends. This way multiple recording sessions can be aggregated in a single trace,
 for example if multiple QML engines start and stop sequentially during a single run of
 the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>当进程被分析结束只处理数据，而不是当前记录
+会话结束。这样，多个记录会话可以在一个单一的跟踪进行汇总，
+例如，如果多个QML引擎启动和单次运行期间，停止连续
+该程序。</translation>
     </message>
     <message>
         <location/>
         <source>Periodically flush pending data to Qt Creator. This reduces the delay when loading the
 data and the memory usage in the application. It distorts the profile as the flushing
 itself takes time.</source>
-        <translation type="unfinished"></translation>
+        <translation>定期刷新新待处理数据到Qt Creator。这减少了装载时的延迟。
+在应用程序中数据和内存的使用。它扭曲了配置作为刷新。
+本身需要时间。</translation>
     </message>
 </context>
 <context>
@@ -36060,12 +36073,14 @@ itself takes time.</source>
         <source>The remote directory &quot;%1&quot; already exists. Deploying to that directory will remove any files already present.
 
 Are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>远程目录“%1”已经存在。部署到该目录将删除任何文件已经存在。
+
+你确定要继续吗？</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Checking existence of &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>检查“%1&quot;的存在</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -36199,13 +36214,13 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Aggregation as a pointer member</source>
-        <translation type="unfinished"></translation>
+        <translation>聚合为指针成员</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Aggregation</source>
-        <translation type="unfinished">集成</translation>
+        <translation>集成</translation>
     </message>
     <message>
         <location/>
@@ -36217,7 +36232,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Code Generation</source>
-        <translation type="unfinished">代码生成</translation>
+        <translation>代码生成</translation>
     </message>
     <message>
         <location/>
@@ -36235,7 +36250,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qtsupport/ui_codegensettingspagewidget.h" line="+1"/>
         <source>Add Qt version #ifdef for module names</source>
-        <translation type="unfinished"></translation>
+        <translation>添加的Qt版本为#IFDEF模块名称</translation>
     </message>
 </context>
 <context>
@@ -37087,22 +37102,22 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/document_controller/documentcontroller.cpp" line="+219"/>
         <source>New Package</source>
-        <translation type="unfinished"></translation>
+        <translation>新包</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>New Class</source>
-        <translation type="unfinished"></translation>
+        <translation>新类</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>New Component</source>
-        <translation type="unfinished"></translation>
+        <translation>新组件</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>New Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>新图表</translation>
     </message>
 </context>
 <context>
@@ -37110,43 +37125,43 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/model_controller/modelcontroller.cpp" line="+59"/>
         <source>Change Object</source>
-        <translation type="unfinished"></translation>
+        <translation>改变对象</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Change Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>改变联系</translation>
     </message>
     <message>
         <location line="+342"/>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>移动对象</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Move Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>移动联系</translation>
     </message>
     <message>
         <location line="+138"/>
         <source>Add Object</source>
-        <translation type="unfinished"></translation>
+        <translation>添加对象</translation>
     </message>
     <message>
         <location line="+16"/>
         <location line="+9"/>
         <source>Delete Object</source>
-        <translation type="unfinished"></translation>
+        <translation>删除对象</translation>
     </message>
     <message>
         <location line="+105"/>
         <source>Add Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>添加联系</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Delete Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>删除联系</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -37171,7 +37186,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/model_ui/treemodel.cpp" line="+789"/>
         <source>[unnamed]</source>
-        <translation type="unfinished"></translation>
+        <translation>[未命名]</translation>
     </message>
 </context>
 <context>
@@ -37197,197 +37212,197 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/model_widgets_ui/propertiesviewmview.cpp" line="+386"/>
         <source>Stereotypes:</source>
-        <translation type="unfinished"></translation>
+        <translation>定型：</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Reverse engineered:</source>
-        <translation type="unfinished"></translation>
+        <translation>逆向工程：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Yes</source>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location line="+12"/>
         <location line="+166"/>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location line="-150"/>
         <source>Children:</source>
-        <translation type="unfinished"></translation>
+        <translation>子：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Relations:</source>
-        <translation type="unfinished"></translation>
+        <translation>联系：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Model</source>
-        <translation type="unfinished">模型</translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+463"/>
         <source>Package</source>
-        <translation type="unfinished">包</translation>
+        <translation>包</translation>
     </message>
     <message>
         <location line="-463"/>
         <location line="+463"/>
         <source>Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>包</translation>
     </message>
     <message>
         <location line="-457"/>
         <location line="+465"/>
         <source>Class</source>
-        <translation type="unfinished">类</translation>
+        <translation>类</translation>
     </message>
     <message>
         <location line="-465"/>
         <location line="+465"/>
         <source>Classes</source>
-        <translation type="unfinished">类</translation>
+        <translation>类</translation>
     </message>
     <message>
         <location line="-459"/>
         <source>Namespace:</source>
-        <translation type="unfinished"></translation>
+        <translation>命名空间：</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>模版：</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Clean Up</source>
-        <translation type="unfinished">清除</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Members:</source>
-        <translation type="unfinished"></translation>
+        <translation>成员：</translation>
     </message>
     <message>
         <location line="+18"/>
         <location line="+426"/>
         <source>Component</source>
-        <translation type="unfinished">组件</translation>
+        <translation>组件</translation>
     </message>
     <message>
         <location line="-426"/>
         <location line="+426"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>组件</translation>
     </message>
     <message>
         <location line="-420"/>
         <location line="+441"/>
         <source>Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>图表</translation>
     </message>
     <message>
         <location line="-441"/>
         <location line="+441"/>
         <source>Diagrams</source>
-        <translation type="unfinished"></translation>
+        <translation>图表</translation>
     </message>
     <message>
         <location line="-436"/>
         <source>Elements:</source>
-        <translation type="unfinished"></translation>
+        <translation>元素：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Canvas Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvas图表</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Canvas Diagrams</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvas图表</translation>
     </message>
     <message>
         <location line="+6"/>
         <location line="+429"/>
         <source>Item</source>
-        <translation type="unfinished">项目</translation>
+        <translation>项目</translation>
     </message>
     <message>
         <location line="-429"/>
         <location line="+429"/>
         <source>Items</source>
-        <translation type="unfinished">项</translation>
+        <translation>项</translation>
     </message>
     <message>
         <location line="-422"/>
         <source>Variety:</source>
-        <translation type="unfinished"></translation>
+        <translation>种类：</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>End A: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>结束 A: %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>End B: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>结束 B: %1</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+415"/>
         <source>Dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>依赖</translation>
     </message>
     <message>
         <location line="-415"/>
         <location line="+415"/>
         <source>Dependencies</source>
-        <translation type="unfinished">依赖关系</translation>
+        <translation>依赖关系</translation>
     </message>
     <message>
         <location line="-407"/>
         <source>Direction:</source>
-        <translation type="unfinished"></translation>
+        <translation>方向:</translation>
     </message>
     <message>
         <location line="+19"/>
         <location line="+382"/>
         <source>Inheritance</source>
-        <translation type="unfinished"></translation>
+        <translation>继承</translation>
     </message>
     <message>
         <location line="-382"/>
         <location line="+382"/>
         <source>Inheritances</source>
-        <translation type="unfinished"></translation>
+        <translation>继承</translation>
     </message>
     <message>
         <location line="-379"/>
         <source>Derived class: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>派生类：%1</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Base class: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>基类：%1</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -37395,13 +37410,13 @@ Are you sure you want to continue?</source>
         <location line="+65"/>
         <location line="+266"/>
         <source>Association</source>
-        <translation type="unfinished"></translation>
+        <translation>关联</translation>
     </message>
     <message>
         <location line="-383"/>
         <location line="+383"/>
         <source>Associations</source>
-        <translation type="unfinished"></translation>
+        <translation>关联</translation>
     </message>
     <message>
         <location line="-373"/>
@@ -37409,196 +37424,196 @@ Are you sure you want to continue?</source>
         <location line="+144"/>
         <location line="+190"/>
         <source>Role:</source>
-        <translation type="unfinished"></translation>
+        <translation>角色：</translation>
     </message>
     <message>
         <location line="-385"/>
         <location line="+65"/>
         <source>Cardinality:</source>
-        <translation type="unfinished"></translation>
+        <translation>基数：</translation>
     </message>
     <message>
         <location line="-52"/>
         <location line="+65"/>
         <source>Navigable</source>
-        <translation type="unfinished"></translation>
+        <translation>可导航</translation>
     </message>
     <message>
         <location line="-50"/>
         <location line="+65"/>
         <source>Aggregation</source>
-        <translation type="unfinished">集成</translation>
+        <translation>集成</translation>
     </message>
     <message>
         <location line="-65"/>
         <location line="+65"/>
         <source>Composition</source>
-        <translation type="unfinished"></translation>
+        <translation>组成</translation>
     </message>
     <message>
         <location line="-64"/>
         <location line="+65"/>
         <source>Relationship:</source>
-        <translation type="unfinished"></translation>
+        <translation>关系：</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Position and size:</source>
-        <translation type="unfinished"></translation>
+        <translation>位置和大小:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Auto sized</source>
-        <translation type="unfinished"></translation>
+        <translation>自动调整大小</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Color:</source>
-        <translation type="unfinished">颜色:</translation>
+        <translation>颜色:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location line="+191"/>
         <source>Normal</source>
-        <translation type="unfinished">正常</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <location line="-190"/>
         <source>Lighter</source>
-        <translation type="unfinished"></translation>
+        <translation>更浅</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Darker</source>
-        <translation type="unfinished"></translation>
+        <translation>较深</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+190"/>
         <source>Soften</source>
-        <translation type="unfinished"></translation>
+        <translation>软化</translation>
     </message>
     <message>
         <location line="-190"/>
         <source>Outline</source>
-        <translation type="unfinished">大纲</translation>
+        <translation>大纲</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+177"/>
         <source>Emphasized</source>
-        <translation type="unfinished"></translation>
+        <translation>强调</translation>
     </message>
     <message>
         <location line="-163"/>
         <location line="+38"/>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>聪明</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Label</source>
-        <translation type="unfinished">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Decoration</source>
-        <translation type="unfinished"></translation>
+        <translation>装饰</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Icon</source>
-        <translation type="unfinished">图标</translation>
+        <translation>图标</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stereotype display:</source>
-        <translation type="unfinished"></translation>
+        <translation>原型显示:</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Depth:</source>
-        <translation type="unfinished"></translation>
+        <translation>深度:</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Box</source>
-        <translation type="unfinished"></translation>
+        <translation>盒子</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Angle Brackets</source>
-        <translation type="unfinished"></translation>
+        <translation>尖括号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Template display:</source>
-        <translation type="unfinished"></translation>
+        <translation>模版显示：</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Show members</source>
-        <translation type="unfinished"></translation>
+        <translation>显示成员</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Plain shape</source>
-        <translation type="unfinished"></translation>
+        <translation>普通形状</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>形状：</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Annotation</source>
-        <translation type="unfinished">注释</translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Auto width</source>
-        <translation type="unfinished"></translation>
+        <translation>自动调整宽的</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>脚注</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Boundary</source>
-        <translation type="unfinished">分界线</translation>
+        <translation>分界线</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Boundaries</source>
-        <translation type="unfinished"></translation>
+        <translation>分界线</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>&lt;font color=red&gt;Invalid syntax!&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;字体颜色=红&gt;无效的语法！&lt;/字体&gt;</translation>
     </message>
 </context>
 <context>
@@ -37606,17 +37621,17 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/project_controller/projectcontroller.cpp" line="+36"/>
         <source>Missing file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名缺失。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Project is modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>项目被修改。</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Model</source>
-        <translation type="unfinished">模型</translation>
+        <translation>模型</translation>
     </message>
 </context>
 <context>
@@ -37624,37 +37639,37 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/tasks/diagramscenecontroller.cpp" line="+173"/>
         <source>Create Dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>产生依赖</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create Inheritance</source>
-        <translation type="unfinished"></translation>
+        <translation>产生继承</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Create Association</source>
-        <translation type="unfinished"></translation>
+        <translation>产生关联</translation>
     </message>
     <message>
         <location line="+88"/>
         <source>New Package</source>
-        <translation type="unfinished"></translation>
+        <translation>新包</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>New Component</source>
-        <translation type="unfinished"></translation>
+        <translation>新组件</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>New Class</source>
-        <translation type="unfinished"></translation>
+        <translation>新类</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>新项目</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -37664,17 +37679,17 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+10"/>
         <source>Drop Element</source>
-        <translation type="unfinished"></translation>
+        <translation>下降元素</translation>
     </message>
     <message>
         <location line="+252"/>
         <source>Add Element</source>
-        <translation type="unfinished"></translation>
+        <translation>添加元素</translation>
     </message>
     <message>
         <location line="+123"/>
         <source>Relocate Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>重定位关系</translation>
     </message>
 </context>
 <context>
@@ -49290,22 +49305,22 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+21"/>
         <source>Invalid magic: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的戏法:%1</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Unknown data stream version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的数据流版本:%1</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Invalid type index %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的指数型%1</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Corrupt data before position %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>位置前损坏的数据%1.</translation>
     </message>
 </context>
 <context>
@@ -49342,22 +49357,22 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxanalyzesupport.cpp" line="+91"/>
         <source>Preparing remote side...</source>
-        <translation type="unfinished">正在准备远端...</translation>
+        <translation>正在准备远端...</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>The %1 process closed unexpectedly.</source>
-        <translation type="unfinished">%1进程意外关闭。</translation>
+        <translation>%1进程意外关闭。</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Initial setup failed: %1</source>
-        <translation type="unfinished">初始设置失败:%1</translation>
+        <translation>初始设置失败:%1</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Warning: &quot;slog2info&quot; is not found on the device, debug output not available.</source>
-        <translation type="unfinished">警告：“slog2info”在设备上没有发现的，调试输出无法使用。</translation>
+        <translation>警告：“slog2info”在设备上没有发现的，调试输出无法使用。</translation>
     </message>
 </context>
 <context>
@@ -49457,12 +49472,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicetester.cpp" line="+122"/>
         <source>%1 found.</source>
-        <translation type="unfinished">%1 已找到。</translation>
+        <translation>%1 已找到。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 not found.</source>
-        <translation type="unfinished">%1 未找到。</translation>
+        <translation>%1 未找到。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -49477,7 +49492,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+14"/>
         <source>Checking for %1...</source>
-        <translation type="unfinished">检查 %1...</translation>
+        <translation>检查 %1...</translation>
     </message>
 </context>
 <context>
@@ -49485,7 +49500,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qnx/qnxplugin.cpp" line="+88"/>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished">绑定到远程 QNX 程序...</translation>
+        <translation>绑定到远程 QNX 程序...</translation>
     </message>
 </context>
 <context>
@@ -50001,7 +50016,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Toggle UTF-8 BOM</source>
-        <translation type="unfinished"></translation>
+        <translation>切换UTF-8 BOM</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -50068,7 +50083,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Move the View a Line Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>移动视图一个排队保持光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -50078,7 +50093,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Move the View a Line Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>移动查看线路下来并保存光标位置</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -51653,191 +51668,191 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/texteditor/completionsettingspage.ui"/>
         <source>Behavior</source>
-        <translation type="unfinished">行为</translation>
+        <translation>行为</translation>
     </message>
     <message>
         <location/>
         <source>Activate completion:</source>
-        <translation type="unfinished">激活补全：</translation>
+        <translation>激活补全：</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Case-sensitivity:</source>
-        <translation type="unfinished">大小写敏感(&amp;C)：</translation>
+        <translation>大小写敏感(&amp;C)：</translation>
     </message>
     <message>
         <location/>
         <source>Full</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location/>
         <source>First Letter</source>
-        <translation type="unfinished">首字母</translation>
+        <translation>首字母</translation>
     </message>
     <message>
         <location/>
         <source>Manually</source>
-        <translation type="unfinished">手动设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location/>
         <source>When Triggered</source>
-        <translation type="unfinished">当触发时</translation>
+        <translation>当触发时</translation>
     </message>
     <message>
         <location/>
         <source>Always</source>
-        <translation type="unfinished">总是</translation>
+        <translation>总是</translation>
     </message>
     <message>
         <location/>
         <source>Timeout in ms:</source>
-        <translation type="unfinished">超时ms：</translation>
+        <translation>超时ms：</translation>
     </message>
     <message>
         <location/>
         <source>Inserts the common prefix of available completion items.</source>
-        <translation type="unfinished">为可自动补全的项插入相同的前缀。</translation>
+        <translation>为可自动补全的项插入相同的前缀。</translation>
     </message>
     <message>
         <location/>
         <source>Autocomplete common &amp;prefix</source>
-        <translation type="unfinished">自动补全共同前缀(&amp;P)</translation>
+        <translation>自动补全共同前缀(&amp;P)</translation>
     </message>
     <message>
         <location/>
         <source>Splits a string into two lines by adding an end quote at the cursor position when you press Enter and a start quote to the next line, before the rest of the string.
 
 In addition, Shift+Enter inserts an escape character at the cursor position and moves the rest of the string to the next line.</source>
-        <translation type="unfinished">当您按下回车键（Enter）后字符串被分为两行，光标所在处增加一个结束符并且在余下的字符串前增加一个行起始符。
+        <translation>当您按下回车键（Enter）后字符串被分为两行，光标所在处增加一个结束符并且在余下的字符串前增加一个行起始符。
 
 另外，按下换档键加回车键（Shift+Enter)后，光标所在处增加一个换码符号并且把余下的字符串移动到下一行中。</translation>
     </message>
     <message>
         <location/>
         <source>Automatically split strings</source>
-        <translation type="unfinished">自动分割字符串</translation>
+        <translation>自动分割字符串</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Automatically insert matching characters</source>
-        <translation type="unfinished">自动插入匹配的字符(&amp;A)</translation>
+        <translation>自动插入匹配的字符(&amp;A)</translation>
     </message>
     <message>
         <location/>
         <source>Insert opening or closing brackets</source>
-        <translation type="unfinished"></translation>
+        <translation>将打开或关闭括号</translation>
     </message>
     <message>
         <location/>
         <source>Insert closing quote</source>
-        <translation type="unfinished"></translation>
+        <translation>插入关闭引用</translation>
     </message>
     <message>
         <location/>
         <source>When typing a matching bracket and there is a text selection, instead of removing the selection, surrounds it with the corresponding characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>当输入匹配的支架和存在，而不是删除选择文本选择，与相应的字符包围它。</translation>
     </message>
     <message>
         <location/>
         <source>Surround text selection with brackets</source>
-        <translation type="unfinished"></translation>
+        <translation>环绕文本选择括号</translation>
     </message>
     <message>
         <location/>
         <source>Insert &amp;space after function name</source>
-        <translation type="unfinished">在函数名后插入空格(&amp;S)</translation>
+        <translation>在函数名后插入空格(&amp;S)</translation>
     </message>
     <message>
         <location/>
         <source>When typing a matching quote and there is a text selection, instead of removing the selection, surrounds it with the corresponding characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>当输入匹配的引用并没有，而不是删除选择文本选择，与相应的字符包围它。</translation>
     </message>
     <message>
         <location/>
         <source>Surround text selection with quotes</source>
-        <translation type="unfinished"></translation>
+        <translation>环绕文本选择与引号</translation>
     </message>
     <message>
         <location/>
         <source>Show a visual hint when for example a brace or a quote is automatically inserted by the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示视觉提示时，例如支架或引号由编辑器自动插入。</translation>
     </message>
     <message>
         <location/>
         <source>Animate automatically inserted text</source>
-        <translation type="unfinished"></translation>
+        <translation>动画自动插入文本</translation>
     </message>
     <message>
         <location/>
         <source>Highlight automatically inserted text</source>
-        <translation type="unfinished"></translation>
+        <translation>突出显示自动插入的文本</translation>
     </message>
     <message>
         <location/>
         <source>Skip automatically inserted character if re-typed manually after completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果竣工后手动重新输入，跳过自动插入字符。</translation>
     </message>
     <message>
         <location/>
         <source>Skip automatically inserted character when typing</source>
-        <translation type="unfinished"></translation>
+        <translation>打字时跳过自动插入字符</translation>
     </message>
     <message>
         <location/>
         <source>Remove the automatically inserted character if the trigger is deleted by backspace after the completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果触发由退格键，完成后删除，删除自动插入字符。</translation>
     </message>
     <message>
         <location/>
         <source>Remove automatically inserted text on backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>卸下回退自动插入文本</translation>
     </message>
     <message>
         <location/>
         <source>Documentation Comments</source>
-        <translation type="unfinished">文档注释</translation>
+        <translation>文档注释</translation>
     </message>
     <message>
         <location/>
         <source>Automatically creates a Doxygen comment upon pressing enter after a &apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; or &apos;///&apos;.</source>
-        <translation type="unfinished">在&apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; 或 &apos;///&apos;之后按下回车时自动创建Doxygen注释。</translation>
+        <translation>在&apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; 或 &apos;///&apos;之后按下回车时自动创建Doxygen注释。</translation>
     </message>
     <message>
         <location/>
         <source>Enable Doxygen blocks</source>
-        <translation type="unfinished">打开Doxgen注释块功能</translation>
+        <translation>打开Doxgen注释块功能</translation>
     </message>
     <message>
         <location/>
         <source>Generates a &lt;i&gt;brief&lt;/i&gt; command with an initial description for the corresponding declaration.</source>
-        <translation type="unfinished">生成一个包含相应声明的初始描述的&lt;i&gt;简略的&lt;/i&gt;命令。</translation>
+        <translation>生成一个包含相应声明的初始描述的&lt;i&gt;简略的&lt;/i&gt;命令。</translation>
     </message>
     <message>
         <location/>
         <source>Generate brief description</source>
-        <translation type="unfinished">生成简略描述</translation>
+        <translation>生成简略描述</translation>
     </message>
     <message>
         <location/>
         <source>Adds leading asterisks when continuing C/C++ &quot;/*&quot;, Qt &quot;/*!&quot; and Java &quot;/**&quot; style comments on new lines.</source>
-        <translation type="unfinished">当在新行中接续C++风格的“/*”、Qt风格的“/*!”以及Java风格的“/**”注释时，添加行首的星号。</translation>
+        <translation>当在新行中接续C++风格的“/*”、Qt风格的“/*!”以及Java风格的“/**”注释时，添加行首的星号。</translation>
     </message>
     <message>
         <location/>
         <source>Add leading asterisks</source>
-        <translation type="unfinished">行首添加星号</translation>
+        <translation>行首添加星号</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/texteditor/completionsettingspage.cpp" line="+45"/>
         <source>Completion</source>
-        <translation type="unfinished">补全</translation>
+        <translation>补全</translation>
     </message>
 </context>
 <context>
@@ -51899,72 +51914,72 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/diagram_scene/items/objectitem.cpp" line="+742"/>
         <source>Open Diagram</source>
-        <translation type="unfinished">打开图表</translation>
+        <translation>打开图表</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Create Diagram</source>
-        <translation type="unfinished">创建图表</translation>
+        <translation>创建图表</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Align Objects</source>
-        <translation type="unfinished">对齐对象</translation>
+        <translation>对齐对象</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Align Left</source>
-        <translation type="unfinished">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Center Vertically</source>
-        <translation type="unfinished">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Align Right</source>
-        <translation type="unfinished">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Align Top</source>
-        <translation type="unfinished">顶对齐</translation>
+        <translation>顶对齐</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Center Horizontally</source>
-        <translation type="unfinished">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Align Bottom</source>
-        <translation type="unfinished">底对齐</translation>
+        <translation>底对齐</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Same Width</source>
-        <translation type="unfinished">相同宽度</translation>
+        <translation>相同宽度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Same Height</source>
-        <translation type="unfinished">相同高度</translation>
+        <translation>相同高度</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Same Size</source>
-        <translation type="unfinished">相同大小</translation>
+        <translation>相同大小</translation>
     </message>
 </context>
 <context>
@@ -51972,7 +51987,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/infrastructure/exceptions.cpp" line="+36"/>
         <source>Unacceptable null object.</source>
-        <translation type="unfinished"></translation>
+        <translation>不能接受的空对象。</translation>
     </message>
 </context>
 <context>
@@ -51980,7 +51995,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/libs/modelinglib/qmt/infrastructure/ioexceptions.cpp" line="+44"/>
         <source>File not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件未找到。</translation>
     </message>
 </context>
 <context>
@@ -51988,7 +52003,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>Unable to create file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建文件。</translation>
     </message>
 </context>
 <context>
@@ -51996,7 +52011,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>Writing to file failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>写入文件失败。</translation>
     </message>
 </context>
 <context>
@@ -52004,7 +52019,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>Reading from file failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取文件失败。</translation>
     </message>
 </context>
 <context>
@@ -52012,7 +52027,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>Illegal XML file.</source>
-        <translation type="unfinished"></translation>
+        <translation>非法XML文件。</translation>
     </message>
 </context>
 <context>
@@ -52020,7 +52035,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+5"/>
         <source>Unable to handle file version %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法处理文件版本%1.</translation>
     </message>
 </context>
 <context>
@@ -52029,7 +52044,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
         <location filename="../../../src/libs/modelinglib/qmt/model_widgets_ui/propertiesviewmview.cpp" line="+261"/>
         <location line="+25"/>
         <source>Multi-Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>多选</translation>
     </message>
 </context>
 <context>
@@ -52042,7 +52057,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+8"/>
         <source>Change environment by assigning one environment variable per line:</source>
-        <translation type="unfinished"></translation>
+        <translation>通过指定每行一个环境变量，改变环境：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -52214,12 +52229,12 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="../../../src/plugins/autotest/quick/quicktesttreeitem.cpp" line="+53"/>
         <source>&lt;unnamed&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;未命名&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;p&gt;Give all test cases a name to ensure correct behavior when running test cases and to be able to select them.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;给所有测试情况下，名称运行试验情况下，当以确保正确的行为，并能够选择它们。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -54475,57 +54490,57 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerstatisticsview.cpp" line="+58"/>
         <source>Main Program</source>
-        <translation type="unfinished">主程序</translation>
+        <translation>主程序</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;program&gt;</source>
-        <translation type="unfinished">&lt;程序&gt;</translation>
+        <translation>&lt;程序&gt;</translation>
     </message>
     <message>
         <location line="+487"/>
         <source>Binding loop detected.</source>
-        <translation type="unfinished">检测到循环绑定。</translation>
+        <translation>检测到循环绑定。</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>&lt;bytecode&gt;</source>
-        <translation type="unfinished">&lt;字节码&gt;</translation>
+        <translation>&lt;字节码&gt;</translation>
     </message>
     <message>
         <location line="+58"/>
         <source>Source code not available</source>
-        <translation type="unfinished">源代码不可用</translation>
+        <translation>源代码不可用</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Paint</source>
-        <translation type="unfinished">绘制</translation>
+        <translation>绘制</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Compile</source>
-        <translation type="unfinished">编译</translation>
+        <translation>编译</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Create</source>
-        <translation type="unfinished">创建</translation>
+        <translation>创建</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Binding</source>
-        <translation type="unfinished">绑定</translation>
+        <translation>绑定</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Signal</source>
-        <translation type="unfinished">信号</translation>
+        <translation>信号</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>JavaScript</source>
-        <translation type="unfinished">JavaScript</translation>
+        <translation>JavaScript</translation>
     </message>
 </context>
 <context>
@@ -54533,27 +54548,27 @@ cannot be found in the path.</source>
     <message>
         <location line="-492"/>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>统计</translation>
     </message>
     <message>
         <location line="+85"/>
         <source>Copy Row</source>
-        <translation type="unfinished">复制行</translation>
+        <translation>复制行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy Table</source>
-        <translation type="unfinished">复制表格</translation>
+        <translation>复制表格</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Extended Event Statistics</source>
-        <translation type="unfinished">扩展的事件统计数据</translation>
+        <translation>扩展的事件统计数据</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show Full Range</source>
-        <translation type="unfinished">显示所有范围</translation>
+        <translation>显示所有范围</translation>
     </message>
 </context>
 <context>
@@ -54561,17 +54576,17 @@ cannot be found in the path.</source>
     <message>
         <location line="+587"/>
         <source>&lt;bytecode&gt;</source>
-        <translation type="unfinished">&lt;字节码&gt;</translation>
+        <translation>&lt;字节码&gt;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Source code not available</source>
-        <translation type="unfinished">源代码不可用</translation>
+        <translation>源代码不可用</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Part of binding loop.</source>
-        <translation type="unfinished">循环绑定的一部分。</translation>
+        <translation>循环绑定的一部分。</translation>
     </message>
 </context>
 <context>
@@ -54874,12 +54889,12 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevice.cpp" line="+122"/>
         <source>QNX</source>
-        <translation type="unfinished">QNX</translation>
+        <translation>QNX</translation>
     </message>
     <message>
         <location line="+91"/>
         <source>Deploy Qt libraries...</source>
-        <translation type="unfinished">部署Qt库...</translation>
+        <translation>部署Qt库...</translation>
     </message>
 </context>
 <context>
@@ -54887,7 +54902,7 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicefactory.cpp" line="+45"/>
         <source>QNX Device</source>
-        <translation type="unfinished">QNX 设备</translation>
+        <translation>QNX 设备</translation>
     </message>
 </context>
 <context>
@@ -54895,12 +54910,12 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qnx/qnxdevicewizard.cpp" line="+47"/>
         <source>QNX Device</source>
-        <translation type="unfinished">QNX 设备</translation>
+        <translation>QNX 设备</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>New QNX Device Configuration Setup</source>
-        <translation type="unfinished">新QNX设备配置设置</translation>
+        <translation>新QNX设备配置设置</translation>
     </message>
 </context>
 <context>
@@ -54908,7 +54923,7 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/qtsupport/profilereader.cpp" line="+48"/>
         <source>[Inexact] </source>
-        <translation type="unfinished"></translation>
+        <translation>[不精确]</translation>
     </message>
 </context>
 <context>
@@ -55026,12 +55041,12 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+2"/>
         <source>Auto Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>自动完成</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Displayed when a character is automatically inserted like brackets or quotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>当一个字符自动插入像括号或引号显示。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -55088,7 +55103,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+4"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>数字</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -55148,12 +55163,12 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>全局</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Global variables.</source>
-        <translation type="unfinished"></translation>
+        <translation>全局变量。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -55540,12 +55555,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+5"/>
         <source>Declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>声明</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Declaration of a function, variable, and so on.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个函数，变量的声明，并依此类推。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -55563,7 +55578,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/callgrindtool.cpp" line="+260"/>
         <source>Valgrind Function Profiler uses the Callgrind tool to record function calls when a program runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind的功能探查使用Callgrind工具程序运行时，记录函数调用。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -55573,7 +55588,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+11"/>
         <source>Valgrind Function Profiler (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind的功能探查（外部应用程序）</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -55663,7 +55678,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>Show costs relative to parent function&apos;s inclusive cost.</source>
-        <translation type="unfinished"></translation>
+        <translation>相对于父的广泛花费的花费显示。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -55678,7 +55693,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+7"/>
         <source>Remove template parameter lists when displaying function names.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示功能名称时删除模板参数列表。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -55698,17 +55713,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+13"/>
         <source>Callgrind</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind</translation>
     </message>
     <message>
         <location line="+290"/>
         <source>A Valgrind Callgrind analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个Valgrind Callgrind 仍然在进程中。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Start a Valgrind Callgrind analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动一个 Valgrind Callgrind分析。</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -55733,7 +55748,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+19"/>
         <source>Select This Function in the Analyzer Output</source>
-        <translation type="unfinished"></translation>
+        <translation>选择此功能在分析器输出</translation>
     </message>
     <message>
         <location line="+26"/>

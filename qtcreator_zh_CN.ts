@@ -104,19 +104,19 @@
     <name>Analyzer::StartRemoteDialog</name>
     <message>
         <source>Kit:</source>
-        <translation type="vanished">构建套件(Kit):</translation>
+        <translation type="vanished">构建套件(Kit)：</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="vanished">执行档:</translation>
+        <translation type="vanished">执行档：</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="vanished">参数:</translation>
+        <translation type="vanished">参数：</translation>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="vanished">工作目录:</translation>
+        <translation type="vanished">工作目录：</translation>
     </message>
     <message>
         <source>Start Remote Analysis</source>
@@ -401,7 +401,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location filename="../../../src/plugins/android/androidtoolchain.cpp" line="+253"/>
         <source>NDK Root:</source>
-        <translation>NDK根目录:</translation>
+        <translation>NDK根目录：</translation>
     </message>
 </context>
 <context>
@@ -707,7 +707,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+62"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -743,7 +743,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+62"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -780,7 +780,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location filename="../../../src/plugins/autotoolsprojectmanager/autotoolsbuildsettingswidget.cpp" line="+61"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -814,7 +814,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+10"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -840,7 +840,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+67"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -871,7 +871,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+123"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -930,7 +930,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+229"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -945,7 +945,7 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+12"/>
         <source>Source:</source>
-        <translation>源:</translation>
+        <translation>源：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -955,17 +955,17 @@ To add the Qt versions, select Options &gt; Build &amp; Run &gt; Qt Versions.</s
     <message>
         <location line="+2"/>
         <source>qmake:</source>
-        <translation>qmake:</translation>
+        <translation>qmake：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Default:</source>
-        <translation>默认:</translation>
+        <translation>默认：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Version:</source>
-        <translation>版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location line="+849"/>
@@ -1627,7 +1627,7 @@ Local pulls are not applied to the master branch.</source>
         <location filename="../../../src/shared/help/bookmarkdialog.ui"/>
         <location filename="../../../src/plugins/help/ui_bookmarkdialog.h" line="+2"/>
         <source>Add in folder:</source>
-        <translation>添加到文件夹:</translation>
+        <translation>添加到文件夹：</translation>
     </message>
     <message>
         <location/>
@@ -1938,7 +1938,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakebuildsettingswidget.cpp" line="+94"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
     <message>
         <location line="+63"/>
@@ -2072,18 +2072,18 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="vanished">工作目录:</translation>
+        <translation type="vanished">工作目录：</translation>
     </message>
 </context>
 <context>
     <name>CMakeProjectManager::Internal::CMakeRunPage</name>
     <message>
         <source>Arguments:</source>
-        <translation type="vanished">参数:</translation>
+        <translation type="vanished">参数：</translation>
     </message>
     <message>
         <source>Generator:</source>
-        <translation type="vanished">创建器:</translation>
+        <translation type="vanished">创建器：</translation>
     </message>
     <message>
         <source>Run CMake</source>
@@ -2166,11 +2166,11 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Additional arguments:</source>
-        <translation type="vanished">额外的参数:</translation>
+        <translation type="vanished">额外的参数：</translation>
     </message>
     <message>
         <source>Targets:</source>
-        <translation type="vanished">目标:</translation>
+        <translation type="vanished">目标：</translation>
     </message>
     <message>
         <source>Make</source>
@@ -2202,7 +2202,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Build directory:</source>
-        <translation type="vanished">构建目录:</translation>
+        <translation type="vanished">构建目录：</translation>
     </message>
     <message>
         <source>Build Location</source>
@@ -2243,7 +2243,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location filename="../../../src/plugins/clearcase/activityselector.cpp" line="+49"/>
         <source>Select &amp;activity:</source>
-        <translation>选择活动(&amp;A):</translation>
+        <translation>选择活动(&amp;A)：</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2640,7 +2640,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="+75"/>
         <source>Enter &amp;comment:</source>
-        <translation>输入注释(&amp;C):</translation>
+        <translation>输入注释(&amp;C)：</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2971,7 +2971,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location line="+0"/>
         <source>Enter URL:</source>
-        <translation>输入URL:</translation>
+        <translation>输入URL：</translation>
     </message>
     <message>
         <location line="+84"/>
@@ -3081,7 +3081,7 @@ Local pulls are not applied to the master branch.</source>
         <location filename="../../../src/plugins/cpaster/pasteselect.ui"/>
         <location filename="../../../src/plugins/cpaster/ui_pasteselect.h" line="+113"/>
         <source>Protocol:</source>
-        <translation>协议:</translation>
+        <translation>协议：</translation>
     </message>
     <message>
         <location/>
@@ -4984,7 +4984,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/openwithdialog.cpp" line="+40"/>
         <source>Open file &quot;%1&quot; with:</source>
-        <translation>打开文件 &apos;%1&apos;，用:</translation>
+        <translation>打开文件 &apos;%1&apos;，用：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/openwithdialog.ui"/>
@@ -6171,7 +6171,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location filename="../../../src/plugins/cpptools/cppfindreferences.cpp" line="+324"/>
         <source>C++ Usages:</source>
-        <translation>C++ 使用:</translation>
+        <translation>C++ 使用：</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -6182,7 +6182,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location line="-38"/>
         <source>C++ Macro Usages:</source>
-        <translation>C++ 宏的使用:</translation>
+        <translation>C++ 宏的使用：</translation>
     </message>
 </context>
 <context>
@@ -6249,7 +6249,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location line="+164"/>
         <source>C++ Symbols:</source>
-        <translation>C++符号:</translation>
+        <translation>C++符号：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -6306,7 +6306,7 @@ Flags: %3</source>
     <message>
         <location line="+16"/>
         <source>Types:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -7147,7 +7147,7 @@ Flags: %3</source>
     <message>
         <location line="+13"/>
         <source>Use local core file:</source>
-        <translation>使用本地核心文件:</translation>
+        <translation>使用本地核心文件：</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -7157,22 +7157,22 @@ Flags: %3</source>
     <message>
         <location line="+16"/>
         <source>Kit:</source>
-        <translation>构建套件(Kit):</translation>
+        <translation>构建套件(Kit)：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Executable:</source>
-        <translation>执行档(&amp;E):</translation>
+        <translation>执行档(&amp;E)：</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Core file:</source>
-        <translation>核心文件:</translation>
+        <translation>核心文件：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Override &amp;start script:</source>
-        <translation>覆盖启动脚本(&amp;S):</translation>
+        <translation>覆盖启动脚本(&amp;S)：</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -7200,12 +7200,12 @@ Flags: %3</source>
     <message>
         <location line="+14"/>
         <source>Kit:</source>
-        <translation>构建套件(Kit):</translation>
+        <translation>构建套件(Kit)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Port:</source>
-        <translation>端口(&amp;P):</translation>
+        <translation>端口(&amp;P)：</translation>
     </message>
 </context>
 <context>
@@ -7213,22 +7213,22 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/breakhandler.cpp" line="+1399"/>
         <source>Marker File:</source>
-        <translation>标记文件:</translation>
+        <translation>标记文件：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Marker Line:</source>
-        <translation>标记行:</translation>
+        <translation>标记行：</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Breakpoint Number:</source>
-        <translation>断点编号:</translation>
+        <translation>断点编号：</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Breakpoint Address:</source>
-        <translation>断点地址:</translation>
+        <translation>断点地址：</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -7238,12 +7238,12 @@ Flags: %3</source>
     <message>
         <location line="-9"/>
         <source>Breakpoint Type:</source>
-        <translation>断点类型:</translation>
+        <translation>断点类型：</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>State:</source>
-        <translation>状态:</translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -7263,17 +7263,17 @@ Flags: %3</source>
     <message>
         <location line="+1"/>
         <source>Internal Number:</source>
-        <translation>内部编号:</translation>
+        <translation>内部编号：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>File Name:</source>
-        <translation>文件名:</translation>
+        <translation>文件名：</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>Function Name:</source>
-        <translation>函数名:</translation>
+        <translation>函数名：</translation>
     </message>
     <message>
         <location line="-1175"/>
@@ -7308,52 +7308,52 @@ Flags: %3</source>
     <message>
         <location line="+3"/>
         <source>Engine:</source>
-        <translation>引擎:</translation>
+        <translation>引擎：</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Line Number:</source>
-        <translation>行号:</translation>
+        <translation>行号：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Corrected Line Number:</source>
-        <translation>修正行号:</translation>
+        <translation>修正行号：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Module:</source>
-        <translation>模块:</translation>
+        <translation>模块：</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Multiple Addresses:</source>
-        <translation>多个地址:</translation>
+        <translation>多个地址：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message:</source>
-        <translation>消息:</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Condition:</source>
-        <translation>条件:</translation>
+        <translation>条件：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Ignore Count:</source>
-        <translation>忽略次数:</translation>
+        <translation>忽略次数：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Thread Specification:</source>
-        <translation>线程信息:</translation>
+        <translation>线程信息：</translation>
     </message>
     <message>
         <location line="-1216"/>
@@ -7725,32 +7725,32 @@ Flags: %3</source>
     <message>
         <location line="+7"/>
         <source>Breakpoint &amp;type:</source>
-        <translation>断点类型(&amp;T):</translation>
+        <translation>断点类型(&amp;T)：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;File name:</source>
-        <translation>文件名(&amp;F):</translation>
+        <translation>文件名(&amp;F)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Line number:</source>
-        <translation>行号(&amp;L):</translation>
+        <translation>行号(&amp;L)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Enabled:</source>
-        <translation>启用(&amp;E):</translation>
+        <translation>启用(&amp;E)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Address:</source>
-        <translation>地址(&amp;A):</translation>
+        <translation>地址(&amp;A)：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Fun&amp;ction:</source>
-        <translation>函数(&amp;C):</translation>
+        <translation>函数(&amp;C)：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -7760,7 +7760,7 @@ Flags: %3</source>
     <message>
         <location line="+3"/>
         <source>T&amp;racepoint only:</source>
-        <translation>仅跟踪点(&amp;R):</translation>
+        <translation>仅跟踪点(&amp;R)：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -7775,7 +7775,7 @@ Flags: %3</source>
     <message>
         <location line="+17"/>
         <source>Pat&amp;h:</source>
-        <translation>路径(&amp;H):</translation>
+        <translation>路径(&amp;H)：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -7785,7 +7785,7 @@ Flags: %3</source>
     <message>
         <location line="+5"/>
         <source>&amp;Module:</source>
-        <translation>模块(&amp;M):</translation>
+        <translation>模块(&amp;M)：</translation>
     </message>
     <message>
         <location line="-14"/>
@@ -7805,27 +7805,27 @@ Flags: %3</source>
     <message>
         <location line="+21"/>
         <source>&amp;Commands:</source>
-        <translation>命令(&amp;C):</translation>
+        <translation>命令(&amp;C)：</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>C&amp;ondition:</source>
-        <translation>条件(&amp;O):</translation>
+        <translation>条件(&amp;O)：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Ignore count:</source>
-        <translation>忽略次数(&amp;I):</translation>
+        <translation>忽略次数(&amp;I)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Thread specification:</source>
-        <translation>线程信息(&amp;T):</translation>
+        <translation>线程信息(&amp;T)：</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>&amp;Expression:</source>
-        <translation>表达式(&amp;E):</translation>
+        <translation>表达式(&amp;E)：</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -7835,7 +7835,7 @@ Flags: %3</source>
     <message>
         <location line="+9"/>
         <source>&amp;Message:</source>
-        <translation>消息(&amp;M):</translation>
+        <translation>消息(&amp;M)：</translation>
     </message>
 </context>
 <context>
@@ -7848,7 +7848,7 @@ Flags: %3</source>
     <message>
         <location line="+8"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -7891,17 +7891,17 @@ Flags: %3</source>
     <message>
         <location line="+2"/>
         <source>Load module:</source>
-        <translation>载入模块:</translation>
+        <translation>载入模块：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Unload module:</source>
-        <translation>卸载模块:</translation>
+        <translation>卸载模块：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Output:</source>
-        <translation>输出:</translation>
+        <translation>输出：</translation>
     </message>
 </context>
 <context>
@@ -8128,7 +8128,7 @@ Flags: %3</source>
     <message>
         <location line="-14"/>
         <source>Debugger:</source>
-        <translation>调试器:</translation>
+        <translation>调试器：</translation>
     </message>
 </context>
 <context>
@@ -8351,7 +8351,7 @@ Affected are breakpoints %1</source>
     <message>
         <location line="+1"/>
         <source>Message:</source>
-        <translation>消息:</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <location line="+506"/>
@@ -8808,7 +8808,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="+132"/>
         <source>Threads:</source>
-        <translation>线程:</translation>
+        <translation>线程：</translation>
     </message>
 </context>
 <context>
@@ -9167,12 +9167,12 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="-6"/>
         <source>&amp;Source path:</source>
-        <translation>源路径(&amp;S):</translation>
+        <translation>源路径(&amp;S)：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Target path:</source>
-        <translation>目标路径(&amp;T):</translation>
+        <translation>目标路径(&amp;T)：</translation>
     </message>
     <message>
         <location line="+98"/>
@@ -9679,7 +9679,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location line="+3"/>
         <source>GDB timeout:</source>
-        <translation>Gdb超时时间:</translation>
+        <translation>Gdb超时时间：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -9986,7 +9986,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+5"/>
         <source>Could not retrieve list of free ports:</source>
-        <translation>无法获取空闲端口的列表:</translation>
+        <translation>无法获取空闲端口的列表：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10077,7 +10077,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+4"/>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
     <message>
         <location line="+69"/>
@@ -10298,17 +10298,17 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <location line="+13"/>
         <source>&amp;Condition:</source>
-        <translation>条件(&amp;C):</translation>
+        <translation>条件(&amp;C)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Ignore count:</source>
-        <translation>忽略次数(&amp;I):</translation>
+        <translation>忽略次数(&amp;I)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Thread specification:</source>
-        <translation>线程信息(&amp;T):</translation>
+        <translation>线程信息(&amp;T)：</translation>
     </message>
 </context>
 <context>
@@ -10705,35 +10705,35 @@ Do you want to retry?</source>
         <location filename="../../../src/plugins/debugger/stackframe.cpp" line="+70"/>
         <location line="+53"/>
         <source>Address:</source>
-        <translation>地址:</translation>
+        <translation>地址：</translation>
     </message>
     <message>
         <location line="-48"/>
         <location line="+52"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="-51"/>
         <location line="+54"/>
         <source>File:</source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <location line="-53"/>
         <location line="+55"/>
         <source>Line:</source>
-        <translation>行号:</translation>
+        <translation>行号：</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>From:</source>
-        <translation>从:</translation>
+        <translation>从：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>To:</source>
-        <translation>到:</translation>
+        <translation>到：</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -10811,7 +10811,7 @@ Do you want to retry?</source>
     <message>
         <location line="+40"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -10904,7 +10904,7 @@ Do you want to retry?</source>
     <message>
         <location line="-9"/>
         <source>Server port:</source>
-        <translation>服务器端口:</translation>
+        <translation>服务器端口：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -10929,7 +10929,7 @@ Do you want to retry?</source>
     <message>
         <location line="+4"/>
         <source>&amp;Server start script:</source>
-        <translation>服务器启动脚本(&amp;S):</translation>
+        <translation>服务器启动脚本(&amp;S)：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -10944,42 +10944,42 @@ Do you want to retry?</source>
     <message>
         <location line="+21"/>
         <source>&amp;Kit:</source>
-        <translation>构建套件(&amp;K):</translation>
+        <translation>构建套件(&amp;K)：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Local &amp;executable:</source>
-        <translation>本地执行档(&amp;E):</translation>
+        <translation>本地执行档(&amp;E)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Command line &amp;arguments:</source>
-        <translation>命令行的参数(&amp;A):</translation>
+        <translation>命令行的参数(&amp;A)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Working directory:</source>
-        <translation>工作目录(&amp;W):</translation>
+        <translation>工作目录(&amp;W)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run in &amp;terminal:</source>
-        <translation>在终端中运行(&amp;T):</translation>
+        <translation>在终端中运行(&amp;T)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Break at &quot;&amp;main&quot;:</source>
-        <translation>在&apos;main&apos;函数断点(&amp;M):</translation>
+        <translation>在&apos;main&apos;函数断点(&amp;M)：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Debug &amp;information:</source>
-        <translation>调试信息(&amp;I):</translation>
+        <translation>调试信息(&amp;I)：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Recent:</source>
-        <translation>最近历史(&amp;R):</translation>
+        <translation>最近历史(&amp;R)：</translation>
     </message>
 </context>
 <context>
@@ -10997,7 +10997,7 @@ Do you want to retry?</source>
     <message>
         <location line="+9"/>
         <source>&amp;Connection:</source>
-        <translation>连接(&amp;C):</translation>
+        <translation>连接(&amp;C)：</translation>
     </message>
 </context>
 <context>
@@ -11010,27 +11010,27 @@ Do you want to retry?</source>
     <message>
         <location line="+21"/>
         <source>&amp;Host:</source>
-        <translation>主机(&amp;H):</translation>
+        <translation>主机(&amp;H)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Username:</source>
-        <translation>用户名(&amp;U):</translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <translation>密码(&amp;P)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Engine path:</source>
-        <translation>引擎路径(&amp;E):</translation>
+        <translation>引擎路径(&amp;E)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Inferior path:</source>
-        <translation>底层(&amp;I)路径:</translation>
+        <translation>底层(&amp;I)路径：</translation>
     </message>
 </context>
 <context>
@@ -11038,37 +11038,37 @@ Do you want to retry?</source>
     <message>
         <location filename="../../../src/plugins/debugger/threadshandler.cpp" line="+94"/>
         <source>Thread&amp;nbsp;id:</source>
-        <translation>线程&amp;nbsp;id:</translation>
+        <translation>线程&amp;nbsp;id：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Target&amp;nbsp;id:</source>
-        <translation>目标&amp;nbsp;id:</translation>
+        <translation>目标&amp;nbsp;id：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Group&amp;nbsp;id:</source>
-        <translation>群组&amp;nbsp;id:</translation>
+        <translation>群组&amp;nbsp;id：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>State:</source>
-        <translation>状态:</translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Core:</source>
-        <translation>核心:</translation>
+        <translation>核心：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Stopped&amp;nbsp;at:</source>
-        <translation>停止&amp;nbsp;于:</translation>
+        <translation>停止&amp;nbsp;于：</translation>
     </message>
     <message>
         <location line="+121"/>
@@ -11643,7 +11643,7 @@ Do you want to retry?</source>
     <message>
         <location line="+12"/>
         <source>Change Display for Object Named &quot;%1&quot;:</source>
-        <translation>为名为&quot;%1&quot;的对象改变显示:</translation>
+        <translation>为名为&quot;%1&quot;的对象改变显示：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11653,7 +11653,7 @@ Do you want to retry?</source>
     <message>
         <location line="+26"/>
         <source>Change Display for Type &quot;%1&quot;:</source>
-        <translation>为类型&quot;%1&quot;改变显示:</translation>
+        <translation>为类型&quot;%1&quot;改变显示：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -12093,13 +12093,13 @@ Rebuilding the project might help.</source>
         <location filename="../../../src/libs/extensionsystem/plugindetailsview.ui"/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+264"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="-1"/>
         <source>Description:</source>
-        <translation>说明:</translation>
+        <translation>说明：</translation>
     </message>
     <message>
         <location/>
@@ -12117,7 +12117,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Version:</source>
-        <translation>版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location/>
@@ -12129,7 +12129,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Location:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location/>
@@ -12141,7 +12141,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <location/>
@@ -12153,13 +12153,13 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>Copyright:</source>
-        <translation>版权:</translation>
+        <translation>版权：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_plugindetailsview.h" line="+1"/>
         <source>License:</source>
-        <translation>许可:</translation>
+        <translation>许可：</translation>
     </message>
 </context>
 <context>
@@ -12174,7 +12174,7 @@ Rebuilding the project might help.</source>
         <location/>
         <location filename="../../../src/libs/extensionsystem/ui_pluginerroroverview.h" line="+1"/>
         <source>The following plugins have errors and cannot be loaded:</source>
-        <translation>以下插件有错误,无法加载:</translation>
+        <translation>以下插件有错误,无法加载：</translation>
     </message>
     <message>
         <location/>
@@ -12189,7 +12189,7 @@ Rebuilding the project might help.</source>
         <location filename="../../../src/libs/extensionsystem/pluginerrorview.ui"/>
         <location filename="../../../src/libs/extensionsystem/ui_pluginerrorview.h" line="+87"/>
         <source>State:</source>
-        <translation>状态:</translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <location/>
@@ -12344,7 +12344,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="../../../src/libs/extensionsystem/pluginmanager.cpp" line="+1287"/>
         <source>Circular dependency detected:</source>
-        <translation>循环依赖检测:</translation>
+        <translation>循环依赖检测：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12614,7 +12614,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Shift width:</source>
-        <translation>改变宽度:</translation>
+        <translation>改变宽度：</translation>
     </message>
     <message>
         <location/>
@@ -12626,7 +12626,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+2"/>
         <source>Tabulator size:</source>
-        <translation>制表符的大小:</translation>
+        <translation>制表符的大小：</translation>
     </message>
     <message>
         <location/>
@@ -12644,7 +12644,7 @@ will also disable the following plugins:
         <location/>
         <location filename="../../../src/plugins/fakevim/ui_fakevimoptions.h" line="+1"/>
         <source>Keyword characters:</source>
-        <translation>关键字字符:</translation>
+        <translation>关键字字符：</translation>
     </message>
     <message>
         <location/>
@@ -12731,7 +12731,7 @@ will also disable the following plugins:
     </message>
     <message>
         <source>Hide files matching:</source>
-        <translation type="vanished">隐藏符合条件的文件:</translation>
+        <translation type="vanished">隐藏符合条件的文件：</translation>
     </message>
     <message>
         <source>Apply Filter</source>
@@ -12765,7 +12765,7 @@ will also disable the following plugins:
     <message>
         <location line="+26"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -12784,19 +12784,19 @@ will also disable the following plugins:
         <location filename="../../../src/plugins/genericprojectmanager/genericmakestep.ui"/>
         <location filename="../../../src/plugins/genericprojectmanager/ui_genericmakestep.h" line="+89"/>
         <source>Override %1:</source>
-        <translation>覆盖 %1:</translation>
+        <translation>覆盖 %1：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/genericprojectmanager/ui_genericmakestep.h" line="+1"/>
         <source>Make arguments:</source>
-        <translation>Make 参数:</translation>
+        <translation>Make 参数：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/genericprojectmanager/ui_genericmakestep.h" line="+1"/>
         <source>Targets:</source>
-        <translation>目标:</translation>
+        <translation>目标：</translation>
     </message>
 </context>
 <context>
@@ -12810,7 +12810,7 @@ will also disable the following plugins:
     <message>
         <location line="+9"/>
         <source>Override %1:</source>
-        <translation>覆盖 %1:</translation>
+        <translation>覆盖 %1：</translation>
     </message>
 </context>
 <context>
@@ -12849,12 +12849,12 @@ will also disable the following plugins:
     <message>
         <location line="+1"/>
         <source>Project name:</source>
-        <translation>项目名称:</translation>
+        <translation>项目名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -12913,7 +12913,7 @@ will also disable the following plugins:
     <message>
         <location line="+4"/>
         <source>&amp;Query:</source>
-        <translation>查询(&amp;Q):</translation>
+        <translation>查询(&amp;Q)：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -13041,27 +13041,27 @@ will also disable the following plugins:
     <message>
         <location line="+4"/>
         <source>&amp;Host:</source>
-        <translation>主机(&amp;H):</translation>
+        <translation>主机(&amp;H)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;User:</source>
-        <translation>用户(&amp;U):</translation>
+        <translation>用户(&amp;U)：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;ssh:</source>
-        <translation>&amp;ssh:</translation>
+        <translation>&amp;ssh：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Port:</source>
-        <translation>端口(&amp;P):</translation>
+        <translation>端口(&amp;P)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>P&amp;rotocol:</source>
-        <translation>协议(&amp;R):</translation>
+        <translation>协议(&amp;R)：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13207,7 +13207,7 @@ Would you like to terminate it?</source>
         <location filename="../../../src/plugins/git/branchadddialog.ui"/>
         <location filename="../../../src/plugins/git/ui_branchadddialog.h" line="+76"/>
         <source>Branch Name:</source>
-        <translation>分支名称:</translation>
+        <translation>分支名称：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/branchadddialog.cpp" line="+110"/>
@@ -13462,7 +13462,7 @@ Would you like to terminate it?</source>
         <location filename="../../../src/plugins/git/changeselectiondialog.ui"/>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/ui_changeselectiondialog.h" line="+1"/>
@@ -13604,7 +13604,7 @@ Would you like to terminate it?</source>
     <message>
         <location line="+314"/>
         <source>Description:</source>
-        <translation>说明:</translation>
+        <translation>说明：</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -14751,7 +14751,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_gitsubmitpanel.h" line="+1"/>
         <source>Branch:</source>
-        <translation>Branch:</translation>
+        <translation>Branch：</translation>
     </message>
     <message>
         <location/>
@@ -14781,7 +14781,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_gitsubmitpanel.h" line="+2"/>
         <source>By&amp;pass hooks:</source>
-        <translation>通过打钩(&amp;p):</translation>
+        <translation>通过打钩(&amp;p)：</translation>
     </message>
 </context>
 <context>
@@ -14796,13 +14796,13 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_remoteadditiondialog.h" line="+1"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/git/ui_remoteadditiondialog.h" line="+1"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
 </context>
 <context>
@@ -14889,7 +14889,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="+1"/>
         <source>Prepend to PATH:</source>
-        <translation>在路径前面加上:</translation>
+        <translation>在路径前面加上：</translation>
     </message>
     <message>
         <location/>
@@ -14919,7 +14919,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="+1"/>
         <source>Log count:</source>
-        <translation>日志计数:</translation>
+        <translation>日志计数：</translation>
     </message>
     <message>
         <location/>
@@ -14949,7 +14949,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="+1"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
@@ -14961,7 +14961,7 @@ Commit now?</source>
         <location/>
         <location filename="../../../src/plugins/git/ui_settingspage.h" line="+1"/>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
 </context>
 <context>
@@ -15102,7 +15102,7 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location line="+0"/>
         <source>Branch:</source>
-        <translation>Branch:</translation>
+        <translation>Branch：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -15319,12 +15319,12 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location line="+45"/>
         <source>Invalid documentation file:</source>
-        <translation>无效的文档文件:</translation>
+        <translation>无效的文档文件：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Namespace already registered:</source>
-        <translation>命名空间已经注册:</translation>
+        <translation>命名空间已经注册：</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -15483,7 +15483,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+1"/>
         <source>Family:</source>
-        <translation>字型:</translation>
+        <translation>字型：</translation>
     </message>
     <message>
         <location/>
@@ -15543,7 +15543,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>On help start:</source>
-        <translation>帮助开始时:</translation>
+        <translation>帮助开始时：</translation>
     </message>
     <message>
         <location/>
@@ -15567,7 +15567,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location/>
         <location filename="../../../src/plugins/help/ui_generalsettingspage.h" line="+2"/>
         <source>Home page:</source>
-        <translation>主页:</translation>
+        <translation>主页：</translation>
     </message>
     <message>
         <location/>
@@ -16193,7 +16193,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/macros/ui_macrooptionswidget.h" line="+1"/>
         <source>Description:</source>
-        <translation>说明:</translation>
+        <translation>说明：</translation>
     </message>
 </context>
 <context>
@@ -16266,13 +16266,13 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/macros/ui_savedialog.h" line="+1"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/macros/ui_savedialog.h" line="+1"/>
         <source>Description:</source>
-        <translation>说明:</translation>
+        <translation>说明：</translation>
     </message>
 </context>
 <context>
@@ -16817,7 +16817,7 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/mercurial/optionspage.ui"/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+24"/>
         <source>Log count:</source>
-        <translation>日志计数:</translation>
+        <translation>日志计数：</translation>
     </message>
     <message>
         <location/>
@@ -16829,7 +16829,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_optionspage.h" line="+1"/>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
     <message>
         <location/>
@@ -16914,7 +16914,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/mercurial/ui_revertdialog.h" line="+1"/>
         <source>Revision:</source>
-        <translation>修订版本:</translation>
+        <translation>修订版本：</translation>
     </message>
 </context>
 <context>
@@ -18035,7 +18035,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_settingspage.h" line="+1"/>
         <source>Log count:</source>
-        <translation>日志计数:</translation>
+        <translation>日志计数：</translation>
     </message>
     <message>
         <location/>
@@ -18092,7 +18092,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/perforce/ui_submitpanel.h" line="+1"/>
         <source>Change:</source>
-        <translation>修改:</translation>
+        <translation>修改：</translation>
     </message>
     <message>
         <location/>
@@ -18568,7 +18568,7 @@ Id必须以小写字母开头。</translation>
         <location filename="customwizard_tr.h" line="+31"/>
         <location line="+7"/>
         <source>URI:</source>
-        <translation>URI:</translation>
+        <translation>URI：</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -18584,7 +18584,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+9"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation>URL：</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -18594,7 +18594,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+3"/>
         <source>Type:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -18656,27 +18656,27 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>Plugin name:</source>
-        <translation>插件名称:</translation>
+        <translation>插件名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Vendor name:</source>
-        <translation>供应商名称:</translation>
+        <translation>供应商名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copyright:</source>
-        <translation>版权:</translation>
+        <translation>版权：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>License:</source>
-        <translation>许可:</translation>
+        <translation>许可：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Description:</source>
-        <translation>说明:</translation>
+        <translation>说明：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -18713,17 +18713,17 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-13"/>
         <source>Qt Creator sources:</source>
-        <translation>Qt Creator源文件:</translation>
+        <translation>Qt Creator源文件：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt Creator build:</source>
-        <translation>Qt Creator构建:</translation>
+        <translation>Qt Creator构建：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Deploy into:</source>
-        <translation>部署到:</translation>
+        <translation>部署到：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -18910,7 +18910,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/deviceprocessesdialog.cpp" line="+121"/>
         <source>Kit:</source>
-        <translation>构建套件(Kit):</translation>
+        <translation>构建套件(Kit)：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -18935,7 +18935,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+8"/>
         <source>&amp;Filter:</source>
-        <translation>过滤器(&amp;F):</translation>
+        <translation>过滤器(&amp;F)：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerplugin.cpp" line="+194"/>
@@ -19084,7 +19084,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+60"/>
         <source>All Projects:</source>
-        <translation>所有项目:</translation>
+        <translation>所有项目：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -19096,7 +19096,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+15"/>
         <source>Fi&amp;le pattern:</source>
-        <translation>文件模式(&amp;L):</translation>
+        <translation>文件模式(&amp;L)：</translation>
     </message>
 </context>
 <context>
@@ -19173,7 +19173,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+11"/>
         <source>Edit build configuration:</source>
-        <translation>编辑构建配置:</translation>
+        <translation>编辑构建配置：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -19194,7 +19194,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>New name for build configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>构建配置的新名称 &lt;b&gt;%1&lt;/b&gt;:</translation>
+        <translation>构建配置的新名称 &lt;b&gt;%1&lt;/b&gt;：</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -19206,7 +19206,7 @@ Id必须以小写字母开头。</translation>
         <location line="-60"/>
         <location line="+60"/>
         <source>New configuration name:</source>
-        <translation>新配置名称:</translation>
+        <translation>新配置名称：</translation>
     </message>
     <message>
         <location line="-61"/>
@@ -19337,7 +19337,7 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_codestylesettingspropertiespage.h" line="+1"/>
         <source>Language:</source>
-        <translation>语言:</translation>
+        <translation>语言：</translation>
     </message>
 </context>
 <context>
@@ -19405,7 +19405,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/customwizard/customwizardpage.cpp" line="+432"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
 </context>
 <context>
@@ -19467,7 +19467,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-5"/>
         <source>Device:</source>
-        <translation>设备:</translation>
+        <translation>设备：</translation>
     </message>
 </context>
 <context>
@@ -19530,19 +19530,19 @@ Id必须以小写字母开头。</translation>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_devicesettingswidget.h" line="+1"/>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N):</translation>
+        <translation>名称(&amp;N)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_devicesettingswidget.h" line="+1"/>
         <source>Type:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_devicesettingswidget.h" line="+2"/>
         <source>Auto-detected:</source>
-        <translation>自动检测:</translation>
+        <translation>自动检测：</translation>
     </message>
     <message>
         <location/>
@@ -19585,7 +19585,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="-5"/>
         <source>Device type:</source>
-        <translation>设备类型:</translation>
+        <translation>设备类型：</translation>
     </message>
 </context>
 <context>
@@ -19603,7 +19603,7 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/projectexplorer/editorsettingspropertiespage.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_editorsettingspropertiespage.h" line="+117"/>
         <source>Editor settings:</source>
-        <translation>编辑器设置:</translation>
+        <translation>编辑器设置：</translation>
     </message>
     <message>
         <location/>
@@ -19714,7 +19714,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/gcctoolchain.cpp" line="-246"/>
         <source>&amp;Compiler path:</source>
-        <translation>编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C)：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -19729,7 +19729,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
-        <translation>&amp;ABI:</translation>
+        <translation>&amp;ABI：</translation>
     </message>
 </context>
 <context>
@@ -19746,7 +19746,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/kitmanagerconfigwidget.cpp" line="+95"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -19761,7 +19761,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+4"/>
         <source>File system name:</source>
-        <translation>文件系统名称:</translation>
+        <translation>文件系统名称：</translation>
     </message>
     <message>
         <location line="+117"/>
@@ -19937,7 +19937,7 @@ Id必须以小写字母开头。</translation>
     <name>ProjectExplorer::Internal::MsvcToolChainConfigWidget</name>
     <message>
         <source>Initialization:</source>
-        <translation type="vanished">初始化:</translation>
+        <translation type="vanished">初始化：</translation>
     </message>
 </context>
 <context>
@@ -19978,19 +19978,19 @@ Id必须以小写字母开头。</translation>
         <location filename="../../../src/plugins/projectexplorer/processstep.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_processstep.h" line="+84"/>
         <source>Command:</source>
-        <translation>命令:</translation>
+        <translation>命令：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_processstep.h" line="+1"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_processstep.h" line="+1"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -20277,12 +20277,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+74"/>
         <source>Add as a subproject to project:</source>
-        <translation>作为子项目添加到项目中:</translation>
+        <translation>作为子项目添加到项目中：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add to &amp;project:</source>
-        <translation>添加到项目(&amp;P):</translation>
+        <translation>添加到项目(&amp;P)：</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -20302,7 +20302,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+68"/>
         <source>Files to be added:</source>
-        <translation>要添加的文件:</translation>
+        <translation>要添加的文件：</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -20327,7 +20327,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+11"/>
         <source>Run configuration:</source>
-        <translation>运行配置:</translation>
+        <translation>运行配置：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/projectexplorer/targetsettingspanel.cpp" line="+3"/>
@@ -20342,7 +20342,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+1"/>
         <source>Method:</source>
-        <translation>方法:</translation>
+        <translation>方法：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -20381,12 +20381,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+0"/>
         <source>New configuration name:</source>
-        <translation>新配置名称:</translation>
+        <translation>新配置名称：</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>New name for run configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>运行配置的新名称 &lt;b&gt;%1&lt;/b&gt;:</translation>
+        <translation>运行配置的新名称 &lt;b&gt;%1&lt;/b&gt;：</translation>
     </message>
     <message>
         <location line="+78"/>
@@ -20426,7 +20426,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+22"/>
         <source>New name for deploy configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>部署配置的新名称 &lt;b&gt;%1&lt;/b&gt;:</translation>
+        <translation>部署配置的新名称 &lt;b&gt;%1&lt;/b&gt;：</translation>
     </message>
 </context>
 <context>
@@ -20511,7 +20511,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/sessiondialog.cpp" line="-171"/>
         <source>Enter the name of the session:</source>
-        <translation>输入会话的名称:</translation>
+        <translation>输入会话的名称：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -20560,7 +20560,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="-5"/>
         <source>Sysroot:</source>
-        <translation>Sysroot:</translation>
+        <translation>Sysroot：</translation>
     </message>
 </context>
 <context>
@@ -20706,7 +20706,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="-14"/>
         <source>Compiler:</source>
-        <translation>编译器:</translation>
+        <translation>编译器：</translation>
     </message>
     <message>
         <source>&lt;No compiler available&gt;</source>
@@ -20800,17 +20800,17 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/wincetoolchain.cpp" line="+475"/>
         <source>SDK:</source>
-        <translation>SDK:</translation>
+        <translation>SDK：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>WinCE Version:</source>
-        <translation>WinCE 版本:</translation>
+        <translation>WinCE 版本：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ABI:</source>
-        <translation>ABI:</translation>
+        <translation>ABI：</translation>
     </message>
 </context>
 <context>
@@ -20848,13 +20848,13 @@ to project &quot;%2&quot;.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_projectwizardpage.h" line="+1"/>
         <source>Add to &amp;project:</source>
-        <translation>添加到项目(&amp;P):</translation>
+        <translation>添加到项目(&amp;P)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_projectwizardpage.h" line="+2"/>
         <source>Add to &amp;version control:</source>
-        <translation>添加到版本控制系统(&amp;V):</translation>
+        <translation>添加到版本控制系统(&amp;V)：</translation>
     </message>
 </context>
 <context>
@@ -20902,12 +20902,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+321"/>
         <source>Error:</source>
-        <translation>错误:</translation>
+        <translation>错误：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning:</source>
-        <translation>警告:</translation>
+        <translation>警告：</translation>
     </message>
 </context>
 <context>
@@ -21254,7 +21254,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+316"/>
         <source>Could not add following files to project %1:</source>
-        <translation>无法为项目%1添加以下文件:</translation>
+        <translation>无法为项目%1添加以下文件：</translation>
     </message>
     <message>
         <location line="+180"/>
@@ -21884,7 +21884,7 @@ Reason: %2</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/toolchainconfigwidget.cpp" line="+67"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
 </context>
 <context>
@@ -22372,7 +22372,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+1"/>
         <source>Key algorithm:</source>
-        <translation>密钥算法:</translation>
+        <translation>密钥算法：</translation>
     </message>
     <message>
         <location/>
@@ -22390,7 +22390,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/libs/ssh/ui_sshkeycreationdialog.h" line="+2"/>
         <source>Key &amp;size:</source>
-        <translation>密钥大小(&amp;S):</translation>
+        <translation>密钥大小(&amp;S)：</translation>
     </message>
     <message>
         <location/>
@@ -22459,13 +22459,13 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-16"/>
         <source>Widget librar&amp;y:</source>
-        <translation>Widget库(&amp;Y):</translation>
+        <translation>Widget库(&amp;Y)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget project &amp;file:</source>
-        <translation>Widget项目文件(&amp;F):</translation>
+        <translation>Widget项目文件(&amp;F)：</translation>
     </message>
     <message>
         <location/>
@@ -22483,13 +22483,13 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+2"/>
         <source>Widge&amp;t source file:</source>
-        <translation>Widget源文件(&amp;T):</translation>
+        <translation>Widget源文件(&amp;T)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Widget &amp;base class:</source>
-        <translation>Widget基类(&amp;B):</translation>
+        <translation>Widget基类(&amp;B)：</translation>
     </message>
     <message>
         <location/>
@@ -22501,19 +22501,19 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin class &amp;name:</source>
-        <translation>插件类名(&amp;N):</translation>
+        <translation>插件类名(&amp;N)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin &amp;header file:</source>
-        <translation>插件头文件(&amp;H):</translation>
+        <translation>插件头文件(&amp;H)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>Plugin sou&amp;rce file:</source>
-        <translation>插件源文件(&amp;R):</translation>
+        <translation>插件源文件(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -22555,13 +22555,13 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>&amp;Tooltip:</source>
-        <translation>工具提示(&amp;T):</translation>
+        <translation>工具提示(&amp;T)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="+1"/>
         <source>W&amp;hat&apos;s this:</source>
-        <translation>这是什么(&amp;H):</translation>
+        <translation>这是什么(&amp;H)：</translation>
     </message>
     <message>
         <location/>
@@ -22579,7 +22579,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_classdefinition.h" line="-1"/>
         <source>dom&amp;XML:</source>
-        <translation>dom&amp;XML(&amp;X):</translation>
+        <translation>dom&amp;XML(&amp;X)：</translation>
     </message>
 </context>
 <context>
@@ -22629,25 +22629,25 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Collection class:</source>
-        <translation>收集类:</translation>
+        <translation>收集类：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+2"/>
         <source>Collection header file:</source>
-        <translation>收集头文件:</translation>
+        <translation>收集头文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Collection source file:</source>
-        <translation>收集原文件:</translation>
+        <translation>收集原文件：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetpluginwizardpage.h" line="+1"/>
         <source>Plugin name:</source>
-        <translation>插件名称:</translation>
+        <translation>插件名称：</translation>
     </message>
     <message>
         <location/>
@@ -22691,7 +22691,7 @@ Reason: %2</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_customwidgetwidgetswizardpage.h" line="+1"/>
         <source>Widget &amp;Classes:</source>
-        <translation>Widget类(&amp;C):</translation>
+        <translation>Widget类(&amp;C)：</translation>
     </message>
     <message>
         <location/>
@@ -22844,7 +22844,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/librarydetailscontroller.cpp" line="+223"/>
         <source>Linkage:</source>
-        <translation>链接:</translation>
+        <translation>链接：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -22859,7 +22859,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+14"/>
         <source>Mac:</source>
-        <translation>Mac:</translation>
+        <translation>Mac：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -22878,7 +22878,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/librarydetailswidget.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_librarydetailswidget.h" line="+238"/>
         <source>Library:</source>
-        <translation>库:</translation>
+        <translation>库：</translation>
     </message>
     <message>
         <location/>
@@ -22926,7 +22926,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_librarydetailswidget.h" line="+1"/>
         <source>Linkage:</source>
-        <translation>链接:</translation>
+        <translation>链接：</translation>
     </message>
     <message>
         <location/>
@@ -22944,7 +22944,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_librarydetailswidget.h" line="+1"/>
         <source>Mac:</source>
-        <translation>Mac:</translation>
+        <translation>Mac：</translation>
     </message>
     <message>
         <location/>
@@ -22962,7 +22962,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_librarydetailswidget.h" line="+1"/>
         <source>Windows:</source>
-        <translation>控件:</translation>
+        <translation>控件：</translation>
     </message>
     <message>
         <location/>
@@ -23099,13 +23099,13 @@ Adds the library and include paths to the .pro file.</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/makestep.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_makestep.h" line="+72"/>
         <source>Make arguments:</source>
-        <translation>Make 参数:</translation>
+        <translation>Make 参数：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_makestep.h" line="+1"/>
         <source>Override %1:</source>
-        <translation>覆盖 %1:</translation>
+        <translation>覆盖 %1：</translation>
     </message>
 </context>
 <context>
@@ -23148,7 +23148,7 @@ Adds the library and include paths to the .pro file.</source>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakestep.ui"/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_qmakestep.h" line="+217"/>
         <source>qmake build configuration:</source>
-        <translation>qmake 构建配置:</translation>
+        <translation>qmake 构建配置：</translation>
     </message>
     <message>
         <location/>
@@ -23211,7 +23211,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="-5"/>
         <source>Qt mkspec:</source>
-        <translation>Qt mkspec:</translation>
+        <translation>Qt mkspec：</translation>
     </message>
 </context>
 <context>
@@ -23245,12 +23245,12 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+52"/>
         <source>Error:</source>
-        <translation>错误:</translation>
+        <translation>错误：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Warning:</source>
-        <translation>警告:</translation>
+        <translation>警告：</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -23268,13 +23268,13 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_qmakeprojectconfigwidget.h" line="-3"/>
         <source>Shadow build:</source>
-        <translation>影子构建:</translation>
+        <translation>影子构建：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_qmakeprojectconfigwidget.h" line="+2"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
 </context>
 <context>
@@ -23458,19 +23458,19 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>Class name:</source>
-        <translation>类名:</translation>
+        <translation>类名：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>Test slot:</source>
-        <translation>测试插槽:</translation>
+        <translation>测试插槽：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>Type:</source>
-        <translation>类型:</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location/>
@@ -23506,7 +23506,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmakeprojectmanager/ui_testwizardpage.h" line="+1"/>
         <source>File:</source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
 </context>
 <context>
@@ -23528,12 +23528,12 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+117"/>
         <source>Override %1:</source>
-        <translation>覆盖 %1:</translation>
+        <translation>覆盖 %1：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Make:</source>
-        <translation>Make:</translation>
+        <translation>Make：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -24049,13 +24049,13 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_settingspage.h" line="+1"/>
         <source>Parent item padding:</source>
-        <translation>父项填充:</translation>
+        <translation>父项填充：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_settingspage.h" line="+1"/>
         <source>Sibling item spacing:</source>
-        <translation>兄弟项间距:</translation>
+        <translation>兄弟项间距：</translation>
     </message>
     <message>
         <location/>
@@ -24115,7 +24115,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_settingspage.h" line="+1"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location/>
@@ -24146,7 +24146,7 @@ Adds the library and include paths to the .pro file.</source>
         <location/>
         <location filename="../../../src/plugins/qmldesigner/ui_settingspage.h" line="+1"/>
         <source>Top level build path:</source>
-        <translation>顶层构建路径:</translation>
+        <translation>顶层构建路径：</translation>
     </message>
     <message>
         <location/>
@@ -24900,7 +24900,7 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljsfindreferences.cpp" line="+948"/>
         <source>QML/JS Usages:</source>
-        <translation>QML/JS 使用:</translation>
+        <translation>QML/JS 使用：</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -24939,13 +24939,13 @@ For qmlproject projects, use the importPaths property to add import paths.</sour
         <location/>
         <location filename="../../../src/plugins/qmljseditor/ui_qmljscomponentnamedialog.h" line="+2"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qmljseditor/ui_qmljscomponentnamedialog.h" line="+1"/>
         <source>Component name:</source>
-        <translation>组件名:</translation>
+        <translation>组件名：</translation>
     </message>
     <message>
         <location/>
@@ -25389,7 +25389,7 @@ Qt Creator 知道一个相似的URI。</translation>
         <location/>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.cpp" line="+68"/>
         <source>&amp;Port:</source>
-        <translation>端口(&amp;P):</translation>
+        <translation>端口(&amp;P)：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.cpp" line="-15"/>
@@ -25404,7 +25404,7 @@ Qt Creator 知道一个相似的URI。</translation>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerattachdialog.ui"/>
         <source>&amp;Host:</source>
-        <translation>主机(&amp;H):</translation>
+        <translation>主机(&amp;H)：</translation>
     </message>
     <message>
         <location/>
@@ -25414,7 +25414,7 @@ Qt Creator 知道一个相似的URI。</translation>
     <message>
         <location/>
         <source>Sys&amp;root:</source>
-        <translation>Sysroot(&amp;r):</translation>
+        <translation>Sysroot(&amp;r)：</translation>
     </message>
 </context>
 <context>
@@ -25777,12 +25777,12 @@ Do you want to save the data first?</source>
     <message>
         <location filename="../../../src/plugins/qmlprojectmanager/qmlprojectrunconfigurationwidget.cpp" line="+80"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Main QML file:</source>
-        <translation>主QML文件:</translation>
+        <translation>主QML文件：</translation>
     </message>
 </context>
 <context>
@@ -25929,7 +25929,7 @@ Do you want to save the data first?</source>
     <message>
         <location filename="../../../src/plugins/qnx/qnxrunconfiguration.cpp" line="+77"/>
         <source>Path to Qt libraries on device:</source>
-        <translation>设备上的Qt库的路径:</translation>
+        <translation>设备上的Qt库的路径：</translation>
     </message>
 </context>
 <context>
@@ -25982,7 +25982,7 @@ Do you want to save the data first?</source>
         <location/>
         <location filename="../../../src/plugins/resourceeditor/ui_qrceditor.h" line="+1"/>
         <source>Language:</source>
-        <translation>语言:</translation>
+        <translation>语言：</translation>
     </message>
 </context>
 <context>
@@ -26222,11 +26222,11 @@ cannot be found in the path.</source>
     <name>QtSupport::Internal::CustomExecutableConfigurationWidget</name>
     <message>
         <source>Executable:</source>
-        <translation type="vanished">执行档:</translation>
+        <translation type="vanished">执行档：</translation>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="vanished">工作目录:</translation>
+        <translation type="vanished">工作目录：</translation>
     </message>
 </context>
 <context>
@@ -26244,12 +26244,12 @@ cannot be found in the path.</source>
     <message>
         <location line="+4"/>
         <source>QML Dump:</source>
-        <translation>QML Dump:</translation>
+        <translation>QML Dump：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Compiler:</source>
-        <translation>编译器:</translation>
+        <translation>编译器：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -26292,7 +26292,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+8"/>
         <source>&amp;Location:</source>
-        <translation>路径(&amp;L):</translation>
+        <translation>路径(&amp;L)：</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -26336,7 +26336,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+27"/>
         <source>Qt version:</source>
-        <translation>Qt 版本:</translation>
+        <translation>Qt 版本：</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -26484,7 +26484,7 @@ cannot be found in the path.</source>
         <location filename="../../../src/plugins/qtsupport/qtversioninfo.ui"/>
         <location filename="../../../src/plugins/qtsupport/ui_qtversioninfo.h" line="+97"/>
         <source>Version name:</source>
-        <translation>版本名称:</translation>
+        <translation>版本名称：</translation>
     </message>
     <message>
         <location/>
@@ -26944,7 +26944,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+2"/>
         <source>Create tarball:</source>
-        <translation>创建tarball:</translation>
+        <translation>创建tarball：</translation>
     </message>
 </context>
 <context>
@@ -27063,7 +27063,7 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>&amp;Host name:</source>
-        <translation>主机名(&amp;H):</translation>
+        <translation>主机名(&amp;H)：</translation>
     </message>
     <message>
         <location/>
@@ -27075,7 +27075,7 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>&amp;SSH port:</source>
-        <translation>SSH端口(&amp;S):</translation>
+        <translation>SSH端口(&amp;S)：</translation>
     </message>
     <message>
         <location/>
@@ -27105,13 +27105,13 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>&amp;Username:</source>
-        <translation>用户名(&amp;U):</translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <translation>密码(&amp;P)：</translation>
     </message>
     <message>
         <location/>
@@ -27123,7 +27123,7 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>Private key file:</source>
-        <translation>私钥文件:</translation>
+        <translation>私钥文件：</translation>
     </message>
     <message>
         <location/>
@@ -27135,13 +27135,13 @@ cannot be found in the path.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>Machine type:</source>
-        <translation>机器类型:</translation>
+        <translation>机器类型：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwidget.h" line="+1"/>
         <source>GDB server executable:</source>
-        <translation>GDB服务器可执行文件:</translation>
+        <translation>GDB服务器可执行文件：</translation>
     </message>
     <message>
         <location/>
@@ -27262,7 +27262,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxcustomcommanddeploymentstep.cpp" line="-137"/>
         <source>Command line:</source>
-        <translation>命令行:</translation>
+        <translation>命令行：</translation>
     </message>
 </context>
 <context>
@@ -27283,13 +27283,13 @@ In addition, device connectivity will be tested.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwizardsetuppage.h" line="+1"/>
         <source>The device&apos;s host name or IP address:</source>
-        <translation>设备的主机名或IP地址:</translation>
+        <translation>设备的主机名或IP地址：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_genericlinuxdeviceconfigurationwizardsetuppage.h" line="+1"/>
         <source>The username to log into the device:</source>
-        <translation>使用用户名登录到设备:</translation>
+        <translation>使用用户名登录到设备：</translation>
     </message>
     <message>
         <location/>
@@ -27591,12 +27591,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxrunconfigurationwidget.cpp" line="+140"/>
         <source>Executable on host:</source>
-        <translation>主机上的执行档:</translation>
+        <translation>主机上的执行档：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executable on device:</source>
-        <translation>设备上的执行档:</translation>
+        <translation>设备上的执行档：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -27606,12 +27606,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+3"/>
         <source>Alternate executable on device:</source>
-        <translation>设备上的备用执行档:</translation>
+        <translation>设备上的备用执行档：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -27621,7 +27621,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+2"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -27748,7 +27748,7 @@ In addition, device connectivity will be tested.</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_remotelinuxcheckforfreediskspacestepwidget.h" line="+1"/>
         <source>Required disk space:</source>
-        <translation>所需的磁盘空间:</translation>
+        <translation>所需的磁盘空间：</translation>
     </message>
 </context>
 <context>
@@ -28126,7 +28126,7 @@ with a password, which you can enter below.</source>
         <location/>
         <location filename="../../../src/plugins/subversion/ui_settingspage.h" line="+1"/>
         <source>Log count:</source>
-        <translation>日志计数:</translation>
+        <translation>日志计数：</translation>
     </message>
     <message>
         <location/>
@@ -28431,7 +28431,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+1"/>
         <source>Revision number:</source>
-        <translation>修订版本编号:</translation>
+        <translation>修订版本编号：</translation>
     </message>
 </context>
 <context>
@@ -28551,7 +28551,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+1"/>
         <source>Code style name:</source>
-        <translation>代码风格名称:</translation>
+        <translation>代码风格名称：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -28629,7 +28629,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+8"/>
         <source>%1 &quot;%2&quot;:</source>
-        <translation>%1 &quot;%2&quot;:</translation>
+        <translation>%1 &quot;%2&quot;：</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -28644,7 +28644,7 @@ Filter: %2
     <message>
         <location line="+17"/>
         <source>Director&amp;y:</source>
-        <translation>目录(&amp;Y):</translation>
+        <translation>目录(&amp;Y)：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -28654,7 +28654,7 @@ Filter: %2
     <message>
         <location line="+17"/>
         <source>Fi&amp;le pattern:</source>
-        <translation>文件模式(&amp;L):</translation>
+        <translation>文件模式(&amp;L)：</translation>
     </message>
     <message>
         <source>Directory to search</source>
@@ -28681,7 +28681,7 @@ Filter: %2
     <message>
         <location line="+1"/>
         <source>Color scheme name:</source>
-        <translation>配色方案名称:</translation>
+        <translation>配色方案名称：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -28792,7 +28792,7 @@ Filter: %2
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+1"/>
         <source>Backspace indentation:</source>
-        <translation>退格缩进:</translation>
+        <translation>退格缩进：</translation>
     </message>
     <message>
         <location/>
@@ -28847,7 +28847,7 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+18"/>
         <source>Tab key performs auto-indent:</source>
-        <translation>制表符(Tab键)提供自动缩进:</translation>
+        <translation>制表符(Tab键)提供自动缩进：</translation>
     </message>
     <message>
         <location/>
@@ -28979,7 +28979,7 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_behaviorsettingswidget.h" line="+11"/>
         <source>UTF-8 BOM:</source>
-        <translation>UTF-8 BOM:</translation>
+        <translation>UTF-8 BOM：</translation>
     </message>
     <message>
         <location/>
@@ -29062,7 +29062,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+2"/>
         <source>Code style name:</source>
-        <translation>代码风格名称:</translation>
+        <translation>代码风格名称：</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -29379,7 +29379,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+22"/>
         <source>File &quot;%1&quot;:</source>
-        <translation>文件&quot;%1&quot;:</translation>
+        <translation>文件&quot;%1&quot;：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -29399,7 +29399,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+34"/>
         <source>Open documents:</source>
-        <translation>打开文档:</translation>
+        <translation>打开文档：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -29422,7 +29422,7 @@ Specifies how backspace interacts with indentation.
         <location filename="../../../src/plugins/texteditor/fontsettingspage.ui"/>
         <location filename="../../../src/plugins/texteditor/ui_fontsettingspage.h" line="+188"/>
         <source>Family:</source>
-        <translation>字型:</translation>
+        <translation>字型：</translation>
     </message>
     <message>
         <location/>
@@ -29499,7 +29499,7 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_highlightersettingspage.h" line="+1"/>
         <source>Location:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location/>
@@ -29787,13 +29787,13 @@ Specifies how backspace interacts with indentation.
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+2"/>
         <source>Ta&amp;b size:</source>
-        <translation>制表符尺寸(&amp;B):</translation>
+        <translation>制表符尺寸(&amp;B)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/texteditor/ui_tabsettingswidget.h" line="+1"/>
         <source>&amp;Indent size:</source>
-        <translation>缩进尺寸(&amp;I):</translation>
+        <translation>缩进尺寸(&amp;I)：</translation>
     </message>
     <message>
         <location/>
@@ -30611,7 +30611,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>Choose a topic for &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>为&lt;b&gt;%1&lt;/b&gt;选择一个标题:</translation>
+        <translation>为&lt;b&gt;%1&lt;/b&gt;选择一个标题：</translation>
     </message>
     <message>
         <location filename="../../../src/shared/help/topicchooser.ui"/>
@@ -30927,12 +30927,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+33"/>
         <source>File extension %1 is required:</source>
-        <translation>需要文件扩展 %1 :</translation>
+        <translation>需要文件扩展 %1 ：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>File extensions %1 are required:</source>
-        <translation>需要文件扩展 %1 :</translation>
+        <translation>需要文件扩展 %1 ：</translation>
     </message>
 </context>
 <context>
@@ -31221,7 +31221,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+11"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
 </context>
 <context>
@@ -31288,7 +31288,7 @@ Will not be applied to whitespace in comments and strings.</source>
         <location filename="../../../src/libs/utils/projectintropage.ui"/>
         <location filename="../../../src/libs/utils/ui_projectintropage.h" line="+130"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
@@ -31349,7 +31349,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+23"/>
         <source>New name for configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation>配置的新名称 &lt;b&gt;%1&lt;/b&gt;:</translation>
+        <translation>配置的新名称 &lt;b&gt;%1&lt;/b&gt;：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -31433,7 +31433,7 @@ Will not be applied to whitespace in comments and strings.</source>
         <location filename="../../../src/libs/utils/filewizardpage.ui"/>
         <location filename="../../../src/libs/utils/ui_filewizardpage.h" line="+70"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
@@ -31746,22 +31746,22 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="../../../src/plugins/valgrind/callgrind/callgrinddatamodel.cpp" line="+233"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>File:</source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Object:</source>
-        <translation>对象:</translation>
+        <translation>对象：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Called:</source>
-        <translation>被调用:</translation>
+        <translation>被调用：</translation>
     </message>
     <message numerus="yes">
         <location line="+0"/>
@@ -31912,12 +31912,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+21"/>
         <source>Line:</source>
-        <translation>行号:</translation>
+        <translation>行号：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Position:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
 </context>
 <context>
@@ -32231,12 +32231,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/plugins/valgrind/suppressiondialog.cpp" line="+126"/>
         <source>Suppression File:</source>
-        <translation>Suppression 文件:</translation>
+        <translation>Suppression 文件：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Suppression:</source>
-        <translation>Suppression:</translation>
+        <translation>Suppression：</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -32500,7 +32500,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/memcheck/memcheckrunner.cpp" line="+142"/>
         <source>XmlServer on %1:</source>
-        <translation>Xml服务 %1:</translation>
+        <translation>Xml服务 %1：</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -32513,22 +32513,22 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="../../../src/plugins/valgrind/xmlprotocol/modelhelpers.cpp" line="+51"/>
         <source>Function:</source>
-        <translation>函数:</translation>
+        <translation>函数：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Location:</source>
-        <translation>位置:</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Instruction pointer:</source>
-        <translation>指令指针:</translation>
+        <translation>指令指针：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Object:</source>
-        <translation>对象:</translation>
+        <translation>对象：</translation>
     </message>
 </context>
 <context>
@@ -32684,7 +32684,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+21"/>
         <source>There were errors when cleaning the repository %1:</source>
-        <translation>清理代码仓库%1时发生错误:</translation>
+        <translation>清理代码仓库%1时发生错误：</translation>
     </message>
     <message>
         <location line="+54"/>
@@ -32747,7 +32747,7 @@ With cache simulation, further event counters are enabled:
         <location filename="../../../src/plugins/vcsbase/commonsettingspage.ui"/>
         <location filename="../../../src/plugins/vcsbase/ui_commonsettingspage.h" line="+125"/>
         <source>Wrap submit message at:</source>
-        <translation>提交信息折行在:</translation>
+        <translation>提交信息折行在：</translation>
     </message>
     <message>
         <location/>
@@ -33520,7 +33520,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location filename="../../../src/plugins/android/androiddevicedialog.cpp" line="+206"/>
         <source>ABI:</source>
-        <translation>ABI:</translation>
+        <translation>ABI：</translation>
     </message>
     <message>
         <location line="+152"/>
@@ -34101,7 +34101,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location filename="../../../src/plugins/coreplugin/locator/directoryfilter.ui"/>
         <location filename="../../../src/plugins/coreplugin/ui_directoryfilter.h" line="+174"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
@@ -34540,7 +34540,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/git/branchcheckoutdialog.ui"/>
         <location filename="../../../src/plugins/git/ui_branchcheckoutdialog.h" line="+102"/>
         <source>Local Changes Found. Choose Action:</source>
-        <translation>找到本地更改。选择操作:</translation>
+        <translation>找到本地更改。选择操作：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/git/branchcheckoutdialog.cpp" line="+42"/>
@@ -34609,7 +34609,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location filename="../../../src/plugins/git/gerrit/gerritpushdialog.ui"/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>&amp;Reviewers:</source>
-        <translation>审核人(&amp;R):</translation>
+        <translation>审核人(&amp;R)：</translation>
     </message>
     <message>
         <location/>
@@ -34651,7 +34651,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location/>
         <location filename="../../../src/plugins/git/ui_gerritpushdialog.h" line="+1"/>
         <source>To:</source>
-        <translation>到:</translation>
+        <translation>到：</translation>
     </message>
     <message>
         <location/>
@@ -34676,7 +34676,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/ios/iosbuildstep.ui"/>
         <location filename="../../../src/plugins/ios/ui_iosbuildstep.h" line="+89"/>
         <source>Base arguments:</source>
-        <translation>基本参数:</translation>
+        <translation>基本参数：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/ios/iosbuildstep.cpp" line="+55"/>
@@ -34736,12 +34736,12 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+1"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -34766,7 +34766,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location line="+2"/>
         <source>Device type:</source>
-        <translation>设备类型:</translation>
+        <translation>设备类型：</translation>
     </message>
 </context>
 <context>
@@ -34858,19 +34858,19 @@ Partial names can be used if they are unambiguous.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;File name:</source>
-        <translation>文件名(&amp;F):</translation>
+        <translation>文件名(&amp;F)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;Line number:</source>
-        <translation>行号(&amp;L):</translation>
+        <translation>行号(&amp;L)：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>&amp;Message:</source>
-        <translation>消息(&amp;M):</translation>
+        <translation>消息(&amp;M)：</translation>
     </message>
     <message>
         <location/>
@@ -34893,7 +34893,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/projectexplorer/customparserconfigdialog.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+1"/>
         <source>File name:</source>
-        <translation>文件名:</translation>
+        <translation>文件名：</translation>
     </message>
     <message>
         <location/>
@@ -34907,13 +34907,13 @@ Partial names can be used if they are unambiguous.</source>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="-3"/>
         <source>Line number:</source>
-        <translation>行号:</translation>
+        <translation>行号：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/projectexplorer/ui_customparserconfigdialog.h" line="+2"/>
         <source>Message:</source>
-        <translation>消息:</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <location/>
@@ -34948,7 +34948,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <location/>
         <source>Warning message:</source>
-        <translation>警告消息:</translation>
+        <translation>警告消息：</translation>
     </message>
 </context>
 <context>
@@ -34988,7 +34988,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/projectexplorer/devicesupport/desktopdeviceconfigurationwidget.ui"/>
         <location filename="../../../src/plugins/projectexplorer/ui_desktopdeviceconfigurationwidget.h" line="+1"/>
         <source>Machine type:</source>
-        <translation>机器类型:</translation>
+        <translation>机器类型：</translation>
     </message>
     <message>
         <location/>
@@ -36000,7 +36000,7 @@ Partial names can be used if they are unambiguous.</source>
         <location filename="../../../src/plugins/qmlprofiler/qmlprofilerconfigwidget.ui"/>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+85"/>
         <source>Flush data while profiling:</source>
-        <translation>分析时刷新数据:</translation>
+        <translation>分析时刷新数据：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmlprofiler/ui_qmlprofilerconfigwidget.h" line="+2"/>
@@ -36091,7 +36091,7 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/qnx/qnxdeployqtlibrariesdialog.ui"/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+1"/>
         <source>Qt library to deploy:</source>
-        <translation>Qt库部署:</translation>
+        <translation>Qt库部署：</translation>
     </message>
     <message>
         <location/>
@@ -36103,7 +36103,7 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxdeployqtlibrariesdialog.h" line="+1"/>
         <source>Remote directory:</source>
-        <translation>远程目录:</translation>
+        <translation>远程目录：</translation>
     </message>
     <message>
         <location/>
@@ -36163,25 +36163,25 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Version:</source>
-        <translation>版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Host:</source>
-        <translation>主机:</translation>
+        <translation>主机：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/qnx/ui_qnxsettingswidget.h" line="+1"/>
         <source>Target:</source>
-        <translation>目标:</translation>
+        <translation>目标：</translation>
     </message>
     <message>
         <location/>
@@ -36265,25 +36265,25 @@ Are you sure you want to continue?</source>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_remotelinuxcustomrunconfigurationwidget.h" line="+1"/>
         <source>Local executable:</source>
-        <translation>本地执行档:</translation>
+        <translation>本地执行档：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_remotelinuxcustomrunconfigurationwidget.h" line="+1"/>
         <source>Remote executable:</source>
-        <translation>远程执行:</translation>
+        <translation>远程执行：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_remotelinuxcustomrunconfigurationwidget.h" line="+1"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
         <location filename="../../../src/plugins/remotelinux/ui_remotelinuxcustomrunconfigurationwidget.h" line="+1"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -36435,7 +36435,7 @@ Are you sure you want to continue?</source>
         <location filename="../../../src/plugins/winrt/winrtpackagedeploymentstepwidget.ui"/>
         <location filename="../../../src/plugins/winrt/ui_winrtpackagedeploymentstepwidget.h" line="+65"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location/>
@@ -36449,7 +36449,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="../../../src/plugins/winrt/ui_winrtrunconfigurationwidget.h" line="+71"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/winrt/winrtrunconfigurationwidget.cpp" line="+41"/>
@@ -37233,7 +37233,7 @@ Are you sure you want to continue?</source>
         <location line="+12"/>
         <location line="+166"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="-150"/>
@@ -37380,7 +37380,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="-407"/>
         <source>Direction:</source>
-        <translation>方向:</translation>
+        <translation>方向：</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -37459,7 +37459,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+44"/>
         <source>Position and size:</source>
-        <translation>位置和大小:</translation>
+        <translation>位置和大小：</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -37469,7 +37469,7 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+19"/>
         <source>Color:</source>
-        <translation>颜色:</translation>
+        <translation>颜色：</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -37533,12 +37533,12 @@ Are you sure you want to continue?</source>
     <message>
         <location line="+1"/>
         <source>Stereotype display:</source>
-        <translation>原型显示:</translation>
+        <translation>原型显示：</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Depth:</source>
-        <translation>深度:</translation>
+        <translation>深度：</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -37803,7 +37803,7 @@ Error: %2</source>
     <message>
         <location line="+109"/>
         <source>Errors while reading typeinfo files:</source>
-        <translation>读取typeinfo文件发生错误:</translation>
+        <translation>读取typeinfo文件发生错误：</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -38450,7 +38450,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+1"/>
         <source>Keystore password:</source>
-        <translation>密钥存储库的密码:</translation>
+        <translation>密钥存储库的密码：</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -38460,7 +38460,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <location line="+1"/>
         <source>Certificate password (%1):</source>
-        <translation>证书的密码(%1):</translation>
+        <translation>证书的密码(%1)：</translation>
     </message>
 </context>
 <context>
@@ -38758,7 +38758,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+40"/>
         <source>&amp;Binary:</source>
-        <translation>二进制(&amp;B):</translation>
+        <translation>二进制(&amp;B)：</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -38829,7 +38829,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+12"/>
         <source>Package name:</source>
-        <translation>包名称:</translation>
+        <translation>包名称：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -38839,12 +38839,12 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+20"/>
         <source>Version code:</source>
-        <translation>版本编码:</translation>
+        <translation>版本编码：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Version name:</source>
-        <translation>版本名称:</translation>
+        <translation>版本名称：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -38860,7 +38860,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="-6"/>
         <source>Minimum required SDK:</source>
-        <translation>最低SDK要求:</translation>
+        <translation>最低SDK要求：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -38890,7 +38890,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+6"/>
         <source>Run:</source>
-        <translation>运行:</translation>
+        <translation>运行：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -39062,16 +39062,16 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalcustomrunconfiguration.cpp" line="+65"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="vanished">参数:</translation>
+        <translation type="vanished">参数：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Work directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -39147,7 +39147,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+5"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -39203,11 +39203,11 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="../../../src/plugins/baremetal/baremetalrunconfigurationwidget.cpp" line="+87"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="vanished">参数:</translation>
+        <translation type="vanished">参数：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -39217,7 +39217,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -39262,7 +39262,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation>主机:</translation>
+        <translation>主机：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -39293,7 +39293,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+1"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -39303,7 +39303,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+2"/>
         <source>Startup mode:</source>
-        <translation>启动模式:</translation>
+        <translation>启动模式：</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -39407,7 +39407,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation>主机:</translation>
+        <translation>主机：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -39417,7 +39417,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+4"/>
         <source>Root scripts directory:</source>
-        <translation>根脚本目录:</translation>
+        <translation>根脚本目录：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -39427,7 +39427,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+3"/>
         <source>Additional arguments:</source>
-        <translation>额外的参数:</translation>
+        <translation>额外的参数：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -39454,7 +39454,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+32"/>
         <source>Host:</source>
-        <translation>主机:</translation>
+        <translation>主机：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -39489,7 +39489,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+1"/>
         <source>Reset on connection:</source>
-        <translation>重置连接:</translation>
+        <translation>重置连接：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -39499,7 +39499,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation>版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -39666,22 +39666,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+8"/>
         <source>Decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation>十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;无符号&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation>十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>十进制&amp;nbsp;有符号&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;unsigned&amp;nbsp;value:</source>
-        <translation>上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;无符号&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Previous&amp;nbsp;decimal&amp;nbsp;signed&amp;nbsp;value:</source>
-        <translation>上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;十进制&amp;nbsp;有符号&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -39701,42 +39701,42 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+26"/>
         <source>Binary&amp;nbsp;value:</source>
-        <translation>二进制&amp;nbsp;数值:</translation>
+        <translation>二进制&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Octal&amp;nbsp;value:</source>
-        <translation>八进制&amp;nbsp;数值:</translation>
+        <translation>八进制&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Previous&amp;nbsp;binary&amp;nbsp;value:</source>
-        <translation>上一个&amp;nbsp;二进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;二进制&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Previous&amp;nbsp;octal&amp;nbsp;value:</source>
-        <translation>上一个&amp;nbsp;八进制&amp;nbsp;数值:</translation>
+        <translation>上一个&amp;nbsp;八进制&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation>&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;double&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation>上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;双精度浮点数&lt;/i&gt;&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation>&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Previous &lt;i&gt;float&lt;/i&gt;&amp;nbsp;value:</source>
-        <translation>上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值:</translation>
+        <translation>上一个&lt;i&gt;浮点数&lt;/i&gt;&amp;nbsp;数值：</translation>
     </message>
     <message>
         <location line="+139"/>
@@ -39838,12 +39838,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+11"/>
         <source>Note text:</source>
-        <translation>注释文本:</translation>
+        <translation>注释文本：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Line number:</source>
-        <translation>行号:</translation>
+        <translation>行号：</translation>
     </message>
 </context>
 <context>
@@ -40017,7 +40017,7 @@ Install an SDK of at least API version %1.</source>
     <name>CMakeProjectManager::Internal::CMakePreloadCacheKitConfigWidget</name>
     <message>
         <source>CMake preload file:</source>
-        <translation type="vanished">CMake预加载文件:</translation>
+        <translation type="vanished">CMake预加载文件：</translation>
     </message>
     <message>
         <source>The preload cache file to use when running cmake on the project.&lt;br&gt;This setting is ignored when using other build systems.</source>
@@ -40073,12 +40073,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+196"/>
         <source>Name:</source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
 </context>
 <context>
@@ -42058,7 +42058,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+5"/>
         <source>Maximum stack depth:</source>
-        <translation>最大堆栈深度:</translation>
+        <translation>最大堆栈深度：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -42462,7 +42462,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+6"/>
         <source>Debug port:</source>
-        <translation>调试端口:</translation>
+        <translation>调试端口：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -42545,7 +42545,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/gdb/gdbplainengine.cpp" line="+74"/>
         <source>Starting executable failed:</source>
-        <translation>开始执行失败:</translation>
+        <translation>开始执行失败：</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -42759,7 +42759,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+1"/>
         <source>Executable: </source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <location line="+171"/>
@@ -43078,27 +43078,27 @@ Setting breakpoints by file name and line number may fail.</source>
         <location line="+23"/>
         <location line="+20"/>
         <source>Class name:</source>
-        <translation>类名:</translation>
+        <translation>类名：</translation>
     </message>
     <message>
         <location line="-41"/>
         <location line="+23"/>
         <location line="+20"/>
         <source>Base class:</source>
-        <translation>基类:</translation>
+        <translation>基类：</translation>
     </message>
     <message>
         <location line="-33"/>
         <location line="+20"/>
         <source>Header file:</source>
-        <translation>头文件:</translation>
+        <translation>头文件：</translation>
     </message>
     <message>
         <location line="-18"/>
         <location line="+20"/>
         <location line="+17"/>
         <source>Source file:</source>
-        <translation>源文件:</translation>
+        <translation>源文件：</translation>
     </message>
     <message>
         <location line="-36"/>
@@ -43111,7 +43111,7 @@ Setting breakpoints by file name and line number may fail.</source>
         <location line="+19"/>
         <location line="+17"/>
         <source>Path:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="-409"/>
@@ -43226,7 +43226,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="-85"/>
         <source>Component name:</source>
-        <translation>组件名:</translation>
+        <translation>组件名：</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -43538,7 +43538,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Googletest repository:</source>
-        <translation>谷歌测试库:</translation>
+        <translation>谷歌测试库：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43702,7 +43702,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Component form name:</source>
-        <translation>名称组件:</translation>
+        <translation>名称组件：</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -43737,12 +43737,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+11"/>
         <source>Model name:</source>
-        <translation>模式名称:</translation>
+        <translation>模式名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43844,7 +43844,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="-14"/>
         <location line="+15"/>
         <source>Build system:</source>
-        <translation>构建系统:</translation>
+        <translation>构建系统：</translation>
     </message>
     <message>
         <location line="-14"/>
@@ -44075,7 +44075,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="+19"/>
         <location line="+17"/>
         <source>Directory:</source>
-        <translation>目录:</translation>
+        <translation>目录：</translation>
     </message>
     <message>
         <location line="-83"/>
@@ -44150,7 +44150,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Revision:</source>
-        <translation>修订版本:</translation>
+        <translation>修订版本：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -44192,7 +44192,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+4"/>
         <source>Module:</source>
-        <translation>模块:</translation>
+        <translation>模块：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -44363,7 +44363,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/diffeditor/diffeditor.cpp" line="+269"/>
         <source>Context lines:</source>
-        <translation>上下文行:</translation>
+        <translation>上下文行：</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -44994,7 +44994,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+3"/>
         <source>Regular expression:</source>
-        <translation>正则表达式:</translation>
+        <translation>正则表达式：</translation>
     </message>
     <message>
         <location line="+185"/>
@@ -45150,12 +45150,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+141"/>
         <source>Reset to:</source>
-        <translation>重置为:</translation>
+        <translation>重置为：</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Select change:</source>
-        <translation>选择改变:</translation>
+        <translation>选择改变：</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -45796,12 +45796,12 @@ Remote: %4</source>
     <message>
         <location line="+47"/>
         <source>Device type:</source>
-        <translation>设备类型:</translation>
+        <translation>设备类型：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
 </context>
 <context>
@@ -46136,11 +46136,11 @@ Remote: %4</source>
     </message>
     <message>
         <source>Model name:</source>
-        <translation type="vanished">模式名称:</translation>
+        <translation type="vanished">模式名称：</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="vanished">位置:</translation>
+        <translation type="vanished">位置：</translation>
     </message>
 </context>
 <context>
@@ -46279,7 +46279,7 @@ Remote: %4</source>
     <message>
         <location line="+5"/>
         <source>&amp;Compiler path:</source>
-        <translation>编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C)：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -46289,17 +46289,17 @@ Remote: %4</source>
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
-        <translation>&amp;ABI:</translation>
+        <translation>&amp;ABI：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Predefined macros:</source>
-        <translation>预定义宏(&amp;P):</translation>
+        <translation>预定义宏(&amp;P)：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Header paths:</source>
-        <translation>头文件路径(&amp;H):</translation>
+        <translation>头文件路径(&amp;H)：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -46309,12 +46309,12 @@ Remote: %4</source>
     <message>
         <location line="+1"/>
         <source>&amp;Qt mkspecs:</source>
-        <translation>Qt 目录(&amp;Q):</translation>
+        <translation>Qt 目录(&amp;Q)：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Error parser:</source>
-        <translation>解析错误(&amp;E):</translation>
+        <translation>解析错误(&amp;E)：</translation>
     </message>
 </context>
 <context>
@@ -46440,7 +46440,7 @@ Remote: %4</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/environmentaspectwidget.cpp" line="+59"/>
         <source>Base environment for this run configuration:</source>
-        <translation>运行设置的基础环境:</translation>
+        <translation>运行设置的基础环境：</translation>
     </message>
 </context>
 <context>
@@ -46937,7 +46937,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+12"/>
         <source>Environment:</source>
-        <translation>环境:</translation>
+        <translation>环境：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -47143,7 +47143,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location line="+28"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -47156,7 +47156,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location line="+53"/>
         <source>Command line arguments:</source>
-        <translation>命令行参数:</translation>
+        <translation>命令行参数：</translation>
     </message>
 </context>
 <context>
@@ -47168,7 +47168,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Hide files matching:</source>
-        <translation type="obsolete">隐藏符合条件的文件:</translation>
+        <translation type="obsolete">隐藏符合条件的文件：</translation>
     </message>
     <message>
         <source>Apply Filter</source>
@@ -47413,12 +47413,12 @@ These files are preserved.</source>
     <message>
         <location line="+26"/>
         <source>Interpreter: </source>
-        <translation>解释器:</translation>
+        <translation>解释器：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Script: </source>
-        <translation>脚本:</translation>
+        <translation>脚本：</translation>
     </message>
 </context>
 <context>
@@ -47509,7 +47509,7 @@ These files are preserved.</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsbuildconfigurationwidget.cpp" line="+62"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
 </context>
 <context>
@@ -47727,7 +47727,7 @@ These files are preserved.</source>
     <message>
         <location line="+56"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -47927,11 +47927,11 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="-252"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="vanished">参数:</translation>
+        <translation type="vanished">参数：</translation>
     </message>
     <message>
         <source>Select Working Directory</source>
@@ -47943,7 +47943,7 @@ The files in the Android package source directory are copied to the build direct
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="vanished">工作目录:</translation>
+        <translation type="vanished">工作目录：</translation>
     </message>
     <message>
         <source>Run in terminal</source>
@@ -48336,12 +48336,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+12"/>
         <source>New parent property:</source>
-        <translation>新的父属性:</translation>
+        <translation>新的父属性：</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Old parent property:</source>
-        <translation>旧的父属性:</translation>
+        <translation>旧的父属性：</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -48356,7 +48356,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+11"/>
         <source>New id:</source>
-        <translation>新ID:</translation>
+        <translation>新ID：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -48367,7 +48367,7 @@ The files in the Android package source directory are copied to the build direct
         <location line="+1"/>
         <location line="+58"/>
         <source>Node id changed:</source>
-        <translation>改变节点ID:</translation>
+        <translation>改变节点ID：</translation>
     </message>
     <message>
         <location line="-40"/>
@@ -48377,12 +48377,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+14"/>
         <source>Binding properties changed:</source>
-        <translation>改变绑定属性:</translation>
+        <translation>改变绑定属性：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Signal handler properties changed:</source>
-        <translation>改变信号处理器属性:</translation>
+        <translation>改变信号处理器属性：</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -48397,7 +48397,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+15"/>
         <source>Auxiliary data changed:</source>
-        <translation>改变辅助数据:</translation>
+        <translation>改变辅助数据：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -48434,22 +48434,22 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+27"/>
         <source>Instance&apos;s children changed:</source>
-        <translation>实例的孩子改变:</translation>
+        <translation>实例的孩子改变：</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Custom notification:</source>
-        <translation>自定义通知:</translation>
+        <translation>自定义通知：</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Node source changed:</source>
-        <translation>源节点改变:</translation>
+        <translation>源节点改变：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Node removed:</source>
-        <translation>节点删除:</translation>
+        <translation>节点删除：</translation>
     </message>
 </context>
 <context>
@@ -49385,7 +49385,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Local executable:</source>
-        <translation>本地执行档:</translation>
+        <translation>本地执行档：</translation>
     </message>
 </context>
 <context>
@@ -49533,7 +49533,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+51"/>
         <source>&amp;Compiler path:</source>
-        <translation>编译器路径(&amp;C):</translation>
+        <translation>编译器路径(&amp;C)：</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -49544,7 +49544,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+1"/>
         <source>&amp;ABI:</source>
-        <translation>&amp;ABI:</translation>
+        <translation>&amp;ABI：</translation>
     </message>
 </context>
 <context>
@@ -49675,7 +49675,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/remotelinux/remotelinuxsignaloperation.cpp" line="+123"/>
         <source>Exit code is %1. stderr:</source>
-        <translation>退出代码 %1。标准错误输出:</translation>
+        <translation>退出代码 %1。标准错误输出：</translation>
     </message>
 </context>
 <context>
@@ -49688,7 +49688,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+4"/>
         <source>Language:</source>
-        <translation>语言:</translation>
+        <translation>语言：</translation>
     </message>
 </context>
 <context>
@@ -50982,7 +50982,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location filename="../../../src/shared/help/indexwindow.cpp" line="+69"/>
         <source>&amp;Look for:</source>
-        <translation>查找(&amp;L):</translation>
+        <translation>查找(&amp;L)：</translation>
     </message>
     <message>
         <location line="+89"/>
@@ -51101,12 +51101,12 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+11"/>
         <source>Show files matching:</source>
-        <translation>显示符合条件的文件:</translation>
+        <translation>显示符合条件的文件：</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Hide files matching:</source>
-        <translation>隐藏符合条件的文件:</translation>
+        <translation>隐藏符合条件的文件：</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -51494,7 +51494,7 @@ These files are preserved.</source>
     <message>
         <location/>
         <source>Target:</source>
-        <translation>目标:</translation>
+        <translation>目标：</translation>
     </message>
     <message>
         <location/>
@@ -51509,7 +51509,7 @@ These files are preserved.</source>
     <message>
         <location/>
         <source>Default arguments:</source>
-        <translation>默认参数:</translation>
+        <translation>默认参数：</translation>
     </message>
     <message>
         <location/>
@@ -51537,7 +51537,7 @@ These files are preserved.</source>
     <message>
         <location/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -51550,7 +51550,7 @@ These files are preserved.</source>
     <message>
         <location/>
         <source>Qbs version:</source>
-        <translation>Qbs 版本:</translation>
+        <translation>Qbs 版本：</translation>
     </message>
 </context>
 <context>
@@ -53075,7 +53075,7 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+13"/>
         <source>Targets:</source>
-        <translation>目标:</translation>
+        <translation>目标：</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -53103,7 +53103,7 @@ Please set a real Clang executable.</source>
     <message>
         <location filename="../../../src/plugins/cmakeprojectmanager/cmakekitconfigwidget.cpp" line="+51"/>
         <source>CMake Generator:</source>
-        <translation>CMake 创建器:</translation>
+        <translation>CMake 创建器：</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -53436,17 +53436,17 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+1"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Arguments:</source>
-        <translation>参数:</translation>
+        <translation>参数：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -53638,7 +53638,7 @@ Leave empty to search through the file system.</source>
     <message>
         <location filename="../../../src/plugins/imageviewer/exportdialog.cpp" line="+99"/>
         <source>File:</source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -53770,7 +53770,7 @@ Would you like to overwrite it?</source>
     <message>
         <location line="+6"/>
         <source>Config path:</source>
-        <translation>配置路径:</translation>
+        <translation>配置路径：</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -53879,7 +53879,7 @@ Would you like to overwrite it?</source>
     <message>
         <location filename="../../../src/plugins/nim/project/nimbuildconfigurationwidget.cpp" line="+60"/>
         <source>Build directory:</source>
-        <translation>构建目录:</translation>
+        <translation>构建目录：</translation>
     </message>
 </context>
 <context>
@@ -53959,12 +53959,12 @@ Would you like to overwrite it?</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/customexecutableconfigurationwidget.cpp" line="+60"/>
         <source>Executable:</source>
-        <translation>执行档:</translation>
+        <translation>执行档：</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Working directory:</source>
-        <translation>工作目录:</translation>
+        <translation>工作目录：</translation>
     </message>
 </context>
 <context>
@@ -54043,7 +54043,7 @@ cannot be found in the path.</source>
     <message>
         <location filename="../../../src/plugins/projectexplorer/msvctoolchain.cpp" line="-134"/>
         <source>Initialization:</source>
-        <translation>初始化:</translation>
+        <translation>初始化：</translation>
     </message>
 </context>
 <context>
@@ -54051,7 +54051,7 @@ cannot be found in the path.</source>
     <message>
         <location line="+36"/>
         <source>LLVM:</source>
-        <translation>LLVM:</translation>
+        <translation>LLVM：</translation>
     </message>
 </context>
 <context>
@@ -54085,12 +54085,12 @@ cannot be found in the path.</source>
     <message>
         <location line="+1"/>
         <source>Project name:</source>
-        <translation>项目名称:</translation>
+        <translation>项目名称：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Location:</source>
-        <translation>路径:</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="+4"/>

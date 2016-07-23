@@ -43488,7 +43488,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Test Framework:</source>
-        <translation>测试框架:</translation>
+        <translation>测试框架：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43513,7 +43513,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Test Set Name:</source>
-        <translation>测试设置名称:</translation>
+        <translation>测试设置名称：</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43603,13 +43603,13 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="+1"/>
         <location line="+20"/>
         <source>%{JS: Cpp.classToFileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-c++hdr&apos;)}&apos;)}</source>
-        <translation>%{JS: Cpp.文件名类(&apos;%{Class}&apos;, &apos;%{JS: Util.首选后缀(&apos;text/x-c++hdr&apos;)}&apos;)}</translation>
+        <translation>%{JS: Cpp.classToFileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-c++hdr&apos;)}&apos;)}</translation>
     </message>
     <message>
         <location line="-18"/>
         <location line="+20"/>
         <source>%{JS: Cpp.classToFileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-c++src&apos;)}&apos;)}</source>
-        <translation>%{JS: Cpp.文件名类(&apos;%{Class}&apos;, &apos;%{JS: Util.首选后缀(&apos;text/x-c++src&apos;)}&apos;)}</translation>
+        <translation>%{JS: Cpp.classToFileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-c++src&apos;)}&apos;)}</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -43676,7 +43676,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>%{JS: Util.fileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-python&apos;)}&apos;)}</source>
-        <translation>%{JS: Util.文件名(&apos;%{Class}&apos;, &apos;%{JS: Util.p首选后缀(&apos;text/x-python&apos;)}&apos;)}</translation>
+        <translation>%{JS: Util.fileName(&apos;%{Class}&apos;, &apos;%{JS: Util.preferredSuffix(&apos;text/x-python&apos;)}&apos;)}</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -43752,7 +43752,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="+19"/>
         <location line="+17"/>
         <source>&quot;%{JS: Util.toNativeSeparators(&apos;%{TargetPath}&apos;)}&quot; exists in the filesystem.</source>
-        <translation>&quot;%{JS: Util.本地分离器(&apos;%{目标路径}&apos;)}&quot; 存在于文件系统中.</translation>
+        <translation>&quot;%{JS: Util.toNativeSeparators(&apos;%{TargetPath}&apos;)}&quot; 存在于文件系统中。</translation>
     </message>
     <message>
         <location line="-291"/>

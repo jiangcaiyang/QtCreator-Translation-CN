@@ -18317,17 +18317,17 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="../../../src/plugins/projectexplorer/abstractprocessstep.cpp" line="+144"/>
         <source>Configuration is faulty. Check the Issues view for details.</source>
-        <translation>配置错误，请检查&quot;问题&quot;视图获得详细信息。</translation>
+        <translation>配置错误，请检查“问题”视图来获得详细信息。</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Could not create directory &quot;%1&quot;</source>
-        <translation>无法创建目录 &quot;%1&quot;</translation>
+        <translation>无法创建目录&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Starting: &quot;%1&quot; %2</source>
-        <translation>正在启动 &quot;%1&quot; %2
+        <translation>正在启动&quot;%1&quot; %2
 </translation>
     </message>
     <message>
@@ -43973,7 +43973,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="+18"/>
         <location line="+15"/>
         <source>With ui.qml file</source>
-        <translation>和 ui qml文件</translation>
+        <translation>包含ui.qml文件</translation>
     </message>
     <message>
         <location line="-53"/>

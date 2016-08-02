@@ -32896,7 +32896,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+1"/>
         <source>Copy &quot;%1&quot;</source>
-        <translation>复制 &quot;%1&quot;</translation>
+        <translation>复制&quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+394"/>
@@ -32911,12 +32911,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+4"/>
         <source>Revert Chunk...</source>
-        <translation>恢复块...</translation>
+        <translation>还原块...</translation>
     </message>
     <message>
         <location line="-651"/>
         <source>&amp;Describe Change %1</source>
-        <translation>描述改变%1(&amp;D)</translation>
+        <translation>改变描述%1(&amp;D)</translation>
     </message>
     <message>
         <location line="+884"/>
@@ -32926,7 +32926,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+366"/>
         <source>Revert Chunk</source>
-        <translation>恢复块</translation>
+        <translation>还原块</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -32936,7 +32936,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+2"/>
         <source>Would you like to revert the chunk?</source>
-        <translation>您想要恢复块吗？</translation>
+        <translation>您想要还原块吗？</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -32959,12 +32959,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-22"/>
         <source>The file &quot;%1&quot; could not be deleted.</source>
-        <translation>文件 &apos;%1&apos; 无法被删除。</translation>
+        <translation>文件&apos;%1&apos;无法被删除。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation>目录 &apos;%1&apos; 已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
+        <translation>目录&apos;%1&apos;已经被一个版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -45069,17 +45069,17 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="../../../src/plugins/git/giteditor.cpp" line="+73"/>
         <source>&amp;Blame %1</source>
-        <translation>责任%1(&amp;B)</translation>
+        <translation>Blame%1(&amp;B)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Blame &amp;Parent Revision %1</source>
-        <translation>责任家长修订%1(&amp;P)</translation>
+        <translation>Blame父修订版本%1(&amp;P)</translation>
     </message>
     <message>
         <location line="+164"/>
         <source>Chunk successfully staged</source>
-        <translation>块成功表现</translation>
+        <translation>块已被成功staged</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -45094,42 +45094,42 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+52"/>
         <source>Cherr&amp;y-Pick Change %1</source>
-        <translation>Cherry-Pick改变%1(&amp;y)</translation>
+        <translation>Cherry-Pick更改%1(&amp;y)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Re&amp;vert Change %1</source>
-        <translation>还原改变%1(&amp;v)</translation>
+        <translation>还原更改%1(&amp;v)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>C&amp;heckout Change %1</source>
-        <translation>检出分支 &quot;%1&quot;(&amp;h)</translation>
+        <translation>检出更改&quot;%1&quot;(&amp;h)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Log for Change %1</source>
-        <translation>更改记录%1(&amp;L)</translation>
+        <translation>更改%1的记录(&amp;L)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Reset to Change %1</source>
-        <translation>更改重值%1(&amp;R)</translation>
+        <translation>重置到更改%1(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Hard</source>
-        <translation>困难(&amp;H)</translation>
+        <translation>Hard(&amp;H)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Mixed</source>
-        <translation>混合(&amp;M)</translation>
+        <translation>Mixed(&amp;M)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Soft</source>
-        <translation>软件(&amp;S)</translation>
+        <translation>Soft(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -45155,27 +45155,27 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+0"/>
         <source>Select change:</source>
-        <translation>选择改变：</translation>
+        <translation>选择更改：</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Reset type:</source>
-        <translation>重置样式：</translation>
+        <translation>重置类型：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Hard</source>
-        <translation>困难</translation>
+        <translation>Hard</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mixed</source>
-        <translation>混合</translation>
+        <translation>Mixed</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Soft</source>
-        <translation>软件</translation>
+        <translation>Soft</translation>
     </message>
 </context>
 <context>

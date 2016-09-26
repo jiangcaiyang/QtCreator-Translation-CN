@@ -3782,7 +3782,7 @@ Continue?</source>
 <context>
     <name>Core::Internal::ExternalTool</name>
     <message>
-        <location filename="externaltools_tr.h" line="+1"/>
+        <location filename="../../../../build-qtcreator-Desktop_Qt_5_7_0_GCC_64bit-Debug/share/qtcreator/translations/externaltools_tr.h" line="+1"/>
         <source>Creates qm translation files that can be used by an application from the translator&apos;s ts files</source>
         <translation>从翻译人员的ts 文件生成 可以用在程序中的qm 翻译文件</translation>
     </message>
@@ -16406,7 +16406,7 @@ Id必须以小写字母开头。</translation>
 <context>
     <name>MimeType</name>
     <message>
-        <location filename="mime_tr.h" line="+3"/>
+        <location filename="../../../../build-qtcreator-Desktop_Qt_5_7_0_GCC_64bit-Debug/share/qtcreator/translations/mime_tr.h" line="+3"/>
         <location line="+1"/>
         <source>CMake Project file</source>
         <translation>CMake 项目文件</translation>
@@ -17991,7 +17991,7 @@ Id必须以小写字母开头。</translation>
 <context>
     <name>ProjectExplorer::CustomWizard</name>
     <message>
-        <location filename="customwizard_tr.h" line="+42"/>
+        <location filename="../../../../build-qtcreator-Desktop_Qt_5_7_0_GCC_64bit-Debug/share/qtcreator/translations/customwizard_tr.h" line="+42"/>
         <location line="+7"/>
         <source>URI:</source>
         <translation>URI：</translation>
@@ -41923,7 +41923,7 @@ Setting breakpoints by file name and line number may fail.</source>
         <translation>&quot;VcsConfiguration&quot; 页面要求一个&quot;vcsId&quot;设置。</translation>
     </message>
     <message>
-        <location filename="jsonwizard_tr.h" line="+2"/>
+        <location filename="../../../../build-qtcreator-Desktop_Qt_5_7_0_GCC_64bit-Debug/share/qtcreator/translations/jsonwizard_tr.h" line="+2"/>
         <location line="+23"/>
         <location line="+20"/>
         <source>Class name:</source>
@@ -54319,18 +54319,18 @@ Server name or IP address</source>
         <translation>密码</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+14"/>
         <source>login</source>
         <translation>登录</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+223"/>
         <source>Sorry, for system restriction, user names which contains non-latin characters are not allowed, please use E-mail instead.</source>
         <translation>对不起，由于系统的限制，登录用户名不允许包含非英文字符。请使用邮箱登录。</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+70"/>
+        <location line="+41"/>
         <source>Login failed</source>
         <translation>登录失败了</translation>
     </message>
@@ -54365,7 +54365,7 @@ Server name or IP address</source>
         <translation>您能够帮我们截一张图片并且发送给开发人员吗？</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+28"/>
         <source>Not registered</source>
         <translation>没有注册呢</translation>
     </message>
@@ -54385,7 +54385,7 @@ Server name or IP address</source>
         <translation>对不起，我们无法连上服务器了，我们希望这是暂时的现象，应该马上就好。</translation>
     </message>
     <message>
-        <location line="+40"/>
+        <location line="-266"/>
         <source>&lt;a href=&apos;http://qtdream.com&apos; style=&apos;text-decoration: none; color: #FFF&apos;&gt;Quick register&lt;/a&gt;</source>
         <translation>&lt;a href=&apos;http://qtdream.com&apos; style=&apos;text-decoration: none; color: #FFF&apos;&gt;快速注册&lt;/a&gt;</translation>
     </message>
@@ -54502,8 +54502,9 @@ Server name or IP address</source>
         <translation>退出</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Main.qml" line="9"/>
         <source>Chat</source>
-        <translation type="vanished">聊天</translation>
+        <translation>聊天</translation>
     </message>
 </context>
 <context>
@@ -54863,36 +54864,6 @@ Server name or IP address</source>
     </message>
 </context>
 <context>
-    <name>QtDreamChat::Internal::QtDreamChatPlugin</name>
-    <message>
-        <location filename="../../../src/plugins/qtdreamchat/qtdreamchatplugin.cpp" line="+55"/>
-        <source>Qt Dream</source>
-        <translation>Qt Dream</translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>QtDream Chat</source>
-        <translation>萌梦聊天室</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Ctrl+Alt+C+T</source>
-        <translation>Ctrl+Alt+C+T</translation>
-    </message>
-    <message>
-        <source>Ctrl+Alt+M</source>
-        <translation type="vanished">Ctrl+Alt+M</translation>
-    </message>
-</context>
-<context>
-    <name>QtDreamChat::Internal::QtDreamChatWidgetFactory</name>
-    <message>
-        <location filename="../../../src/plugins/qtdreamchat/QtDreamChatWidgetFactory.cpp" line="+48"/>
-        <source>QtDream Chat</source>
-        <translation>萌梦聊天室</translation>
-    </message>
-</context>
-<context>
     <name>QtDreamMotionEditor::Internal::QtDreamMotionEditorPlugin</name>
     <message>
         <location filename="../../../src/plugins/qtdreammotioneditor/qtdreammotioneditorplugin.cpp" line="+109"/>
@@ -54911,136 +54882,226 @@ Server name or IP address</source>
     </message>
 </context>
 <context>
+    <name>QtDreamChat::Internal::QtDreamChatPlugin</name>
+    <message>
+        <location filename="../../../src/plugins/qtdreamchat/qtdreamchatplugin.cpp" line="+47"/>
+        <source>QtDream Chat</source>
+        <translation>萌梦聊天室</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Qt Dream</source>
+        <translation>Qt Dream</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Ctrl+Alt+C+T</source>
+        <translation>Ctrl+Alt+C+T</translation>
+    </message>
+    <message>
+        <source>Ctrl+Alt+M</source>
+        <translation type="vanished">Ctrl+Alt+M</translation>
+    </message>
+</context>
+<context>
     <name>ChatItem</name>
     <message>
+        <location filename="../plugins/chat/qml/ChatItem.qml" line="39"/>
+        <location filename="../plugins/chat/qml/ChatItem.qml" line="52"/>
         <source>anonymous</source>
-        <translation type="vanished">匿名</translation>
+        <translation>匿名</translation>
     </message>
 </context>
 <context>
     <name>ChatListPage</name>
     <message>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="28"/>
         <source>Oh oh, you have no chats! Try inviting friends to chat!</source>
-        <translation type="vanished">哦哦，当前没有消息，试着邀请朋友们聊天吧！</translation>
+        <translation>哦哦，当前没有消息，试着邀请朋友们聊天吧！</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="31"/>
         <source>My friends are here!</source>
-        <translation type="vanished">我的朋友都在这儿！</translation>
+        <translation>我的朋友都在这儿！</translation>
     </message>
     <message>
-        <source>There is no user in this chat room</source>
-        <translation type="vanished">此聊天室中没有用户</translation>
-    </message>
-    <message>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="170"/>
         <source>mark all read</source>
-        <translation type="vanished">将所有聊天标为已读</translation>
+        <translation>将所有聊天标为已读</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="198"/>
+        <source>settings</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="214"/>
         <source>back</source>
-        <translation type="vanished">返回</translation>
+        <translation>返回</translation>
     </message>
     <message>
-        <source>log out</source>
-        <translation type="vanished">退出登录</translation>
+        <location filename="../plugins/chat/qml/ChatListPage.qml" line="304"/>
+        <source>reconnecting...</source>
+        <translation>重新连接中……</translation>
     </message>
 </context>
 <context>
     <name>ChatPage</name>
     <message>
+        <location filename="../plugins/chat/qml/ChatPage.qml" line="25"/>
+        <location filename="../plugins/chat/qml/ChatPage.qml" line="38"/>
         <source>0 chat room</source>
-        <translation type="vanished">0 号聊天室</translation>
+        <translation>0号聊天室</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatPage.qml" line="145"/>
+        <source>anonymous</source>
+        <translation>匿名</translation>
     </message>
 </context>
 <context>
-    <name>ChatSettingsPanel</name>
+    <name>ChatRoomSettingsPanel</name>
     <message>
-        <source>rencent</source>
-        <translation type="vanished">最近</translation>
-    </message>
-    <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="150"/>
         <source>recent</source>
-        <translation type="vanished">最近</translation>
+        <translation>最近</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="151"/>
         <source>7 days</source>
-        <translation type="vanished">7天</translation>
+        <translation>7天</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="152"/>
         <source>30 days</source>
-        <translation type="vanished">30天</translation>
+        <translation>30天</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="153"/>
         <source>3 months</source>
-        <translation type="vanished">3个月</translation>
+        <translation>3个月</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="212"/>
         <source>enter users here</source>
-        <translation type="vanished">在此输入用户名</translation>
+        <translation>在此输入用户名</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/ChatRoomSettingsPanel.qml" line="222"/>
         <source>Cannot add existing user.</source>
-        <translation type="vanished">无法重复添加用户。</translation>
+        <translation>无法重复添加用户。</translation>
+    </message>
+</context>
+<context>
+    <name>ChatSettingsPage</name>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="52"/>
+        <source>Settings</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="66"/>
+        <source>Basic</source>
+        <translation>基本设置</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="74"/>
+        <source>alarm on new message</source>
+        <translation>新消息到来时声音提示</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="86"/>
+        <source>notify on new message</source>
+        <translation>新消息到来时提醒</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="98"/>
+        <source>modern chat UI</source>
+        <translation>现代流行聊天界面</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/ChatSettingsPage.qml" line="111"/>
+        <source>Language</source>
+        <translation>语言设置</translation>
     </message>
 </context>
 <context>
     <name>HeadPanel</name>
     <message>
+        <location filename="../plugins/chat/qml/HeadPanel.qml" line="44"/>
         <source>(Message</source>
-        <translation type="vanished">(消息</translation>
+        <translation>(消息</translation>
     </message>
 </context>
 <context>
     <name>InputPanel</name>
     <message>
+        <location filename="../plugins/chat/qml/InputPanel.qml" line="55"/>
         <source>send</source>
-        <translation type="vanished">发送</translation>
+        <translation>发送</translation>
     </message>
 </context>
 <context>
     <name>Misc</name>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="40"/>
         <source>$1 chat room</source>
-        <translation type="vanished">$1号聊天室</translation>
+        <translation>$1号聊天室</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="53"/>
         <source>Can not remove user from chat room, are you owner?</source>
-        <translation type="vanished">无法从聊天室中移除用户，您是聊天室拥有者吗？</translation>
+        <translation>无法从聊天室中移除用户，您是聊天室拥有者吗？</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="55"/>
         <source>room data is invalid.</source>
-        <translation type="vanished">聊天室数据无效。</translation>
+        <translation>聊天室数据无效。</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="57"/>
         <source>Can not remove last user.</source>
-        <translation type="vanished">无法移除最后一位用户。</translation>
+        <translation>无法移除最后一位用户。</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="59"/>
         <source>You have no privileges to do that.</source>
-        <translation type="vanished">您没有权限进行操作。</translation>
+        <translation>您没有权限进行操作。</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="61"/>
+        <source>You have sent too many messages, please wait.</source>
+        <translation>您发送了过多的消息，请稍等片刻。</translation>
+    </message>
+    <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="70"/>
         <source> year(s) ago</source>
-        <translation type="vanished">年之前</translation>
+        <translation>年之前</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="72"/>
         <source> month(s) ago</source>
-        <translation type="vanished">月之前</translation>
+        <translation>月之前</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="74"/>
         <source> day(s) ago</source>
-        <translation type="vanished">日之前</translation>
+        <translation>天之前</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="76"/>
         <source>about %1 hour(s) ago</source>
-        <translation type="vanished">大约%1小时之前</translation>
+        <translation>大约%1小时之前</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="78"/>
         <source>about %1 minute(s) ago</source>
-        <translation type="vanished">大约%1分钟之前</translation>
+        <translation>大约%1分钟之前</translation>
     </message>
     <message>
+        <location filename="../plugins/chat/qml/Misc.js" line="79"/>
         <source>just now</source>
-        <translation type="vanished">刚刚</translation>
+        <translation>刚刚</translation>
     </message>
 </context>
 </TS>

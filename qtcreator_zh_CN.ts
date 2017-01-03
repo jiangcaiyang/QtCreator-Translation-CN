@@ -44542,7 +44542,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+1"/>
         <source>Skipped unknown number of lines...</source>
-        <translation>行跳过数目不详...</translation>
+        <translation>跳过未知数目行...</translation>
     </message>
     <message>
         <location line="+152"/>
@@ -44756,12 +44756,12 @@ Preselects a desktop Qt for building the application if available.</source>
         <location filename="../../../src/plugins/fakevim/fakevimactions.cpp" line="+162"/>
         <location line="+8"/>
         <source>Unknown option: %1</source>
-        <translation>未知选项： %1</translation>
+        <translation>未知选项：%1</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Argument must be positive: %1=%2</source>
-        <translation>参数必须是正值： %1=%2</translation>
+        <translation>参数必须是正值：%1=%2</translation>
     </message>
     <message>
         <location line="-79"/>

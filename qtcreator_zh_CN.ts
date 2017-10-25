@@ -207,17 +207,18 @@
         <location line="+8"/>
         <source>The API level set for the APK is less than the minimum required by the kit.
 The minimum API level required by the kit is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>此APK的API等级低于构建套件中最低需求等级。
+构建套件中最低需求等级为：%1。</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Cannot sign the package. Invalid keystore path(%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为包签名。无效的签名文件路径(%1)。</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Cannot sign the package. Certificate alias %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为包签名。证书别名%1不存在。</translation>
     </message>
     <message>
         <location line="+169"/>
@@ -235,12 +236,12 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location filename="../../../src/plugins/android/androidbuildapkwidget.cpp" line="+89"/>
         <source>Keystore files (*.keystore *.jks)</source>
-        <translation>密钥存储库文件 (*.keystore *.jks)</translation>
+        <translation>签名文件 (*.keystore *.jks)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select Keystore File</source>
-        <translation>选择密钥存储库文件</translation>
+        <translation>选择签名文件</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -259,7 +260,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location line="+9"/>
         <source>Android for %1 (GCC %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1的Android（GCC %2，%3）</translation>
     </message>
 </context>
 <context>
@@ -324,12 +325,12 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location filename="../../../src/plugins/android/androidcreatekeystorecertificate.cpp" line="+86"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Keystore password is too short&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;密钥存储库的密码太短了&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;签名文件的密码太短了&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&lt;span style=&quot; color:#ff0000;&quot;&gt;Keystore passwords do not match&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;密钥存储库的密码不匹配&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot; color:#ff0000;&quot;&gt;签名文件的密码不匹配&lt;/span&gt;</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -354,12 +355,12 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location line="+25"/>
         <source>Keystore Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>签名文件名</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Keystore files (*.keystore *.jks)</source>
-        <translation>密钥存储库文件 (*.keystore *.jks)</translation>
+        <translation>签名文件 (*.keystore *.jks)</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -451,14 +452,18 @@ The minimum API level required by the kit is %1.</source>
         <source>Deployment failed with the following errors:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>部署失败，以下是错误信息：
+
+</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>
 Uninstalling the installed package may solve the issue.
 Do you want to uninstall the existing package?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+卸载安装的包可能解决该问题。
+你想卸载已存在的包吗？</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1236,22 +1241,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+8"/>
         <source>Keystore</source>
-        <translation type="unfinished">密钥存储库</translation>
+        <translation>签名文件</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Certificate</source>
-        <translation type="unfinished">证书</translation>
+        <translation>证书</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enter keystore password</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入签名文件的密码</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Enter certificate password</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入证书的密码</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1297,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location/>
         <source>Keystore:</source>
-        <translation>密钥库：</translation>
+        <translation>签名文件：</translation>
     </message>
     <message>
         <location/>
@@ -1426,7 +1431,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location filename="../../../src/plugins/android/androidcreatekeystorecertificate.ui"/>
         <source>Create a keystore and a certificate</source>
-        <translation>创建一个密钥存储库和一个证书</translation>
+        <translation>创建一个签名文件和一个证书</translation>
     </message>
     <message>
         <location/>
@@ -1501,12 +1506,12 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location/>
         <source>Use Keystore password</source>
-        <translation>使用密钥存储库密码</translation>
+        <translation>使用签名文件密码</translation>
     </message>
     <message>
         <location/>
         <source>Keystore</source>
-        <translation>密钥存储库</translation>
+        <translation>签名文件</translation>
     </message>
 </context>
 <context>
@@ -8251,7 +8256,7 @@ Continue?</source>
     <message>
         <location line="+2"/>
         <source>Open Advanced Find...</source>
-        <translation>打开高级查找...</translation>
+        <translation>打开高级查找…</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8387,7 +8392,7 @@ Continue?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/infobar.cpp" line="+254"/>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -9103,7 +9108,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+1"/>
         <source>Qt Quick 2 Preview (qmlscene)</source>
-        <translation>Qt Quick 2 预览 (qmlviewer)</translation>
+        <translation>Qt Quick 2预览(qmlscene)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9119,7 +9124,7 @@ Do you want to kill it?</source>
     <message>
         <location line="-1"/>
         <source>Qt Quick 1 Preview (qmlviewer)</source>
-        <translation>Qt Quick 1 预览 (qmlviewer)</translation>
+        <translation>Qt Quick 1预览(qmlviewer)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9416,7 +9421,7 @@ Do you want to kill it?</source>
     <message>
         <location/>
         <source>Sear&amp;ch for:</source>
-        <translation>查找(&amp;C)：</translation>
+        <translation>搜索于(&amp;C)：</translation>
     </message>
     <message>
         <location/>
@@ -9546,7 +9551,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+130"/>
         <source>Search for...</source>
-        <translation>查找...</translation>
+        <translation>搜索于…</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -9559,7 +9564,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/find/findtoolwindow.cpp" line="+50"/>
         <source>Empty search term</source>
-        <translation type="unfinished"></translation>
+        <translation>空搜索术语</translation>
     </message>
 </context>
 <context>
@@ -9675,7 +9680,7 @@ Do you want to kill it?</source>
     <message>
         <location line="-2"/>
         <source>Locate...</source>
-        <translation type="unfinished">定位...</translation>
+        <translation>定位...</translation>
     </message>
     <message>
         <location line="+135"/>
@@ -9782,12 +9787,12 @@ Do you want to kill it?</source>
     <message>
         <location line="+76"/>
         <source>Type to locate</source>
-        <translation type="unfinished">输入以定位</translation>
+        <translation>输入以定位</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type to locate (%1)</source>
-        <translation type="unfinished">输入以定位(%1)</translation>
+        <translation>输入以定位(%1)</translation>
     </message>
     <message>
         <location line="-57"/>
@@ -10002,12 +10007,12 @@ Do you want to kill it?</source>
     <message>
         <location line="+29"/>
         <source>Ctrl+Shift+0</source>
-        <translation type="unfinished">Ctrl+Shift+0</translation>
+        <translation>Ctrl+Shift+0</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Alt+Shift+0</source>
-        <translation type="unfinished">Alt+Shift+0</translation>
+        <translation>Alt+Shift+0</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -10449,12 +10454,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/plugindialog.cpp" line="+66"/>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>显示所有</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show all installed plugins, including base plugins and plugins that are not available on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示所有安装的插件，包含了基础插件的以及在此平台不可用的插件。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -10551,42 +10556,42 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/dialogs/saveitemsdialog.cpp" line="+59"/>
         <source>&amp;Diff</source>
-        <translation type="unfinished">&amp;Diff</translation>
+        <translation>对比(&amp;D)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Do &amp;Not Save</source>
-        <translation type="unfinished"></translation>
+        <translation>不要保存(&amp;N)</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>&amp;Save</source>
-        <translation type="unfinished">保存(&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Diff &amp;&amp; Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>对比然后退出(&amp;D)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>全保存(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Diff All &amp;&amp; Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>对比然后退出(&amp;D)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>保存选中(&amp;S)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Diff Selected &amp;&amp; Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>对比选中的然后退出(&amp;D)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -10645,22 +10650,22 @@ Do you want to kill it?</source>
     <message>
         <location line="-17"/>
         <source>&amp;Search Again</source>
-        <translation type="unfinished"></translation>
+        <translation>继续搜索(&amp;S)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Repla&amp;ce with:</source>
-        <translation type="unfinished"></translation>
+        <translation>替换为(&amp;C)：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Preser&amp;ve case</source>
-        <translation type="unfinished"></translation>
+        <translation>保留大小写(&amp;V)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>替换(&amp;R)</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -10834,7 +10839,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+11"/>
         <source>Could not open URL %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开URL %1。</translation>
     </message>
 </context>
 <context>
@@ -10999,7 +11004,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/themechooser.cpp" line="+141"/>
         <source>Current theme: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>当前主题：%1</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -11080,7 +11085,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/locator/locatormanager.cpp" line="+65"/>
         <source>&lt;type here&gt;</source>
-        <translation type="unfinished">&lt;在此输入&gt;</translation>
+        <translation>&lt;在此输入&gt;</translation>
     </message>
 </context>
 <context>
@@ -11117,7 +11122,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+23"/>
         <source>Running in %1: %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>正在%1中运行：%2 %3</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -11424,7 +11429,7 @@ to version control (%2)
     <message>
         <location filename="../../../src/plugins/cppeditor/cppincludehierarchy.cpp" line="+377"/>
         <source>No include hierarchy available</source>
-        <translation type="unfinished">没有可用的包含层次</translation>
+        <translation>没有可用的包含层次</translation>
     </message>
 </context>
 <context>
@@ -11463,7 +11468,7 @@ to version control (%2)
     <message>
         <location filename="../../../src/plugins/cppeditor/cppeditordocument.cpp" line="+355"/>
         <source>Note: Multiple parse contexts are available for this file. Choose the preferred one from the editor toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：此文件可用于多个解析上下文。请在编辑器工具栏中选择最合适的一项。</translation>
     </message>
 </context>
 <context>
@@ -11472,7 +11477,8 @@ to version control (%2)
         <location filename="../../../src/plugins/cppeditor/cppeditorplugin.cpp" line="+152"/>
         <source>C++</source>
         <comment>SnippetProvider</comment>
-        <translation type="unfinished">C++</translation>
+        <translatorcomment>代码片提供者</translatorcomment>
+        <translation>C++</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -11758,27 +11764,27 @@ to version control (%2)
     <message>
         <location filename="../../../src/plugins/cppeditor/cppminimizableinfobars.cpp" line="+67"/>
         <source>File is not part of any project.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件不属于任何项目。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>File contains errors in included files.</source>
-        <translation type="unfinished"></translation>
+        <translation>包含文件中发生了错误。</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>Minimize</source>
-        <translation type="unfinished">最小化</translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;b&gt;Warning&lt;/b&gt;: This file is not part of any project. The code model might have issues to parse this file properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;警告&lt;/b&gt;：此文件不属于任何项目。解析代码模型的时候可能会出现问题从而导致解析不正确。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&lt;b&gt;Warning&lt;/b&gt;: The code model could not parse an included file, which might lead to slow or incorrect code completion and highlighting, for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;警告&lt;/b&gt;：代码模型无法解析一项包含的文件，作为例子，此文件可能导致缓慢和不正确的代码补全以及代码高亮。</translation>
     </message>
 </context>
 <context>
@@ -34618,12 +34624,12 @@ Do you want to ignore them?</source>
     <message>
         <location line="-2748"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>C++</source>
-        <translation type="unfinished">C++</translation>
+        <translation>C++</translation>
     </message>
     <message>
         <location line="+315"/>
@@ -34633,7 +34639,7 @@ Do you want to ignore them?</source>
     <message>
         <location line="+8"/>
         <source>&amp;Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>管理…(&amp;M)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -34658,12 +34664,12 @@ Do you want to ignore them?</source>
     <message>
         <location line="+128"/>
         <source>Duplicate File...</source>
-        <translation>副本文件...</translation>
+        <translation>复制文件...</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Diff Against Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>对比当前的文件</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -40404,7 +40410,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>Duplicate id.</source>
-        <translation>副本ID。</translation>
+        <translation>重复的ID。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -40424,7 +40430,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>Assignment in condition.</source>
-        <translation>作业条件。</translation>
+        <translation>在判定语句中使用赋值语句。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -40684,7 +40690,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>This id might be ambiguous and is not supported in the Qt Quick Designer.</source>
-        <translation type="unfinished"></translation>
+        <translation>此ID可能出现歧义因此不被Qt Quick Designer支持。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -41036,7 +41042,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location/>
         <source>ui.qml file</source>
-        <translation type="unfinished"></translation>
+        <translation>ui.qml文件</translation>
     </message>
 </context>
 <context>
@@ -41132,7 +41138,8 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
         <location line="-31"/>
         <source>QML</source>
         <comment>SnippetProvider</comment>
-        <translation type="unfinished">QML</translation>
+        <translatorcomment>代码片段提供者</translatorcomment>
+        <translation>QML</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -41219,47 +41226,47 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljseditingsettingspage.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>界面</translation>
     </message>
     <message>
         <location/>
         <source>Qt Quick Toolbars</source>
-        <translation type="unfinished">Qt Quick工具栏</translation>
+        <translation>Qt Quick工具栏</translation>
     </message>
     <message>
         <location/>
         <source>If enabled, the toolbar will remain pinned to an absolute position.</source>
-        <translation type="unfinished">如果启用,该工具栏将保持固定到一个绝对位置。</translation>
+        <translation>如果启用，该工具栏将保持固定到一个绝对位置。</translation>
     </message>
     <message>
         <location/>
         <source>Pin Qt Quick Toolbar</source>
-        <translation type="unfinished">牵制Qt Quick工具栏</translation>
+        <translation>固定Qt Quick工具栏</translation>
     </message>
     <message>
         <location/>
         <source>Always show Qt Quick Toolbar</source>
-        <translation type="unfinished">总是显示Qt Quick工具栏</translation>
+        <translation>总是显示Qt Quick工具栏</translation>
     </message>
     <message>
         <location/>
         <source>Automatic Formatting on File Save</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存时自动格式对齐</translation>
     </message>
     <message>
         <location/>
         <source>Enable auto format on file save</source>
-        <translation type="unfinished">文件保存时启用自动格式</translation>
+        <translation>文件保存时启用自动格式</translation>
     </message>
     <message>
         <location/>
         <source>Restrict to files contained in the current project</source>
-        <translation type="unfinished">对包含在当前项目的文件的限制</translation>
+        <translation>对包含在当前项目的文件的限制</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljseditingsettingspage.cpp" line="+168"/>
         <source>QML/JS Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>QML/JS编辑</translation>
     </message>
 </context>
 <context>
@@ -41275,17 +41282,17 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location filename="../../../src/plugins/qmljseditor/qmljshoverhandler.cpp" line="+373"/>
         <source>Library at %1</source>
-        <translation type="unfinished">%1中的库</translation>
+        <translation>%1中的库</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Dumped plugins successfully.</source>
-        <translation type="unfinished">成功读取插件。</translation>
+        <translation>成功转储插件。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Read typeinfo files successfully.</source>
-        <translation type="unfinished">读取typeinfo文件成功。</translation>
+        <translation>读取类型信息文件成功。</translation>
     </message>
 </context>
 <context>

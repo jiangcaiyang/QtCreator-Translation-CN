@@ -14913,7 +14913,7 @@ you will need to build a separate CDB extension with the same bitness as the CDB
     <message>
         <location line="+109"/>
         <source>Could not find a widget.</source>
-        <translation type="unfinished">无法找到控件。</translation>
+        <translation>无法找到一个窗体。</translation>
     </message>
     <message>
         <location line="+262"/>
@@ -14955,7 +14955,7 @@ you will need to build a separate CDB extension with the same bitness as the CDB
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;The inferior stopped because it received a signal from the operating system.&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Signal name : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Signal meaning : &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation>&lt;p&gt;弱停止因为它从操作系统接收信号。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称 : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义: &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
+        <translation>&lt;p&gt;底层因从操作系统接收到一个信号而停止。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称：&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义：&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -14976,20 +14976,22 @@ you will need to build a separate CDB extension with the same bitness as the CDB
         <location line="+58"/>
         <source>The inferior is in the Portable Executable format.
 Selecting %1 as debugger would improve the debugging experience for this binary format.</source>
-        <translation type="unfinished"></translation>
+        <translation>底层在便携式可执行文件(PE)格式中。选择%1作为调试器将改善该二进制格式的调试体验。</translation>
     </message>
     <message>
         <location line="+127"/>
         <source>The selected debugger may be inappropriate for the inferior.
 Examining symbols and setting breakpoints by file name and line number may fail.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>对于底层，选定的调试器可能并不准确。
+检查符号以及在文件名和行号中设置断点可能失败。
+</translation>
     </message>
     <message>
         <location line="-102"/>
         <source>The inferior is in the ELF format.
 Selecting GDB or LLDB as debugger would improve the debugging experience for this binary format.</source>
-        <translation>下角码是ELF格式。选择GDB 或 LLDB作为调试器将改善这个二进制格式的调试经验。</translation>
+        <translation>底层在ELF格式中。选择GDB或LLDB作为调试器将改善该二进制格式的调试体验。</translation>
     </message>
     <message>
         <location line="+92"/>
@@ -15182,52 +15184,52 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+131"/>
         <source>Cannot start %1 without a project. Please open the project and try again.</source>
-        <translation type="unfinished">项目的%1不能开始。请打开项目并重试。</translation>
+        <translation>不能在没有项目的基础上开始%1。请打开项目并重试。</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>分析</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>in Debug mode</source>
-        <translation type="unfinished">处于调试模式</translation>
+        <translation>处于调试模式</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>in Profile mode</source>
-        <translation type="unfinished">处于分析模式</translation>
+        <translation>处于分析模式</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>in Release mode</source>
-        <translation type="unfinished">处于发布模式</translation>
+        <translation>处于发布模式</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>with debug symbols (Debug or Profile mode)</source>
-        <translation type="unfinished">使用调试符号(调试或分析模式)</translation>
+        <translation>使用调试符号（调试或分析模式）</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>on optimized code (Profile or Release mode)</source>
-        <translation type="unfinished">优化代码(分析或调试模式)</translation>
+        <translation>于优化代码上（分析或调试模式）</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Run %1 in %2 Mode?</source>
-        <translation type="unfinished">在%2模式下运行%1吗？</translation>
+        <translation>在%2模式下运行%1吗？</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行&quot;%1&quot;这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您正尝试在%2模式下对应用运行&quot;%1&quot;这个工具，然而该工具被设计为在%3下使用。&lt;/p&gt;&lt;p&gt;优化和非优化的二进制代码在运行时的性能有显著差异。在某个模式下的分析结果并不一定适用于其他的模式。&lt;/p&gt;&lt;p&gt;运行需要在二进制文件中进行调试并且不会导致任何功能函数名丢失或者输出不足的工具。&lt;/p&gt;&lt;p&gt;您希望继续在%2模式下运行该工具吗？&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerruncontrol.cpp" line="-590"/>
@@ -15239,12 +15241,12 @@ Affected are breakpoints %1</source>
     <message>
         <location line="+115"/>
         <source>The debugging engine required for combined QML/C++ debugging could not be created: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>联合QML/C++调试所需的调试引擎无法创建：%1</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Unable to create a debugging engine of the type &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为类型%1创建调试引擎</translation>
     </message>
     <message>
         <location line="+129"/>
@@ -15352,7 +15354,7 @@ Affected are breakpoints %1</source>
     <message>
         <location line="+230"/>
         <source>Select a valid expression to evaluate.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择一个有效的表达式进行求值。</translation>
     </message>
     <message>
         <location line="+281"/>
@@ -15367,27 +15369,27 @@ Affected are breakpoints %1</source>
     <message>
         <location line="+138"/>
         <source>&amp;Breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>断点(&amp;B)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>模块(&amp;M)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reg&amp;isters</source>
-        <translation type="unfinished"></translation>
+        <translation>寄存器(&amp;i)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>&amp;Stack</source>
-        <translation type="unfinished"></translation>
+        <translation>堆栈(&amp;S)</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>线程(&amp;T)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -15395,7 +15397,7 @@ Affected are breakpoints %1</source>
         <location line="+3"/>
         <location line="+4"/>
         <source>Locals and &amp;Expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>本地变量和表达式(&amp;E)</translation>
     </message>
     <message>
         <location line="+466"/>
@@ -16218,7 +16220,7 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location filename="../../../src/plugins/debugger/gdb/attachgdbadapter.cpp" line="+64"/>
         <source>Attaching to process %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>附加到进程%1。</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -16471,7 +16473,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location line="-608"/>
         <source>The gdb process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>gdb进程启动失败。</translation>
     </message>
     <message>
         <location line="+740"/>
@@ -16537,7 +16539,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location line="+1672"/>
         <source>The working directory &quot;%1&quot; is not usable.</source>
-        <translation type="unfinished"></translation>
+        <translation>工作目录“%1”不可用。</translation>
     </message>
     <message>
         <location line="+153"/>
@@ -16807,7 +16809,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+179"/>
         <source>Debug all child processes</source>
-        <translation type="unfinished"></translation>
+        <translation>调试所有子进程</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -16926,7 +16928,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+24"/>
         <source>Upload failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>上传失败：%1</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -17026,7 +17028,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+8"/>
         <source>Remote: &quot;%1&quot;</source>
-        <translation type="unfinished">远程:&apos;%1&apos;</translation>
+        <translation>远程：“%1”</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -17060,7 +17062,7 @@ markers in the source code editor.</source>
     <message>
         <location line="-49"/>
         <source>Stopping temporarily</source>
-        <translation type="unfinished">临时停止</translation>
+        <translation>临时停止</translation>
     </message>
     <message>
         <location line="+125"/>

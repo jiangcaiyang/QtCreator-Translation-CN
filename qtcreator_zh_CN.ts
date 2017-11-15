@@ -9266,7 +9266,7 @@ Do you want to kill it?</source>
     <message>
         <location/>
         <source>Replace Selection</source>
-        <translation>替代选择</translation>
+        <translation>替换所选项</translation>
     </message>
     <message>
         <location/>
@@ -11109,7 +11109,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="../../../src/plugins/coreplugin/outputwindow.cpp" line="+355"/>
         <source>Additional output omitted</source>
-        <translation>省略的附加输出</translation>
+        <translation>已省略更多输出</translation>
     </message>
 </context>
 <context>
@@ -11792,7 +11792,7 @@ to version control (%2)
     <message>
         <location filename="../../../src/plugins/cppeditor/cppparsecontext.cpp" line="+55"/>
         <source>&lt;p&gt;&lt;b&gt;Active Parse Context&lt;/b&gt;:&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;Multiple parse contexts (set of defines, include paths, and so on) are available for this file.&lt;/p&gt;&lt;p&gt;Choose a parse context to set it as the preferred one. Clear the preference from the context menu.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;活动的解析上下文&lt;/b&gt;:&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;多个解析上下文（定义的集合，包含路径等等）在此文件中可用。&lt;/p&gt;&lt;p&gt;请选择一个解析上下文以作为最适合的一个。从上下文菜单中清除首选项。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -11800,7 +11800,7 @@ to version control (%2)
     <message>
         <location line="+84"/>
         <source>Clear Preferred Parse Context</source>
-        <translation type="unfinished"></translation>
+        <translation>清除首选的解析上下文</translation>
     </message>
 </context>
 <context>
@@ -11842,7 +11842,7 @@ to version control (%2)
     <message>
         <location filename="../../../src/plugins/cpptools/cpptoolsreuse.cpp" line="+279"/>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because it is too big.</source>
-        <translation type="unfinished"></translation>
+        <translation>C++索引器：跳过文件%1因为它太大了。</translation>
     </message>
 </context>
 <context>
@@ -12011,32 +12011,32 @@ to version control (%2)
     <message>
         <location/>
         <source>General</source>
-        <translation type="unfinished">概要</translation>
+        <translation>概要</translation>
     </message>
     <message>
         <location/>
         <source>Interpret ambiguous headers as C headers</source>
-        <translation type="unfinished"></translation>
+        <translation>解析有歧义的头文件作为C头文件</translation>
     </message>
     <message>
         <location/>
         <source>Do not index files greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>不要索引文件多余</translation>
     </message>
     <message>
         <location/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location/>
         <source>&lt;i&gt;The Clang Code Model is enabled because the corresponding plugin is loaded.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;Clang代码模型已启用因为对应的插件已载入。&lt;/i&gt;</translation>
     </message>
     <message>
         <location/>
         <source>&lt;i&gt;The Clang Code Model is disabled because the corresponding plugin is not loaded.&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;Clang代码模型已禁用因为对应的插件没有载入。&lt;/i&gt;</translation>
     </message>
 </context>
 <context>
@@ -12466,13 +12466,14 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <location line="-168"/>
         <source>Re&amp;name %1 files</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名%1个文件。(&amp;n)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文件：
+%1</translation>
     </message>
     <message>
         <location line="+131"/>
@@ -12848,12 +12849,12 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/cvs/cvsclient.cpp" line="+61"/>
         <source>Ignore Whitespace</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空白</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Ignore Blank Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略空行</translation>
     </message>
 </context>
 <context>
@@ -13367,63 +13368,64 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritem.cpp" line="+200"/>
         <source>Not recognized</source>
-        <translation type="unfinished">未被识别</translation>
+        <translation>未被识别</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Could not determine debugger type</source>
-        <translation type="unfinished">无法决定调试器的类型</translation>
+        <translation>无法决定调试器的类型</translation>
     </message>
     <message>
         <location filename="../../../src/plugins/debugger/debuggeritemmanager.cpp" line="+322"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Name:</source>
-        <translation type="unfinished">名称：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Path:</source>
-        <translation type="unfinished">路径：</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type:</source>
-        <translation type="unfinished">类型：</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ABIs:</source>
-        <translation type="unfinished">ABIs：</translation>
+        <translation>ABIs：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Version:</source>
-        <translation type="unfinished">版本：</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Working directory:</source>
-        <translation type="unfinished">工作目录：</translation>
+        <translation>工作目录：</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>64-bit version</source>
-        <translation type="unfinished">64位版本</translation>
+        <translation>64位版本</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>32-bit version</source>
-        <translation type="unfinished">32位版本</translation>
+        <translation>32位版本</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Windows Console Debugger executable&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
-        <translation type="unfinished">&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到&lt;a href=&quot;%1&quot;&gt;Windows控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translatorcomment>路径配置的标签文字。%2是“x-bit版本”。</translatorcomment>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到&lt;a href=&quot;%1&quot;&gt;Windows控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -13546,7 +13548,7 @@ Flags: %3</source>
     <message>
         <location line="+30"/>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>还原</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -13567,47 +13569,47 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerruncontrol.cpp" line="+132"/>
         <source>No executable specified.</source>
-        <translation type="unfinished">未指定可执行文件。</translation>
+        <translation>未指定可执行文件。</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Debugger</source>
-        <translation type="unfinished">调试器</translation>
+        <translation>调试器</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Show this message again.</source>
-        <translation type="unfinished">再次显示该消息(&amp;S)。</translation>
+        <translation>再次显示该消息(&amp;S)。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Debugging starts</source>
-        <translation type="unfinished">调试开始</translation>
+        <translation>调试开始</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debugging has failed</source>
-        <translation type="unfinished">调试失败</translation>
+        <translation>调试失败</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Debugging has finished</source>
-        <translation type="unfinished">调试完成</translation>
+        <translation>调试完成</translation>
     </message>
     <message>
         <location line="+313"/>
         <source>Close Debugging Session</source>
-        <translation type="unfinished">关闭调试会话</translation>
+        <translation>关闭调试会话</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>A debugging session is still in progress. Terminating the session in the current state can leave the target in an inconsistent state. Would you still like to terminate it?</source>
-        <translation type="unfinished">一个调试会话正在运行中。强行结束会话可能会导致会话状态异常，即使如此还是要结束它吗？</translation>
+        <translation>一个调试会话正在运行中。在当前状态下强行结束会话可能会导致会话状态异常，即使如此还是要结束它吗？</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Debugged executable</source>
-        <translation type="unfinished">调试的可执行文件</translation>
+        <translation>调试的可执行文件</translation>
     </message>
 </context>
 <context>
@@ -13623,22 +13625,22 @@ Flags: %3</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerruncontrol.cpp" line="+117"/>
         <source>Checking available ports...</source>
-        <translation type="unfinished">正在检查可用的端口...</translation>
+        <translation>正在检查可用的端口...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Found %1 free ports</source>
-        <translation type="unfinished"></translation>
+        <translation>找到%1空闲的端口</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Not enough free ports on device for C++ debugging.</source>
-        <translation type="unfinished">在设备上没有可用于C++调试的空闲端口。</translation>
+        <translation>在设备上没有可用于C++调试的空闲端口。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Not enough free ports on device for QML debugging.</source>
-        <translation type="unfinished">在设备上没有可用于QML调试的空闲端口。</translation>
+        <translation>在设备上没有可用于QML调试的空闲端口。</translation>
     </message>
 </context>
 <context>
@@ -13646,7 +13648,7 @@ Flags: %3</source>
     <message>
         <location line="+50"/>
         <source>Starting gdbserver...</source>
-        <translation type="unfinished">启动 gdbserver...</translation>
+        <translation>启动gdbserver中...</translation>
     </message>
 </context>
 <context>
@@ -13975,12 +13977,12 @@ Flags: %3</source>
         <location line="+111"/>
         <location line="+508"/>
         <source>Edit Breakpoint Properties</source>
-        <translation type="unfinished">编辑断点属性</translation>
+        <translation>编辑断点属性</translation>
     </message>
     <message>
         <location line="-506"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>基本</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -14834,12 +14836,12 @@ you will need to build a separate CDB extension with the same bitness as the CDB
     <message>
         <location filename="../../../src/plugins/debugger/debuggerengine.cpp" line="+178"/>
         <source>No Memory Viewer Available</source>
-        <translation type="unfinished">没有可用的内存查看器</translation>
+        <translation>没有可用的内存查看器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The memory contents cannot be shown as no viewer plugin for binary data has been loaded.</source>
-        <translation type="unfinished">没有载入二进制数据查看器插件，无法显示内存内容。</translation>
+        <translation>没有为载入的二进制数据查看的插件，因此无法显示内存内容。</translation>
     </message>
     <message>
         <location line="+354"/>
@@ -14898,12 +14900,12 @@ you will need to build a separate CDB extension with the same bitness as the CDB
     <message>
         <location line="+134"/>
         <source>Adapter start failed</source>
-        <translation type="unfinished">适配器启动失败</translation>
+        <translation>适配器启动失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Debugging complex command lines is currently not supported on Windows.</source>
-        <translation type="unfinished">调试复杂的命令行目前在windows下尚不支持。</translation>
+        <translation>调试复杂的命令行目前在windows下尚不支持。</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -14955,7 +14957,7 @@ you will need to build a separate CDB extension with the same bitness as the CDB
     <message>
         <location line="+1"/>
         <source>&lt;p&gt;The inferior stopped because it received a signal from the operating system.&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Signal name : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Signal meaning : &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation>&lt;p&gt;底层因从操作系统接收到一个信号而停止。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称：&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义：&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
+        <translation>&lt;p&gt;inferior因从操作系统接收到一个信号而停止。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称：&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义：&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -17145,7 +17147,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+6"/>
         <source>Debugging Helper Customization</source>
-        <translation type="unfinished">自定义调试助手</translation>
+        <translation>自定义调试助手</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -36471,7 +36473,7 @@ Expiration date: %3</source>
     <message>
         <location filename="../../../src/plugins/qbsprojectmanager/qbsproject.cpp" line="+241"/>
         <source>Failed</source>
-        <translation type="unfinished">失败</translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -36481,17 +36483,17 @@ Expiration date: %3</source>
     <message>
         <location line="+134"/>
         <source>%1: Selected products do not exist anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1：选中的产品不再存在。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot clean</source>
-        <translation type="unfinished"></translation>
+        <translation>无法清理</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Cannot build</source>
-        <translation type="unfinished"></translation>
+        <translation>无法构建</translation>
     </message>
     <message>
         <location line="+366"/>
@@ -36548,33 +36550,33 @@ Expiration date: %3</source>
         <location line="+4"/>
         <location line="+51"/>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>清理</translation>
     </message>
     <message>
         <location line="-43"/>
         <source>Clean Product</source>
-        <translation type="unfinished"></translation>
+        <translation>清理产品</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Clean Product &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>清理产品“%1”</translation>
     </message>
     <message>
         <location line="+8"/>
         <location line="+54"/>
         <source>Rebuild</source>
-        <translation type="unfinished">重新构建</translation>
+        <translation>重新构建</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>Rebuild Product</source>
-        <translation type="unfinished"></translation>
+        <translation>重新构建产品</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Rebuild Product &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>重新构建产品“%1”</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -36594,22 +36596,22 @@ Expiration date: %3</source>
     <message>
         <location line="+13"/>
         <source>Clean Subproject</source>
-        <translation type="unfinished">清理子项目</translation>
+        <translation>清理子项目</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Clean Subproject &quot;%1&quot;</source>
-        <translation type="unfinished">清理子项目 &quot;%1&quot;</translation>
+        <translation>清理子项目“%1”</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Rebuild Subproject</source>
-        <translation type="unfinished">重新构建子项目</translation>
+        <translation>重新构建子项目</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Rebuild Subproject &quot;%1&quot;</source>
-        <translation type="unfinished">重新构建子项目 &quot;%1&quot;</translation>
+        <translation>重新构建子项目“%1”</translation>
     </message>
 </context>
 <context>
@@ -36806,7 +36808,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+41"/>
         <source>Android build SDK not defined. Check Android settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android构建SDK没有定义，请检查Android设置。</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -36903,17 +36905,17 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../../../src/plugins/qmakeprojectmanager/qmakeparsernodes.cpp" line="+664"/>
         <source>Failed</source>
-        <translation type="unfinished">失败</translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not write project file %1.</source>
-        <translation type="unfinished">无法写入项目文件 %1。</translation>
+        <translation>无法写入项目文件%1。</translation>
     </message>
     <message>
         <location line="+171"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
 </context>
 <context>
@@ -36921,12 +36923,12 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+670"/>
         <source>Error while parsing file %1. Giving up.</source>
-        <translation type="unfinished">解析文件%1时发生错误。放弃。</translation>
+        <translation>解析文件%1时发生错误。放弃。</translation>
     </message>
     <message>
         <location line="+222"/>
         <source>Could not find .pro file for subdirectory &quot;%1&quot; in &quot;%2&quot;.</source>
-        <translation type="unfinished">找不到.pro文件&quot;%2&quot;中的子目录&quot;%1&quot;。</translation>
+        <translation>找不到在“%2”中的子目录“%1”的.pro文件。</translation>
     </message>
 </context>
 <context>

@@ -1,0 +1,2909 @@
+<!DOCTYPE QPH>
+<QPH language="zh_CN">
+<phrase>
+    <source>Expand All</source>
+    <target>展开全部</target>
+</phrase>
+<phrase>
+    <source>Update Installed</source>
+    <target>更新安装</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>应用</target>
+</phrase>
+<phrase>
+    <source>Show Packages</source>
+    <target>显示包</target>
+</phrase>
+<phrase>
+    <source>Available</source>
+    <target>可用</target>
+</phrase>
+<phrase>
+    <source>Installed</source>
+    <target>已安装</target>
+</phrase>
+<phrase>
+    <source>All</source>
+    <target>所有</target>
+</phrase>
+<phrase>
+    <source>Advanced Options...</source>
+    <target>高级选项...</target>
+</phrase>
+<phrase>
+    <source>Native SDK Manager...</source>
+    <target>本地SDK管理器...</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>取消</target>
+</phrase>
+<phrase>
+    <source>Package</source>
+    <target>包</target>
+</phrase>
+<phrase>
+    <source>Revision</source>
+    <target>修订本</target>
+</phrase>
+<phrase>
+    <source>API</source>
+    <target>API</target>
+</phrase>
+<phrase>
+    <source>Operation</source>
+    <target>操作</target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target>工具</target>
+</phrase>
+<phrase>
+    <source>SDK Platform</source>
+    <target>SDK 平台</target>
+</phrase>
+<phrase>
+    <source>Update Only</source>
+    <target>只更新</target>
+</phrase>
+<phrase>
+    <source>Uninstall</source>
+    <target>卸载</target>
+</phrase>
+<phrase>
+    <source>Uninstall</source>
+    <target>卸载</target>
+</phrase>
+<phrase>
+    <source>Install</source>
+    <target>安装</target>
+</phrase>
+<phrase>
+    <source>Android</source>
+    <target>Android</target>
+</phrase>
+<phrase>
+    <source>SDK Manager Arguments</source>
+    <target>SDK 管理参数</target>
+</phrase>
+<phrase>
+    <source>Incorrect password.</source>
+    <target>密码错误。</target>
+</phrase>
+<phrase>
+    <source>Testing</source>
+    <target>测试</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>界面</target>
+</phrase>
+<phrase>
+    <source>Ignore Whitespace</source>
+    <target>忽略空白</target>
+</phrase>
+<phrase>
+    <source>Ignore Blank Lines</source>
+    <target>忽略空行</target>
+</phrase>
+<phrase>
+    <source>Verbose</source>
+    <target>详细</target>
+</phrase>
+<phrase>
+    <source>Include Merges</source>
+    <target>包含合并</target>
+</phrase>
+<phrase>
+    <source>One Line</source>
+    <target>单列</target>
+</phrase>
+<phrase>
+    <source>GNU Change Log</source>
+    <target>GNU 改变日志</target>
+</phrase>
+<phrase>
+    <source>Bea&amp;utifier</source>
+    <target>美化器(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>Cannot open file &quot;%1&quot;: %2.</source>
+    <target>无法打开文件“%1”：%2。</target>
+</phrase>
+<phrase>
+    <source>Cannot save file &quot;%1&quot;: %2.</source>
+    <target>无法保存文件“%1”：%2。</target>
+</phrase>
+<phrase>
+    <source>&amp;Artistic Style</source>
+    <target>艺术风格(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Revision:</source>
+    <target>修订版本：</target>
+</phrase>
+<phrase>
+    <source>Beautifier</source>
+    <target>美化器</target>
+</phrase>
+<phrase>
+    <source>Artistic Style</source>
+    <target>艺术风格</target>
+</phrase>
+<phrase>
+    <source>System Information</source>
+    <target>系统信息</target>
+</phrase>
+<phrase>
+    <source>Export Bookmarks...</source>
+    <target>导出书签...</target>
+</phrase>
+<phrase>
+    <source>Close All</source>
+    <target>关闭所有</target>
+</phrase>
+<phrase>
+    <source>%1</source>
+    <target>%1</target>
+</phrase>
+<phrase>
+    <source>Native SDK Manager...</source>
+    <target>本地SDK管理器...</target>
+</phrase>
+<phrase>
+    <source>preferences</source>
+    <target>首选项</target>
+</phrase>
+<phrase>
+    <source>options</source>
+    <target>选项</target>
+</phrase>
+<phrase>
+    <source>Updating installed packages.</source>
+    <target>更新安装包。</target>
+</phrase>
+<phrase>
+    <source>Failed.</source>
+    <target>失败。</target>
+</phrase>
+<phrase>
+    <source>Installing</source>
+    <target>安装</target>
+</phrase>
+<phrase>
+    <source>Uninstalling</source>
+    <target>卸载</target>
+</phrase>
+<phrase>
+    <source>Failed</source>
+    <target>失败</target>
+</phrase>
+<phrase>
+    <source>Java Settings</source>
+    <target>Java设置</target>
+</phrase>
+<phrase>
+    <source>Native AVD Manager...</source>
+    <target>本地AVDK管理器...</target>
+</phrase>
+<phrase>
+    <source>SDK Manager</source>
+    <target>SDK管理器</target>
+</phrase>
+<phrase>
+    <source>Could not start process &quot;%1 %2&quot;</source>
+    <target>无法启动进程“%1 %2”</target>
+</phrase>
+<phrase>
+    <source>&amp;Redo</source>
+    <target>重做(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Little Endian</source>
+    <target>小端</target>
+</phrase>
+<phrase>
+    <source>Big Endian</source>
+    <target>大端</target>
+</phrase>
+<phrase>
+    <source>Copying Failed</source>
+    <target>复制失败</target>
+</phrase>
+<phrase>
+    <source>Zoom: %1%</source>
+    <target>缩放：%1%</target>
+</phrase>
+<phrase>
+    <source>Bookmark</source>
+    <target>书签</target>
+</phrase>
+<phrase>
+    <source>Breakpoint</source>
+    <target>断点</target>
+</phrase>
+<phrase>
+    <source>Ignore precompiled headers</source>
+    <target>忽略预编译头文件</target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target>对话框</target>
+</phrase>
+<phrase>
+    <source>Icon</source>
+    <target>图标</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>名称</target>
+</phrase>
+<phrase>
+    <source>Location</source>
+    <target>位置</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>类型</target>
+</phrase>
+<phrase>
+    <source>Auto-detected</source>
+    <target>自动检测</target>
+</phrase>
+<phrase>
+    <source>Manual</source>
+    <target>手动设置</target>
+</phrase>
+<phrase>
+    <source>commit</source>
+    <target>提交</target>
+</phrase>
+<phrase>
+    <source>Save before %1?</source>
+    <target>保存以前%1？</target>
+</phrase>
+<phrase>
+    <source>No to All &amp;&amp; &amp;Diff</source>
+    <target>全部选否并对比(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Profiling</source>
+    <target>正在分析</target>
+</phrase>
+<phrase>
+    <source>Profiling %1</source>
+    <target>正在分析%1</target>
+</phrase>
+<phrase>
+    <source>(all)</source>
+    <target>(全部)</target>
+</phrase>
+<phrase>
+    <source>&amp;Window</source>
+    <target>窗口(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>Window</source>
+    <target>窗口</target>
+</phrase>
+<phrase>
+    <source>Redo</source>
+    <target>重做</target>
+</phrase>
+<phrase>
+    <source>Close Project &quot;%1&quot;</source>
+    <target>关闭项目 %1</target>
+</phrase>
+<phrase>
+    <source>Build Project &quot;%1&quot;</source>
+    <target>构建项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Rebuild Project &quot;%1&quot;</source>
+    <target>重新构建项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Deploy Project &quot;%1&quot;</source>
+    <target>部署项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Open...</source>
+    <target>打开...</target>
+</phrase>
+<phrase>
+    <source>Close Pro&amp;ject</source>
+    <target>关闭项目(&amp;J)</target>
+</phrase>
+<phrase>
+    <source>Meta+Backspace</source>
+    <target>Meta+Backspace</target>
+</phrase>
+<phrase>
+    <source>Alt+Backspace</source>
+    <target>Alt+Backspace</target>
+</phrase>
+<phrase>
+    <source>S&amp;essions</source>
+    <target>会话(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>Updating installed packages...
+</source>
+    <target>更新安装包...
+</target>
+</phrase>
+<phrase>
+    <source>Fallback style:</source>
+    <target>备用样式：</target>
+</phrase>
+<phrase>
+    <source>CMake Configuration</source>
+    <target>CMake配置</target>
+</phrase>
+<phrase>
+    <source>&lt;br&gt;Toolset: %1</source>
+    <target>&lt;br&gt;工具箱：%1</target>
+</phrase>
+<phrase>
+    <source> (Default)</source>
+    <target> （默认）</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>默认</target>
+</phrase>
+<phrase>
+    <source>%1 (experimental)</source>
+    <target>%1（实验性）</target>
+</phrase>
+<phrase>
+    <source>Google Test</source>
+    <target>谷歌测试</target>
+</phrase>
+<phrase>
+    <source>Authentication</source>
+    <target>验证信息</target>
+</phrase>
+<phrase>
+    <source>&amp;Reload</source>
+    <target>重新载入(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>&amp;Save</source>
+    <target>保存(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>&amp;Expand All</source>
+    <target>展开全部(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>退出(&amp;X)</target>
+</phrase>
+<phrase>
+    <source>Qbs Settings</source>
+    <target>Qbs设置</target>
+</phrase>
+<phrase>
+    <source>submit</source>
+    <target>提交</target>
+</phrase>
+<phrase>
+    <source>Build Step</source>
+    <target>构建步骤</target>
+</phrase>
+<phrase>
+    <source>Device name</source>
+    <target>设备名称</target>
+</phrase>
+<phrase>
+    <source>Close All Except &quot;%1&quot;</source>
+    <target>除此以外全部关闭</target>
+</phrase>
+<phrase>
+    <source>Close Project</source>
+    <target>关闭项目</target>
+</phrase>
+<phrase>
+    <source>Close &quot;%1&quot;</source>
+    <target>关闭</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>保存</target>
+</phrase>
+<phrase>
+    <source>Files and Classes</source>
+    <target>文件和类</target>
+</phrase>
+<phrase>
+    <source>System Information...</source>
+    <target>系统信息...</target>
+</phrase>
+<phrase>
+    <source>Build Project &quot;%1&quot;</source>
+    <target>构建项目%1</target>
+</phrase>
+<phrase>
+    <source>Rebuild Project &quot;%1&quot;</source>
+    <target>重新构建项目%1</target>
+</phrase>
+<phrase>
+    <source>Headers</source>
+    <target>头文件</target>
+</phrase>
+<phrase>
+    <source>Sources</source>
+    <target>源文件</target>
+</phrase>
+<phrase>
+    <source>State charts</source>
+    <target>状态图</target>
+</phrase>
+<phrase>
+    <source>Resources</source>
+    <target>资源</target>
+</phrase>
+<phrase>
+    <source>QML</source>
+    <target>QML</target>
+</phrase>
+<phrase>
+    <source>Add New C++ Backend</source>
+    <target>添加新的C++后端</target>
+</phrase>
+<phrase>
+    <source>Define object locally</source>
+    <target>定义本地对象</target>
+</phrase>
+<phrase>
+    <source>Required import</source>
+    <target>需要导入</target>
+</phrase>
+<phrase>
+    <source>Error parsing</source>
+    <target>解析错误</target>
+</phrase>
+<phrase>
+    <source>Iterations:</source>
+    <target>迭代：</target>
+</phrase>
+<phrase>
+    <source>&amp;Clone</source>
+    <target>克隆(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Clone and &amp;Open</source>
+    <target>克隆并打开(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Rename Session</source>
+    <target>重命名会话</target>
+</phrase>
+<phrase>
+    <source>&amp;Rename</source>
+    <target>重命名(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Rename and &amp;Open</source>
+    <target>重命名并打开(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>No Build Found</source>
+    <target>找不到构建</target>
+</phrase>
+<phrase>
+    <source>Force &amp;Quit</source>
+    <target>强制退出(&amp;Q)</target>
+</phrase>
+<phrase>
+    <source>&amp;Keep Running</source>
+    <target>保持运行(&amp;K)</target>
+</phrase>
+<phrase>
+    <source>Starting %1...</source>
+    <target>启动%1...</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>无</target>
+</phrase>
+<phrase>
+    <source>Build Subproject &quot;%1&quot;</source>
+    <target>构建子项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Rebuild Subproject &quot;%1&quot;</source>
+    <target>重新构建项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Build File &quot;%1&quot;</source>
+    <target>构建文件“%1”</target>
+</phrase>
+<phrase>
+    <source>Internal error</source>
+    <target>内部错误</target>
+</phrase>
+<phrase>
+    <source>Location:</source>
+    <target>位置：</target>
+</phrase>
+<phrase>
+    <source>Agent</source>
+    <target>代理</target>
+</phrase>
+<phrase>
+    <source>Rename...</source>
+    <target>重命名...</target>
+</phrase>
+<phrase>
+    <source>Copy Path</source>
+    <target>复制路径</target>
+</phrase>
+<phrase>
+    <source>Copy URL</source>
+    <target>复制URL</target>
+</phrase>
+<phrase>
+    <source>Copy URL &quot;%1&quot;</source>
+    <target>复制URL“%1”</target>
+</phrase>
+<phrase>
+    <source>Unknown</source>
+    <target>未知</target>
+</phrase>
+<phrase>
+    <source>Add &quot;%1&quot;</source>
+    <target>添加“%1”</target>
+</phrase>
+<phrase>
+    <source>Clone</source>
+    <target>克隆</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>错误</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>警告</target>
+</phrase>
+<phrase>
+    <source>%1 (none)</source>
+    <target>%1（无）</target>
+</phrase>
+<phrase>
+    <source>%n found.</source>
+    <target>找到%n个。</target>
+</phrase>
+<phrase>
+    <source>Relative Foreground</source>
+    <target>相对前景</target>
+</phrase>
+<phrase>
+    <source>Lightness:</source>
+    <target>亮度：</target>
+</phrase>
+<phrase>
+    <source>Saturation:</source>
+    <target>饱和度：</target>
+</phrase>
+<phrase>
+    <source>Font</source>
+    <target>字体</target>
+</phrase>
+<phrase>
+    <source>Underline</source>
+    <target>下划线</target>
+</phrase>
+<phrase>
+    <source>Color:</source>
+    <target>颜色：</target>
+</phrase>
+<phrase>
+    <source>Relative Background</source>
+    <target>相对背景</target>
+</phrase>
+<phrase>
+    <source>Color</source>
+    <target>颜色</target>
+</phrase>
+<phrase>
+    <source>Default encoding: </source>
+    <target>默认编码： </target>
+</phrase>
+<phrase>
+    <source>Animate navigation within file</source>
+    <target>文件里动画导航</target>
+</phrase>
+<phrase>
+    <source>Annotations next to lines</source>
+    <target>线旁标注</target>
+</phrase>
+<phrase>
+    <source>Meta+Shift+S</source>
+    <target>Meta+Shift+S</target>
+</phrase>
+<phrase>
+    <source>Alt+Shift+S</source>
+    <target>Alt+Shift+S</target>
+</phrase>
+<phrase>
+    <source>Internal</source>
+    <target>内部</target>
+</phrase>
+<phrase>
+    <source>Select Encoding</source>
+    <target>选择编码</target>
+</phrase>
+<phrase>
+    <source>Other annotations:</source>
+    <target>其他注释：</target>
+</phrase>
+<phrase>
+    <source>File might be locked.</source>
+    <target>文件可能被锁定。</target>
+</phrase>
+<phrase>
+    <source>Setting up projects</source>
+    <target>建立项目</target>
+</phrase>
+<phrase>
+    <source>Building</source>
+    <target>构建中</target>
+</phrase>
+<phrase>
+    <source>Dependency</source>
+    <target>依赖</target>
+</phrase>
+<phrase>
+    <source>Connection</source>
+    <target>连接</target>
+</phrase>
+<phrase>
+    <source>Connections</source>
+    <target>连接</target>
+</phrase>
+<phrase>
+    <source>Swimlane</source>
+    <target>区隔线</target>
+</phrase>
+<phrase>
+    <source>Swimlanes</source>
+    <target>区隔线</target>
+</phrase>
+<phrase>
+    <source>Multi-Selection</source>
+    <target>多选</target>
+</phrase>
+<phrase>
+    <source>Username:</source>
+    <target>用户名：</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>密码：</target>
+</phrase>
+<phrase>
+    <source>&amp;Username:</source>
+    <target>用户名(&amp;U)：</target>
+</phrase>
+<phrase>
+    <source>All Files (*.*)</source>
+    <target>所有文件（*.*）</target>
+</phrase>
+<phrase>
+    <source>All Files (*)</source>
+    <target>所有文件（*）</target>
+</phrase>
+<phrase>
+    <source>Saved</source>
+    <target>已保存</target>
+</phrase>
+<phrase>
+    <source>Modified</source>
+    <target>已更改</target>
+</phrase>
+<phrase>
+    <source>Retrieving data failed.</source>
+    <target>获取数据失败。</target>
+</phrase>
+<phrase>
+    <source>&amp;User:</source>
+    <target>用户(&amp;U)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Password:</source>
+    <target>密码(&amp;P)：</target>
+</phrase>
+<phrase>
+    <source>Server:</source>
+    <target>服务器：</target>
+</phrase>
+<phrase>
+    <source>Anonymous</source>
+    <target>匿名</target>
+</phrase>
+<phrase>
+    <source>C&amp;heckout</source>
+    <target>检出(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>Re&amp;set</source>
+    <target>重置(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Check&amp;out</source>
+    <target>检出(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>typechange</source>
+    <target>类型修改</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>重置</target>
+</phrase>
+<phrase>
+    <source>Move Up</source>
+    <target>上移</target>
+</phrase>
+<phrase>
+    <source>Move Down</source>
+    <target>下移</target>
+</phrase>
+<phrase>
+    <source>Create Simulator</source>
+    <target>创建模拟器</target>
+</phrase>
+<phrase>
+    <source>Simulator name:</source>
+    <target>模拟器名称：</target>
+</phrase>
+<phrase>
+    <source>Device type:</source>
+    <target>设备类型：</target>
+</phrase>
+<phrase>
+    <source>OS version:</source>
+    <target>OS版本：</target>
+</phrase>
+<phrase>
+    <source>User</source>
+    <target>用户</target>
+</phrase>
+<phrase>
+    <source>Project</source>
+    <target>项目</target>
+</phrase>
+<phrase>
+    <source>check in</source>
+    <target>检入</target>
+</phrase>
+<phrase>
+    <source>Use XML output</source>
+    <target>使用XML输出</target>
+</phrase>
+<phrase>
+    <source>Verbose benchmarks</source>
+    <target>详细基准</target>
+</phrase>
+<phrase>
+    <source>Log signals and slots</source>
+    <target>记录信号与槽</target>
+</phrase>
+<phrase>
+    <source>Benchmark Metrics</source>
+    <target>基准指标</target>
+</phrase>
+<phrase>
+    <source>Walltime</source>
+    <target>挂钟时间</target>
+</phrase>
+<phrase>
+    <source>Callgrind</source>
+    <target>Callgrind</target>
+</phrase>
+<phrase>
+    <source>Perf</source>
+    <target>Perf</target>
+</phrase>
+<phrase>
+    <source>Select Run Configuration</source>
+    <target>选择运行配置</target>
+</phrase>
+<phrase>
+    <source>Run Configuration:</source>
+    <target>运行配置：</target>
+</phrase>
+<phrase>
+    <source>Executable:</source>
+    <target>执行档：</target>
+</phrase>
+<phrase>
+    <source>Arguments:</source>
+    <target>参数：</target>
+</phrase>
+<phrase>
+    <source>Working Directory:</source>
+    <target>工作目录：</target>
+</phrase>
+<phrase>
+    <source>Run Without Deployment</source>
+    <target>忽略部署直接运行</target>
+</phrase>
+<phrase>
+    <source>Debug Without Deployment</source>
+    <target>忽略部署直接调试</target>
+</phrase>
+<phrase>
+    <source>Run This Test</source>
+    <target>运行此测试</target>
+</phrase>
+<phrase>
+    <source>Debug This Test</source>
+    <target>调试此测试</target>
+</phrase>
+<phrase>
+    <source>Save Output To</source>
+    <target>保存输出到</target>
+</phrase>
+<phrase>
+    <source>&lt;unknown&gt;</source>
+    <target>&lt;未知&gt;</target>
+</phrase>
+<phrase>
+    <source>Build</source>
+    <target>构建</target>
+</phrase>
+<phrase>
+    <source>&amp;Unset</source>
+    <target>取消设置(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>&lt;none&gt;</source>
+    <target>&lt;无&gt;</target>
+</phrase>
+<phrase>
+    <source>Target type: </source>
+    <target>目标类型： </target>
+</phrase>
+<phrase>
+    <source>No build artifacts</source>
+    <target>没有构建构件</target>
+</phrase>
+<phrase>
+    <source>Build artifacts:&lt;br&gt;</source>
+    <target>构建构件：&lt;br&gt;</target>
+</phrase>
+<phrase>
+    <source>CMake process &quot;%1&quot; crashed.</source>
+    <target>CMake进程“%1”崩溃。</target>
+</phrase>
+<phrase>
+    <source>&amp;Executable:</source>
+    <target>执行档(&amp;E)：</target>
+</phrase>
+<phrase>
+    <source>Working Directory</source>
+    <target>工作目录</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>忽略</target>
+</phrase>
+<phrase>
+    <source>Previous</source>
+    <target>上一个</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>下一个</target>
+</phrase>
+<phrase>
+    <source>Go to error</source>
+    <target>转到错误</target>
+</phrase>
+<phrase>
+    <source>Go to warning</source>
+    <target>转到警告</target>
+</phrase>
+<phrase>
+    <source>Override Width</source>
+    <target>覆盖宽度</target>
+</phrase>
+<phrase>
+    <source>Override Height</source>
+    <target>覆盖高度</target>
+</phrase>
+<phrase>
+    <source>Singleton</source>
+    <target>单例</target>
+</phrase>
+<phrase>
+    <source>Local</source>
+    <target>本地</target>
+</phrase>
+<phrase>
+    <source>Backends</source>
+    <target>后端</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>密码</target>
+</phrase>
+<phrase>
+    <source>Diff Project</source>
+    <target>对比项目</target>
+</phrase>
+<phrase>
+    <source>Diff Project &quot;%1&quot;</source>
+    <target>对比项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Diff Current File</source>
+    <target>对比当前文件</target>
+</phrase>
+<phrase>
+    <source>Commit &quot;%1&quot;</source>
+    <target>提交“%1”</target>
+</phrase>
+<phrase>
+    <source>Commit All Files</source>
+    <target>提交所有文件</target>
+</phrase>
+<phrase>
+    <source>Commit Current File</source>
+    <target>提交当前文件</target>
+</phrase>
+<phrase>
+    <source>Annotate Current File</source>
+    <target>注释当前文件</target>
+</phrase>
+<phrase>
+    <source>Filelog Current File</source>
+    <target>当前文件日志</target>
+</phrase>
+<phrase>
+    <source>Filelog &quot;%1&quot;</source>
+    <target>文件“%1”日志</target>
+</phrase>
+<phrase>
+    <source>Delete &quot;%1&quot;...</source>
+    <target>删除“%1”...</target>
+</phrase>
+<phrase>
+    <source>Revert &quot;%1&quot;...</source>
+    <target>还原“%1”...</target>
+</phrase>
+<phrase>
+    <source>Status of Project &quot;%1&quot;</source>
+    <target>项目“%1”的状态</target>
+</phrase>
+<phrase>
+    <source>Log Project</source>
+    <target>项目日志</target>
+</phrase>
+<phrase>
+    <source>Log Project &quot;%1&quot;</source>
+    <target>项目“%1”日志</target>
+</phrase>
+<phrase>
+    <source>Diff Repository</source>
+    <target>对比代码仓库</target>
+</phrase>
+<phrase>
+    <source>Log Repository</source>
+    <target>代码仓库日志</target>
+</phrase>
+<phrase>
+    <source>Do Not Remove</source>
+    <target>不要移除</target>
+</phrase>
+<phrase>
+    <source>Run</source>
+    <target>运行</target>
+</phrase>
+<phrase>
+    <source>Target Definition</source>
+    <target>目标定义</target>
+</phrase>
+<phrase>
+    <source>&lt;Headers&gt;</source>
+    <target>&lt;头文件&gt;</target>
+</phrase>
+<phrase>
+    <source>Code Model Warning</source>
+    <target>代码模型警告</target>
+</phrase>
+<phrase>
+    <source>Code Model Error</source>
+    <target>代码模型错误</target>
+</phrase>
+<phrase>
+    <source>Global</source>
+    <target>全局</target>
+</phrase>
+<phrase>
+    <source>Custom</source>
+    <target>自定义</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>概要</target>
+</phrase>
+<phrase>
+    <source>Clang Query Project</source>
+    <target>Clang查询项目</target>
+</phrase>
+<phrase>
+    <source>Clang Query</source>
+    <target>Clang查询</target>
+</phrase>
+<phrase>
+    <source>TextLabel</source>
+    <target>文本标签</target>
+</phrase>
+<phrase>
+    <source>Analyzing</source>
+    <target>分析中</target>
+</phrase>
+<phrase>
+    <source>Analyzing &quot;%1&quot;.</source>
+    <target>分析中“%1”。</target>
+</phrase>
+<phrase>
+    <source>Arg&amp;uments:</source>
+    <target>参数(&amp;U)：</target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target>重新载入</target>
+</phrase>
+<phrase>
+    <source>Device type</source>
+    <target>设备类型</target>
+</phrase>
+<phrase>
+    <source>Ed&amp;it</source>
+    <target>编辑(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>Arguments</source>
+    <target>参数</target>
+</phrase>
+<phrase>
+    <source>Stop Running Program</source>
+    <target>停止运行程序</target>
+</phrase>
+<phrase>
+    <source>Open Project &quot;%1&quot;</source>
+    <target>打开项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Computer</source>
+    <target>计算机</target>
+</phrase>
+<phrase>
+    <source>Home</source>
+    <target>主页</target>
+</phrase>
+<phrase>
+    <source>Open &quot;%1&quot;</source>
+    <target>打开“%1”</target>
+</phrase>
+<phrase>
+    <source>Projects</source>
+    <target>项目</target>
+</phrase>
+<phrase>
+    <source>Select Icon File</source>
+    <target>选择图标文件</target>
+</phrase>
+<phrase>
+    <source>Same Build Directory</source>
+    <target>相同构建目录</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Alt+%1</source>
+    <target>Ctrl+Alt+%1</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Meta+%1</source>
+    <target>Ctrl+Meta+%1</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Shift+%1</source>
+    <target>Ctrl+Shift+%1</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>删除</target>
+</phrase>
+<phrase>
+    <source>Open %1 &quot;%2&quot;</source>
+    <target>打开%1“%2”</target>
+</phrase>
+<phrase>
+    <source>Open %1 &quot;%2&quot; (%3)</source>
+    <target>打开%1“%2”（%3）</target>
+</phrase>
+<phrase>
+    <source>Open Project</source>
+    <target>打开项目</target>
+</phrase>
+<phrase>
+    <source>project</source>
+    <target>项目</target>
+</phrase>
+<phrase>
+    <source>Sessions</source>
+    <target>会话</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>编辑</target>
+</phrase>
+<phrase>
+    <source>Force to %1</source>
+    <target>强制%1</target>
+</phrase>
+<phrase>
+    <source>C&amp;opy to clipboard</source>
+    <target>复制到剪贴板(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Do not &amp;ask again.</source>
+    <target>下次不再询问(&amp;A)。</target>
+</phrase>
+<phrase>
+    <source>Copy to Clipboard</source>
+    <target>复制到剪贴板</target>
+</phrase>
+<phrase>
+    <source>QML Profiler</source>
+    <target>QML分析器</target>
+</phrase>
+<phrase>
+    <source>QML Profiler Options</source>
+    <target>QML分析器选项</target>
+</phrase>
+<phrase>
+    <source>Timeline</source>
+    <target>时间轴</target>
+</phrase>
+<phrase>
+    <source>Total Time</source>
+    <target>总时间</target>
+</phrase>
+<phrase>
+    <source>Calls</source>
+    <target>调用</target>
+</phrase>
+<phrase>
+    <source>Details</source>
+    <target>详情</target>
+</phrase>
+<phrase>
+    <source>Mean Time</source>
+    <target>平均时间</target>
+</phrase>
+<phrase>
+    <source>In Percent</source>
+    <target>百分比</target>
+</phrase>
+<phrase>
+    <source>Allocations</source>
+    <target>分配</target>
+</phrase>
+<phrase>
+    <source>Memory</source>
+    <target>内存</target>
+</phrase>
+<phrase>
+    <source>Various Events</source>
+    <target>各种事件</target>
+</phrase>
+<phrase>
+    <source>No data available</source>
+    <target>无可用数据</target>
+</phrase>
+<phrase>
+    <source>Visualize %1</source>
+    <target>可视化%1</target>
+</phrase>
+<phrase>
+    <source>Cherry &amp;Pick</source>
+    <target>择优挑选(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Cherry Pick...</source>
+    <target>择优挑选...</target>
+</phrase>
+<phrase>
+    <source>min</source>
+    <target>分</target>
+</phrase>
+<phrase>
+    <source>Qt Quick Designer</source>
+    <target>Qt Quick设计器</target>
+</phrase>
+<phrase>
+    <source>Function Name</source>
+    <target>函数名</target>
+</phrase>
+<phrase>
+    <source>Breakpoint &amp;type:</source>
+    <target>断点类型(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>&amp;File name:</source>
+    <target>文件名(&amp;F)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Line number:</source>
+    <target>行号(&amp;L)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Enabled:</source>
+    <target>启用(&amp;E)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Address:</source>
+    <target>地址(&amp;A)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Expression:</source>
+    <target>表达式(&amp;E)：</target>
+</phrase>
+<phrase>
+    <source>Fun&amp;ction:</source>
+    <target>函数(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>高级</target>
+</phrase>
+<phrase>
+    <source>T&amp;racepoint only:</source>
+    <target>仅追踪点(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>&amp;One shot only:</source>
+    <target>仅触发一次(&amp;O)：</target>
+</phrase>
+<phrase>
+    <source>Use Engine Default</source>
+    <target>使用默认引擎</target>
+</phrase>
+<phrase>
+    <source>Use Full Path</source>
+    <target>使用完整路径</target>
+</phrase>
+<phrase>
+    <source>Use File Name</source>
+    <target>使用文件名</target>
+</phrase>
+<phrase>
+    <source>Pat&amp;h:</source>
+    <target>路径(&amp;H)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Module:</source>
+    <target>模块(&amp;M)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Commands:</source>
+    <target>命令(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Message:</source>
+    <target>消息(&amp;M)：</target>
+</phrase>
+<phrase>
+    <source>C&amp;ondition:</source>
+    <target>条件(&amp;O)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Ignore count:</source>
+    <target>忽略次数(&amp;I)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Thread specification:</source>
+    <target>线程信息(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Condition:</source>
+    <target>条件(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Add Breakpoint...</source>
+    <target>添加断点...</target>
+</phrase>
+<phrase>
+    <source>Delete Selected Breakpoints</source>
+    <target>删除选择的断点</target>
+</phrase>
+<phrase>
+    <source>Disable Selected Breakpoints</source>
+    <target>禁用选择的断点</target>
+</phrase>
+<phrase>
+    <source>Enable Selected Breakpoints</source>
+    <target>启用选择的断点</target>
+</phrase>
+<phrase>
+    <source>Disable Breakpoint</source>
+    <target>禁用断点</target>
+</phrase>
+<phrase>
+    <source>Enable Breakpoint</source>
+    <target>启用断点</target>
+</phrase>
+<phrase>
+    <source>Delete All Breakpoints</source>
+    <target>删除所有断点</target>
+</phrase>
+<phrase>
+    <source>Delete Breakpoints of &quot;%1&quot;</source>
+    <target>删除“%1”的断点</target>
+</phrase>
+<phrase>
+    <source>Delete Breakpoints of File</source>
+    <target>删除文件的断点</target>
+</phrase>
+<phrase>
+    <source>Synchronize Breakpoints</source>
+    <target>同步断点</target>
+</phrase>
+<phrase>
+    <source>Remove All Breakpoints</source>
+    <target>移除所有断点</target>
+</phrase>
+<phrase>
+    <source>Add Breakpoint</source>
+    <target>添加断点</target>
+</phrase>
+<phrase>
+    <source>Breakpoint Condition</source>
+    <target>断点条件</target>
+</phrase>
+<phrase>
+    <source>Debugger Command</source>
+    <target>调试命令</target>
+</phrase>
+<phrase>
+    <source>Breakpoint Type:</source>
+    <target>断点类型：</target>
+</phrase>
+<phrase>
+    <source>File Name:</source>
+    <target>文件名：</target>
+</phrase>
+<phrase>
+    <source>Path:</source>
+    <target>路径：</target>
+</phrase>
+<phrase>
+    <source>Enabled</source>
+    <target>启用</target>
+</phrase>
+<phrase>
+    <source>Line Number:</source>
+    <target>行号：</target>
+</phrase>
+<phrase>
+    <source>Module:</source>
+    <target>模块：</target>
+</phrase>
+<phrase>
+    <source>Message:</source>
+    <target>消息：</target>
+</phrase>
+<phrase>
+    <source>Condition:</source>
+    <target>条件：</target>
+</phrase>
+<phrase>
+    <source>Ignore Count:</source>
+    <target>忽略次数：</target>
+</phrase>
+<phrase>
+    <source>Thread Specification:</source>
+    <target>线程信息：</target>
+</phrase>
+<phrase>
+    <source>Function</source>
+    <target>函数</target>
+</phrase>
+<phrase>
+    <source>Condition</source>
+    <target>条件</target>
+</phrase>
+<phrase>
+    <source>Address</source>
+    <target>地址</target>
+</phrase>
+<phrase>
+    <source>Behavior</source>
+    <target>行为</target>
+</phrase>
+<phrase>
+    <source>Debugging has failed</source>
+    <target>调试失败</target>
+</phrase>
+<phrase>
+    <source>Attempting to interrupt.</source>
+    <target>正在尝试中断。</target>
+</phrase>
+<phrase>
+    <source>Debugging has finished</source>
+    <target>调试完成</target>
+</phrase>
+<phrase>
+    <source>Adapter Start Failed</source>
+    <target>适配器启动失败</target>
+</phrase>
+<phrase>
+    <source>Application exited normally.</source>
+    <target>程序正常退出。</target>
+</phrase>
+<phrase>
+    <source>Application running.</source>
+    <target>应用运行中。</target>
+</phrase>
+<phrase>
+    <source>Continue Debugging</source>
+    <target>继续调试</target>
+</phrase>
+<phrase>
+    <source>Debugger Error</source>
+    <target>调试器错误</target>
+</phrase>
+<phrase>
+    <source>Stop Debugging</source>
+    <target>停止调试</target>
+</phrase>
+<phrase>
+    <source>&amp;Path:</source>
+    <target>路径(&amp;P)：</target>
+</phrase>
+<phrase>
+    <source>Path</source>
+    <target>路径</target>
+</phrase>
+<phrase>
+    <source>Debugger &amp;Log</source>
+    <target>调试器日志(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Context:</source>
+    <target>上下文：</target>
+</phrase>
+<phrase>
+    <source>&lt;anonymous&gt;</source>
+    <target>&lt;匿名&gt;</target>
+</phrase>
+<phrase>
+    <source>Hexadecimal</source>
+    <target>十六进制</target>
+</phrase>
+<phrase>
+    <source>Decimal</source>
+    <target>十进制</target>
+</phrase>
+<phrase>
+    <source>Octal</source>
+    <target>八进制</target>
+</phrase>
+<phrase>
+    <source>Binary</source>
+    <target>二进制</target>
+</phrase>
+<phrase>
+    <source>Reload Data</source>
+    <target>重新载入数据</target>
+</phrase>
+<phrase>
+    <source>Disassemble Function</source>
+    <target>反汇编函数</target>
+</phrase>
+<phrase>
+    <source>Cannot Open Task File</source>
+    <target>无法打开任务文件</target>
+</phrase>
+<phrase>
+    <source>Save as Task File...</source>
+    <target>保存为任务文件...</target>
+</phrase>
+<phrase>
+    <source>Load QML Stack</source>
+    <target>加载QML堆栈</target>
+</phrase>
+<phrase>
+    <source>Open Memory Editor at 0x%1</source>
+    <target>在0x%1处打开内存编辑器</target>
+</phrase>
+<phrase>
+    <source>Open Memory Editor</source>
+    <target>打开内存编辑器</target>
+</phrase>
+<phrase>
+    <source>&lt;out of scope&gt;</source>
+    <target>&lt;超出范围&gt;</target>
+</phrase>
+<phrase>
+    <source>Context</source>
+    <target>上下文</target>
+</phrase>
+<phrase>
+    <source>Expression</source>
+    <target>表达式</target>
+</phrase>
+<phrase>
+    <source>Gerrit</source>
+    <target>Gerrit</target>
+</phrase>
+<phrase>
+    <source>Remote:</source>
+    <target>远程：</target>
+</phrase>
+<phrase>
+    <source>Certificate Error</source>
+    <target>证书错误</target>
+</phrase>
+<phrase>
+    <source>Keep Running</source>
+    <target>保持运行</target>
+</phrase>
+<phrase>
+    <source>File Name</source>
+    <target>文件名</target>
+</phrase>
+<phrase>
+    <source>Line Number</source>
+    <target>行号</target>
+</phrase>
+<phrase>
+    <source>Fallback</source>
+    <target>回退</target>
+</phrase>
+<phrase>
+    <source>&lt;None&gt;</source>
+    <target>&lt;无&gt;</target>
+</phrase>
+<phrase>
+    <source>&amp;Remote</source>
+    <target>远程(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Message</source>
+    <target>消息</target>
+</phrase>
+<phrase>
+    <source>Development teams</source>
+    <target>开发团队</target>
+</phrase>
+<phrase>
+    <source>Provisioning profiles</source>
+    <target>配置文件</target>
+</phrase>
+<phrase>
+    <source>OS version</source>
+    <target>OS版本</target>
+</phrase>
+<phrase>
+    <source>Devices</source>
+    <target>设备</target>
+</phrase>
+<phrase>
+    <source>Simulator</source>
+    <target>模拟器</target>
+</phrase>
+<phrase>
+    <source>Rename</source>
+    <target>重命名</target>
+</phrase>
+<phrase>
+    <source>Delete simulator devices.</source>
+    <target>删除模拟器设备。</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>创建</target>
+</phrase>
+<phrase>
+    <source>Start</source>
+    <target>启动</target>
+</phrase>
+<phrase>
+    <source>Screenshot</source>
+    <target>截图</target>
+</phrase>
+<phrase>
+    <source>simulator start</source>
+    <target>模拟器启动</target>
+</phrase>
+<phrase>
+    <source>Resetting contents and settings...</source>
+    <target>重置内容和设置…</target>
+</phrase>
+<phrase>
+    <source>Simulator Name</source>
+    <target>模拟器名称</target>
+</phrase>
+<phrase>
+    <source>Runtime</source>
+    <target>运行时</target>
+</phrase>
+<phrase>
+    <source>Current State</source>
+    <target>当前状态</target>
+</phrase>
+<phrase>
+    <source>Simulator Operation Status</source>
+    <target>模拟器运行状态</target>
+</phrase>
+<phrase>
+    <source>Done.</source>
+    <target>完成。</target>
+</phrase>
+<phrase>
+    <source>Unsaved Changes</source>
+    <target>未保存的更改</target>
+</phrase>
+<phrase>
+    <source>Synchronize Structure with Diagram</source>
+    <target>同步结构关系图</target>
+</phrase>
+<phrase>
+    <source>Synchronize Diagram with Structure</source>
+    <target>同步结构关系图</target>
+</phrase>
+<phrase>
+    <source>&amp;Compiler path:</source>
+    <target>编译器路径(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Compiler version:</source>
+    <target>编译器版本(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Nim</source>
+    <target>Nim</target>
+</phrase>
+<phrase>
+    <source>Generated files</source>
+    <target>生成文件</target>
+</phrase>
+<phrase>
+    <source>Change...</source>
+    <target>修改...</target>
+</phrase>
+<phrase>
+    <source>Configuration name:</source>
+    <target>配置名：</target>
+</phrase>
+<phrase>
+    <source>Use default location</source>
+    <target>使用默认位置</target>
+</phrase>
+<phrase>
+    <source>Installation directory:</source>
+    <target>安装目录：</target>
+</phrase>
+<phrase>
+    <source>Large Icons</source>
+    <target>大图标</target>
+</phrase>
+<phrase>
+    <source>Medium Icons</source>
+    <target>中图标</target>
+</phrase>
+<phrase>
+    <source>Small Icons</source>
+    <target>小图标</target>
+</phrase>
+<phrase>
+    <source>List</source>
+    <target>列表</target>
+</phrase>
+<phrase>
+    <source>Invalid Id</source>
+    <target>无效标识符</target>
+</phrase>
+<phrase>
+    <source>%1 is an invalid id.</source>
+    <target>标识符%1无效。</target>
+</phrase>
+<phrase>
+    <source>%1 already exists.</source>
+    <target>%1已存在。</target>
+</phrase>
+<phrase>
+    <source>Filter Tree</source>
+    <target>过滤器树</target>
+</phrase>
+<phrase>
+    <source>Show only visible items.</source>
+    <target>只显示可见项。</target>
+</phrase>
+<phrase>
+    <source>Invalid Type</source>
+    <target>无效类型</target>
+</phrase>
+<phrase>
+    <source>Username</source>
+    <target>用户名</target>
+</phrase>
+<phrase>
+    <source>Patience</source>
+    <target>耐心</target>
+</phrase>
+<phrase>
+    <source>Branch Name:</source>
+    <target>分支名：</target>
+</phrase>
+<phrase>
+    <source>Add Branch</source>
+    <target>添加分支</target>
+</phrase>
+<phrase>
+    <source>Rename Branch</source>
+    <target>重命名分支</target>
+</phrase>
+<phrase>
+    <source>CheckBox</source>
+    <target>复选框</target>
+</phrase>
+<phrase>
+    <source>RadioButton</source>
+    <target>单选按钮</target>
+</phrase>
+<phrase>
+    <source>Discard Local Changes</source>
+    <target>放弃本地更改</target>
+</phrase>
+<phrase>
+    <source>Checkout</source>
+    <target>检出</target>
+</phrase>
+<phrase>
+    <source>Delete Tag</source>
+    <target>删除标签</target>
+</phrase>
+<phrase>
+    <source>Rename Tag</source>
+    <target>重命名标签</target>
+</phrase>
+<phrase>
+    <source>Git Reset</source>
+    <target>Git重置</target>
+</phrase>
+<phrase>
+    <source>Fast-Forward</source>
+    <target>快进</target>
+</phrase>
+<phrase>
+    <source>No Fast-Forward</source>
+    <target>不快进</target>
+</phrase>
+<phrase>
+    <source>Checkout branch?</source>
+    <target>检出分支吗？</target>
+</phrase>
+<phrase>
+    <source>Delete Branch</source>
+    <target>删除分支</target>
+</phrase>
+<phrase>
+    <source>Branches</source>
+    <target>分支</target>
+</phrase>
+<phrase>
+    <source>Re&amp;fresh</source>
+    <target>刷新(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>&amp;Add...</source>
+    <target>添加(&amp;A)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Remove</source>
+    <target>移除(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Re&amp;name</source>
+    <target>重命名(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>&amp;Diff</source>
+    <target>对比(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>&amp;Log</source>
+    <target>日志(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>&amp;Merge</source>
+    <target>合并(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Re&amp;base</source>
+    <target>变基(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>&amp;Track</source>
+    <target>跟踪(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>&amp;Include old entries</source>
+    <target>包含旧条目(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>Include ta&amp;gs</source>
+    <target>包含标签(&amp;G)</target>
+</phrase>
+<phrase>
+    <source>Local Branches</source>
+    <target>本地分支</target>
+</phrase>
+<phrase>
+    <source>Remote Branches</source>
+    <target>远程分支</target>
+</phrase>
+<phrase>
+    <source>Tags</source>
+    <target>标签</target>
+</phrase>
+<phrase>
+    <source>Change:</source>
+    <target>修改：</target>
+</phrase>
+<phrase>
+    <source>Browse &amp;History...</source>
+    <target>浏览历史(&amp;H)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Close</source>
+    <target>关闭(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Revert</source>
+    <target>还原(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>&amp;Show</source>
+    <target>显示(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>untracked</source>
+    <target>未追踪</target>
+</phrase>
+<phrase>
+    <source>staged + </source>
+    <target>已暂存 + </target>
+</phrase>
+<phrase>
+    <source>added</source>
+    <target>已添加</target>
+</phrase>
+<phrase>
+    <source>deleted</source>
+    <target>已删除</target>
+</phrase>
+<phrase>
+    <source>renamed</source>
+    <target>已重命名</target>
+</phrase>
+<phrase>
+    <source>copied</source>
+    <target>已复制</target>
+</phrase>
+<phrase>
+    <source>Omit Date</source>
+    <target>忽略日期</target>
+</phrase>
+<phrase>
+    <source>Ignore whitespace only changes.</source>
+    <target>忽略空白的修改。</target>
+</phrase>
+<phrase>
+    <source>Ignore Whitespace</source>
+    <target>忽略空白</target>
+</phrase>
+<phrase>
+    <source>Invalid revision</source>
+    <target>无效修订版本</target>
+</phrase>
+<phrase>
+    <source>Description:</source>
+    <target>说明：</target>
+</phrase>
+<phrase>
+    <source>Stash Description</source>
+    <target>暂存区说明</target>
+</phrase>
+<phrase>
+    <source>Stage Chunk</source>
+    <target>暂存块</target>
+</phrase>
+<phrase>
+    <source>Continue Rebase</source>
+    <target>继续变基</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>继续</target>
+</phrase>
+<phrase>
+    <source>Continue Merge</source>
+    <target>继续合并</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>跳过</target>
+</phrase>
+<phrase>
+    <source>Detached HEAD</source>
+    <target>分离HEAD</target>
+</phrase>
+<phrase>
+    <source>&amp;Skip</source>
+    <target>跳过(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Stash &amp;&amp; Pop</source>
+    <target>储藏并取出</target>
+</phrase>
+<phrase>
+    <source>Discard</source>
+    <target>丢弃</target>
+</phrase>
+<phrase>
+    <source>Revert</source>
+    <target>还原</target>
+</phrase>
+<phrase>
+    <source>Chunk successfully unstaged</source>
+    <target>块成功未暂存</target>
+</phrase>
+<phrase>
+    <source>Chunk successfully staged</source>
+    <target>块成功暂存</target>
+</phrase>
+<phrase>
+    <source>Stage Chunk...</source>
+    <target>暂存块...</target>
+</phrase>
+<phrase>
+    <source>Unstage Chunk...</source>
+    <target>未暂存块...</target>
+</phrase>
+<phrase>
+    <source>Show Diff</source>
+    <target>显示对比</target>
+</phrase>
+<phrase>
+    <source>Show difference.</source>
+    <target>显示差异。</target>
+</phrase>
+<phrase>
+    <source>First Parent</source>
+    <target>第一个双亲</target>
+</phrase>
+<phrase>
+    <source>Graph</source>
+    <target>图形</target>
+</phrase>
+<phrase>
+    <source>Blame Current File</source>
+    <target>追溯当前文件</target>
+</phrase>
+<phrase>
+    <source>Blame for &quot;%1&quot;</source>
+    <target>“%1”的追溯</target>
+</phrase>
+<phrase>
+    <source>Diff</source>
+    <target>对比</target>
+</phrase>
+<phrase>
+    <source>Reflog</source>
+    <target>引用记录</target>
+</phrase>
+<phrase>
+    <source>Status</source>
+    <target>状态</target>
+</phrase>
+<phrase>
+    <source>Clean...</source>
+    <target>清除...</target>
+</phrase>
+<phrase>
+    <source>Show...</source>
+    <target>显示...</target>
+</phrase>
+<phrase>
+    <source>Log Current File</source>
+    <target>当前文件日志</target>
+</phrase>
+<phrase>
+    <source>Stashes...</source>
+    <target>储藏...</target>
+</phrase>
+<phrase>
+    <source>Reset...</source>
+    <target>重置...</target>
+</phrase>
+<phrase>
+    <source>&lt;No repository&gt;</source>
+    <target>&lt;无仓库&gt;</target>
+</phrase>
+<phrase>
+    <source>Repository: %1</source>
+    <target>仓库：%1</target>
+</phrase>
+<phrase>
+    <source>Log</source>
+    <target>日志</target>
+</phrase>
+<phrase>
+    <source>Interactive Rebase...</source>
+    <target>交互变基...</target>
+</phrase>
+<phrase>
+    <source>Abort Rebase</source>
+    <target>中止变基</target>
+</phrase>
+<phrase>
+    <source>Abort Cherry Pick</source>
+    <target>择优挑选中止</target>
+</phrase>
+<phrase>
+    <source>Abort Revert</source>
+    <target>中止还原</target>
+</phrase>
+<phrase>
+    <source>Skip Rebase</source>
+    <target>跳过变基</target>
+</phrase>
+<phrase>
+    <source>Continue Revert</source>
+    <target>继续还原</target>
+</phrase>
+<phrase>
+    <source>&amp;Stash</source>
+    <target>储藏(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Stash</source>
+    <target>储藏</target>
+</phrase>
+<phrase>
+    <source>&amp;Patch</source>
+    <target>补丁(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Remote Repository</source>
+    <target>远程仓库(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Revert...</source>
+    <target>还原...</target>
+</phrase>
+<phrase>
+    <source>Checkout...</source>
+    <target>检出...</target>
+</phrase>
+<phrase>
+    <source>Rebase...</source>
+    <target>变基...</target>
+</phrase>
+<phrase>
+    <source>Merge...</source>
+    <target>合并...</target>
+</phrase>
+<phrase>
+    <source>Merge Tool</source>
+    <target>合并工具</target>
+</phrase>
+<phrase>
+    <source>Actions on Commits...</source>
+    <target>提交的行为...</target>
+</phrase>
+<phrase>
+    <source>Interactive Rebase</source>
+    <target>交互变基</target>
+</phrase>
+<phrase>
+    <source>Git Fixup Commit</source>
+    <target>Git修正提交</target>
+</phrase>
+<phrase>
+    <source>Pull</source>
+    <target>拉取</target>
+</phrase>
+<phrase>
+    <source>Stash Pop</source>
+    <target>储藏取出</target>
+</phrase>
+<phrase>
+    <source>Commit...</source>
+    <target>提交...</target>
+</phrase>
+<phrase>
+    <source>Push</source>
+    <target>推送</target>
+</phrase>
+<phrase>
+    <source>Branches...</source>
+    <target>分支...</target>
+</phrase>
+<phrase>
+    <source>Select Change</source>
+    <target>选择更改</target>
+</phrase>
+<phrase>
+    <source>&amp;Commit and Push</source>
+    <target>提交并推送(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Commit and &amp;Push</source>
+    <target>提交并推送(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Repository:</source>
+    <target>仓库：</target>
+</phrase>
+<phrase>
+    <source>repository</source>
+    <target>仓库</target>
+</phrase>
+<phrase>
+    <source>Branch:</source>
+    <target>Branch：</target>
+</phrase>
+<phrase>
+    <source>branch</source>
+    <target>分支</target>
+</phrase>
+<phrase>
+    <source>Commit Information</source>
+    <target>提交信息</target>
+</phrase>
+<phrase>
+    <source>General Information</source>
+    <target>概要信息</target>
+</phrase>
+<phrase>
+    <source>Author:</source>
+    <target>作者：</target>
+</phrase>
+<phrase>
+    <source>Email:</source>
+    <target>电子邮箱：</target>
+</phrase>
+<phrase>
+    <source>By&amp;pass hooks</source>
+    <target>绕过钩子(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Reset to:</source>
+    <target>重置为：</target>
+</phrase>
+<phrase>
+    <source>Reset type:</source>
+    <target>重置类型：</target>
+</phrase>
+<phrase>
+    <source>Normal</source>
+    <target>正常</target>
+</phrase>
+<phrase>
+    <source>Submodule</source>
+    <target>子模块</target>
+</phrase>
+<phrase>
+    <source>Symbolic link</source>
+    <target>符号链接</target>
+</phrase>
+<phrase>
+    <source>Created</source>
+    <target>已创建</target>
+</phrase>
+<phrase>
+    <source>&amp;Local</source>
+    <target>本地(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>&amp;Created</source>
+    <target>已创建(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Modified</source>
+    <target>已更改(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>&amp;Deleted</source>
+    <target>已删除(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Add Remote</source>
+    <target>添加远程</target>
+</phrase>
+<phrase>
+    <source>Name:</source>
+    <target>名称：</target>
+</phrase>
+<phrase>
+    <source>URL:</source>
+    <target>URL：</target>
+</phrase>
+<phrase>
+    <source>&amp;Push</source>
+    <target>推送(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>URL</source>
+    <target>URL</target>
+</phrase>
+<phrase>
+    <source>Miscellaneous</source>
+    <target>其他</target>
+</phrase>
+<phrase>
+    <source>Configuration</source>
+    <target>配置</target>
+</phrase>
+<phrase>
+    <source>Delete &amp;All...</source>
+    <target>全部删除(&amp;A)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Delete...</source>
+    <target>删除(&amp;D)...</target>
+</phrase>
+<phrase>
+    <source>R&amp;estore...</source>
+    <target>还原(&amp;E)...</target>
+</phrase>
+<phrase>
+    <source>Restore to &amp;Branch...</source>
+    <target>还原到分支(&amp;B)...</target>
+</phrase>
+<phrase>
+    <source>Delete Stashes</source>
+    <target>删除储藏</target>
+</phrase>
+<phrase>
+    <source>Branch:</source>
+    <target>分支：</target>
+</phrase>
+<phrase>
+    <source>&amp;Refresh</source>
+    <target>刷新(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Stash Description</source>
+    <target>储藏说明</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>关闭</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>移除</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>添加</target>
+</phrase>
+<phrase>
+    <source>Done
+
+</source>
+    <target>完成
+
+</target>
+</phrase>
+<phrase>
+    <source>Pull...</source>
+    <target>拉取...</target>
+</phrase>
+<phrase>
+    <source>&amp;Description:</source>
+    <target>说明(&amp;D)：</target>
+</phrase>
+<phrase>
+    <source>Refresh</source>
+    <target>刷新</target>
+</phrase>
+<phrase>
+    <source>Restore</source>
+    <target>还原</target>
+</phrase>
+<phrase>
+    <source>Deleted</source>
+    <target>已删除</target>
+</phrase>
+<phrase>
+    <source>Branch name</source>
+    <target>分支名</target>
+</phrase>
+<phrase>
+    <source>Description</source>
+    <target>说明</target>
+</phrase>
+<phrase>
+    <source>Push...</source>
+    <target>推送...</target>
+</phrase>
+<phrase>
+    <source>Clean</source>
+    <target>清除</target>
+</phrase>
+<phrase>
+    <source>Designer</source>
+    <target>设计器</target>
+</phrase>
+<phrase>
+    <source>Qt Designer</source>
+    <target>Qt设计器</target>
+</phrase>
+<phrase>
+    <source>Export as &amp;Image...</source>
+    <target>图片格式导出(&amp;I)...</target>
+</phrase>
+<phrase>
+    <source>Delete &quot;%1&quot;</source>
+    <target>删除“%1”</target>
+</phrase>
+<phrase>
+    <source>Cut &quot;%1&quot;</source>
+    <target>剪切“%1”</target>
+</phrase>
+<phrase>
+    <source>Copy &quot;%1&quot;</source>
+    <target>复制“%1”</target>
+</phrase>
+<phrase>
+    <source>Paste &quot;%1&quot;</source>
+    <target>粘贴“%1”</target>
+</phrase>
+<phrase>
+    <source>Select All &quot;%1&quot;</source>
+    <target>全选“%1”</target>
+</phrase>
+<phrase>
+    <source>Toggle States Editor</source>
+    <target>状态切换编辑器</target>
+</phrase>
+<phrase>
+    <source>Trigger Completion</source>
+    <target>触发完成</target>
+</phrase>
+<phrase>
+    <source>Text Editor</source>
+    <target>文本编辑器</target>
+</phrase>
+<phrase>
+    <source>Color Scheme for Theme &quot;%1&quot;</source>
+    <target>主题“%1”的配色方案</target>
+</phrase>
+<phrase>
+    <source>Email</source>
+    <target>电子邮件</target>
+</phrase>
+<phrase>
+    <source>Line %1</source>
+    <target>行%1</target>
+</phrase>
+<phrase>
+    <source>Close Pro&amp;ject &quot;%1&quot;</source>
+    <target>关闭项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Close %1</source>
+    <target>关闭</target>
+</phrase>
+<phrase>
+    <source>Export as Image</source>
+    <target>图片格式导出</target>
+</phrase>
+<phrase>
+    <source>Stacked Container</source>
+    <target>堆容器</target>
+</phrase>
+<phrase>
+    <source>Add Item</source>
+    <target>添加项</target>
+</phrase>
+<phrase>
+    <source>Add Tab Bar</source>
+    <target>添加标签栏</target>
+</phrase>
+<phrase>
+    <source>Increase Index</source>
+    <target>增加索引</target>
+</phrase>
+<phrase>
+    <source>Decrease Index</source>
+    <target>减少索引</target>
+</phrase>
+<phrase>
+    <source>Layout in Column Layout</source>
+    <target>列布局</target>
+</phrase>
+<phrase>
+    <source>Layout in Row Layout</source>
+    <target>行布局</target>
+</phrase>
+<phrase>
+    <source>Layout in Grid Layout</source>
+    <target>网格布局</target>
+</phrase>
+<phrase>
+    <source>Lower selected item.</source>
+    <target>降低选中项。</target>
+</phrase>
+<phrase>
+    <source>Syntax error</source>
+    <target>语法错误</target>
+</phrase>
+<phrase>
+    <source>Flame Graph</source>
+    <target>火焰图</target>
+</phrase>
+<phrase>
+    <source>Painting</source>
+    <target>绘制中</target>
+</phrase>
+<phrase>
+    <source>Compiling</source>
+    <target>编译中</target>
+</phrase>
+<phrase>
+    <source>Creating</source>
+    <target>创建中</target>
+</phrase>
+<phrase>
+    <source>Handling Signal</source>
+    <target>处理信号中</target>
+</phrase>
+<phrase>
+    <source>called recursively</source>
+    <target>递归调用</target>
+</phrase>
+<phrase>
+    <source>Frame</source>
+    <target>框架</target>
+</phrase>
+<phrase>
+    <source>Basic Colors</source>
+    <target>基本颜色</target>
+</phrase>
+<phrase>
+    <source>Last used colors</source>
+    <target>最后使用颜色</target>
+</phrase>
+<phrase>
+    <source>Do not ask again</source>
+    <target>下次不再询问</target>
+</phrase>
+<phrase>
+    <source>Starting: &quot;%1&quot; %2</source>
+    <target>正在启动：“%1”%2</target>
+</phrase>
+<phrase>
+    <source>Build &quot;%1&quot;</source>
+    <target>构建“%1”</target>
+</phrase>
+<phrase>
+    <source>Clean Subproject &quot;%1&quot;</source>
+    <target>清理子项目“%1”</target>
+</phrase>
+<phrase>
+    <source>&quot;%1&quot; crashed.</source>
+    <target>“%1”崩溃。</target>
+</phrase>
+<phrase>
+    <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
+    <target>无法复制文件“%1”到“%2”。</target>
+</phrase>
+<phrase>
+    <source>%1 (copy)</source>
+    <target>%1（复制）</target>
+</phrase>
+<phrase>
+    <source>%1 (Previous)</source>
+    <target>%1（之前）</target>
+</phrase>
+<phrase>
+    <source>%1 (Restored)</source>
+    <target>%1（还原）</target>
+</phrase>
+<phrase>
+    <source>%1 (auto-detected)</source>
+    <target>%1（自动检测）</target>
+</phrase>
+<phrase>
+    <source>Diff &quot;%1&quot;</source>
+    <target>对比“%1”</target>
+</phrase>
+<phrase>
+    <source>Revert Project &quot;%1&quot;</source>
+    <target>还原项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Annotate &quot;%1&quot;</source>
+    <target>注释“%1”</target>
+</phrase>
+<phrase>
+    <source>Annotate...</source>
+    <target>注释...</target>
+</phrase>
+<phrase>
+    <source>Filelog...</source>
+    <target>文件日志...</target>
+</phrase>
+<phrase>
+    <source>Update All</source>
+    <target>全部更新</target>
+</phrase>
+<phrase>
+    <source>Delete...</source>
+    <target>删除...</target>
+</phrase>
+<phrase>
+    <source>%1 (default)</source>
+    <target>%1（默认）</target>
+</phrase>
+<phrase>
+    <source>Connection failed: %1</source>
+    <target>连接失败：%1</target>
+</phrase>
+<phrase>
+    <source>Commit Project &quot;%1&quot;</source>
+    <target>提交项目“%1”</target>
+</phrase>
+<phrase>
+    <source>Diff &amp;Selected Files</source>
+    <target>对比选中的文件(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Edit &quot;%1&quot;</source>
+    <target>编辑“%1”</target>
+</phrase>
+<phrase>
+    <source>Unedit &quot;%1&quot;</source>
+    <target>撤销编辑“%1”</target>
+</phrase>
+<phrase>
+    <source>Update Directory &quot;%1&quot;</source>
+    <target>更新目录“%1”</target>
+</phrase>
+<phrase>
+    <source>Diff options:</source>
+    <target>对比选项：</target>
+</phrase>
+<phrase>
+    <source>Connection failure: %1</source>
+    <target>连接失败：%1</target>
+</phrase>
+<phrase>
+    <source>Kit</source>
+    <target>构建套件</target>
+</phrase>
+<phrase>
+    <source>cur&amp;l:</source>
+    <target>Curl(&amp;L)：</target>
+</phrase>
+<phrase>
+    <source>Add File &quot;%1&quot;</source>
+    <target>添加文件“%1”</target>
+</phrase>
+<phrase>
+    <source>Navigator</source>
+    <target>导航</target>
+</phrase>
+<phrase>
+    <source>Kit:</source>
+    <target>构建套件：</target>
+</phrase>
+<phrase>
+    <source>Diff Selected Files</source>
+    <target>对比选中的文件</target>
+</phrase>
+<phrase>
+    <source>&quot;%1&quot; terminated.</source>
+    <target>“%1”终止。</target>
+</phrase>
+<phrase>
+    <source>Annotate version &quot;%1&quot;</source>
+    <target>注释版本“%1”</target>
+</phrase>
+<phrase>
+    <source>Sys Root</source>
+    <target>系统根</target>
+</phrase>
+<phrase>
+    <source>Select Color Theme</source>
+    <target>选择颜色主题</target>
+</phrase>
+<phrase>
+    <source>Automatic Color</source>
+    <target>自动颜色</target>
+</phrase>
+<phrase>
+    <source>More Colors...</source>
+    <target>更多颜色...</target>
+</phrase>
+<phrase>
+    <source>Loading document...</source>
+    <target>加载文档...</target>
+</phrase>
+<phrase>
+    <source>Adjust Width</source>
+    <target>调整宽度</target>
+</phrase>
+<phrase>
+    <source>Alignment</source>
+    <target>对齐方式</target>
+</phrase>
+<phrase>
+    <source>Adjustment</source>
+    <target>调整</target>
+</phrase>
+<phrase>
+    <source>Untitled</source>
+    <target>未命名</target>
+</phrase>
+<phrase>
+    <source>Export Failed</source>
+    <target>导出失败</target>
+</phrase>
+<phrase>
+    <source>Save Screenshot</source>
+    <target>保存截图</target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>查找</target>
+</phrase>
+<phrase>
+    <source>Attributes</source>
+    <target>属性</target>
+</phrase>
+<phrase>
+    <source>Content</source>
+    <target>内容</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>返回</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>时间</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>文件</target>
+</phrase>
+<phrase>
+    <source>Document Statistics</source>
+    <target>文档统计</target>
+</phrase>
+<phrase>
+    <source>Tag</source>
+    <target>标签</target>
+</phrase>
+<phrase>
+    <source>Common states</source>
+    <target>公用状态</target>
+</phrase>
+<phrase>
+    <source>Metadata</source>
+    <target>元数据</target>
+</phrase>
+<phrase>
+    <source>Other tags</source>
+    <target>其他标签</target>
+</phrase>
+<phrase>
+    <source>Unknown tags</source>
+    <target>未知标签</target>
+</phrase>
+<phrase>
+    <source>Remove items</source>
+    <target>移除项</target>
+</phrase>
+<phrase>
+    <source>Structure</source>
+    <target>结构</target>
+</phrase>
+<phrase>
+    <source>Collapse All</source>
+    <target>折叠全部</target>
+</phrase>
+<phrase>
+    <source>Add child</source>
+    <target>添加子项</target>
+</phrase>
+<phrase>
+    <source>Change parent</source>
+    <target>修改父</target>
+</phrase>
+<phrase>
+    <source>Switch Mode</source>
+    <target>切换模式</target>
+</phrase>
+<phrase>
+    <source>Severity</source>
+    <target>严重性</target>
+</phrase>
+<phrase>
+    <source>Reason</source>
+    <target>理由</target>
+</phrase>
+<phrase>
+    <source>Info</source>
+    <target>信息</target>
+</phrase>
+<phrase>
+    <source>Zoom In</source>
+    <target>放大</target>
+</phrase>
+<phrase>
+    <source>Zoom Out</source>
+    <target>缩小</target>
+</phrase>
+<phrase>
+    <source>Fit to View</source>
+    <target>适合页面</target>
+</phrase>
+<phrase>
+    <source>Panning</source>
+    <target>平移</target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target>复制</target>
+</phrase>
+<phrase>
+    <source>Cut</source>
+    <target>剪切</target>
+</phrase>
+<phrase>
+    <source>Paste</source>
+    <target>粘贴</target>
+</phrase>
+<phrase>
+    <source>Export to Image</source>
+    <target>导出图片</target>
+</phrase>
+<phrase>
+    <source>Align Left</source>
+    <target>左对齐</target>
+</phrase>
+<phrase>
+    <source>Align Right</source>
+    <target>右对齐</target>
+</phrase>
+<phrase>
+    <source>Align Top</source>
+    <target>顶对齐</target>
+</phrase>
+<phrase>
+    <source>Align Bottom</source>
+    <target>底对齐</target>
+</phrase>
+<phrase>
+    <source>Align Horizontal</source>
+    <target>水平对齐</target>
+</phrase>
+<phrase>
+    <source>Align Vertical</source>
+    <target>垂直对齐</target>
+</phrase>
+<phrase>
+    <source>Adjust Height</source>
+    <target>调整高度</target>
+</phrase>
+<phrase>
+    <source>Adjust Size</source>
+    <target>调整大小</target>
+</phrase>
+<phrase>
+    <source>Show Statistics...</source>
+    <target>显示统计...</target>
+</phrase>
+<phrase>
+    <source>Show Statistics</source>
+    <target>显示统计</target>
+</phrase>
+<phrase>
+    <source>Add new state</source>
+    <target>添加新的状态</target>
+</phrase>
+<phrase>
+    <source>Move State</source>
+    <target>移动状态</target>
+</phrase>
+<phrase>
+    <source>Align states</source>
+    <target>对齐状态</target>
+</phrase>
+<phrase>
+    <source>Adjust states</source>
+    <target>调整状态</target>
+</phrase>
+<phrase>
+    <source>Re-layout</source>
+    <target>重新布局</target>
+</phrase>
+<phrase>
+    <source>State</source>
+    <target>状态</target>
+</phrase>
+<phrase>
+    <source>Missing ID</source>
+    <target>缺少ID</target>
+</phrase>
+<phrase>
+    <source>Missing ID.</source>
+    <target>缺少ID。</target>
+</phrase>
+<phrase>
+    <source>Duplicate ID (%1).</source>
+    <target>重复的ID（%1）。</target>
+</phrase>
+<phrase>
+    <source>Initial</source>
+    <target>初始化</target>
+</phrase>
+<phrase>
+    <source>Final</source>
+    <target>最终的</target>
+</phrase>
+<phrase>
+    <source>Parallel</source>
+    <target>并行</target>
+</phrase>
+<phrase>
+    <source>History</source>
+    <target>历史</target>
+</phrase>
+<phrase>
+    <source>Relayout</source>
+    <target>重新布局</target>
+</phrase>
+<phrase>
+    <source>&amp;Search</source>
+    <target>搜索(&amp;S)</target>
+</phrase>
+</QPH>

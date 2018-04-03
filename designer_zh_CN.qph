@@ -1,0 +1,3222 @@
+<!DOCTYPE QPH>
+<QPH language="zh_CN">
+<phrase>
+    <source>&amp;Next</source>
+    <target>下一个(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Selectable</source>
+    <target>Selectable</target>
+</phrase>
+<phrase>
+    <source>Editable</source>
+    <target>Editable</target>
+</phrase>
+<phrase>
+    <source>DragEnabled</source>
+    <target>DragEnabled</target>
+</phrase>
+<phrase>
+    <source>DropEnabled</source>
+    <target>DropEnabled</target>
+</phrase>
+<phrase>
+    <source>UserCheckable</source>
+    <target>UserCheckable</target>
+</phrase>
+<phrase>
+    <source>Enabled</source>
+    <target>Enabled</target>
+</phrase>
+<phrase>
+    <source>Tristate</source>
+    <target>Tristate</target>
+</phrase>
+<phrase>
+    <source>Unchecked</source>
+    <target>Unchecked</target>
+</phrase>
+<phrase>
+    <source>PartiallyChecked</source>
+    <target>PartiallyChecked</target>
+</phrase>
+<phrase>
+    <source>Checked</source>
+    <target>Checked</target>
+</phrase>
+<phrase>
+    <source>Insert Link</source>
+    <target>插入链接</target>
+</phrase>
+<phrase>
+    <source>Title:</source>
+    <target>标题：</target>
+</phrase>
+<phrase>
+    <source>URL:</source>
+    <target>URL：</target>
+</phrase>
+<phrase>
+    <source>Additional Fonts</source>
+    <target>附加字体</target>
+</phrase>
+<phrase>
+    <source>Add font files</source>
+    <target>添加字体文件</target>
+</phrase>
+<phrase>
+    <source>Remove current font file</source>
+    <target>移除当前字体文件</target>
+</phrase>
+<phrase>
+    <source>Remove all font files</source>
+    <target>移除所有字体文件</target>
+</phrase>
+<phrase>
+    <source>Add Font Files</source>
+    <target>添加字体文件</target>
+</phrase>
+<phrase>
+    <source>Font files (*.ttf)</source>
+    <target>字体文件(*.ttf)</target>
+</phrase>
+<phrase>
+    <source>Error Adding Fonts</source>
+    <target>添加字体错误</target>
+</phrase>
+<phrase>
+    <source>Error Removing Fonts</source>
+    <target>移除字体错误</target>
+</phrase>
+<phrase>
+    <source>Remove Fonts</source>
+    <target>移除字体</target>
+</phrase>
+<phrase>
+    <source>Would you like to remove all fonts?</source>
+    <target>是否要移除所有字体？</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>窗体</target>
+</phrase>
+<phrase>
+    <source>User Interface Mode</source>
+    <target>用户界面模式</target>
+</phrase>
+<phrase>
+    <source>Solid</source>
+    <target>实心的</target>
+</phrase>
+<phrase>
+    <source>No brush</source>
+    <target>无画刷</target>
+</phrase>
+<phrase>
+    <source>Dense 1</source>
+    <target>稠密 1</target>
+</phrase>
+<phrase>
+    <source>Dense 2</source>
+    <target>稠密 2</target>
+</phrase>
+<phrase>
+    <source>Dense 3</source>
+    <target>稠密 3</target>
+</phrase>
+<phrase>
+    <source>Dense 4</source>
+    <target>稠密 4</target>
+</phrase>
+<phrase>
+    <source>Dense 5</source>
+    <target>稠密 5</target>
+</phrase>
+<phrase>
+    <source>Dense 6</source>
+    <target>稠密 6</target>
+</phrase>
+<phrase>
+    <source>Dense 7</source>
+    <target>稠密 7</target>
+</phrase>
+<phrase>
+    <source>Horizontal</source>
+    <target>水平的</target>
+</phrase>
+<phrase>
+    <source>Vertical</source>
+    <target>垂直的</target>
+</phrase>
+<phrase>
+    <source>Cross</source>
+    <target>交叉的</target>
+</phrase>
+<phrase>
+    <source>Backward diagonal</source>
+    <target>反向斜线</target>
+</phrase>
+<phrase>
+    <source>Forward diagonal</source>
+    <target>正向斜线</target>
+</phrase>
+<phrase>
+    <source>Crossing diagonal</source>
+    <target>交叉斜线</target>
+</phrase>
+<phrase>
+    <source>Style</source>
+    <target>风格</target>
+</phrase>
+<phrase>
+    <source>Color</source>
+    <target>颜色</target>
+</phrase>
+<phrase>
+    <source>[%1, %2]</source>
+    <target>[%1, %2]</target>
+</phrase>
+<phrase>
+    <source>Add connection</source>
+    <target>添加连接</target>
+</phrase>
+<phrase>
+    <source>Adjust connection</source>
+    <target>调整连接</target>
+</phrase>
+<phrase>
+    <source>Delete connections</source>
+    <target>删除连接</target>
+</phrase>
+<phrase>
+    <source>Change source</source>
+    <target>改变源</target>
+</phrase>
+<phrase>
+    <source>Change target</source>
+    <target>改变目标</target>
+</phrase>
+<phrase>
+    <source>Add &apos;%1&apos; to &apos;%2&apos;</source>
+    <target>添加“%1”到“%2”</target>
+</phrase>
+<phrase>
+    <source>Insert &apos;%1&apos;</source>
+    <target>插入“%1”</target>
+</phrase>
+<phrase>
+    <source>Raise &apos;%1&apos;</source>
+    <target>上移“%1”</target>
+</phrase>
+<phrase>
+    <source>Lower &apos;%1&apos;</source>
+    <target>下移“%1”</target>
+</phrase>
+<phrase>
+    <source>Delete &apos;%1&apos;</source>
+    <target>删除“%1”</target>
+</phrase>
+<phrase>
+    <source>Reparent &apos;%1&apos;</source>
+    <target>重定义“%1”的父对象</target>
+</phrase>
+<phrase>
+    <source>Add action</source>
+    <target>添加动作</target>
+</phrase>
+<phrase>
+    <source>Add buttons to group</source>
+    <target>向组里添加按钮</target>
+</phrase>
+<phrase>
+    <source>Add Dock Window</source>
+    <target>添加锚接窗口</target>
+</phrase>
+<phrase>
+    <source>Add dynamic property &apos;%1&apos; to &apos;%2&apos;</source>
+    <target>添加动态属性“%1”到“%2”</target>
+</phrase>
+<phrase>
+    <source>Add dynamic property &apos;%1&apos; to %n objects</source>
+    <target>添加动态属性“%1”到%n个对象</target>
+</phrase>
+<phrase>
+    <source>Add menu</source>
+    <target>添加菜单</target>
+</phrase>
+<phrase>
+    <source>Add Tool Bar</source>
+    <target>添加工具栏</target>
+</phrase>
+<phrase>
+    <source>Adjust Size of &apos;%1&apos;</source>
+    <target>调整“%1”的大小</target>
+</phrase>
+<phrase>
+    <source>Break button group</source>
+    <target>分拆按钮组</target>
+</phrase>
+<phrase>
+    <source>Break layout</source>
+    <target>取消布局</target>
+</phrase>
+<phrase>
+    <source>Change Form Layout Item Geometry</source>
+    <target>改变表单布局项的几何位置</target>
+</phrase>
+<phrase>
+    <source>Change Layout Item Geometry</source>
+    <target>改变布局项的几何位置</target>
+</phrase>
+<phrase>
+    <source>Edit...</source>
+    <target>编辑...</target>
+</phrase>
+<phrase>
+    <source>Standard (96 x 96)</source>
+    <target>标准(96 X 96)</target>
+</phrase>
+<phrase>
+    <source>High (192 x 192)</source>
+    <target>高(192 X 192)</target>
+</phrase>
+<phrase>
+    <source>Greenphone (179 x 185)</source>
+    <target>绿机(179 X 185)</target>
+</phrase>
+<phrase>
+    <source>Unable to launch %1.</source>
+    <target>不能启动 %1。</target>
+</phrase>
+<phrase>
+    <source>%1 timed out.</source>
+    <target>%1 超时。</target>
+</phrase>
+<phrase>
+    <source>Custom Widgets</source>
+    <target>自定义窗口部件</target>
+</phrase>
+<phrase>
+    <source>Promoted Widgets</source>
+    <target>提升窗口部件</target>
+</phrase>
+<phrase>
+    <source>Qt Designer</source>
+    <target>Qt 设计师</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not a number.</source>
+    <target>“%1”不是一个数字。</target>
+</phrase>
+<phrase>
+    <source>Embedded Design</source>
+    <target>嵌入式设计</target>
+</phrase>
+<phrase>
+    <source>Device Profiles</source>
+    <target>设备描述文件</target>
+</phrase>
+<phrase>
+    <source>PreferDefault</source>
+    <target>首选默认</target>
+</phrase>
+<phrase>
+    <source>NoAntialias</source>
+    <target>无反锯齿</target>
+</phrase>
+<phrase>
+    <source>PreferAntialias</source>
+    <target>首选反锯齿</target>
+</phrase>
+<phrase>
+    <source>Antialiasing</source>
+    <target>反锯齿</target>
+</phrase>
+<phrase>
+    <source>%1 %</source>
+    <target>%1 %</target>
+</phrase>
+<phrase>
+    <source>Preview Zoom</source>
+    <target>预览缩放</target>
+</phrase>
+<phrase>
+    <source>Default Zoom</source>
+    <target>默认缩放</target>
+</phrase>
+<phrase>
+    <source>Forms</source>
+    <target>窗体</target>
+</phrase>
+<phrase>
+    <source>Default Grid</source>
+    <target>默认栅格</target>
+</phrase>
+<phrase>
+    <source>Add Form Layout Row</source>
+    <target>添加窗体行布局</target>
+</phrase>
+<phrase>
+    <source>&amp;Label text:</source>
+    <target>标签文字(&amp;L)：</target>
+</phrase>
+<phrase>
+    <source>Field &amp;type:</source>
+    <target>字段类型(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Field name:</source>
+    <target>字段名称(&amp;F)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Buddy:</source>
+    <target>伙伴(&amp;B)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Row:</source>
+    <target>行(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>Label &amp;name:</source>
+    <target>标签名称(&amp;N)：</target>
+</phrase>
+<phrase>
+    <source>Layout &amp;Default</source>
+    <target>默认布局(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Form Settings</source>
+    <target>窗体设定</target>
+</phrase>
+<phrase>
+    <source>&amp;Spacing:</source>
+    <target>间距(&amp;S)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Margin:</source>
+    <target>边距(&amp;M)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Layout Function</source>
+    <target>布局功能(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Ma&amp;rgin:</source>
+    <target>边距(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>Spa&amp;cing:</source>
+    <target>间距(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Grid</source>
+    <target>栅格</target>
+</phrase>
+<phrase>
+    <source>&amp;Pixmap Function</source>
+    <target>像素映射功能(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Include Hints</source>
+    <target>包含提示(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>&amp;Author</source>
+    <target>作者(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>All Pixmaps (</source>
+    <target>所有像素映射 (</target>
+</phrase>
+<phrase>
+    <source>Main</source>
+    <target>主要</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>文件</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>编辑</target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target>工具</target>
+</phrase>
+<phrase>
+    <source>Show this Dialog on Startup</source>
+    <target>启动时显示这个对话框</target>
+</phrase>
+<phrase>
+    <source>C&amp;reate</source>
+    <target>创建(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Recent</source>
+    <target>最近的</target>
+</phrase>
+<phrase>
+    <source>New Form</source>
+    <target>新建窗体</target>
+</phrase>
+<phrase>
+    <source>&amp;Open...</source>
+    <target>打开(&amp;O)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Recent Forms</source>
+    <target>最近的窗体(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Read error</source>
+    <target>读取错误</target>
+</phrase>
+<phrase>
+    <source>Object</source>
+    <target>对象</target>
+</phrase>
+<phrase>
+    <source>Class</source>
+    <target>类</target>
+</phrase>
+<phrase>
+    <source>separator</source>
+    <target>分隔符</target>
+</phrase>
+<phrase>
+    <source>&lt;noname&gt;</source>
+    <target>&lt;无名称&gt;</target>
+</phrase>
+<phrase>
+    <source>Change Object Name</source>
+    <target>改变对象名称</target>
+</phrase>
+<phrase>
+    <source>Object Name</source>
+    <target>对象名称</target>
+</phrase>
+<phrase>
+    <source>Plugin Information</source>
+    <target>插件信息</target>
+</phrase>
+<phrase>
+    <source>Print/Preview Configuration</source>
+    <target>打印/预览配置</target>
+</phrase>
+<phrase>
+    <source>Style sheet</source>
+    <target>样式表</target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target>...</target>
+</phrase>
+<phrase>
+    <source>Device skin</source>
+    <target>设备皮肤</target>
+</phrase>
+<phrase>
+    <source>Not used</source>
+    <target>没有被使用</target>
+</phrase>
+<phrase>
+    <source>Invalid UI file</source>
+    <target>无效的UI文件</target>
+</phrase>
+<phrase>
+    <source>ActiveX control</source>
+    <target>ActiveX 控件</target>
+</phrase>
+<phrase>
+    <source>ActiveX control widget</source>
+    <target>ActiveX 控件窗口部件</target>
+</phrase>
+<phrase>
+    <source>Set Control</source>
+    <target>设置控件</target>
+</phrase>
+<phrase>
+    <source>Reset Control</source>
+    <target>重置控件</target>
+</phrase>
+<phrase>
+    <source>Licensed Control</source>
+    <target>许可的控件</target>
+</phrase>
+<phrase>
+    <source>%1 - warning</source>
+    <target>%1 - 警告</target>
+</phrase>
+<phrase>
+    <source>Saved %1.</source>
+    <target>%1 已被保存。</target>
+</phrase>
+<phrase>
+    <source>%1 already exists.
+Do you want to replace it?</source>
+    <target>%1 已经存在。
+您想要替换它么？</target>
+</phrase>
+<phrase>
+    <source>Edit Widgets</source>
+    <target>编辑窗口部件</target>
+</phrase>
+<phrase>
+    <source>&amp;New...</source>
+    <target>新建(&amp;N)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Save</source>
+    <target>保存(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Save &amp;As...</source>
+    <target>另存为(&amp;A)...</target>
+</phrase>
+<phrase>
+    <source>Save A&amp;ll</source>
+    <target>全部保存(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Save As &amp;Template...</source>
+    <target>另存为模板(&amp;T)...</target>
+</phrase>
+<phrase>
+    <source>Save &amp;Image...</source>
+    <target>保存图像(&amp;I)...</target>
+</phrase>
+<phrase>
+    <source>View &amp;Code...</source>
+    <target>查看代码(&amp;C)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Minimize</source>
+    <target>最小化(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Bring All to Front</source>
+    <target>全部放到前面</target>
+</phrase>
+<phrase>
+    <source>Additional Fonts...</source>
+    <target>附加字体...</target>
+</phrase>
+<phrase>
+    <source>ALT+CTRL+S</source>
+    <target>ALT+CTRL+S</target>
+</phrase>
+<phrase>
+    <source>CTRL+SHIFT+S</source>
+    <target>CTRL+SHIFT+S</target>
+</phrase>
+<phrase>
+    <source>CTRL+R</source>
+    <target>CTRL+R</target>
+</phrase>
+<phrase>
+    <source>CTRL+M</source>
+    <target>CTRL+M</target>
+</phrase>
+<phrase>
+    <source>Qt Designer &amp;Help</source>
+    <target>Qt 设计师帮助(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>Current Widget Help</source>
+    <target>自定义窗口部件帮助</target>
+</phrase>
+<phrase>
+    <source>About Plugins</source>
+    <target>关于插件</target>
+</phrase>
+<phrase>
+    <source>About Qt Designer</source>
+    <target>关于 Qt 设计师</target>
+</phrase>
+<phrase>
+    <source>About Qt</source>
+    <target>关于 Qt</target>
+</phrase>
+<phrase>
+    <source>Clear &amp;Menu</source>
+    <target>清空菜单(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Open Form</source>
+    <target>打开窗体</target>
+</phrase>
+<phrase>
+    <source>Designer UI files (*.%1);;All Files (*)</source>
+    <target>设计师 UI 文件 (*.%1);;全部文件 (*)</target>
+</phrase>
+<phrase>
+    <source>Save Form As</source>
+    <target>窗体另存为</target>
+</phrase>
+<phrase>
+    <source>Designer</source>
+    <target>设计师</target>
+</phrase>
+<phrase>
+    <source>Feature not implemented yet!</source>
+    <target>特性还没有实现！</target>
+</phrase>
+<phrase>
+    <source>Code generation failed</source>
+    <target>代码生成失败</target>
+</phrase>
+<phrase>
+    <source>&amp;Update</source>
+    <target>更新(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>&amp;New Form</source>
+    <target>新建窗体(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Save Form?</source>
+    <target>保存窗体？</target>
+</phrase>
+<phrase>
+    <source>Could not open file</source>
+    <target>无法打开文件</target>
+</phrase>
+<phrase>
+    <source>Select New File</source>
+    <target>选择新文件</target>
+</phrase>
+<phrase>
+    <source>Could not write file</source>
+    <target>无法写文件</target>
+</phrase>
+<phrase>
+    <source>Assistant</source>
+    <target>助手</target>
+</phrase>
+<phrase>
+    <source>&amp;Close Preview</source>
+    <target>关闭预览(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Preview failed</source>
+    <target>预览失败</target>
+</phrase>
+<phrase>
+    <source>Image files (*.%1)</source>
+    <target>图像文件 (*.%1)</target>
+</phrase>
+<phrase>
+    <source>Save Image</source>
+    <target>保存图像</target>
+</phrase>
+<phrase>
+    <source>Saved image %1.</source>
+    <target>图像 %1 已保存。</target>
+</phrase>
+<phrase>
+    <source>The file %1 could not be written.</source>
+    <target>无法写入文件 %1。</target>
+</phrase>
+<phrase>
+    <source>Printed %1.</source>
+    <target>%1 已打印。</target>
+</phrase>
+<phrase>
+    <source>Docked Window</source>
+    <target>锚接的窗口</target>
+</phrase>
+<phrase>
+    <source>Multiple Top-Level Windows</source>
+    <target>多个顶级窗口</target>
+</phrase>
+<phrase>
+    <source>Toolwindow Font</source>
+    <target>工具窗口字体</target>
+</phrase>
+<phrase>
+    <source>Reset control</source>
+    <target>重置控件</target>
+</phrase>
+<phrase>
+    <source>Set control</source>
+    <target>设置控件</target>
+</phrase>
+<phrase>
+    <source>Control loaded</source>
+    <target>控件已经加载</target>
+</phrase>
+<phrase>
+    <source>The preview failed to build.</source>
+    <target>构建预览失败。</target>
+</phrase>
+<phrase>
+    <source>%1 - %2[*]</source>
+    <target>%1 - %2[*]</target>
+</phrase>
+<phrase>
+    <source>Type Here</source>
+    <target>在这里输入</target>
+</phrase>
+<phrase>
+    <source>Add Separator</source>
+    <target>添加分隔符</target>
+</phrase>
+<phrase>
+    <source>Insert separator</source>
+    <target>插入分隔符</target>
+</phrase>
+<phrase>
+    <source>Remove separator</source>
+    <target>移除分隔符</target>
+</phrase>
+<phrase>
+    <source>Remove action &apos;%1&apos;</source>
+    <target>移除动作“%1”</target>
+</phrase>
+<phrase>
+    <source>Add separator</source>
+    <target>添加分隔符</target>
+</phrase>
+<phrase>
+    <source>Remove Menu &apos;%1&apos;</source>
+    <target>移除菜单“%1”</target>
+</phrase>
+<phrase>
+    <source>Remove Menu Bar</source>
+    <target>移除菜单栏</target>
+</phrase>
+<phrase>
+    <source>Menu</source>
+    <target>菜单</target>
+</phrase>
+<phrase>
+    <source>Dynamic Properties</source>
+    <target>动态属性</target>
+</phrase>
+<phrase>
+    <source>Unexpected element &lt;%1&gt;</source>
+    <target>未知的元素&lt;%1&gt;</target>
+</phrase>
+<phrase>
+    <source>The template path %1 could not be created.</source>
+    <target>无法创建临时路径 %1。</target>
+</phrase>
+<phrase>
+    <source>Property Editor</source>
+    <target>属性编辑器</target>
+</phrase>
+<phrase>
+    <source>Action Editor</source>
+    <target>动作编辑器</target>
+</phrase>
+<phrase>
+    <source>Object Inspector</source>
+    <target>对象查看器</target>
+</phrase>
+<phrase>
+    <source>Resource Browser</source>
+    <target>资源浏览器</target>
+</phrase>
+<phrase>
+    <source>Signal/Slot Editor</source>
+    <target>信号/槽编辑器</target>
+</phrase>
+<phrase>
+    <source>Widget Box</source>
+    <target>窗口部件盒</target>
+</phrase>
+<phrase>
+    <source>F&amp;orm</source>
+    <target>窗体(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Preview in</source>
+    <target>预览于</target>
+</phrase>
+<phrase>
+    <source>Save Forms?</source>
+    <target>保存窗体？</target>
+</phrase>
+<phrase>
+    <source>&amp;Settings</source>
+    <target>设置(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Do you want to save the changes to this document before closing?</source>
+    <target>您想要在关闭之前保存对这个文档所做的更改么？</target>
+</phrase>
+<phrase>
+    <source>Discard Changes</source>
+    <target>抛弃更改</target>
+</phrase>
+<phrase>
+    <source>Review Changes</source>
+    <target>检查更改</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>删除</target>
+</phrase>
+<phrase>
+    <source>Before Current Page</source>
+    <target>在当前页之前</target>
+</phrase>
+<phrase>
+    <source>After Current Page</source>
+    <target>在当前页之后</target>
+</phrase>
+<phrase>
+    <source>Change Page Order...</source>
+    <target>改变页顺序...</target>
+</phrase>
+<phrase>
+    <source>Change Page Order</source>
+    <target>改变页顺序</target>
+</phrase>
+<phrase>
+    <source>Page %1 of %2</source>
+    <target>%2 的页 %1</target>
+</phrase>
+<phrase>
+    <source>True</source>
+    <target>真</target>
+</phrase>
+<phrase>
+    <source>False</source>
+    <target>假</target>
+</phrase>
+<phrase>
+    <source>Clear Char</source>
+    <target>清除字符</target>
+</phrase>
+<phrase>
+    <source>Red</source>
+    <target>红色</target>
+</phrase>
+<phrase>
+    <source>Green</source>
+    <target>绿色</target>
+</phrase>
+<phrase>
+    <source>Blue</source>
+    <target>蓝色</target>
+</phrase>
+<phrase>
+    <source>Alpha</source>
+    <target>透明度</target>
+</phrase>
+<phrase>
+    <source>Arrow</source>
+    <target>箭头</target>
+</phrase>
+<phrase>
+    <source>Up Arrow</source>
+    <target>上箭头</target>
+</phrase>
+<phrase>
+    <source>Wait</source>
+    <target>等待</target>
+</phrase>
+<phrase>
+    <source>IBeam</source>
+    <target>文本光标</target>
+</phrase>
+<phrase>
+    <source>Size Vertical</source>
+    <target>垂直大小</target>
+</phrase>
+<phrase>
+    <source>Size Horizontal</source>
+    <target>水平大小</target>
+</phrase>
+<phrase>
+    <source>Size Backslash</source>
+    <target>反斜线大小</target>
+</phrase>
+<phrase>
+    <source>Size Slash</source>
+    <target>斜线大小</target>
+</phrase>
+<phrase>
+    <source>Size All</source>
+    <target>全部大小</target>
+</phrase>
+<phrase>
+    <source>Blank</source>
+    <target>空白</target>
+</phrase>
+<phrase>
+    <source>Split Vertical</source>
+    <target>水平分隔</target>
+</phrase>
+<phrase>
+    <source>Split Horizontal</source>
+    <target>垂直分隔</target>
+</phrase>
+<phrase>
+    <source>Pointing Hand</source>
+    <target>指向手势</target>
+</phrase>
+<phrase>
+    <source>Forbidden</source>
+    <target>禁止</target>
+</phrase>
+<phrase>
+    <source>Open Hand</source>
+    <target>打开手势</target>
+</phrase>
+<phrase>
+    <source>Closed Hand</source>
+    <target>关闭手势</target>
+</phrase>
+<phrase>
+    <source>What&apos;s This</source>
+    <target>这是什么</target>
+</phrase>
+<phrase>
+    <source>Busy</source>
+    <target>忙</target>
+</phrase>
+<phrase>
+    <source>Select Font</source>
+    <target>选择字体</target>
+</phrase>
+<phrase>
+    <source>Family</source>
+    <target>字体</target>
+</phrase>
+<phrase>
+    <source>Point Size</source>
+    <target>点大小</target>
+</phrase>
+<phrase>
+    <source>Bold</source>
+    <target>粗体</target>
+</phrase>
+<phrase>
+    <source>Italic</source>
+    <target>斜体</target>
+</phrase>
+<phrase>
+    <source>Underline</source>
+    <target>下划线</target>
+</phrase>
+<phrase>
+    <source>Strikeout</source>
+    <target>删除线</target>
+</phrase>
+<phrase>
+    <source>Kerning</source>
+    <target>字距调整</target>
+</phrase>
+<phrase>
+    <source>Edit Gradient</source>
+    <target>编辑渐变</target>
+</phrase>
+<phrase>
+    <source>Gradient Editor</source>
+    <target>渐变编辑器</target>
+</phrase>
+<phrase>
+    <source>2</source>
+    <target>2</target>
+</phrase>
+<phrase>
+    <source>3</source>
+    <target>3</target>
+</phrase>
+<phrase>
+    <source>4</source>
+    <target>4</target>
+</phrase>
+<phrase>
+    <source>5</source>
+    <target>5</target>
+</phrase>
+<phrase>
+    <source>Gradient Stops Editor</source>
+    <target>渐变中止点编辑器</target>
+</phrase>
+<phrase>
+    <source>Reset Zoom</source>
+    <target>重置缩放</target>
+</phrase>
+<phrase>
+    <source>Position</source>
+    <target>位置</target>
+</phrase>
+<phrase>
+    <source>Hue</source>
+    <target>色调</target>
+</phrase>
+<phrase>
+    <source>H</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Saturation</source>
+    <target>浓度</target>
+</phrase>
+<phrase>
+    <source>S</source>
+    <target>S</target>
+</phrase>
+<phrase>
+    <source>Sat</source>
+    <target>浓度</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>值</target>
+</phrase>
+<phrase>
+    <source>V</source>
+    <target>V</target>
+</phrase>
+<phrase>
+    <source>Val</source>
+    <target>值</target>
+</phrase>
+<phrase>
+    <source>A</source>
+    <target>A</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>类型</target>
+</phrase>
+<phrase>
+    <source>Spread</source>
+    <target>展开</target>
+</phrase>
+<phrase>
+    <source>Current stop&apos;s color</source>
+    <target>当前中止点颜色</target>
+</phrase>
+<phrase>
+    <source>HSV</source>
+    <target>HSV</target>
+</phrase>
+<phrase>
+    <source>Show RGB specification</source>
+    <target>显示 RGB 规格</target>
+</phrase>
+<phrase>
+    <source>RGB</source>
+    <target>RGB</target>
+</phrase>
+<phrase>
+    <source>Current stop&apos;s position</source>
+    <target>当前中止点位置</target>
+</phrase>
+<phrase>
+    <source>%</source>
+    <target>%</target>
+</phrase>
+<phrase>
+    <source>Zoom In</source>
+    <target>放大</target>
+</phrase>
+<phrase>
+    <source>Zoom Out</source>
+    <target>缩小</target>
+</phrase>
+<phrase>
+    <source>Toggle details extension</source>
+    <target>切换细节扩展</target>
+</phrase>
+<phrase>
+    <source>&gt;</source>
+    <target>&gt;</target>
+</phrase>
+<phrase>
+    <source>Linear Type</source>
+    <target>线性类型</target>
+</phrase>
+<phrase>
+    <source>Radial Type</source>
+    <target>辐射类型</target>
+</phrase>
+<phrase>
+    <source>Conical Type</source>
+    <target>锥形类型</target>
+</phrase>
+<phrase>
+    <source>Pad Spread</source>
+    <target>填充平铺</target>
+</phrase>
+<phrase>
+    <source>Repeat Spread</source>
+    <target>重复平铺</target>
+</phrase>
+<phrase>
+    <source>Reflect Spread</source>
+    <target>反射平铺</target>
+</phrase>
+<phrase>
+    <source>Start X</source>
+    <target>开始 X</target>
+</phrase>
+<phrase>
+    <source>Start Y</source>
+    <target>开始 Y</target>
+</phrase>
+<phrase>
+    <source>Final X</source>
+    <target>结束 X</target>
+</phrase>
+<phrase>
+    <source>Final Y</source>
+    <target>结束 Y</target>
+</phrase>
+<phrase>
+    <source>Central X</source>
+    <target>中心 X</target>
+</phrase>
+<phrase>
+    <source>Central Y</source>
+    <target>中心 Y</target>
+</phrase>
+<phrase>
+    <source>Focal X</source>
+    <target>焦点 X</target>
+</phrase>
+<phrase>
+    <source>Focal X</source>
+    <target>焦点 X</target>
+</phrase>
+<phrase>
+    <source>Focal Y</source>
+    <target>焦点 Y</target>
+</phrase>
+<phrase>
+    <source>Radius</source>
+    <target>半径</target>
+</phrase>
+<phrase>
+    <source>Angle</source>
+    <target>角度</target>
+</phrase>
+<phrase>
+    <source>Linear</source>
+    <target>线性</target>
+</phrase>
+<phrase>
+    <source>Radial</source>
+    <target>辐射</target>
+</phrase>
+<phrase>
+    <source>Conical</source>
+    <target>锥形</target>
+</phrase>
+<phrase>
+    <source>Pad</source>
+    <target>填充</target>
+</phrase>
+<phrase>
+    <source>Repeat</source>
+    <target>重复</target>
+</phrase>
+<phrase>
+    <source>Reflect</source>
+    <target>反射</target>
+</phrase>
+<phrase>
+    <source>New Stop</source>
+    <target>新建中止点</target>
+</phrase>
+<phrase>
+    <source>Flip All</source>
+    <target>全部翻转</target>
+</phrase>
+<phrase>
+    <source>Gradient View</source>
+    <target>渐变视图</target>
+</phrase>
+<phrase>
+    <source>New...</source>
+    <target>新建...</target>
+</phrase>
+<phrase>
+    <source>Rename</source>
+    <target>重命名</target>
+</phrase>
+<phrase>
+    <source>Grad</source>
+    <target>渐变</target>
+</phrase>
+<phrase>
+    <source>Remove Gradient</source>
+    <target>移除渐变</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to remove the selected gradient?</source>
+    <target>您确定要移除选中的渐变么？</target>
+</phrase>
+<phrase>
+    <source>Select Gradient</source>
+    <target>选择渐变</target>
+</phrase>
+<phrase>
+    <source>&lt;Invalid&gt;</source>
+    <target>&lt;无效的&gt;</target>
+</phrase>
+<phrase>
+    <source>%1, %2</source>
+    <target>%1, %2</target>
+</phrase>
+<phrase>
+    <source>Language</source>
+    <target>语言</target>
+</phrase>
+<phrase>
+    <source>Country</source>
+    <target>国家/地区</target>
+</phrase>
+<phrase>
+    <source>(%1, %2)</source>
+    <target>(%1, %2)</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>X</target>
+</phrase>
+<phrase>
+    <source>Y</source>
+    <target>Y</target>
+</phrase>
+<phrase>
+    <source>[%1, %2, %3] (%4)</source>
+    <target>[%1, %2, %3] (%4)</target>
+</phrase>
+<phrase>
+    <source>[(%1, %2), %3 x %4]</source>
+    <target>[(%1, %2), %3 X %4]</target>
+</phrase>
+<phrase>
+    <source>Width</source>
+    <target>宽度</target>
+</phrase>
+<phrase>
+    <source>Height</source>
+    <target>高度</target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target>对话框</target>
+</phrase>
+<phrase>
+    <source>New File</source>
+    <target>新建文件</target>
+</phrase>
+<phrase>
+    <source>N</source>
+    <target>N</target>
+</phrase>
+<phrase>
+    <source>Remove File</source>
+    <target>移除文件</target>
+</phrase>
+<phrase>
+    <source>R</source>
+    <target>R</target>
+</phrase>
+<phrase>
+    <source>I</source>
+    <target>I</target>
+</phrase>
+<phrase>
+    <source>New Resource</source>
+    <target>新建资源</target>
+</phrase>
+<phrase>
+    <source>Remove Resource or File</source>
+    <target>移除资源或者文件</target>
+</phrase>
+<phrase>
+    <source>%1 [read-only]</source>
+    <target>%1 [只读]</target>
+</phrase>
+<phrase>
+    <source>%1 [missing]</source>
+    <target>%1 [缺少]</target>
+</phrase>
+<phrase>
+    <source>&lt;no prefix&gt;</source>
+    <target>&lt;无前缀&gt;</target>
+</phrase>
+<phrase>
+    <source>New Resource File</source>
+    <target>新建资源文件</target>
+</phrase>
+<phrase>
+    <source>Resource files (*.qrc)</source>
+    <target>资源文件 (*.qrc)</target>
+</phrase>
+<phrase>
+    <source>Import Resource File</source>
+    <target>导入资源文件</target>
+</phrase>
+<phrase>
+    <source>newPrefix</source>
+    <target>新前缀</target>
+</phrase>
+<phrase>
+    <source>Add Files</source>
+    <target>添加文件</target>
+</phrase>
+<phrase>
+    <source>Incorrect Path</source>
+    <target>不正确的路径</target>
+</phrase>
+<phrase>
+    <source>Copy As...</source>
+    <target>另复制为...</target>
+</phrase>
+<phrase>
+    <source>Keep</source>
+    <target>保留</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>忽略</target>
+</phrase>
+<phrase>
+    <source>Clone Prefix</source>
+    <target>复制前缀</target>
+</phrase>
+<phrase>
+    <source>Copy As</source>
+    <target>另复制为</target>
+</phrase>
+<phrase>
+    <source>Could not overwrite %1.</source>
+    <target>无法覆盖 %1。</target>
+</phrase>
+<phrase>
+    <source>Save Resource File</source>
+    <target>保存资源文件</target>
+</phrase>
+<phrase>
+    <source>Could not write %1: %2</source>
+    <target>无法写入 %1：%2</target>
+</phrase>
+<phrase>
+    <source>Edit Resources</source>
+    <target>编辑资源</target>
+</phrase>
+<phrase>
+    <source>Open...</source>
+    <target>打开...</target>
+</phrase>
+<phrase>
+    <source>Open Resource File</source>
+    <target>打开资源文件</target>
+</phrase>
+<phrase>
+    <source>Move Up</source>
+    <target>向上移动</target>
+</phrase>
+<phrase>
+    <source>Move Down</source>
+    <target>向下移动</target>
+</phrase>
+<phrase>
+    <source>Add Prefix</source>
+    <target>添加前缀</target>
+</phrase>
+<phrase>
+    <source>Add Files...</source>
+    <target>添加文件...</target>
+</phrase>
+<phrase>
+    <source>Change Prefix</source>
+    <target>改变前缀</target>
+</phrase>
+<phrase>
+    <source>Change Language</source>
+    <target>改变语言</target>
+</phrase>
+<phrase>
+    <source>Change Alias</source>
+    <target>改变别名</target>
+</phrase>
+<phrase>
+    <source>Clone Prefix...</source>
+    <target>复制前缀...</target>
+</phrase>
+<phrase>
+    <source>Prefix / Path</source>
+    <target>前缀/路径</target>
+</phrase>
+<phrase>
+    <source>Language / Alias</source>
+    <target>语言/别名</target>
+</phrase>
+<phrase>
+    <source>Resource Warning</source>
+    <target>资源警告</target>
+</phrase>
+<phrase>
+    <source>Edit Resources...</source>
+    <target>编辑资源...</target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target>重新加载</target>
+</phrase>
+<phrase>
+    <source>Copy Path</source>
+    <target>复制路径</target>
+</phrase>
+<phrase>
+    <source>Select Resource</source>
+    <target>选择资源</target>
+</phrase>
+<phrase>
+    <source>%1 x %2</source>
+    <target>%1 X %2</target>
+</phrase>
+<phrase>
+    <source>[%1, %2, %3, %4]</source>
+    <target>[%1, %2, %3, %4]</target>
+</phrase>
+<phrase>
+    <source>Horizontal Policy</source>
+    <target>水平策略</target>
+</phrase>
+<phrase>
+    <source>Vertical Policy</source>
+    <target>垂直策略</target>
+</phrase>
+<phrase>
+    <source>Horizontal Stretch</source>
+    <target>水平伸展</target>
+</phrase>
+<phrase>
+    <source>Vertical Stretch</source>
+    <target>垂直伸展</target>
+</phrase>
+<phrase>
+    <source>Actions</source>
+    <target>动作</target>
+</phrase>
+<phrase>
+    <source>Customize Toolbars</source>
+    <target>自定义工具栏</target>
+</phrase>
+<phrase>
+    <source>Add new toolbar</source>
+    <target>添加新工具栏</target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target>新建</target>
+</phrase>
+<phrase>
+    <source>Remove selected toolbar</source>
+    <target>移除选中工具栏</target>
+</phrase>
+<phrase>
+    <source>Rename toolbar</source>
+    <target>重命名工具栏</target>
+</phrase>
+<phrase>
+    <source>Move action up</source>
+    <target>向上移动动作</target>
+</phrase>
+<phrase>
+    <source>Up</source>
+    <target>向上</target>
+</phrase>
+<phrase>
+    <source>Remove action from toolbar</source>
+    <target>从工具栏中移除动作</target>
+</phrase>
+<phrase>
+    <source>&lt;-</source>
+    <target>&lt;-</target>
+</phrase>
+<phrase>
+    <source>Add action to toolbar</source>
+    <target>向工具栏中添加动作</target>
+</phrase>
+<phrase>
+    <source>-&gt;</source>
+    <target>-&gt;</target>
+</phrase>
+<phrase>
+    <source>Move action down</source>
+    <target>向下移动动作</target>
+</phrase>
+<phrase>
+    <source>Down</source>
+    <target>向下</target>
+</phrase>
+<phrase>
+    <source>Current Toolbar Actions</source>
+    <target>当前工具栏动作</target>
+</phrase>
+<phrase>
+    <source>Custom Toolbar</source>
+    <target>自定义工具栏</target>
+</phrase>
+<phrase>
+    <source>&lt; S E P A R A T O R &gt;</source>
+    <target>&lt; 分 割 符 &gt;</target>
+</phrase>
+<phrase>
+    <source>Property</source>
+    <target>属性</target>
+</phrase>
+<phrase>
+    <source>Save Form As Template</source>
+    <target>把窗体另存为模板</target>
+</phrase>
+<phrase>
+    <source>&amp;Name:</source>
+    <target>名称(&amp;N)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Category:</source>
+    <target>分类(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Add path...</source>
+    <target>添加路径...</target>
+</phrase>
+<phrase>
+    <source>Template Exists</source>
+    <target>模板已存在</target>
+</phrase>
+<phrase>
+    <source>A template with the name %1 already exists.
+Do you want overwrite the template?</source>
+    <target>%1的模板已经存在。 您想要覆盖这个模板么？</target>
+</phrase>
+<phrase>
+    <source>Overwrite Template</source>
+    <target>覆盖模板</target>
+</phrase>
+<phrase>
+    <source>Open Error</source>
+    <target>打开错误</target>
+</phrase>
+<phrase>
+    <source>Write Error</source>
+    <target>写错误</target>
+</phrase>
+<phrase>
+    <source>Go to slot</source>
+    <target>转到槽</target>
+</phrase>
+<phrase>
+    <source>Select signal</source>
+    <target>选择信号</target>
+</phrase>
+<phrase>
+    <source>signal</source>
+    <target>信号</target>
+</phrase>
+<phrase>
+    <source>class</source>
+    <target>类</target>
+</phrase>
+<phrase>
+    <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
+    <target>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</target>
+</phrase>
+<phrase>
+    <source>Signals and slots</source>
+    <target>信号和槽</target>
+</phrase>
+<phrase>
+    <source>Slots</source>
+    <target>槽</target>
+</phrase>
+<phrase>
+    <source>Signals</source>
+    <target>信号</target>
+</phrase>
+<phrase>
+    <source>Template Paths</source>
+    <target>模板路径</target>
+</phrase>
+<phrase>
+    <source>Configure Toolbars...</source>
+    <target>配置工具栏...</target>
+</phrase>
+<phrase>
+    <source>Window</source>
+    <target>窗口</target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target>帮助</target>
+</phrase>
+<phrase>
+    <source>Dock views</source>
+    <target>锚接视图</target>
+</phrase>
+<phrase>
+    <source>%1 Widget</source>
+    <target>%1 窗口部件</target>
+</phrase>
+<phrase>
+    <source>Configure Action Editor</source>
+    <target>配置动作编辑器</target>
+</phrase>
+<phrase>
+    <source>Cut</source>
+    <target>剪切</target>
+</phrase>
+<phrase>
+    <source>Detailed View</source>
+    <target>细节视图</target>
+</phrase>
+<phrase>
+    <source>Edit action</source>
+    <target>编辑动作</target>
+</phrase>
+<phrase>
+    <source>Go to slot...</source>
+    <target>转到槽...</target>
+</phrase>
+<phrase>
+    <source>Icon View</source>
+    <target>图标视图</target>
+</phrase>
+<phrase>
+    <source>New action</source>
+    <target>新建动作</target>
+</phrase>
+<phrase>
+    <source>Paste</source>
+    <target>粘贴</target>
+</phrase>
+<phrase>
+    <source>Remove actions</source>
+    <target>移除动作</target>
+</phrase>
+<phrase>
+    <source>Select all</source>
+    <target>全选</target>
+</phrase>
+<phrase>
+    <source>Used In</source>
+    <target>用于</target>
+</phrase>
+<phrase>
+    <source>Checkable</source>
+    <target>可选的</target>
+</phrase>
+<phrase>
+    <source>Shortcut</source>
+    <target>快捷键</target>
+</phrase>
+<phrase>
+    <source>Text</source>
+    <target>文本</target>
+</phrase>
+<phrase>
+    <source>ToolTip</source>
+    <target>工具提示</target>
+</phrase>
+<phrase>
+    <source>Used</source>
+    <target>使用</target>
+</phrase>
+<phrase>
+    <source>Add %n buddies</source>
+    <target>添加 %n 个伙伴</target>
+</phrase>
+<phrase>
+    <source>Add buddy</source>
+    <target>添加伙伴</target>
+</phrase>
+<phrase>
+    <source>Remove %n buddies</source>
+    <target>移除 %n 个伙伴</target>
+</phrase>
+<phrase>
+    <source>Remove buddies</source>
+    <target>移除伙伴</target>
+</phrase>
+<phrase>
+    <source>Set automatically</source>
+    <target>自动设置</target>
+</phrase>
+<phrase>
+    <source>Edit Buddies</source>
+    <target>编辑伙伴</target>
+</phrase>
+<phrase>
+    <source>Break</source>
+    <target>打断</target>
+</phrase>
+<phrase>
+    <source>Select members</source>
+    <target>选择成员</target>
+</phrase>
+<phrase>
+    <source>Assign to button group</source>
+    <target>指定到按钮组</target>
+</phrase>
+<phrase>
+    <source>Button group</source>
+    <target>按钮组</target>
+</phrase>
+<phrase>
+    <source>Button group &apos;%1&apos;</source>
+    <target>按钮组“%1”</target>
+</phrase>
+<phrase>
+    <source>Change text...</source>
+    <target>改变文本...</target>
+</phrase>
+<phrase>
+    <source>New button group</source>
+    <target>新建按钮组</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>无</target>
+</phrase>
+<phrase>
+    <source>%1 - [Code]</source>
+    <target>%1 - [Code]</target>
+</phrase>
+<phrase>
+    <source>%1 - Error</source>
+    <target>%1 - 错误</target>
+</phrase>
+<phrase>
+    <source>A temporary form file could not be created in %1.</source>
+    <target>无法在 %1 中创建临时窗体文件。</target>
+</phrase>
+<phrase>
+    <source>Copy All</source>
+    <target>复制全部</target>
+</phrase>
+<phrase>
+    <source>Header Files (*.%1)</source>
+    <target>头文件 (*.%1)</target>
+</phrase>
+<phrase>
+    <source>Save Code</source>
+    <target>保存代码</target>
+</phrase>
+<phrase>
+    <source>Save...</source>
+    <target>保存...</target>
+</phrase>
+<phrase>
+    <source>The file %1 could not be opened: %2</source>
+    <target>无法打开文件 %1：%2</target>
+</phrase>
+<phrase>
+    <source>The file %1 could not be written: %2</source>
+    <target>无法写入文件 %1：%2</target>
+</phrase>
+<phrase>
+    <source>The temporary form file %1 could not be written.</source>
+    <target>无法写入临时窗体文件 %1。</target>
+</phrase>
+<phrase>
+    <source>Text Color</source>
+    <target>文本颜色</target>
+</phrase>
+<phrase>
+    <source>Change Combobox Contents</source>
+    <target>改变组合框内容</target>
+</phrase>
+<phrase>
+    <source>Edit Items...</source>
+    <target>编辑项目...</target>
+</phrase>
+<phrase>
+    <source>Change description...</source>
+    <target>改变描述...</target>
+</phrase>
+<phrase>
+    <source>Deselect All</source>
+    <target>取消全选</target>
+</phrase>
+<phrase>
+    <source>&lt;receiver&gt;</source>
+    <target>&lt;接收者&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;sender&gt;</source>
+    <target>&lt;发送者&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;signal&gt;</source>
+    <target>&lt;信号&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;slot&gt;</source>
+    <target>&lt;槽&gt;</target>
+</phrase>
+<phrase>
+    <source>Receiver</source>
+    <target>接收者</target>
+</phrase>
+<phrase>
+    <source>Sender</source>
+    <target>发送者</target>
+</phrase>
+<phrase>
+    <source>Signal</source>
+    <target>信号</target>
+</phrase>
+<phrase>
+    <source>Signal and Slot Editor</source>
+    <target>信号和槽编辑器</target>
+</phrase>
+<phrase>
+    <source>Slot</source>
+    <target>槽</target>
+</phrase>
+<phrase>
+    <source>The connection already exists!&lt;br&gt;%1</source>
+    <target>这个连接已经存在！&lt;br&gt;%1</target>
+</phrase>
+<phrase>
+    <source>Add Subwindow</source>
+    <target>添加子窗口</target>
+</phrase>
+<phrase>
+    <source>Insert</source>
+    <target>插入</target>
+</phrase>
+<phrase>
+    <source>Insert Page After Current Page</source>
+    <target>在当前页之后插入页</target>
+</phrase>
+<phrase>
+    <source>Insert Page Before Current Page</source>
+    <target>在当前页之前插入页</target>
+</phrase>
+<phrase>
+    <source>System (%1 x %2)</source>
+    <target>系统(%1 X %2)</target>
+</phrase>
+<phrase>
+    <source>User defined</source>
+    <target>用户定义</target>
+</phrase>
+<phrase>
+    <source> x </source>
+    <target> x </target>
+</phrase>
+<phrase>
+    <source>[Theme] %1</source>
+    <target>[主题] %1</target>
+</phrase>
+<phrase>
+    <source>translatable</source>
+    <target>可翻译的</target>
+</phrase>
+<phrase>
+    <source>Customized (%n roles)</source>
+    <target>自定义的(%n 个角色)</target>
+</phrase>
+<phrase>
+    <source>Active Off</source>
+    <target>Active Off</target>
+</phrase>
+<phrase>
+    <source>Active On</source>
+    <target>Active On</target>
+</phrase>
+<phrase>
+    <source>AlignBottom</source>
+    <target>AlignBottom</target>
+</phrase>
+<phrase>
+    <source>AlignHCenter</source>
+    <target>AlignHCenter</target>
+</phrase>
+<phrase>
+    <source>AlignJustify</source>
+    <target>AlignJustify</target>
+</phrase>
+<phrase>
+    <source>AlignLeft</source>
+    <target>AlignLeft</target>
+</phrase>
+<phrase>
+    <source>AlignRight</source>
+    <target>AlignRight</target>
+</phrase>
+<phrase>
+    <source>AlignTop</source>
+    <target>AlignTop</target>
+</phrase>
+<phrase>
+    <source>AlignVCenter</source>
+    <target>AlignVCenter</target>
+</phrase>
+<phrase>
+    <source>comment</source>
+    <target>注释</target>
+</phrase>
+<phrase>
+    <source>Disabled Off</source>
+    <target>Disabled Off</target>
+</phrase>
+<phrase>
+    <source>Disabled On</source>
+    <target>Disabled On</target>
+</phrase>
+<phrase>
+    <source>disambiguation</source>
+    <target>澄清</target>
+</phrase>
+<phrase>
+    <source>Inherited</source>
+    <target>继承</target>
+</phrase>
+<phrase>
+    <source>Normal Off</source>
+    <target>Normal Off</target>
+</phrase>
+<phrase>
+    <source>Normal On</source>
+    <target>Normal On</target>
+</phrase>
+<phrase>
+    <source>Selected Off</source>
+    <target>Selected Off</target>
+</phrase>
+<phrase>
+    <source>Selected On</source>
+    <target>Selected On</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not a valid profile: %2</source>
+    <target>“%1”不是有效的描述文件：%2</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>默认</target>
+</phrase>
+<phrase>
+    <source>Device Profiles (*.%1)</source>
+    <target>设备描述文件(*.%1)</target>
+</phrase>
+<phrase>
+    <source>Open profile</source>
+    <target>打开描述文件</target>
+</phrase>
+<phrase>
+    <source>Open Profile - Error</source>
+    <target>打开描述文件 - 错误</target>
+</phrase>
+<phrase>
+    <source>Save Profile</source>
+    <target>保存描述文件</target>
+</phrase>
+<phrase>
+    <source>Save Profile - Error</source>
+    <target>保存描述文件 - 错误</target>
+</phrase>
+<phrase>
+    <source>Unable to open the file &apos;%1&apos; for reading: %2</source>
+    <target>无法用读方式打开文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>Unable to open the file &apos;%1&apos; for writing: %2</source>
+    <target>无法用写方式打开文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>&amp;Delete</source>
+    <target>删除(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Delete String</source>
+    <target>删除字符串</target>
+</phrase>
+<phrase>
+    <source>Move String Down</source>
+    <target>向下移动字符串</target>
+</phrase>
+<phrase>
+    <source>Move String Up</source>
+    <target>向上移动字符串</target>
+</phrase>
+<phrase>
+    <source>&amp;New</source>
+    <target>新建(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>New String</source>
+    <target>新建字符串</target>
+</phrase>
+<phrase>
+    <source>StringList</source>
+    <target>字符串列表</target>
+</phrase>
+<phrase>
+    <source>&amp;Value:</source>
+    <target>值(&amp;V)：</target>
+</phrase>
+<phrase>
+    <source>Add a profile</source>
+    <target>添加描述文件</target>
+</phrase>
+<phrase>
+    <source>Add Profile</source>
+    <target>添加描述文件</target>
+</phrase>
+<phrase>
+    <source>Delete Profile</source>
+    <target>删除描述文件</target>
+</phrase>
+<phrase>
+    <source>Delete the selected profile</source>
+    <target>删除选中的描述文件</target>
+</phrase>
+<phrase>
+    <source>Edit Profile</source>
+    <target>编辑描述文件</target>
+</phrase>
+<phrase>
+    <source>Edit the selected profile</source>
+    <target>编辑选中的描述文件</target>
+</phrase>
+<phrase>
+    <source>New profile</source>
+    <target>新建描述文件</target>
+</phrase>
+<phrase>
+    <source>Would you like to delete the profile &apos;%1&apos;?</source>
+    <target>你要删除描述文件“%1”吗？</target>
+</phrase>
+<phrase>
+    <source>Resource File Changed</source>
+    <target>资源文件已改变</target>
+</phrase>
+<phrase>
+    <source>Add form layout row...</source>
+    <target>添加窗体行布局...</target>
+</phrase>
+<phrase>
+    <source>Drop widget</source>
+    <target>丢弃窗口部件</target>
+</phrase>
+<phrase>
+    <source>Edit contents</source>
+    <target>编辑内容</target>
+</phrase>
+<phrase>
+    <source>F2</source>
+    <target>F2</target>
+</phrase>
+<phrase>
+    <source>Insert widget &apos;%1&apos;</source>
+    <target>插入窗口部件“%1”</target>
+</phrase>
+<phrase>
+    <source>Key Move</source>
+    <target>键移动</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>重定义大小</target>
+</phrase>
+<phrase>
+    <source>Lay out</source>
+    <target>布局</target>
+</phrase>
+<phrase>
+    <source>Key Resize</source>
+    <target>重定义键大小</target>
+</phrase>
+<phrase>
+    <source>Lower widgets</source>
+    <target>下降窗口部件</target>
+</phrase>
+<phrase>
+    <source>Paste %n action(s)</source>
+    <target>粘贴 %n 个动作</target>
+</phrase>
+<phrase>
+    <source>Paste %n widget(s)</source>
+    <target>粘贴 %n 个窗口部件</target>
+</phrase>
+<phrase>
+    <source>Paste (%1 widgets, %2 actions)</source>
+    <target>粘贴(%1 个窗口部件，%2 个动作)</target>
+</phrase>
+<phrase>
+    <source>Paste error</source>
+    <target>粘贴错误</target>
+</phrase>
+<phrase>
+    <source>Raise widgets</source>
+    <target>上升窗口部件</target>
+</phrase>
+<phrase>
+    <source>Select Ancestor</source>
+    <target>选择祖先</target>
+</phrase>
+<phrase>
+    <source>Invalid form</source>
+    <target>无效的窗体</target>
+</phrase>
+<phrase>
+    <source>Adjust &amp;Size</source>
+    <target>调整大小(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Adjust Size</source>
+    <target>调整大小</target>
+</phrase>
+<phrase>
+    <source>Adjusts the size of the selected widget</source>
+    <target>调整选中的窗口部件的大小</target>
+</phrase>
+<phrase>
+    <source>&amp;Break Layout</source>
+    <target>打破布局(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>Break Layout</source>
+    <target>打破布局</target>
+</phrase>
+<phrase>
+    <source>Breaks the selected layout</source>
+    <target>打破选中的布局</target>
+</phrase>
+<phrase>
+    <source>Bring to &amp;Front</source>
+    <target>放到前面(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>Copies the selected widgets to the clipboard</source>
+    <target>复制选中的窗口部件到剪贴板</target>
+</phrase>
+<phrase>
+    <source>Could not create form preview</source>
+    <target>无法创建窗体预览</target>
+</phrase>
+<phrase>
+    <source>Cu&amp;t</source>
+    <target>剪切(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Deletes the selected widgets</source>
+    <target>删除选中的窗口部件</target>
+</phrase>
+<phrase>
+    <source>Form Settings - %1</source>
+    <target>窗体设定 - %1</target>
+</phrase>
+<phrase>
+    <source>Form &amp;Settings...</source>
+    <target>窗体设定(&amp;S)...</target>
+</phrase>
+<phrase>
+    <source>Lay Out &amp;Horizontally</source>
+    <target>水平布局(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>Lay Out in a &amp;Form Layout</source>
+    <target>窗体布局(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>Lay Out in a &amp;Grid</source>
+    <target>栅格布局(&amp;G)</target>
+</phrase>
+<phrase>
+    <source>Lay Out &amp;Vertically</source>
+    <target>垂直布局(&amp;V)</target>
+</phrase>
+<phrase>
+    <source>Lay Out Vertically in Sp&amp;litter</source>
+    <target>分裂器垂直布局(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Preview current form</source>
+    <target>预览当前窗体</target>
+</phrase>
+<phrase>
+    <source>&amp;Preview...</source>
+    <target>预览(&amp;P)...</target>
+</phrase>
+<phrase>
+    <source>Select &amp;All</source>
+    <target>全选(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Selects all widgets</source>
+    <target>选择所有窗口部件</target>
+</phrase>
+<phrase>
+    <source>Send to &amp;Back</source>
+    <target>放到后面(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>Si&amp;mplify Grid Layout</source>
+    <target>简易网格布局(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Device Profile: %1</source>
+    <target>设备描述文件：%1</target>
+</phrase>
+<phrase>
+    <source>Grid &amp;X</source>
+    <target>栅格 &amp;X</target>
+</phrase>
+<phrase>
+    <source>Grid &amp;Y</source>
+    <target>栅格 &amp;Y</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>重置</target>
+</phrase>
+<phrase>
+    <source>Snap</source>
+    <target>贴齐</target>
+</phrase>
+<phrase>
+    <source>Visible</source>
+    <target>可见的</target>
+</phrase>
+<phrase>
+    <source>Change title...</source>
+    <target>改变标题...</target>
+</phrase>
+<phrase>
+    <source>Choose a Pixmap</source>
+    <target>选择一个像素映射</target>
+</phrase>
+<phrase>
+    <source>Choose File...</source>
+    <target>选择文件...</target>
+</phrase>
+<phrase>
+    <source>Choose Resource...</source>
+    <target>选择资源...</target>
+</phrase>
+<phrase>
+    <source>Pixmap Read Error</source>
+    <target>像素映射读取错误</target>
+</phrase>
+<phrase>
+    <source>Reset All</source>
+    <target>全部重置</target>
+</phrase>
+<phrase>
+    <source>The file &apos;%1&apos; could not be read: %2</source>
+    <target>无法读取文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>The file &apos;%1&apos; does not appear to be a valid pixmap file: %2</source>
+    <target>无效的像素映射文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>The pixmap file &apos;%1&apos; cannot be read.</source>
+    <target>无法读取像素映射文件“%1”。</target>
+</phrase>
+<phrase>
+    <source>Paste Path</source>
+    <target>粘贴路径</target>
+</phrase>
+<phrase>
+    <source>D</source>
+    <target>D</target>
+</phrase>
+<phrase>
+    <source>Delete Item</source>
+    <target>删除项目</target>
+</phrase>
+<phrase>
+    <source>Items List</source>
+    <target>项目列表</target>
+</phrase>
+<phrase>
+    <source>Move Item Down</source>
+    <target>向下移动项</target>
+</phrase>
+<phrase>
+    <source>New Item</source>
+    <target>新建项目</target>
+</phrase>
+<phrase>
+    <source>Move Item Up</source>
+    <target>向上移动项目</target>
+</phrase>
+<phrase>
+    <source>Properties &amp;&lt;&lt;</source>
+    <target>属性&amp;&lt;&lt;</target>
+</phrase>
+<phrase>
+    <source>Properties &amp;&gt;&gt;</source>
+    <target>属性&amp;&gt;&gt;</target>
+</phrase>
+<phrase>
+    <source>U</source>
+    <target>U</target>
+</phrase>
+<phrase>
+    <source>Change plain text...</source>
+    <target>改变普通文本...</target>
+</phrase>
+<phrase>
+    <source>Change rich text...</source>
+    <target>改变多信息文本...</target>
+</phrase>
+<phrase>
+    <source>Choose Resource</source>
+    <target>选择资源</target>
+</phrase>
+<phrase>
+    <source>Edit Combobox</source>
+    <target>编辑组合框</target>
+</phrase>
+<phrase>
+    <source>Edit List Widget</source>
+    <target>编辑列表窗口部件</target>
+</phrase>
+<phrase>
+    <source>Change List Contents</source>
+    <target>改变列表内容</target>
+</phrase>
+<phrase>
+    <source>Cascade</source>
+    <target>层叠</target>
+</phrase>
+<phrase>
+    <source>Next Subwindow</source>
+    <target>下一个子窗口</target>
+</phrase>
+<phrase>
+    <source>Previous Subwindow</source>
+    <target>上一个子窗口</target>
+</phrase>
+<phrase>
+    <source>Tile</source>
+    <target>平铺</target>
+</phrase>
+<phrase>
+    <source>Morph into</source>
+    <target>变型为</target>
+</phrase>
+<phrase>
+    <source>&amp;Checkable:</source>
+    <target>可选的(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Icon:</source>
+    <target>图标(&amp;I)：</target>
+</phrase>
+<phrase>
+    <source>New Action...</source>
+    <target>新建动作...</target>
+</phrase>
+<phrase>
+    <source>Object &amp;name:</source>
+    <target>对象名称(&amp;N)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Shortcut:</source>
+    <target>快捷键(&amp;S)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Text:</source>
+    <target>文本(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>T&amp;oolTip:</source>
+    <target>工具提示(&amp;O)：</target>
+</phrase>
+<phrase>
+    <source>Create Dynamic Property</source>
+    <target>创建动态属性</target>
+</phrase>
+<phrase>
+    <source>horizontalSpacer</source>
+    <target>水平间隔器</target>
+</phrase>
+<phrase>
+    <source>Property Name</source>
+    <target>属性名称</target>
+</phrase>
+<phrase>
+    <source>Property Type</source>
+    <target>属性类型</target>
+</phrase>
+<phrase>
+    <source>Set Property Name</source>
+    <target>设置属性名称</target>
+</phrase>
+<phrase>
+    <source>0</source>
+    <target>0</target>
+</phrase>
+<phrase>
+    <source>Choose a template for a preview</source>
+    <target>选择一个用于预览的模板</target>
+</phrase>
+<phrase>
+    <source>Default size</source>
+    <target>默认大小</target>
+</phrase>
+<phrase>
+    <source>Device:</source>
+    <target>设备：</target>
+</phrase>
+<phrase>
+    <source>Error loading form</source>
+    <target>加载窗体错误</target>
+</phrase>
+<phrase>
+    <source>Internal error: No template selected.</source>
+    <target>内部错误：没有模板被选中。</target>
+</phrase>
+<phrase>
+    <source>QVGA landscape (320x240)</source>
+    <target>QVGA 横向(320X240)</target>
+</phrase>
+<phrase>
+    <source>QVGA portrait (240x320)</source>
+    <target>QVGA 纵向(240x320)</target>
+</phrase>
+<phrase>
+    <source>Screen Size:</source>
+    <target>屏幕大小：</target>
+</phrase>
+<phrase>
+    <source>Unable to open the form template file &apos;%1&apos;: %2</source>
+    <target>无法打开窗体模版文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>VGA landscape (640x480)</source>
+    <target>VGA 横向(640x480)</target>
+</phrase>
+<phrase>
+    <source>VGA portrait (480x640)</source>
+    <target>VGA 纵向(480x640)</target>
+</phrase>
+<phrase>
+    <source>Widgets</source>
+    <target>窗口部件</target>
+</phrase>
+<phrase>
+    <source>Base class name:</source>
+    <target>基类名称：</target>
+</phrase>
+<phrase>
+    <source>Global include</source>
+    <target>全局包含</target>
+</phrase>
+<phrase>
+    <source>Header file:</source>
+    <target>头文件：</target>
+</phrase>
+<phrase>
+    <source>New Promoted Class</source>
+    <target>新建提升的类</target>
+</phrase>
+<phrase>
+    <source>Promoted class name:</source>
+    <target>提升的类名称：</target>
+</phrase>
+<phrase>
+    <source>Change Current Page</source>
+    <target>改变当前页</target>
+</phrase>
+<phrase>
+    <source>%1 %2</source>
+    <target>%1 %2</target>
+</phrase>
+<phrase>
+    <source>Index %1 (%2)</source>
+    <target>索引 %1 (%2)</target>
+</phrase>
+<phrase>
+    <source>Move page down</source>
+    <target>向下移动页</target>
+</phrase>
+<phrase>
+    <source>Move page up</source>
+    <target>向上移动页</target>
+</phrase>
+<phrase>
+    <source>Page Order</source>
+    <target>页顺序</target>
+</phrase>
+<phrase>
+    <source>Active</source>
+    <target>激活</target>
+</phrase>
+<phrase>
+    <source>Compute Details</source>
+    <target>计算细节</target>
+</phrase>
+<phrase>
+    <source>Disabled</source>
+    <target>失效</target>
+</phrase>
+<phrase>
+    <source>Edit Palette</source>
+    <target>编辑调色板</target>
+</phrase>
+<phrase>
+    <source>Inactive</source>
+    <target>非激活</target>
+</phrase>
+<phrase>
+    <source>Preview</source>
+    <target>预览</target>
+</phrase>
+<phrase>
+    <source>Quick</source>
+    <target>快速</target>
+</phrase>
+<phrase>
+    <source>Show Details</source>
+    <target>显示细节</target>
+</phrase>
+<phrase>
+    <source>Tune Palette</source>
+    <target>曲调调色板</target>
+</phrase>
+<phrase>
+    <source>Change Palette</source>
+    <target>改变调色板</target>
+</phrase>
+<phrase>
+    <source>Color Role</source>
+    <target>颜色角色</target>
+</phrase>
+<phrase>
+    <source>Edit text</source>
+    <target>编辑文本</target>
+</phrase>
+<phrase>
+    <source>Components</source>
+    <target>组件</target>
+</phrase>
+<phrase>
+    <source>New custom widget plugins have been found.</source>
+    <target>已经找到新的自定义窗口部件插件。</target>
+</phrase>
+<phrase>
+    <source>Qt Designer couldn&apos;t find any plugins</source>
+    <target>Qt 设计师找不到任何插件</target>
+</phrase>
+<phrase>
+    <source>Qt Designer found the following plugins</source>
+    <target>Qt 设计师已找到以下插件</target>
+</phrase>
+<phrase>
+    <source>Refresh</source>
+    <target>刷新</target>
+</phrase>
+<phrase>
+    <source>Scan for newly installed custom widget plugins.</source>
+    <target>扫描新安装的自定义窗口部件插件。</target>
+</phrase>
+<phrase>
+    <source>%1 Style</source>
+    <target>%1 风格</target>
+</phrase>
+<phrase>
+    <source>%1 - Duplicate Skin</source>
+    <target>%1 - 重复的皮肤</target>
+</phrase>
+<phrase>
+    <source>%1 is not a valid skin directory:
+%2</source>
+    <target>%1 不是有效皮肤目录：
+%2</target>
+</phrase>
+<phrase>
+    <source>All QVFB Skins (*.%1)</source>
+    <target>所有 QVFB 皮肤 (*.%1)</target>
+</phrase>
+<phrase>
+    <source>Browse...</source>
+    <target>浏览...</target>
+</phrase>
+<phrase>
+    <source>Load Custom Device Skin</source>
+    <target>加载自定义设备皮肤</target>
+</phrase>
+<phrase>
+    <source>The skin &apos;%1&apos; already exists.</source>
+    <target>皮肤“%1”已经存在。</target>
+</phrase>
+<phrase>
+    <source>&amp;Portrait</source>
+    <target>纵向(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Landscape (&amp;CCW)</source>
+    <target>横向 (&amp;CCM)</target>
+</phrase>
+<phrase>
+    <source>&amp;Landscape (CW)</source>
+    <target>横向 (&amp;LCM)</target>
+</phrase>
+<phrase>
+    <source>%1 - [Preview]</source>
+    <target>%1 - [预览]</target>
+</phrase>
+<phrase>
+    <source>ButtonGroup2</source>
+    <target>ButtonGroup2</target>
+</phrase>
+<phrase>
+    <source>ButtonGroup</source>
+    <target>ButtonGroup</target>
+</phrase>
+<phrase>
+    <source>CheckBox1</source>
+    <target>Checkbox1</target>
+</phrase>
+<phrase>
+    <source>CheckBox2</source>
+    <target>CheckBox2</target>
+</phrase>
+<phrase>
+    <source>ComboBox</source>
+    <target>Combobox</target>
+</phrase>
+<phrase>
+    <source>LineEdit</source>
+    <target>LineEdit</target>
+</phrase>
+<phrase>
+    <source>Preview Window</source>
+    <target>预览窗口</target>
+</phrase>
+<phrase>
+    <source>PushButton</source>
+    <target>PushButton</target>
+</phrase>
+<phrase>
+    <source>RadioButton1</source>
+    <target>RadioButton1</target>
+</phrase>
+<phrase>
+    <source>RadioButton2</source>
+    <target>RadioButton2</target>
+</phrase>
+<phrase>
+    <source>RadioButton3</source>
+    <target>RadioBUtton3</target>
+</phrase>
+<phrase>
+    <source>Header file</source>
+    <target>头文件</target>
+</phrase>
+<phrase>
+    <source>Usage</source>
+    <target>用法</target>
+</phrase>
+<phrase>
+    <source>Change signals/slots...</source>
+    <target>改变信号/槽...</target>
+</phrase>
+<phrase>
+    <source>Demote to %1</source>
+    <target>取消 %1 的提升</target>
+</phrase>
+<phrase>
+    <source>Promote to</source>
+    <target>提升为</target>
+</phrase>
+<phrase>
+    <source>Promote to ...</source>
+    <target>提升为...</target>
+</phrase>
+<phrase>
+    <source>Promoted widgets...</source>
+    <target>提升的窗口部件...</target>
+</phrase>
+<phrase>
+    <source>1</source>
+    <target>1</target>
+</phrase>
+<phrase>
+    <source>Add Dynamic Property...</source>
+    <target>添加动态属性...</target>
+</phrase>
+<phrase>
+    <source>Bool...</source>
+    <target>布尔...</target>
+</phrase>
+<phrase>
+    <source>Color Groups</source>
+    <target>颜色组</target>
+</phrase>
+<phrase>
+    <source>Configure Property Editor</source>
+    <target>配置属性编辑器</target>
+</phrase>
+<phrase>
+    <source>Drop Down Button View</source>
+    <target>下拉按钮视图</target>
+</phrase>
+<phrase>
+    <source>Object: %1
+Class: %2</source>
+    <target>对象：%1
+类：%2</target>
+</phrase>
+<phrase>
+    <source>Other...</source>
+    <target>其它...</target>
+</phrase>
+<phrase>
+    <source>Remove Dynamic Property</source>
+    <target>移除动态属性</target>
+</phrase>
+<phrase>
+    <source>Sorting</source>
+    <target>排序中</target>
+</phrase>
+<phrase>
+    <source>String...</source>
+    <target>字符串...</target>
+</phrase>
+<phrase>
+    <source>Tree View</source>
+    <target>树视图</target>
+</phrase>
+<phrase>
+    <source>Insert line break</source>
+    <target>插入换行符</target>
+</phrase>
+<phrase>
+    <source>Promote</source>
+    <target>提升</target>
+</phrase>
+<phrase>
+    <source>Lay out vertically</source>
+    <target>垂直布局</target>
+</phrase>
+<phrase>
+    <source>Lay out horizontally</source>
+    <target>水平布局</target>
+</phrase>
+<phrase>
+    <source>Simplify Grid Layout</source>
+    <target>简易网格布局</target>
+</phrase>
+<phrase>
+    <source>Theme</source>
+    <target>主题</target>
+</phrase>
+<phrase>
+    <source>Set Icon From Theme</source>
+    <target>从主题中设置图标</target>
+</phrase>
+<phrase>
+    <source>Set Icon From Theme...</source>
+    <target>从主题中设置图标...</target>
+</phrase>
+<phrase>
+    <source>Loaded Plugins</source>
+    <target>已加载的插件</target>
+</phrase>
+<phrase>
+    <source>Failed Plugins</source>
+    <target>错误的插件</target>
+</phrase>
+<phrase>
+    <source>Promoted Classes</source>
+    <target>提升的类</target>
+</phrase>
+<phrase>
+    <source>Loading qrc file</source>
+    <target>正在载入 qrc 文件</target>
+</phrase>
+<phrase>
+    <source>New location for %1</source>
+    <target>%1 的新位置</target>
+</phrase>
+<phrase>
+    <source>Center Horizontally</source>
+    <target>水平居中</target>
+</phrase>
+<phrase>
+    <source>Center Vertically</source>
+    <target>垂直居中</target>
+</phrase>
+<phrase>
+    <source>Change objectName...</source>
+    <target>改变对象名称...</target>
+</phrase>
+<phrase>
+    <source>Change styleSheet...</source>
+    <target>改变样式表...</target>
+</phrase>
+<phrase>
+    <source>Change toolTip...</source>
+    <target>改变工具提示...</target>
+</phrase>
+<phrase>
+    <source>Change whatsThis...</source>
+    <target>改变这是什么...</target>
+</phrase>
+<phrase>
+    <source>Edit ToolTip</source>
+    <target>编辑工具提示</target>
+</phrase>
+<phrase>
+    <source>Edit WhatsThis</source>
+    <target>编辑这是什么</target>
+</phrase>
+<phrase>
+    <source>Layout Alignment</source>
+    <target>布局项的对齐方式</target>
+</phrase>
+<phrase>
+    <source>Set Maximum Size</source>
+    <target>设置最大大小</target>
+</phrase>
+<phrase>
+    <source>Remove Status Bar</source>
+    <target>移除状态栏</target>
+</phrase>
+<phrase>
+    <source>Set Maximum Height</source>
+    <target>设置最大高度</target>
+</phrase>
+<phrase>
+    <source>Set Maximum Width</source>
+    <target>设置最大宽度</target>
+</phrase>
+<phrase>
+    <source>Set Minimum Height</source>
+    <target>设置最小高度</target>
+</phrase>
+<phrase>
+    <source>Set Minimum Size</source>
+    <target>设置最小大小</target>
+</phrase>
+<phrase>
+    <source>Set Minimum Width</source>
+    <target>设置最小宽度</target>
+</phrase>
+<phrase>
+    <source>Set size constraint on %n widget(s)</source>
+    <target>为 %n 个窗口部件设置大小限定</target>
+</phrase>
+<phrase>
+    <source>Size Constraints</source>
+    <target>大小限定</target>
+</phrase>
+<phrase>
+    <source>B</source>
+    <target>B</target>
+</phrase>
+<phrase>
+    <source>G</source>
+    <target>G</target>
+</phrase>
+<phrase>
+    <source>&amp;Cancel</source>
+    <target>取消(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;OK</source>
+    <target>确定(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Rich Text</source>
+    <target>多文本</target>
+</phrase>
+<phrase>
+    <source>Source</source>
+    <target>源</target>
+</phrase>
+<phrase>
+    <source>Center</source>
+    <target>中央对齐</target>
+</phrase>
+<phrase>
+    <source>CTRL+B</source>
+    <target>CTRL+B</target>
+</phrase>
+<phrase>
+    <source>CTRL+I</source>
+    <target>CTRL+I</target>
+</phrase>
+<phrase>
+    <source>CTRL+U</source>
+    <target>CTRL+I</target>
+</phrase>
+<phrase>
+    <source>Insert &amp;Image</source>
+    <target>插入图像(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>Insert &amp;Link</source>
+    <target>插入链接(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Justify</source>
+    <target>自动调整</target>
+</phrase>
+<phrase>
+    <source>Left Align</source>
+    <target>左对齐</target>
+</phrase>
+<phrase>
+    <source>Right Align</source>
+    <target>右对齐</target>
+</phrase>
+<phrase>
+    <source>Right to Left</source>
+    <target>右到左</target>
+</phrase>
+<phrase>
+    <source>Simplify Rich Text</source>
+    <target>简易多文本</target>
+</phrase>
+<phrase>
+    <source>Subscript</source>
+    <target>下标</target>
+</phrase>
+<phrase>
+    <source>Superscript</source>
+    <target>上标</target>
+</phrase>
+<phrase>
+    <source>%1 - Duplicate Signature</source>
+    <target>%1 - 重复的签名</target>
+</phrase>
+<phrase>
+    <source>Signals/Slots of %1</source>
+    <target>%1 的信号/槽</target>
+</phrase>
+<phrase>
+    <source>There is already a signal with the signature &apos;%1&apos;.</source>
+    <target>这里已经有一个签名为“%1”的信号。</target>
+</phrase>
+<phrase>
+    <source>There is already a slot with the signature &apos;%1&apos;.</source>
+    <target>这里已经有一个签名为“%1”的槽。</target>
+</phrase>
+<phrase>
+    <source>Edit Signals/Slots</source>
+    <target>编辑信号/槽</target>
+</phrase>
+<phrase>
+    <source>F4</source>
+    <target>F4</target>
+</phrase>
+<phrase>
+    <source>Change String List</source>
+    <target>改变字符串列表</target>
+</phrase>
+<phrase>
+    <source>Add Color...</source>
+    <target>添加颜色...</target>
+</phrase>
+<phrase>
+    <source>Add Font...</source>
+    <target>添加字体...</target>
+</phrase>
+<phrase>
+    <source>Add Gradient...</source>
+    <target>添加渐变...</target>
+</phrase>
+<phrase>
+    <source>Add Resource...</source>
+    <target>添加资源...</target>
+</phrase>
+<phrase>
+    <source>Edit Style Sheet</source>
+    <target>编辑样式表</target>
+</phrase>
+<phrase>
+    <source>Invalid Style Sheet</source>
+    <target>无效样式表</target>
+</phrase>
+<phrase>
+    <source>Valid Style Sheet</source>
+    <target>有效样式表</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>重新开始</target>
+</phrase>
+<phrase>
+    <source>Start from Here</source>
+    <target>从这里开始</target>
+</phrase>
+<phrase>
+    <source>Tab Order</source>
+    <target>制表符顺序</target>
+</phrase>
+<phrase>
+    <source>Tab Order List</source>
+    <target>制表符顺序列表</target>
+</phrase>
+<phrase>
+    <source>Tab Order List...</source>
+    <target>制表符顺序列表...</target>
+</phrase>
+<phrase>
+    <source>Edit Tab Order</source>
+    <target>编辑 Tab 顺序</target>
+</phrase>
+<phrase>
+    <source>&amp;Columns</source>
+    <target>列(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Edit Table Widget</source>
+    <target>编辑表格窗口部件</target>
+</phrase>
+<phrase>
+    <source>&amp;Items</source>
+    <target>项目(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>New Column</source>
+    <target>新建列</target>
+</phrase>
+<phrase>
+    <source>New Row</source>
+    <target>新建行</target>
+</phrase>
+<phrase>
+    <source>&amp;Rows</source>
+    <target>行(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Table Items</source>
+    <target>表格项目</target>
+</phrase>
+<phrase>
+    <source>Additional Template Paths</source>
+    <target>添加模板路径</target>
+</phrase>
+<phrase>
+    <source>Change HTML...</source>
+    <target>改变HTML...</target>
+</phrase>
+<phrase>
+    <source>Change Plain Text...</source>
+    <target>改变普通文本...</target>
+</phrase>
+<phrase>
+    <source>Edit HTML</source>
+    <target>编辑 HTML</target>
+</phrase>
+<phrase>
+    <source>Edit Text</source>
+    <target>编辑文本</target>
+</phrase>
+<phrase>
+    <source>Choose a File</source>
+    <target>选择一个文件</target>
+</phrase>
+<phrase>
+    <source>Append Separator</source>
+    <target>添加分隔符</target>
+</phrase>
+<phrase>
+    <source>Insert Separator</source>
+    <target>插入分隔符</target>
+</phrase>
+<phrase>
+    <source>Insert Separator before &apos;%1&apos;</source>
+    <target>在“%1”之前插入分隔符</target>
+</phrase>
+<phrase>
+    <source>Remove Toolbar &apos;%1&apos;</source>
+    <target>移除工具栏“%1”</target>
+</phrase>
+<phrase>
+    <source>Common properties</source>
+    <target>共同属性</target>
+</phrase>
+<phrase>
+    <source>Edit Tree Widget</source>
+    <target>编辑树窗口部件</target>
+</phrase>
+<phrase>
+    <source>L</source>
+    <target>L</target>
+</phrase>
+<phrase>
+    <source>Move Item Left (before Parent Item)</source>
+    <target>向左移动项目(移动到父项目之前)</target>
+</phrase>
+<phrase>
+    <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
+    <target>向右移动项目(作为下一个同级项目的第一个子项目)</target>
+</phrase>
+<phrase>
+    <source>New Subitem</source>
+    <target>新建子项目</target>
+</phrase>
+<phrase>
+    <source>New &amp;Subitem</source>
+    <target>新建子项目(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Per column properties</source>
+    <target>每列属性</target>
+</phrase>
+<phrase>
+    <source>Tree Items</source>
+    <target>树项目</target>
+</phrase>
+<phrase>
+    <source>Collapse all</source>
+    <target>全部折叠</target>
+</phrase>
+<phrase>
+    <source>Edit name</source>
+    <target>编辑名称</target>
+</phrase>
+<phrase>
+    <source>Expand all</source>
+    <target>全部展开</target>
+</phrase>
+<phrase>
+    <source>List View</source>
+    <target>列表视图</target>
+</phrase>
+<phrase>
+    <source>Scratchpad</source>
+    <target>便条</target>
+</phrase>
+<phrase>
+    <source>Cannot create style &apos;%1&apos;.</source>
+    <target>无法创建样式“%1”。</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>后退</target>
+</phrase>
+<phrase>
+    <source>&amp;Zoom</source>
+    <target>缩放(&amp;Z)</target>
+</phrase>
+<phrase>
+    <source>The class %1 cannot be removed</source>
+    <target>类 %1 不能移除</target>
+</phrase>
+<phrase>
+    <source>The class %1 cannot be renamed</source>
+    <target>类 %1不能被重命名</target>
+</phrase>
+<phrase>
+    <source>Cannot set an empty include file.</source>
+    <target>不能设定空白包含文件。</target>
+</phrase>
+</QPH>

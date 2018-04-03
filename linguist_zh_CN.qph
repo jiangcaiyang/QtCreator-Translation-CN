@@ -1,0 +1,972 @@
+<!DOCTYPE QPH>
+<QPH language="zh_CN">
+<phrase>
+    <source>Qt Linguist</source>
+    <target>Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>Batch translated %n entries</source>
+    <target>已经批翻译 %n 个条目</target>
+</phrase>
+<phrase>
+    <source>Batch Translation of &apos;%1&apos; - Qt Linguist</source>
+    <target>批翻译“%1” - Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>Linguist batch translator</source>
+    <target>语言家批翻译器</target>
+</phrase>
+<phrase>
+    <source>Move down</source>
+    <target>向下移动</target>
+</phrase>
+<phrase>
+    <source>Move up</source>
+    <target>向上移动</target>
+</phrase>
+<phrase>
+    <source>Phrase book preference</source>
+    <target>短语书优先级</target>
+</phrase>
+<phrase>
+    <source>&amp;Run</source>
+    <target>运行(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Searching, please wait...</source>
+    <target>正在搜索，请等待...</target>
+</phrase>
+<phrase>
+    <source>&lt;br&gt;* Comment: %3</source>
+    <target>&lt;br&gt;* 注释：%3</target>
+</phrase>
+<phrase>
+    <source>&amp;Comments</source>
+    <target>注释(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target>查找</target>
+</phrase>
+<phrase>
+    <source>Find Next</source>
+    <target>查找下一个</target>
+</phrase>
+<phrase>
+    <source>&amp;Find what:</source>
+    <target>查找内容(&amp;F)：</target>
+</phrase>
+<phrase>
+    <source>Ignore &amp;accelerators</source>
+    <target>忽略加速键(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>&amp;Match case</source>
+    <target>大小写匹配(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Skip &amp;obsolete</source>
+    <target>跳过过时的(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>&amp;Source texts</source>
+    <target>源文(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>&amp;Translations</source>
+    <target>译文(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Alt+Delete</source>
+    <target>Alt+Delete</target>
+</phrase>
+<phrase>
+    <source>Alt+Insert</source>
+    <target>Alt+Insert</target>
+</phrase>
+<phrase>
+    <source>Shift+Alt+Insert</source>
+    <target>Shift+Alt+Insert</target>
+</phrase>
+<phrase>
+    <source>%1[*] - Qt Linguist</source>
+    <target>%1[*] - Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>%n phrase(s) loaded.</source>
+    <target>已经载入%n个短语。</target>
+</phrase>
+<phrase>
+    <source>%n translation unit(s) loaded.</source>
+    <target>已加载%n 个翻译单元。</target>
+</phrase>
+<phrase>
+    <source>About Qt Linguist</source>
+    <target>关于 Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>&amp;Accelerators</source>
+    <target>加速键(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Add to phrase book</source>
+    <target>添加到短语书</target>
+</phrase>
+<phrase>
+    <source>&amp;Add to Phrase Book</source>
+    <target>添加到短语书(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>All</source>
+    <target>全部</target>
+</phrase>
+<phrase>
+    <source>&amp;Batch Translation of &apos;%1&apos;...</source>
+    <target>“%1”的批翻译(&amp;B)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Batch Translation...</source>
+    <target>批翻译(&amp;B)...</target>
+</phrase>
+<phrase>
+    <source>Cannot create phrase book &apos;%1&apos;.</source>
+    <target>无法创建短语书“%1”。</target>
+</phrase>
+<phrase>
+    <source>Cannot find the string &apos;%1&apos;.</source>
+    <target>找不到字符串“%1”。</target>
+</phrase>
+<phrase>
+    <source>Cannot read from phrase book &apos;%1&apos;.</source>
+    <target>无法读取短语书“%1”。</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>关闭</target>
+</phrase>
+<phrase>
+    <source>&amp;Close &apos;%1&apos;</source>
+    <target>关闭“%1”(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Close All</source>
+    <target>全部关闭(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Close All</source>
+    <target>全部关闭</target>
+</phrase>
+<phrase>
+    <source>&amp;Close Phrase Book</source>
+    <target>关闭短语书(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Close this phrase book.</source>
+    <target>关闭这个短语书。</target>
+</phrase>
+<phrase>
+    <source>Close this window and exit.</source>
+    <target>关闭这个窗口并且退出。</target>
+</phrase>
+<phrase>
+    <source>Context</source>
+    <target>上下文</target>
+</phrase>
+<phrase>
+    <source>Context: %1</source>
+    <target>上下文：%1</target>
+</phrase>
+<phrase>
+    <source>Continue the search where it was left.</source>
+    <target>从上次搜索结束的地方继续。</target>
+</phrase>
+<phrase>
+    <source>Copy from source text</source>
+    <target>从源文本中复制</target>
+</phrase>
+<phrase>
+    <source>Create New Phrase Book</source>
+    <target>创建新短语书</target>
+</phrase>
+<phrase>
+    <source>Ctrl+-</source>
+    <target>Ctrl+-</target>
+</phrase>
+<phrase>
+    <source>Ctrl++</source>
+    <target>Ctrl++</target>
+</phrase>
+<phrase>
+    <source>Ctrl+A</source>
+    <target>Ctrl+A</target>
+</phrase>
+<phrase>
+    <source>Ctrl+B</source>
+    <target>Ctrl+B</target>
+</phrase>
+<phrase>
+    <source>Ctrl+C</source>
+    <target>Ctrl+C</target>
+</phrase>
+<phrase>
+    <source>Ctrl+F</source>
+    <target>Ctrl+F</target>
+</phrase>
+<phrase>
+    <source>Ctrl+H</source>
+    <target>Ctrl+H</target>
+</phrase>
+<phrase>
+    <source>Ctrl+J</source>
+    <target>Ctrl+J</target>
+</phrase>
+<phrase>
+    <source>Ctrl+K</source>
+    <target>Ctrl+K</target>
+</phrase>
+<phrase>
+    <source>Ctrl+N</source>
+    <target>Ctrl+N</target>
+</phrase>
+<phrase>
+    <source>Ctrl+O</source>
+    <target>Ctrl+O</target>
+</phrase>
+<phrase>
+    <source>Ctrl+P</source>
+    <target>Ctrl+P</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Q</source>
+    <target>Ctrl+Q</target>
+</phrase>
+<phrase>
+    <source>Ctrl+S</source>
+    <target>Ctrl+S</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Shift+J</source>
+    <target>Ctrl+Shift+J</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Shift+K</source>
+    <target>Ctrl+Shift+K</target>
+</phrase>
+<phrase>
+    <source>Ctrl+T</source>
+    <target>Ctrl+T</target>
+</phrase>
+<phrase>
+    <source>Ctrl+V</source>
+    <target>Ctrl+V</target>
+</phrase>
+<phrase>
+    <source>Ctrl+W</source>
+    <target>Ctrl+W</target>
+</phrase>
+<phrase>
+    <source>Ctrl+X</source>
+    <target>Ctrl+X</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Y</source>
+    <target>Ctrl+Y</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Z</source>
+    <target>Ctrl+Z</target>
+</phrase>
+<phrase>
+    <source>Decrease</source>
+    <target>缩小</target>
+</phrase>
+<phrase>
+    <source>&amp;Display guesses</source>
+    <target>显示猜测(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Display information about %1.</source>
+    <target>显示有关 %1 的信息。</target>
+</phrase>
+<phrase>
+    <source>Display information about the Qt toolkit by Digia.</source>
+    <target>显示关于 Digia 的 Qt 工具包的信息。</target>
+</phrase>
+<phrase>
+    <source>Display the manual for %1.</source>
+    <target>显示 %1 的手册。</target>
+</phrase>
+<phrase>
+    <source>Display translation statistics.</source>
+    <target>显示翻译统计。</target>
+</phrase>
+<phrase>
+    <source>Do you want to save &apos;%1&apos;?</source>
+    <target>您想保存“%1”么？</target>
+</phrase>
+<phrase>
+    <source>&lt;p&gt;* Context: %1&lt;br&gt;* Source: %2</source>
+    <target>&lt;p&gt;* 上下文：%1&lt;br&gt;* 源：%2</target>
+</phrase>
+<phrase>
+    <source>&lt;p&gt;* ID: %1</source>
+    <target>&lt;p&gt;* ID: %1</target>
+</phrase>
+<phrase>
+    <source>&lt;p&gt;[more duplicates omitted]</source>
+    <target>&lt;p&gt;[省略更多重复]</target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Duplicate messages found in &apos;%1&apos;:</source>
+    <target>&lt;qt&gt;在“%1”中找到的重复信息：</target>
+</phrase>
+<phrase>
+    <source>Cannot create &apos;%2&apos;: %1</source>
+    <target>无法创建&apos;%2&apos;: %1</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos;
+Line: %2</source>
+    <target>“%1”行：%2</target>
+</phrase>
+<phrase>
+    <source>%1 translation</source>
+    <target>%1 译文</target>
+</phrase>
+<phrase>
+    <source>%1 translation (%2)</source>
+    <target>%1 译文（%2）</target>
+</phrase>
+<phrase>
+    <source>%1 translator comments</source>
+    <target>%1 译文注释</target>
+</phrase>
+<phrase>
+    <source>Chinese</source>
+    <target>汉语</target>
+</phrase>
+<phrase>
+    <source>Developer comments</source>
+    <target>开发人员注释</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>法语</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>德语</target>
+</phrase>
+<phrase>
+    <source>Here you can enter comments for your own use. They have no effect on the translated applications.</source>
+    <target>您可以在这里输入您自己的注释。它们不会对所翻译的应用程序产生任何影响。</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>日语</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>波兰语</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>俄语</target>
+</phrase>
+<phrase>
+    <source>Source text</source>
+    <target>源文</target>
+</phrase>
+<phrase>
+    <source>Source text (Plural)</source>
+    <target>源文(复数)</target>
+</phrase>
+<phrase>
+    <source>This area shows the source text.</source>
+    <target>这个区域显示源文。</target>
+</phrase>
+<phrase>
+    <source>&lt;context comment&gt;</source>
+    <target>&lt;上下文注释&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;file header&gt;</source>
+    <target>&lt;文件头&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;unnamed context&gt;</source>
+    <target>&lt;未命名的注释&gt;</target>
+</phrase>
+<phrase>
+    <source>Completion status for %1</source>
+    <target>%1 的完成状态</target>
+</phrase>
+<phrase>
+    <source>Parse error at line %1, column %2 (%3).</source>
+    <target>语法错误，行%1，列%2：%3。</target>
+</phrase>
+<phrase>
+    <source>Edit Phrase Book</source>
+    <target>编辑短语书</target>
+</phrase>
+<phrase>
+    <source>Do you want to save phrase book &apos;%1&apos;?</source>
+    <target>是否保存短语书&apos;%1&apos;？</target>
+</phrase>
+<phrase>
+    <source>Do you want to save the modified files?</source>
+    <target>是否保存修改的文件？</target>
+</phrase>
+<phrase>
+    <source>&amp;Edit Phrase Book</source>
+    <target>编辑短语书(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>Enables you to add, modify, or delete entries in this phrase book.</source>
+    <target>允许您对这个短语书进行添加、修改或者删除条目的操作。</target>
+</phrase>
+<phrase>
+    <source>&amp;Ending Punctuation</source>
+    <target>结束标点符号(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>Enter What&apos;s This? mode.</source>
+    <target>进入“这是什么？”模式。</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>退出(&amp;X)</target>
+</phrase>
+<phrase>
+    <source>F1</source>
+    <target>F1</target>
+</phrase>
+<phrase>
+    <source>F3</source>
+    <target>F3</target>
+</phrase>
+<phrase>
+    <source>F5</source>
+    <target>F5</target>
+</phrase>
+<phrase>
+    <source>File created.</source>
+    <target>文件已创建。</target>
+</phrase>
+<phrase>
+    <source>File saved.</source>
+    <target>文件已保存。</target>
+</phrase>
+<phrase>
+    <source>&amp;Find...</source>
+    <target>查找(&amp;F)...</target>
+</phrase>
+<phrase>
+    <source>finished</source>
+    <target>完成</target>
+</phrase>
+<phrase>
+    <source>Form Preview Tool</source>
+    <target>窗体预览工具</target>
+</phrase>
+<phrase>
+    <source>Increase</source>
+    <target>放大</target>
+</phrase>
+<phrase>
+    <source>Items</source>
+    <target>项</target>
+</phrase>
+<phrase>
+    <source>Compiled Qt translations</source>
+    <target>已编译的 Qt 翻译</target>
+</phrase>
+<phrase>
+    <source>Translation files (%1);;</source>
+    <target>翻译文件(%1);;</target>
+</phrase>
+<phrase>
+    <source>All files (*)</source>
+    <target>全部文件(*)</target>
+</phrase>
+<phrase>
+    <source>Guess</source>
+    <target>猜测</target>
+</phrase>
+<phrase>
+    <source>Guess (%1)</source>
+    <target>猜测 (%1)</target>
+</phrase>
+<phrase>
+    <source>&lt;i&gt;File %1 not available&lt;/i&gt;</source>
+    <target>&lt;i&gt;文件 %1 不可用&lt;/i&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;i&gt;File %1 not readable&lt;/i&gt;</source>
+    <target>&lt;i&gt;文件 %1 不可读&lt;/i&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;i&gt;Source code not available&lt;/i&gt;</source>
+    <target>&lt;i&gt;源代码不可用&lt;/i&gt;</target>
+</phrase>
+<phrase>
+    <source>Characters (with spaces):</source>
+    <target>字符（包含空格）：</target>
+</phrase>
+<phrase>
+    <source>Characters:</source>
+    <target>字符：</target>
+</phrase>
+<phrase>
+    <source>Statistics</source>
+    <target>统计</target>
+</phrase>
+<phrase>
+    <source>Translation</source>
+    <target>译文</target>
+</phrase>
+<phrase>
+    <source>Words:</source>
+    <target>单词：</target>
+</phrase>
+<phrase>
+    <source>Loading File - Qt Linguist</source>
+    <target>正在载入文件 - Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>Loading...</source>
+    <target>正在载入...</target>
+</phrase>
+<phrase>
+    <source>MainWindow</source>
+    <target>主窗口</target>
+</phrase>
+<phrase>
+    <source>&amp;Manual</source>
+    <target>手册(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Mark item as done and move to the next unfinished item</source>
+    <target>标记这一项为完成并且移动到下一个未完成项</target>
+</phrase>
+<phrase>
+    <source> MOD </source>
+    <target>已修改</target>
+</phrase>
+<phrase>
+    <source>Move to previous item</source>
+    <target>移动到上一项</target>
+</phrase>
+<phrase>
+    <source>Move to the next item.</source>
+    <target>移动到下一项。</target>
+</phrase>
+<phrase>
+    <source>Move to the next unfinished item.</source>
+    <target>移动到下一个未完成项。</target>
+</phrase>
+<phrase>
+    <source>Move to the previous item.</source>
+    <target>移动到上一项。</target>
+</phrase>
+<phrase>
+    <source>Move to the previous unfinished item.</source>
+    <target>移动到上一个未完成项。</target>
+</phrase>
+<phrase>
+    <source>&amp;New Phrase Book...</source>
+    <target>新建短语书(&amp;N)...</target>
+</phrase>
+<phrase>
+    <source>Ne&amp;xt</source>
+    <target>下一个(&amp;X)</target>
+</phrase>
+<phrase>
+    <source>Next item</source>
+    <target>下一项</target>
+</phrase>
+<phrase>
+    <source>&amp;Next Unfinished</source>
+    <target>下一个未完成(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Next unfinished item</source>
+    <target>下一个未完成项</target>
+</phrase>
+<phrase>
+    <source>obsolete</source>
+    <target>过时的</target>
+</phrase>
+<phrase>
+    <source>No appropriate phrasebook found.</source>
+    <target>未找到合适的短语书。</target>
+</phrase>
+<phrase>
+    <source>Open Phrase Book</source>
+    <target>打开短语书</target>
+</phrase>
+<phrase>
+    <source>&amp;Open Phrase Book...</source>
+    <target>打开短语书(&amp;O)...</target>
+</phrase>
+<phrase>
+    <source>Open Read-O&amp;nly...</source>
+    <target>以只读方式打开(&amp;N)...</target>
+</phrase>
+<phrase>
+    <source>Open Translation Files</source>
+    <target>打开翻译文件</target>
+</phrase>
+<phrase>
+    <source>Open/Refresh Form &amp;Preview</source>
+    <target>打开/刷新窗体预览(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Paste</source>
+    <target>粘贴(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Phrase matches</source>
+    <target>短语匹配(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Phrases</source>
+    <target>短语(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Phrases and guesses</source>
+    <target>短语和猜测</target>
+</phrase>
+<phrase>
+    <source>Place &amp;Marker Matches</source>
+    <target>位置标记匹配(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>P&amp;rev</source>
+    <target>上一个(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>&amp;Prev Unfinished</source>
+    <target>上一个未完成(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Previous unfinished item</source>
+    <target>上一个未完成项</target>
+</phrase>
+<phrase>
+    <source>&amp;Print Phrase Book</source>
+    <target>打印短语书(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Printing aborted</source>
+    <target>打印已取消</target>
+</phrase>
+<phrase>
+    <source>Printing completed</source>
+    <target>打印完成</target>
+</phrase>
+<phrase>
+    <source>Printing...</source>
+    <target>正在打印...</target>
+</phrase>
+<phrase>
+    <source>Printing... (page %1)</source>
+    <target>正在打印...(第%1页)</target>
+</phrase>
+<phrase>
+    <source>Qt Linguist[*]</source>
+    <target>Qt 语言家[*]</target>
+</phrase>
+<phrase>
+    <source>Recently Opened &amp;Files</source>
+    <target>最近打开的文件(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>&amp;Redo</source>
+    <target>重做(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Related files (%1);;</source>
+    <target>相关文件(%1);;</target>
+</phrase>
+<phrase>
+    <source>Release</source>
+    <target>发布</target>
+</phrase>
+<phrase>
+    <source>&amp;Release</source>
+    <target>发布(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Release &apos;%1&apos;</source>
+    <target>发布“%1”</target>
+</phrase>
+<phrase>
+    <source>Release &apos;%1&apos; As...</source>
+    <target>发布“%1”为...</target>
+</phrase>
+<phrase>
+    <source>&amp;Release All</source>
+    <target>全部发布(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Release As...</source>
+    <target>另外发布为...</target>
+</phrase>
+<phrase>
+    <source>&amp;Reset Sorting</source>
+    <target>还原排序(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>保存</target>
+</phrase>
+<phrase>
+    <source>&amp;Save &apos;%1&apos;</source>
+    <target>保存“%1”(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Reset to default</source>
+    <target>重置为默认</target>
+</phrase>
+<phrase>
+    <source>Save &apos;%1&apos; &amp;As...</source>
+    <target>另存“%1”为(&amp;A)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Save All</source>
+    <target>全部保存(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Save All</source>
+    <target>全部保存</target>
+</phrase>
+<phrase>
+    <source>Save As...</source>
+    <target>另存为...</target>
+</phrase>
+<phrase>
+    <source>Save changes made to this Qt translation source file</source>
+    <target>把修改保存到这个 Qt 翻译源文件中</target>
+</phrase>
+<phrase>
+    <source>Search And Translate in &apos;%1&apos; - Qt Linguist</source>
+    <target>搜索并翻译&apos;%1&apos; - Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>Search And &amp;Translate in &apos;%1&apos;...</source>
+    <target>在“%1”内搜索并翻译(&amp;T)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Search And Translate...</source>
+    <target>搜索并且翻译(&amp;S)...</target>
+</phrase>
+<phrase>
+    <source>Search And &amp;Translate...</source>
+    <target>搜索并翻译(&amp;T)...</target>
+</phrase>
+<phrase>
+    <source>Search for some text in the translation source file.</source>
+    <target>在翻译源文件中搜索一些文本。</target>
+</phrase>
+<phrase>
+    <source>Search wrapped.</source>
+    <target>搜索已回环。</target>
+</phrase>
+<phrase>
+    <source>Select phrase book to add to</source>
+    <target>选择短语书进行添加</target>
+</phrase>
+<phrase>
+    <source>Select the whole translation text.</source>
+    <target>选中整个译文。</target>
+</phrase>
+<phrase>
+    <source>Set whether or not to display translation guesses.</source>
+    <target>选择是否显示翻译猜测。</target>
+</phrase>
+<phrase>
+    <source>Shift+F1</source>
+    <target>Shift+F1</target>
+</phrase>
+<phrase>
+    <source>Sources and Forms</source>
+    <target>短语和表单</target>
+</phrase>
+<phrase>
+    <source>&amp;Statistics</source>
+    <target>统计(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>What&apos;s This?</source>
+    <target>这是什么？</target>
+</phrase>
+<phrase>
+    <source>Definition</source>
+    <target>准确度</target>
+</phrase>
+<phrase>
+    <source>Source phrase</source>
+    <target>源短语</target>
+</phrase>
+<phrase>
+    <source>Strings</source>
+    <target>字符串</target>
+</phrase>
+<phrase>
+    <source>This panel lists the source contexts.</source>
+    <target>这个面板列出源的上下文。</target>
+</phrase>
+<phrase>
+    <source>&amp;Toolbars</source>
+    <target>工具栏(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Translate - Qt Linguist</source>
+    <target>翻译 - Qt 语言家</target>
+</phrase>
+<phrase>
+    <source>Translated %n entry(s)</source>
+    <target>已翻译 %n 个条目。</target>
+</phrase>
+<phrase>
+    <source>&amp;Translation</source>
+    <target>译文(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Translation File &amp;Settings...</source>
+    <target>翻译文件设置(&amp;S)...</target>
+</phrase>
+<phrase>
+    <source>Unable to launch Qt Assistant (%1)</source>
+    <target>不能启动 Qt 助手（%1）</target>
+</phrase>
+<phrase>
+    <source>&amp;Undo</source>
+    <target>撤销(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>unresolved</source>
+    <target>未解决的</target>
+</phrase>
+<phrase>
+    <source>V&amp;alidation</source>
+    <target>验证(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Validation</source>
+    <target>验证</target>
+</phrase>
+<phrase>
+    <source>Version %1</source>
+    <target>版本 %1</target>
+</phrase>
+<phrase>
+    <source>Vie&amp;ws</source>
+    <target>视图(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>Visualize whitespace</source>
+    <target>标示空白</target>
+</phrase>
+<phrase>
+    <source>Warnings</source>
+    <target>警告</target>
+</phrase>
+<phrase>
+    <source>&amp;What&apos;s This?</source>
+    <target>这是什么？(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>(New Entry)</source>
+    <target>(新条目)</target>
+</phrase>
+<phrase>
+    <source>Cannot save phrase book &apos;%1&apos;.</source>
+    <target>无法保存短语书“%1”。</target>
+</phrase>
+<phrase>
+    <source>Click here to add the phrase to the phrase book.</source>
+    <target>点击这里把这个短语添加到短语书中。</target>
+</phrase>
+<phrase>
+    <source>Click here to close this window.</source>
+    <target>点击这里关闭这个窗口。</target>
+</phrase>
+<phrase>
+    <source>&amp;Definition:</source>
+    <target>准确度(&amp;D)：</target>
+</phrase>
+<phrase>
+    <source>&amp;New Entry</source>
+    <target>新建条目(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>&amp;Remove Entry</source>
+    <target>移除条目(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Settin&amp;gs...</source>
+    <target>设置(&amp;G)...</target>
+</phrase>
+<phrase>
+    <source>S&amp;ource phrase:</source>
+    <target>源短语(&amp;O)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Translation:</source>
+    <target>译文(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>Find &amp;source text:</source>
+    <target>查找源文(&amp;S)：</target>
+</phrase>
+<phrase>
+    <source>Match &amp;case</source>
+    <target>大小写匹配(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Search options</source>
+    <target>搜索选项</target>
+</phrase>
+<phrase>
+    <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
+    <target>选中时，“TeX”和“tex”会被认为是不同的文本。</target>
+</phrase>
+<phrase>
+    <source>Translate</source>
+    <target>翻译</target>
+</phrase>
+<phrase>
+    <source>Translate All</source>
+    <target>全部翻译</target>
+</phrase>
+<phrase>
+    <source>&amp;Translate to:</source>
+    <target>翻译到(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>Any Country</source>
+    <target>任意国家</target>
+</phrase>
+<phrase>
+    <source>Country/Region</source>
+    <target>国家/地区</target>
+</phrase>
+<phrase>
+    <source>Qt translation sources</source>
+    <target>Qt翻译源</target>
+</phrase>
+<phrase>
+    <source>XLIFF localization files</source>
+    <target>XLIFF 本地化文件</target>
+</phrase>
+<phrase>
+    <source>Qt Linguist &apos;Phrase Book&apos;</source>
+    <target>Qt 短语书文件</target>
+</phrase>
+<phrase>
+    <source>Lay Out in a &amp;Form Layout</source>
+    <target>窗体布局(&amp;F)</target>
+</phrase>
+</QPH>

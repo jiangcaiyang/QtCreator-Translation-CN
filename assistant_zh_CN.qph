@@ -1,0 +1,764 @@
+<!DOCTYPE QPH>
+<QPH language="zh_CN">
+<phrase>
+    <source>&amp;Close</source>
+    <target>关闭(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>警告</target>
+</phrase>
+<phrase>
+    <source>Unable to launch external application.
+</source>
+    <target>不能启动外部应用程序。</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>确定</target>
+</phrase>
+<phrase>
+    <source>Error registering documentation file &apos;%1&apos;: %2</source>
+    <target>注册文档“%1”错误：%2</target>
+</phrase>
+<phrase>
+    <source>Error: %1</source>
+    <target>错误：%1</target>
+</phrase>
+<phrase>
+    <source>Could not register documentation file
+%1
+
+Reason:
+%2</source>
+    <target>无法注册文档文件
+%1
+
+原因：
+%2</target>
+</phrase>
+<phrase>
+    <source>Documentation successfully registered.</source>
+    <target>文档注册成功。</target>
+</phrase>
+<phrase>
+    <source>Could not unregister documentation file
+%1
+
+Reason:
+%2</source>
+    <target>无法注销文档文件
+%1
+
+原因：
+%2</target>
+</phrase>
+<phrase>
+    <source>Documentation successfully unregistered.</source>
+    <target>文档注销成功。</target>
+</phrase>
+<phrase>
+    <source>Error reading collection file &apos;%1&apos;: %2.</source>
+    <target>读取收集文件“%1”错误：%2。</target>
+</phrase>
+<phrase>
+    <source>Error creating collection file &apos;%1&apos;: %2.</source>
+    <target>创建收集文件“%1”错误：%2。</target>
+</phrase>
+<phrase>
+    <source>Cannot load sqlite database driver!</source>
+    <target>无法加载sqlite数据库驱动！</target>
+</phrase>
+<phrase>
+    <source>Add Bookmark</source>
+    <target>添加书签</target>
+</phrase>
+<phrase>
+    <source>Bookmark:</source>
+    <target>书签：</target>
+</phrase>
+<phrase>
+    <source>Add in Folder:</source>
+    <target>添加到文件夹：</target>
+</phrase>
+<phrase>
+    <source>+</source>
+    <target>+</target>
+</phrase>
+<phrase>
+    <source>New Folder</source>
+    <target>新建文件夹</target>
+</phrase>
+<phrase>
+    <source>Rename Folder</source>
+    <target>重命名文件夹</target>
+</phrase>
+<phrase>
+    <source>Untitled</source>
+    <target>未命名</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>移除</target>
+</phrase>
+<phrase>
+    <source>Manage Bookmarks...</source>
+    <target>书签管理...</target>
+</phrase>
+<phrase>
+    <source>Add Bookmark...</source>
+    <target>添加书签...</target>
+</phrase>
+<phrase>
+    <source>Ctrl+D</source>
+    <target>Ctrl+D</target>
+</phrase>
+<phrase>
+    <source>Delete Folder</source>
+    <target>删除文件夹</target>
+</phrase>
+<phrase>
+    <source>Show Bookmark</source>
+    <target>显示书签</target>
+</phrase>
+<phrase>
+    <source>Show Bookmark in New Tab</source>
+    <target>在新的标签中显示书签</target>
+</phrase>
+<phrase>
+    <source>Delete Bookmark</source>
+    <target>删除书签</target>
+</phrase>
+<phrase>
+    <source>Rename Bookmark</source>
+    <target>重命名书签</target>
+</phrase>
+<phrase>
+    <source>Manage Bookmarks</source>
+    <target>书签管理</target>
+</phrase>
+<phrase>
+    <source>Search:</source>
+    <target>搜索：</target>
+</phrase>
+<phrase>
+    <source>Import and Backup</source>
+    <target>导入并备份</target>
+</phrase>
+<phrase>
+    <source>Import...</source>
+    <target>导入...</target>
+</phrase>
+<phrase>
+    <source>Export...</source>
+    <target>导出...</target>
+</phrase>
+<phrase>
+    <source>Open File</source>
+    <target>打开文件</target>
+</phrase>
+<phrase>
+    <source>Files (*.xbel)</source>
+    <target>书签文件（*.xbel）</target>
+</phrase>
+<phrase>
+    <source>Save File</source>
+    <target>保存文件</target>
+</phrase>
+<phrase>
+    <source>Qt Assistant</source>
+    <target>Qt助手</target>
+</phrase>
+<phrase>
+    <source>Unable to save bookmarks.</source>
+    <target>无法保存书签。</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>名字</target>
+</phrase>
+<phrase>
+    <source>Address</source>
+    <target>地址</target>
+</phrase>
+<phrase>
+    <source>Bookmarks Toolbar</source>
+    <target>书签工具栏</target>
+</phrase>
+<phrase>
+    <source>Bookmarks Menu</source>
+    <target>书签菜单</target>
+</phrase>
+<phrase>
+    <source>Bookmarks</source>
+    <target>书签</target>
+</phrase>
+<phrase>
+    <source>Filter:</source>
+    <target>过滤器：</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>添加</target>
+</phrase>
+<phrase>
+    <source>Print Document</source>
+    <target>打印文档</target>
+</phrase>
+<phrase>
+    <source>Unknown option: %1</source>
+    <target>未知的选项：%1</target>
+</phrase>
+<phrase>
+    <source>The collection file &apos;%1&apos; does not exist.</source>
+    <target>收集文件“%1”不存在。</target>
+</phrase>
+<phrase>
+    <source>Missing collection file.</source>
+    <target>缺少收集文件。</target>
+</phrase>
+<phrase>
+    <source>Invalid URL &apos;%1&apos;.</source>
+    <target>无效的URL“%1”。</target>
+</phrase>
+<phrase>
+    <source>Missing URL.</source>
+    <target>缺少URL。</target>
+</phrase>
+<phrase>
+    <source>Unknown widget: %1</source>
+    <target>未知的窗口部件：%1</target>
+</phrase>
+<phrase>
+    <source>Missing widget.</source>
+    <target>缺少窗口部件。</target>
+</phrase>
+<phrase>
+    <source>The Qt help file &apos;%1&apos; does not exist.</source>
+    <target>Qt帮助文件“%1”不存在。</target>
+</phrase>
+<phrase>
+    <source>Missing help file.</source>
+    <target>缺少帮助文件。</target>
+</phrase>
+<phrase>
+    <source>Missing filter argument.</source>
+    <target>缺少过滤器参数。</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>错误</target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target>注意</target>
+</phrase>
+<phrase>
+    <source>Open Link</source>
+    <target>打开链接</target>
+</phrase>
+<phrase>
+    <source>Open Link in New Tab</source>
+    <target>在新标签中打开链接</target>
+</phrase>
+<phrase>
+    <source>Add Filter Name</source>
+    <target>添加过滤器名称</target>
+</phrase>
+<phrase>
+    <source>Filter Name:</source>
+    <target>过滤器名称：</target>
+</phrase>
+<phrase>
+    <source>Previous</source>
+    <target>上一个</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>下一个</target>
+</phrase>
+<phrase>
+    <source>Case Sensitive</source>
+    <target>区分大小写</target>
+</phrase>
+<phrase>
+    <source>Font</source>
+    <target>字体</target>
+</phrase>
+<phrase>
+    <source>&amp;Writing system</source>
+    <target>书写系统(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>&amp;Family</source>
+    <target>字体(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>&amp;Style</source>
+    <target>风格(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>&amp;Point size</source>
+    <target>点大小(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>&amp;Back</source>
+    <target>后退(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>&amp;Forward</source>
+    <target>前进(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>&amp;Home</source>
+    <target>主页(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>ALT+Home</source>
+    <target>ALT+Home</target>
+</phrase>
+<phrase>
+    <source>Zoom &amp;in</source>
+    <target>放大(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>Zoom &amp;out</source>
+    <target>缩小(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>&amp;Copy selected Text</source>
+    <target>复制选中的文本(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Print...</source>
+    <target>打印(&amp;P)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Find in Text...</source>
+    <target>在文本中查找(&amp;F)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Find</source>
+    <target>查找(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>Unfiltered</source>
+    <target>未过滤的</target>
+</phrase>
+<phrase>
+    <source>&lt;title&gt;about:blank&lt;/title&gt;</source>
+    <target>&lt;title&gt;空白页&lt;/title&gt;</target>
+</phrase>
+<phrase>
+    <source>Open Link in New Tab	Ctrl+LMB</source>
+    <target>在新标签中打开链接 Ctrl+LMB</target>
+</phrase>
+<phrase>
+    <source>Copy &amp;Link Location</source>
+    <target>复制链接地址(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target>复制</target>
+</phrase>
+<phrase>
+    <source>Error 404...</source>
+    <target>错误404...</target>
+</phrase>
+<phrase>
+    <source>The page could not be found!</source>
+    <target>找不到该页面！</target>
+</phrase>
+<phrase>
+    <source>Please make sure that you have all documentation sets installed.</source>
+    <target>请确保所有文档都已经安装。</target>
+</phrase>
+<phrase>
+    <source>Error loading: %1</source>
+    <target>错误载入中：%1</target>
+</phrase>
+<phrase>
+    <source>Open Link in New Page</source>
+    <target>在新页中打开链接</target>
+</phrase>
+<phrase>
+    <source>&amp;Look for:</source>
+    <target>查找(&amp;L)：</target>
+</phrase>
+<phrase>
+    <source>Index</source>
+    <target>索引</target>
+</phrase>
+<phrase>
+    <source>Contents</source>
+    <target>内容</target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>搜索</target>
+</phrase>
+<phrase>
+    <source>Open Pages</source>
+    <target>打开的页</target>
+</phrase>
+<phrase>
+    <source>Bookmark Toolbar</source>
+    <target>书签工具栏</target>
+</phrase>
+<phrase>
+    <source>Looking for Qt Documentation...</source>
+    <target>正在查找Qt文档...</target>
+</phrase>
+<phrase>
+    <source>&amp;File</source>
+    <target>文件(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>New &amp;Tab</source>
+    <target>新建标签(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>&amp;Close Tab</source>
+    <target>关闭标签(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Page Set&amp;up...</source>
+    <target>页面设置(&amp;U)...</target>
+</phrase>
+<phrase>
+    <source>Print Preview...</source>
+    <target>打印预览...</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>退出(&amp;X)</target>
+</phrase>
+<phrase>
+    <source>CTRL+Q</source>
+    <target>CTRL+Q</target>
+</phrase>
+<phrase>
+    <source>&amp;Quit</source>
+    <target>退出(&amp;Q)</target>
+</phrase>
+<phrase>
+    <source>&amp;Edit</source>
+    <target>编辑(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>Find &amp;Next</source>
+    <target>查找下一个(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Find &amp;Previous</source>
+    <target>查找上一个(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Preferences...</source>
+    <target>首选项...</target>
+</phrase>
+<phrase>
+    <source>&amp;View</source>
+    <target>视图(&amp;V)</target>
+</phrase>
+<phrase>
+    <source>Normal &amp;Size</source>
+    <target>正常大小(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Ctrl+0</source>
+    <target>Ctrl+0</target>
+</phrase>
+<phrase>
+    <source>&amp;Bookmarks</source>
+    <target>书签(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>Could not register file &apos;%1&apos;: %2</source>
+    <target>无法注册文件“%1”：%2</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Alt+Left</source>
+    <target>Ctrl+Alt+Left</target>
+</phrase>
+<phrase>
+    <source>Ctrl+Alt+Right</source>
+    <target>Ctrl+Alt+Right</target>
+</phrase>
+<phrase>
+    <source>Ctrl+M</source>
+    <target>Ctrl+M</target>
+</phrase>
+<phrase>
+    <source>Filter Toolbar</source>
+    <target>过滤器工具栏</target>
+</phrase>
+<phrase>
+    <source>Filtered by:</source>
+    <target>过滤器为：</target>
+</phrase>
+<phrase>
+    <source>&amp;Go</source>
+    <target>前往(&amp;G)</target>
+</phrase>
+<phrase>
+    <source>&amp;Help</source>
+    <target>帮助(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>Minimize</source>
+    <target>最小化</target>
+</phrase>
+<phrase>
+    <source>Navigation Toolbar</source>
+    <target>导航工具栏</target>
+</phrase>
+<phrase>
+    <source>Next Page</source>
+    <target>下一页</target>
+</phrase>
+<phrase>
+    <source>Previous Page</source>
+    <target>上一页</target>
+</phrase>
+<phrase>
+    <source>Sync</source>
+    <target>同步</target>
+</phrase>
+<phrase>
+    <source>Sync with Table of Contents</source>
+    <target>同步目录</target>
+</phrase>
+<phrase>
+    <source>Toolbars</source>
+    <target>工具栏</target>
+</phrase>
+<phrase>
+    <source>Updating search index</source>
+    <target>正在更新搜索索引</target>
+</phrase>
+<phrase>
+    <source>&amp;Window</source>
+    <target>窗口(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>Zoom</source>
+    <target>缩放</target>
+</phrase>
+<phrase>
+    <source>Close %1</source>
+    <target>关闭%1</target>
+</phrase>
+<phrase>
+    <source>Close All Except %1</source>
+    <target>除了%1全部关闭</target>
+</phrase>
+<phrase>
+    <source>Add Documentation</source>
+    <target>添加文档</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>取消</target>
+</phrase>
+<phrase>
+    <source>Qt Compressed Help Files (*.qch)</source>
+    <target>Qt压缩帮助文件（*.qch）</target>
+</phrase>
+<phrase>
+    <source>Remove Documentation</source>
+    <target>删除文档</target>
+</phrase>
+<phrase>
+    <source>The namespace %1 is already registered!</source>
+    <target>命名空间 %1 已经被注册！</target>
+</phrase>
+<phrase>
+    <source>The specified file is not a valid Qt Help File!</source>
+    <target>无效的 Qt 帮助文件！</target>
+</phrase>
+<phrase>
+    <source>Use custom settings</source>
+    <target>使用自定义设定</target>
+</phrase>
+<phrase>
+    <source>About %1</source>
+    <target>关于%1</target>
+</phrase>
+<phrase>
+    <source>About...</source>
+    <target>关于...</target>
+</phrase>
+<phrase>
+    <source>Address Toolbar</source>
+    <target>地址工具栏</target>
+</phrase>
+<phrase>
+    <source>Address:</source>
+    <target>地址：</target>
+</phrase>
+<phrase>
+    <source>ALT+C</source>
+    <target>ALT+C</target>
+</phrase>
+<phrase>
+    <source>ALT+I</source>
+    <target>ALT+I</target>
+</phrase>
+<phrase>
+    <source>ALT+O</source>
+    <target>ALT+O</target>
+</phrase>
+<phrase>
+    <source>ALT+P</source>
+    <target>ALT+P</target>
+</phrase>
+<phrase>
+    <source>ALT+S</source>
+    <target>ALT+S</target>
+</phrase>
+<phrase>
+    <source>1</source>
+    <target>1</target>
+</phrase>
+<phrase>
+    <source>Add...</source>
+    <target>添加...</target>
+</phrase>
+<phrase>
+    <source>Appearance</source>
+    <target>外观</target>
+</phrase>
+<phrase>
+    <source>Application</source>
+    <target>应用程序</target>
+</phrase>
+<phrase>
+    <source>Attributes:</source>
+    <target>属性：</target>
+</phrase>
+<phrase>
+    <source>Blank Page</source>
+    <target>空白页</target>
+</phrase>
+<phrase>
+    <source>Browser</source>
+    <target>浏览器</target>
+</phrase>
+<phrase>
+    <source>Current Page</source>
+    <target>当前页</target>
+</phrase>
+<phrase>
+    <source>Documentation</source>
+    <target>文档</target>
+</phrase>
+<phrase>
+    <source>Filters</source>
+    <target>过滤器</target>
+</phrase>
+<phrase>
+    <source>Font settings:</source>
+    <target>字体设置：</target>
+</phrase>
+<phrase>
+    <source>Fonts</source>
+    <target>字体</target>
+</phrase>
+<phrase>
+    <source>Homepage</source>
+    <target>主页</target>
+</phrase>
+<phrase>
+    <source>On help start:</source>
+    <target>启动时：</target>
+</phrase>
+<phrase>
+    <source>Options</source>
+    <target>选项</target>
+</phrase>
+<phrase>
+    <source>Preferences</source>
+    <target>首选项</target>
+</phrase>
+<phrase>
+    <source>Registered Documentation:</source>
+    <target>已注册的文档：</target>
+</phrase>
+<phrase>
+    <source>Restore to default</source>
+    <target>恢复默认</target>
+</phrase>
+<phrase>
+    <source>Show a blank page</source>
+    <target>显示空白页</target>
+</phrase>
+<phrase>
+    <source>Show my home page</source>
+    <target>显示主页</target>
+</phrase>
+<phrase>
+    <source>Show my tabs from last session</source>
+    <target>显示最后的会话</target>
+</phrase>
+<phrase>
+    <source>Show tabs for each individual page</source>
+    <target>显示每个单独页的选项卡</target>
+</phrase>
+<phrase>
+    <source>Debugging Remote Control</source>
+    <target>正在远程调试</target>
+</phrase>
+<phrase>
+    <source>Received Command: %1 %2</source>
+    <target>接收到的命令：%1 %2</target>
+</phrase>
+<phrase>
+    <source>&amp;Copy</source>
+    <target>复制(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Select All</source>
+    <target>全选</target>
+</phrase>
+<phrase>
+    <source>(Untitled)</source>
+    <target>(Untitled)</target>
+</phrase>
+<phrase>
+    <source>Add Bookmark for this Page...</source>
+    <target>将此页添加到书签...</target>
+</phrase>
+<phrase>
+    <source>Close Other Tabs</source>
+    <target>关闭其他标签</target>
+</phrase>
+<phrase>
+    <source>Choose a topic for &lt;b&gt;%1&lt;/b&gt;:</source>
+    <target>为&lt;b&gt;%1&lt;/b&gt;选择主题：</target>
+</phrase>
+<phrase>
+    <source>Choose Topic</source>
+    <target>选择主题</target>
+</phrase>
+<phrase>
+    <source>&amp;Display</source>
+    <target>显示(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Filter</source>
+    <target>过滤器</target>
+</phrase>
+<phrase>
+    <source>&amp;Topics</source>
+    <target>主题(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target>重新载入</target>
+</phrase>
+<phrase>
+    <source>(新条目)</source>
+    <target></target>
+</phrase>
+</QPH>

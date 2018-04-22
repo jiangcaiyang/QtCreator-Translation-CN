@@ -1039,7 +1039,7 @@ Reason:
     <message>
         <location filename="preferencesdialog.cpp" line="328"/>
         <source>Qt Compressed Help Files (*.qch)</source>
-        <translation>Qt压缩帮助文件（*.qch）</translation>
+        <translation>Qt压缩帮助文件 (*.qch)</translation>
     </message>
     <message>
         <location filename="preferencesdialog.cpp" line="360"/>

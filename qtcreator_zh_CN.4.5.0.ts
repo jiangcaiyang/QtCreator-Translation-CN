@@ -25351,7 +25351,7 @@ Leave empty to search through the file system.</source>
     <message>
         <location line="+0"/>
         <source>Qt Help Files (*.qch)</source>
-        <translation>Qt帮助文件（*.qch）</translation>
+        <translation>Qt帮助文件 (*.qch)</translation>
     </message>
     <message>
         <location line="+44"/>

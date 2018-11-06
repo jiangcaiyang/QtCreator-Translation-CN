@@ -177,7 +177,7 @@
     <message>
         <location line="+11"/>
         <source>The installed SDK tools version (%1) does not include Gradle scripts. The minimum Qt version required for Gradle build to work is %2</source>
-        <translation>安装的SDK工具版本（%1）不包含Gradle脚本。需要Gradle脚本才能工作的Qt版本是%2</translation>
+        <translation>安装的SDK工具版本(%1)不包含Gradle脚本。需要Gradle脚本才能工作的Qt版本是%2</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -194,7 +194,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location line="+41"/>
         <source>Cannot sign the package. Invalid keystore path (%1).</source>
-        <translation>无法为包签名。无效的签名文件路径（%1）。</translation>
+        <translation>无法为包签名。无效的签名文件路径(%1)。</translation>
     </message>
     <message>
         <source>Cannot sign the package. Invalid keystore path(%1).</source>
@@ -221,7 +221,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location filename="plugins/android/androidbuildapkwidget.cpp" line="+86"/>
         <source>Keystore files (*.keystore *.jks)</source>
-        <translation>签名文件（*.keystore *.jks）</translation>
+        <translation>签名文件(*.keystore *.jks)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -245,7 +245,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location line="+9"/>
         <source>Android for %1 (GCC %2, %3)</source>
-        <translation>%1的Android（GCC %2，%3）</translation>
+        <translation>%1的Android(GCC %2，%3)</translation>
     </message>
 </context>
 <context>
@@ -345,7 +345,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location line="+2"/>
         <source>Keystore files (*.keystore *.jks)</source>
-        <translation>签名文件（*.keystore *.jks）</translation>
+        <translation>签名文件(*.keystore *.jks)</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -494,7 +494,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+1"/>
         <source>Android package (*.apk)</source>
-        <translation>Android包（*.apk）</translation>
+        <translation>Android包(*.apk)</translation>
     </message>
 </context>
 <context>
@@ -759,8 +759,8 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location line="+5"/>
         <source>&lt;p align=&quot;justify&quot;&gt;Please choose a valid package name for your application (for example, &quot;org.example.myapplication&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Packages are usually defined using a hierarchical naming pattern, with levels in the hierarchy separated by periods (.) (pronounced &quot;dot&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;In general, a package name begins with the top level domain name of the organization and then the organization&apos;s domain and then any subdomains listed in reverse order. The organization can then choose a specific name for their package. Package names should be all lowercase characters whenever possible.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Complete conventions for disambiguating package names and rules for naming packages when the Internet domain name cannot be directly used as a package name are described in section 7.7 of the Java Language Specification.&lt;/p&gt;</source>
-        <translation>&lt;p align=&quot;justify&quot;&gt;请为您的应用程序选择一个有效的包名（如“org.example.myapplication”）。&lt;/p&gt;
-&lt;p align=&quot;justify&quot;&gt;包通常用层次性命名规则来定义，层次用英文句点（.）来分隔。&lt;/p&gt;
+        <translation>&lt;p align=&quot;justify&quot;&gt;请为您的应用程序选择一个有效的包名(如“org.example.myapplication”)。&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;包通常用层次性命名规则来定义，层次用英文句点(.)来分隔。&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;通常情况下，包名由组织的顶层域名打头，接着是组织的域名，然后是反向排列的子域名。之后组织可以为包选择一个特定的名称。包名必须全部为小写字母。&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;在网络域名不能直接用作包名时，如何解决包名的二义性和命名包的规则的完整惯例说明可以在“Java语言规范”的Section7.7找到。&lt;/p&gt;</translation>
     </message>
@@ -916,7 +916,7 @@ Do you want to uninstall the existing package?</source>
         <location line="+10"/>
         <location line="+10"/>
         <source>PNG images (*.png)</source>
-        <translation>PNG图像（*.png）</translation>
+        <translation>PNG图像(*.png)</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -1174,7 +1174,7 @@ SDK管理器忙。</translation>
     <message>
         <location line="+1"/>
         <source>SDK manager UI tool is not available in the installed SDK tools (version %1). Use the command line tool &quot;sdkmanager&quot; for advanced SDK management.</source>
-        <translation>SDK管理器UI工具在安装的SDK工具中不可用（版本%1）。在高级SDK管理中使用命令行工具“sdkmanager”。</translation>
+        <translation>SDK管理器UI工具在安装的SDK工具中不可用(版本%1)。在高级SDK管理中使用命令行工具“sdkmanager”。</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -1432,7 +1432,7 @@ To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</so
     <message>
         <location line="+18"/>
         <source>(SDK Version: %1, NDK Version: %2)</source>
-        <translation>（SDK版本：%1，NDK版本：%2）</translation>
+        <translation>(SDK版本：%1，NDK版本：%2)</translation>
     </message>
     <message>
         <source>Select ant Script</source>
@@ -1461,7 +1461,7 @@ To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</so
     <message>
         <location line="+1"/>
         <source>AVD manager UI tool is not available in the installed SDK tools(version %1). Use the command line tool &quot;avdmanager&quot; for advanced AVD management.</source>
-        <translation>AVD管理器UI工具在安装的SDK工具中不可用（版本%1）。在高级AVD管理中使用命令行工具“avdmanager”。</translation>
+        <translation>AVD管理器UI工具在安装的SDK工具中不可用(版本%1)。在高级AVD管理中使用命令行工具“avdmanager”。</translation>
     </message>
     <message>
         <source>The Platform tools are missing. Please use the Android SDK Manager to install them.</source>
@@ -1621,7 +1621,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location line="+16"/>
         <source>Cannot create AVD. Cannot find system image for the ABI %1(%2).</source>
-        <translation>无法创建AVD。找不到ABI %1（%2）的系统映像。</translation>
+        <translation>无法创建AVD。找不到ABI %1(%2)的系统映像。</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1786,12 +1786,12 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location line="+13"/>
         <source>Organizational unit (e.g. Necessitas):</source>
-        <translation>组织单位（例如：萌梦信息科技有限公司）：</translation>
+        <translation>组织单位(例如：萌梦信息科技有限公司)：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Organization (e.g. KDE):</source>
-        <translation>组织（例如萌梦）：</translation>
+        <translation>组织(例如萌梦)：</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1806,7 +1806,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location line="+13"/>
         <source>Two-letter country code for this unit (e.g. RO):</source>
-        <translation>该单位的两字母的国家代码（如CN）：</translation>
+        <translation>该单位的两字母的国家代码(如CN)：</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1822,7 +1822,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location line="-107"/>
         <source>Validity (days):</source>
-        <translation>有效期（天）：</translation>
+        <translation>有效期(天)：</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2205,7 +2205,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location filename="plugins/autotest/gtest/gtestoutputreader.cpp" line="+76"/>
         <source>(iteration %1)</source>
-        <translation>（迭代%1）</translation>
+        <translation>(迭代%1)</translation>
     </message>
     <message numerus="yes">
         <location line="+10"/>
@@ -2222,7 +2222,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location line="+9"/>
         <source>Repeating test case %1 (iteration %2)</source>
-        <translation>重复中的测试事件%1（迭代%2）</translation>
+        <translation>重复中的测试事件%1(迭代%2)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2296,7 +2296,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location line="+7"/>
         <source>Repeats a test run (you might be required to increase the timeout to avoid canceling the tests).</source>
-        <translation>重复测试运行（您可能需要增加超时，以避免取消测试）。</translation>
+        <translation>重复测试运行(您可能需要增加超时，以避免取消测试)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2319,7 +2319,7 @@ APK在其它任何设备上将不能使用。</translation>
     <message>
         <location filename="plugins/autotest/qtest/qttestoutputreader.cpp" line="+120"/>
         <source>%1 %2 per iteration (total: %3, iterations: %4)</source>
-        <translation>%1 %2每次迭代（总：%3，迭代：%4）</translation>
+        <translation>%1 %2每次迭代(总：%3，迭代：%4)</translation>
     </message>
     <message>
         <location line="+338"/>
@@ -2429,7 +2429,7 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location line="+12"/>
         <source>Uses walltime metrics for executing benchmarks (default).</source>
-        <translation>使用挂钟时间指标执行基准（默认）。</translation>
+        <translation>使用挂钟时间指标执行基准(默认)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2459,7 +2459,7 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location line="+16"/>
         <source>Uses Valgrind Callgrind when executing benchmarks (it must be installed).</source>
-        <translation>执行基准时使用Valgrind Callgrind（必须安装）。</translation>
+        <translation>执行基准时使用Valgrind Callgrind(必须安装)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2469,7 +2469,7 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location line="+16"/>
         <source>Uses Perf when executing benchmarks (it must be installed).</source>
-        <translation>执行基准时使用Perf（必须安装）。</translation>
+        <translation>执行基准时使用Perf(必须安装)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2487,7 +2487,7 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location line="+2"/>
         <source>Could not determine which run configuration to choose for running tests (%1)</source>
-        <translation>无法确定运行测试（%1）时使用哪个运行</translation>
+        <translation>无法确定运行测试(%1)时使用哪个运行</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2812,7 +2812,7 @@ This might cause trouble during execution.
 (guessed from &quot;%2&quot;)</source>
         <translation>项目的运行配置猜测为“%1”。
 在执行过程中可能会有问题。
-（猜测“%2”）</translation>
+(猜测“%2”)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2823,7 +2823,7 @@ Check the test environment.</source>
     <message>
         <location line="+27"/>
         <source>Executable path is empty. (%1)</source>
-        <translation>可执行文件路径为空。（%1）</translation>
+        <translation>可执行文件路径为空。(%1)</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -2860,7 +2860,7 @@ Maybe raise the timeout?</source>
     <message>
         <location line="+61"/>
         <source>Could not find command &quot;%1&quot;. (%2)</source>
-        <translation>无法找到命令“%1”。（%2）</translation>
+        <translation>无法找到命令“%1”。(%2)</translation>
     </message>
     <message>
         <location line="-151"/>
@@ -3312,7 +3312,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location line="+25"/>
         <source>Custom Executable (on GDB server or hardware debugger)</source>
-        <translation>自定义可执行文件（GDB服务器或硬件调试器）</translation>
+        <translation>自定义可执行文件(GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -3409,7 +3409,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location filename="plugins/baremetal/baremetalrunconfiguration.cpp" line="+106"/>
         <source>%1 (via GDB server or hardware debugger)</source>
-        <translation>%1（通过GDB服务器或硬件调试器）</translation>
+        <translation>%1(通过GDB服务器或硬件调试器)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3423,7 +3423,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location filename="plugins/baremetal/baremetalrunconfigurationfactory.cpp" line="+102"/>
         <source>%1 (on GDB server or hardware debugger)</source>
-        <translation>%1（GDB服务器或硬件调试器）</translation>
+        <translation>%1(GDB服务器或硬件调试器)</translation>
     </message>
 </context>
 <context>
@@ -3653,7 +3653,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location line="+4"/>
         <source>Specify the verbosity level (0..99).</source>
-        <translation>指定的详细程度（0 - 99）。</translation>
+        <translation>指定的详细程度(0 - 99)。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3738,12 +3738,12 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location line="+26"/>
         <source>The compiler &quot;%1&quot; (%2) cannot produce code for the Qt version &quot;%3&quot; (%4).</source>
-        <translation>编译器“%1”（%2）无法为Qt版本“%3”（%4）生成代码。</translation>
+        <translation>编译器“%1”(%2)无法为Qt版本“%3”(%4)生成代码。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The compiler &quot;%1&quot; (%2) may not produce code compatible with the Qt version &quot;%3&quot; (%4).</source>
-        <translation>编译器“%1”（%2）可能不会生成代码兼容的Qt版本“%3”（%4）。</translation>
+        <translation>编译器“%1”(%2)可能不会生成代码兼容的Qt版本“%3”(%4)。</translation>
     </message>
     <message>
         <location line="+252"/>
@@ -4307,7 +4307,7 @@ This flag will allow push to proceed.</source>
         <location line="+14"/>
         <location line="+13"/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation>例如‘https://[user[:pass]@]host[:port]/[path]’。</translation>
+        <translation>例如'https://[user[:pass]@]host[:port]/[path]'。</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -4422,7 +4422,7 @@ Local pulls are not applied to the master branch.</source>
         <location line="+7"/>
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
-        <translation>若指定修订版本，将取消提交（其它）修订版本以便让分支位于指定的修订版本中。
+        <translation>若指定修订版本，将取消提交(其它)修订版本以便让分支位于指定的修订版本中。
 比如说“修订版本15”将保留位于修订版本15的分支。</translation>
     </message>
     <message>
@@ -4554,7 +4554,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/beautifier/artisticstyle/artisticstyleoptionspage.cpp" line="-47"/>
         <source>AStyle (*.astylerc)</source>
-        <translation>AStyle（*.astylerc）</translation>
+        <translation>AStyle(*.astylerc)</translation>
     </message>
 </context>
 <context>
@@ -4890,7 +4890,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/beautifier/uncrustify/uncrustifyoptionspage.cpp" line="-50"/>
         <source>Uncrustify file (*.cfg)</source>
-        <translation>Uncrustify file（*.cfg）</translation>
+        <translation>Uncrustify file(*.cfg)</translation>
     </message>
 </context>
 <context>
@@ -4911,7 +4911,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location line="-38"/>
         <source>The file is too big for the Binary Editor (max. 32GB).</source>
-        <translation>这个文件对二进制编辑器来说太大了（最大32GB）。</translation>
+        <translation>这个文件对二进制编辑器来说太大了(最大32GB)。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -5717,7 +5717,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="+126"/>
         <source> (Default)</source>
-        <translation> （默认）</translation>
+        <translation> (默认)</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -5794,7 +5794,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location line="+324"/>
         <source> (ADVANCED)</source>
-        <translation> （高级）</translation>
+        <translation> (高级)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -6733,7 +6733,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location line="+10"/>
         <source>Clang Code Model: Error: The clangbackend executable &quot;%1&quot; could not be started (timeout after %2ms).</source>
-        <translation>Clang代码模型错误：后台程序“%1”无法启动（超时后%2 ms）。</translation>
+        <translation>Clang代码模型错误：后台程序“%1”无法启动(超时后%2 ms)。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -6789,7 +6789,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location line="+6"/>
         <source>Parse templates in a MSVC-compliant way. This helps to parse headers for example from Active Template Library (ATL) or Windows Runtime Library (WRL).
 However, using the relaxed and extended rules means also that no highlighting/completion can be provided within template functions.</source>
-        <translation>以MSVC-compliant方式解析模板。这有助于从活动模板库（ATL）或Windows运行时库（WRL）中解析头信息。
+        <translation>以MSVC-compliant方式解析模板。这有助于从活动模板库(ATL)或Windows运行时库(WRL)中解析头信息。
 但是，使用松懈和扩展的规则也意味着在模板函数中不可以提供高亮和补全。</translation>
     </message>
     <message>
@@ -6928,7 +6928,7 @@ Please set a real Clang executable.</source>
     <message>
         <location line="+3"/>
         <source>Version: %1, unsupported (supported version is %2).</source>
-        <translation>版本：%1不支持（支持的版本是%2）。</translation>
+        <translation>版本：%1不支持(支持的版本是%2)。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -7119,7 +7119,7 @@ Output:
         <location line="+2"/>
         <source>%n issues found (%1 suppressed).</source>
         <translation>
-            <numerusform>发现%n个问题（%1个抑制）。</numerusform>
+            <numerusform>发现%n个问题(%1个抑制)。</numerusform>
         </translation>
     </message>
 </context>
@@ -7857,7 +7857,7 @@ Output:
     <message>
         <location line="+7"/>
         <source>Check out or check in files with no comment (-nc/omment).</source>
-        <translation>检入或检出文件不做注释（-nc/omment）。</translation>
+        <translation>检入或检出文件不做注释(-nc/omment)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -7898,7 +7898,7 @@ Output:
     <message>
         <location line="+7"/>
         <source>&amp;Save copy of the file with a &apos;.keep&apos; extension</source>
-        <translation>以‘.keep’为扩展名保存文件的拷贝(&amp;S)</translation>
+        <translation>以'.keep'为扩展名保存文件的拷贝(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -7939,7 +7939,7 @@ Output:
     <message>
         <location filename="plugins/clearcase/versionselector.cpp" line="+42"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Note: You will not be able to check in this file without merging the changes (not supported by the plugin)&lt;/b&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;注意：如果不合并更改，您将无法检入该文件（插件不支持）&lt;/b&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;注意：如果不合并更改，您将无法检入该文件(插件不支持)&lt;/b&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -8095,7 +8095,7 @@ Output:
     <message>
         <location line="+6"/>
         <source>&lt;a href=&quot;http://pastebin.com&quot;&gt;pastebin.com&lt;/a&gt; allows for sending posts to custom subdomains (eg. creator.pastebin.com). Fill in the desired prefix.</source>
-        <translation>&lt;a href=&quot;http://pastebin.com&quot;&gt;pastebin.com&lt;/a&gt;允许发送主题到自定义子域名，（比如：creator.pastebin.com），请输入您希望的前缀。</translation>
+        <translation>&lt;a href=&quot;http://pastebin.com&quot;&gt;pastebin.com&lt;/a&gt;允许发送主题到自定义子域名，(比如：creator.pastebin.com)，请输入您希望的前缀。</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -8550,13 +8550,13 @@ p, li { white-space: pre-wrap; }
         <location filename="libs/utils/mimetypes/mimedatabase.cpp" line="+63"/>
         <source>All Files (*.*)</source>
         <comment>On Windows</comment>
-        <translation>所有文件（*.*）</translation>
+        <translation>所有文件(*.*)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>All Files (*)</source>
         <comment>On Linux/macOS</comment>
-        <translation>所有文件（*）</translation>
+        <translation>所有文件(*)</translation>
     </message>
 </context>
 <context>
@@ -8934,7 +8934,7 @@ Continue?</source>
     <message>
         <location filename="plugins/coreplugin/icore.cpp" line="+93"/>
         <source> (%1)</source>
-        <translation>（%1）</translation>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8948,7 +8948,7 @@ Continue?</source>
     <message>
         <location line="+7"/>
         <source>Based on Qt %1 (%2, %3 bit)</source>
-        <translation>基于Qt %1（%2，%3位）</translation>
+        <translation>基于Qt %1(%2，%3位)</translation>
     </message>
 </context>
 <context>
@@ -9030,7 +9030,7 @@ Continue?</source>
     <message>
         <location filename="plugins/coreplugin/iversioncontrol.cpp" line="+68"/>
         <source>Open with VCS (%1)</source>
-        <translation>使用VCS打开（%1）</translation>
+        <translation>使用VCS打开(%1)</translation>
     </message>
 </context>
 <context>
@@ -9158,12 +9158,12 @@ Continue?</source>
     <message>
         <location filename="plugins/coreplugin/dialogs/addtovcsdialog.cpp" line="+42"/>
         <source>Add the file to version control (%1)</source>
-        <translation>添加该文件到版本控制（%1）</translation>
+        <translation>添加该文件到版本控制(%1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add the files to version control (%1)</source>
-        <translation>添加这些文件到版本控制（%1）</translation>
+        <translation>添加这些文件到版本控制(%1)</translation>
     </message>
 </context>
 <context>
@@ -9184,32 +9184,32 @@ Continue?</source>
     <message>
         <location line="+33"/>
         <source>The current date (ISO).</source>
-        <translation>当前日期（ISO）。</translation>
+        <translation>当前日期(ISO)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (ISO).</source>
-        <translation>当前时间（ISO）。</translation>
+        <translation>当前时间(ISO)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current date (RFC2822).</source>
-        <translation>当前日期（RFC2822）。</translation>
+        <translation>当前日期(RFC2822)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (RFC2822).</source>
-        <translation>当前时间（RFC2822）。</translation>
+        <translation>当前时间(RFC2822)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current date (Locale).</source>
-        <translation>当前日期（Locale）。</translation>
+        <translation>当前日期(Locale)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (Locale).</source>
-        <translation>当前时间（Locale）。</translation>
+        <translation>当前时间(Locale)。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9265,12 +9265,12 @@ Continue?</source>
     <message>
         <location line="+3"/>
         <source>The current date (QDate formatstring).</source>
-        <translation>当前日期（QDate格式字符串）。</translation>
+        <translation>当前日期(QDate格式字符串)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The current time (QTime formatstring).</source>
-        <translation>当前时间（QDate格式字符串）。</translation>
+        <translation>当前时间(QDate格式字符串)。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -9565,12 +9565,12 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location line="+7"/>
         <source>X-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation>当前编辑器的左上（相对屏幕）X坐标轴。</translation>
+        <translation>当前编辑器的左上(相对屏幕)X坐标轴。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Y-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation>当前编辑器的左上角（相对屏幕）Y坐标轴。</translation>
+        <translation>当前编辑器的左上角(相对屏幕)Y坐标轴。</translation>
     </message>
     <message>
         <location line="+111"/>
@@ -9699,7 +9699,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <location line="+73"/>
         <source>Previous command is still running (&quot;%1&quot;).
 Do you want to kill it?</source>
-        <translation>前一个命令正在运行中（%1）。
+        <translation>前一个命令正在运行中(%1)。
 您打算关闭它吗？</translation>
     </message>
     <message>
@@ -10016,7 +10016,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/externaltool.cpp" line="+592"/>
         <source>Could not find executable for &quot;%1&quot; (expanded &quot;%2&quot;)</source>
-        <translation>找不到“%1”的执行文件（展开了“%2”）</translation>
+        <translation>找不到“%1”的执行文件(展开了“%2”)</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -10143,7 +10143,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+11"/>
         <source>Find Next (Selected)</source>
-        <translation>查找下一个（选中的）</translation>
+        <translation>查找下一个(选中的)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10153,7 +10153,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+4"/>
         <source>Find Previous (Selected)</source>
-        <translation>查找上一个（选中的）</translation>
+        <translation>查找上一个(选中的)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10326,7 +10326,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+34"/>
         <source>Re-enable warnings that were suppressed by selecting &quot;Do Not Show Again&quot; (for example, missing highlighter).</source>
-        <translation>重新激活被“下次不再显示”选项屏蔽的警告。（例如，重点标记符号缺失）。</translation>
+        <translation>重新激活被“下次不再显示”选项屏蔽的警告。(例如，重点标记符号缺失)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10350,7 +10350,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+135"/>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a document&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Open File or Project (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Recent Files&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Tools &gt; Locate (%2) and&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- type to open file from any open project&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%3&amp;lt;space&amp;gt;&amp;lt;filename&amp;gt;&lt;/code&gt; to open file from file system&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- select one of the other filters for jumping to a location&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Drag and drop files here&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;打开一个文档&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 打开文件或者项目（%1）&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 最近的文件&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;工具 &gt; 定位（%2）并且&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入用来从任何一个打开的项目中打开文件&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%3&amp;lt;空格&amp;gt;&amp;lt;文件名&amp;gt;&lt;/code&gt;来从文件系统中打开文件&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 选择其它过滤器中的一个用来跳转到一个路径&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;拖拽文件到这里&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;打开一个文档&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 打开文件或者项目(%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 最近的文件&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;工具 &gt; 定位(%2)并且&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入用来从任何一个打开的项目中打开文件&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%3&amp;lt;空格&amp;gt;&amp;lt;文件名&amp;gt;&lt;/code&gt;来从文件系统中打开文件&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 选择其它过滤器中的一个用来跳转到一个路径&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;拖拽文件到这里&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -10457,7 +10457,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+2"/>
         <source>Type to locate (%1)</source>
-        <translation>输入以定位（%1）</translation>
+        <translation>输入以定位(%1)</translation>
     </message>
     <message>
         <location line="-57"/>
@@ -11478,7 +11478,7 @@ Do you want to kill it?</source>
         <location line="+2"/>
         <location line="+45"/>
         <source>Keyboard Mapping Scheme (*.kms)</source>
-        <translation>键盘映射方案（*.kms）</translation>
+        <translation>键盘映射方案(*.kms)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -11543,7 +11543,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+27"/>
         <source>Case Sensitive (Default)</source>
-        <translation>区分大小写（默认）</translation>
+        <translation>区分大小写(默认)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11553,7 +11553,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+4"/>
         <source>Case Insensitive (Default)</source>
-        <translation>不分大小写（默认）</translation>
+        <translation>不分大小写(默认)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -11774,7 +11774,7 @@ Do you want to kill it?</source>
     <message>
         <location line="+11"/>
         <source>Evaluate simple JavaScript statements.&lt;br&gt;The statements may not contain &apos;{&apos; nor &apos;}&apos; characters.</source>
-        <translation>为简单的Javascript语句求值。&lt;br&gt;这些语句不能包含‘{’和‘}’字符。</translation>
+        <translation>为简单的Javascript语句求值。&lt;br&gt;这些语句不能包含'{'和'}'字符。</translation>
     </message>
 </context>
 <context>
@@ -12068,7 +12068,7 @@ Do you want to check them out now?</source>
         <location line="+1"/>
         <source>Would you like to remove this file from the version control system (%1)?
 Note: This might remove the local file.</source>
-        <translation>您想从版本控制系统（%1）中删除此文件么？
+        <translation>您想从版本控制系统(%1)中删除此文件么？
 注意：本地文件有可能被删除。</translation>
     </message>
     <message>
@@ -12083,7 +12083,7 @@ Note: This might remove the local file.</source>
 to version control (%2)?</source>
         <translation>添加文件
 %1
-到版本控制（%2）吗？</translation>
+到版本控制(%2)吗？</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -12092,7 +12092,7 @@ to version control (%2)?</source>
 to version control (%2)?</source>
         <translation>添加文件
 %1
-到版本控制（%2）吗？</translation>
+到版本控制(%2)吗？</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -12107,14 +12107,14 @@ to version control (%2)
 </source>
         <translation>无法添加文件
 %1
-到版本控制（%2）
+到版本控制(%2)
 </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Could not add the following files to version control (%1)
 %2</source>
-        <translation>无法添加以下文件到版本控制系统（%1）
+        <translation>无法添加以下文件到版本控制系统(%1)
 %2</translation>
     </message>
 </context>
@@ -12314,12 +12314,12 @@ to version control (%2)
     <message>
         <location line="-65"/>
         <source>(none)</source>
-        <translation>（无）</translation>
+        <translation>(无)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>(cyclic)</source>
-        <translation>（循环）</translation>
+        <translation>(循环)</translation>
     </message>
 </context>
 <context>
@@ -12494,7 +12494,7 @@ to version control (%2)
     <message>
         <location filename="plugins/cppeditor/cppparsecontext.cpp" line="+55"/>
         <source>&lt;p&gt;&lt;b&gt;Active Parse Context&lt;/b&gt;:&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;Multiple parse contexts (set of defines, include paths, and so on) are available for this file.&lt;/p&gt;&lt;p&gt;Choose a parse context to set it as the preferred one. Clear the preference from the context menu.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;活动的解析上下文&lt;/b&gt;：&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;多个解析上下文（定义的集合，包含路径等等）在此文件中可用。&lt;/p&gt;&lt;p&gt;请选择一个解析上下文以作为最适合的一个。从上下文菜单中清除首选项。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;活动的解析上下文&lt;/b&gt;：&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;多个解析上下文(定义的集合，包含路径等等)在此文件中可用。&lt;/p&gt;&lt;p&gt;请选择一个解析上下文以作为最适合的一个。从上下文菜单中清除首选项。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -12642,7 +12642,7 @@ to version control (%2)
     <message>
         <location line="+2"/>
         <source>%1 (Copy)</source>
-        <translation>%1（复制）</translation>
+        <translation>%1(复制)</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -12983,7 +12983,7 @@ if they would align to the next line</source>
     <message>
         <location line="+6"/>
         <source>Bind &apos;*&apos; and &apos;&amp;&amp;&apos; in types/declarations to</source>
-        <translation>在类型/声明中绑定‘*’和‘&amp;&amp;’来</translation>
+        <translation>在类型/声明中绑定'*'和'&amp;&amp;'来</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -13160,7 +13160,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
 ** Qt Creator许可证头部模板
 **   特殊关键字：%USER% %DATE% %YEAR%
 **   环境变量：%$VARIABLE%
-**   为了保护百分号，使用‘%%’。
+**   为了保护百分号，使用'%%'。
 **************************************************************************/
 </translation>
     </message>
@@ -13416,7 +13416,7 @@ Flags: %3</source>
     <message>
         <location line="+349"/>
         <source>Enclose in %1(...) (Qt %2)</source>
-        <translation>封装在%1(...)（Qt %2）</translation>
+        <translation>封装在%1(...)(Qt %2)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -13566,7 +13566,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+35"/>
         <source>&amp;Restart Qt Creator on close</source>
-        <translation>重新启动（&amp;R）</translation>
+        <translation>重新启动(&amp;R)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -13631,7 +13631,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+30"/>
         <source>%1 has closed unexpectedly (Signal &quot;%2&quot;)</source>
-        <translation>%1意外关闭（信号“%2”）</translation>
+        <translation>%1意外关闭(信号“%2”)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13647,7 +13647,7 @@ Collecting backtrace aborted by user.</source>
         <location line="+2"/>
         <source>%1 %2%3, based on Qt %4 (%5 bit)
 </source>
-        <translation>%1 %2%3，基于Qt %4 （%5 bit）
+        <translation>%1 %2%3，基于Qt %4 (%5 bit)
 </translation>
     </message>
 </context>
@@ -14115,7 +14115,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+7"/>
         <source>When checked, all files touched by a commit will be displayed when clicking on a revision number in the annotation view (retrieved via commit ID). Otherwise, only the respective file will be displayed.</source>
-        <translation>选中此项后，点击注释视图中（通过commit ID获取）的某个修订版本号时，所有该提交涉及的文件都将被显示。否则，仅显示对应的文件。</translation>
+        <translation>选中此项后，点击注释视图中(通过commit ID获取)的某个修订版本号时，所有该提交涉及的文件都将被显示。否则，仅显示对应的文件。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -14273,7 +14273,7 @@ Collecting backtrace aborted by user.</source>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Windows Console Debugger executable&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
         <translatorcomment>路径配置的标签文字。%2是“x-bit版本”。</translatorcomment>
-        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到&lt;a href=&quot;%1&quot;&gt;Windows控制台调试器执行档&lt;/a&gt;（%2）的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;在这里指定到&lt;a href=&quot;%1&quot;&gt;Windows控制台调试器执行档&lt;/a&gt;(%2)的路径。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -14312,7 +14312,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+4"/>
         <source>The debugger location must be given as an absolute path (%1).</source>
-        <translation>调试器的路径必须给出绝对路径（%1）。</translation>
+        <translation>调试器的路径必须给出绝对路径(%1)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -15034,7 +15034,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+5"/>
         <source>&lt;p&gt;Specifying the module (base name of the library or executable) for function or file type breakpoints can significantly speed up debugger startup times (CDB, LLDB).</source>
-        <translation>&lt;P&gt;指定功能模块（该库或可执行文件的基名称）或文件类型的断点可以加快启动时间（CDB，LLDB）。</translation>
+        <translation>&lt;P&gt;指定功能模块(该库或可执行文件的基名称)或文件类型的断点可以加快启动时间(CDB，LLDB)。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -15161,7 +15161,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+174"/>
         <source>Data breakpoint %1 (%2) at %3 triggered.</source>
-        <translation>数据断点%1（%2）在%3触发。</translation>
+        <translation>数据断点%1(%2)在%3触发。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -15171,7 +15171,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+8"/>
         <source>Data breakpoint %1 (%2) at %3 in thread %4 triggered.</source>
-        <translation>数据断点%1（%2）在线程%4中的%3触发。</translation>
+        <translation>数据断点%1(%2)在线程%4中的%3触发。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -15181,7 +15181,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+7"/>
         <source>Data breakpoint %1 (%2) at 0x%3 triggered.</source>
-        <translation>数据断点%1（%2）在0x%3触发。</translation>
+        <translation>数据断点%1(%2)在0x%3触发。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -15191,7 +15191,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+8"/>
         <source>Data breakpoint %1 (%2) at 0x%3 in thread %4 triggered.</source>
-        <translation>数据断点%1（%2）在线程%4中的0x%3触发。</translation>
+        <translation>数据断点%1(%2)在线程%4中的0x%3触发。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -15201,7 +15201,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+7"/>
         <source>Stopped at breakpoint %1 (%2) in thread %3.</source>
-        <translation>在线程%3的断点%1（%2）处停止。</translation>
+        <translation>在线程%3的断点%1(%2)处停止。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -15359,7 +15359,7 @@ Collecting backtrace aborted by user.</source>
     <message>
         <location line="+879"/>
         <source>Trace point %1 (%2) in thread %3 triggered.</source>
-        <translation>在线程%3中的跟踪点%1（%2）被触发。</translation>
+        <translation>在线程%3中的跟踪点%1(%2)被触发。</translation>
     </message>
     <message>
         <source>Internal error: Invalid start parameters passed for the CDB engine.</source>
@@ -15394,7 +15394,7 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+1308"/>
         <source>Conditional breakpoint %1 (%2) in thread %3 triggered, examining expression &quot;%4&quot;.</source>
-        <translation>条件断点%1（%2）在线程%3中触发，检查表达式“%4”。</translation>
+        <translation>条件断点%1(%2)在线程%3中触发，检查表达式“%4”。</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -15460,7 +15460,7 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location filename="plugins/debugger/cdb/cdboptionspage.cpp" line="-25"/>
         <source>This is useful to catch runtime error messages, for example caused by assert().</source>
-        <translation>这对于捕捉运行时的错误信息（如assert()造成的）非常有用。</translation>
+        <translation>这对于捕捉运行时的错误信息(如assert()造成的)非常有用。</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uses CDB&apos;s native console instead of Qt Creator&apos;s console for console applications. The native console does not prompt on application exit. It is suitable for diagnosing cases in which the application does not start up properly in Qt Creator&apos;s console and the subsequent attach fails.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -15865,7 +15865,7 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+6"/>
         <source>Stopped: %1 (Signal %2).</source>
-        <translation>已停止：%1（信号%2）。</translation>
+        <translation>已停止：%1(信号%2)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -15913,7 +15913,7 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
         <location line="+36"/>
         <source>The inferior is in the Portable Executable format.
 Selecting %1 as debugger would improve the debugging experience for this binary format.</source>
-        <translation>底层在便携式可执行文件（PE）格式中。选择%1作为调试器将改善该二进制格式的调试体验。</translation>
+        <translation>底层在便携式可执行文件(PE)格式中。选择%1作为调试器将改善该二进制格式的调试体验。</translation>
     </message>
     <message>
         <location line="+128"/>
@@ -16155,12 +16155,12 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location line="+3"/>
         <source>with debug symbols (Debug or Profile mode)</source>
-        <translation>使用调试符号（调试或分析模式）</translation>
+        <translation>使用调试符号(调试或分析模式)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>on optimized code (Profile or Release mode)</source>
-        <translation>于优化代码上（分析或调试模式）</translation>
+        <translation>于优化代码上(分析或调试模式)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -17163,12 +17163,12 @@ Qt Creator 无法attach到进程。</translation>
     <message>
         <location line="-302"/>
         <source>%1 (Previous)</source>
-        <translation>%1（之前）</translation>
+        <translation>%1(之前)</translation>
     </message>
     <message>
         <location line="+231"/>
         <source>%1 (Restored)</source>
-        <translation>%1（还原）</translation>
+        <translation>%1(还原)</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -17878,9 +17878,9 @@ that on slow machines. In this case, the value should be increased.</source>
 for less noisy debugging. For example, the atomic reference
 counting code is skipped, and a single &lt;i&gt;Step Into&lt;/i&gt; for a signal
 emission ends up directly in the slot connected to it.</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;允许 &lt;i&gt;‘单步进入’&lt;/i&gt;将多个步骤合并为一步
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;允许 &lt;i&gt;'单步进入'&lt;/i&gt;将多个步骤合并为一步
 以减少调试的冗余情况。例如原子级的计数代码，和
-信号发出引起的单个 &lt;i&gt;‘单步进入’&lt;/i&gt; 直接进到与信号连接的槽。</translation>
+信号发出引起的单个 &lt;i&gt;'单步进入'&lt;/i&gt; 直接进到与信号连接的槽。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -17965,7 +17965,7 @@ markers in the source code editor.</source>
     <message>
         <location line="+6"/>
         <source>&lt;p&gt;To execute simple Python commands, prefix them with &quot;python&quot;.&lt;/p&gt;&lt;p&gt;To execute sequences of Python commands spanning multiple lines prepend the block with &quot;python&quot; on a separate line, and append &quot;end&quot; on a separate line.&lt;/p&gt;&lt;p&gt;To execute arbitrary Python scripts, use &lt;i&gt;python execfile(&apos;/path/to/script.py&apos;)&lt;/i&gt;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;要执行简单的Python的命令，用“Python”前缀他们。&lt;/p&gt;&lt;p&gt;T执行序列的Python命令跨越多行的前面加上一个单独的行“Python”块，并追加“end”的一个独立的行。&lt;/p&gt;&lt;p&gt;要执行任意的Python脚本，使用&lt;I&gt;Python的execfile（/path/to/script.py）&lt;/i&gt;。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;要执行简单的Python的命令，用“Python”前缀他们。&lt;/p&gt;&lt;p&gt;T执行序列的Python命令跨越多行的前面加上一个单独的行“Python”块，并追加“end”的一个独立的行。&lt;/p&gt;&lt;p&gt;要执行任意的Python脚本，使用&lt;I&gt;Python的execfile(/path/to/script.py)&lt;/i&gt;。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -18260,7 +18260,7 @@ In this case, the value should be increased.</source>
     <message>
         <location line="+3"/>
         <source>The last waitFor...() function timed out. The state of QProcess is unchanged, and you can try calling waitFor...() again.</source>
-        <translation>最后的WAITFOR...（）函数超时。另外，QProcess的状态不变，你可以尝试再次调用WAITFOR...（）。</translation>
+        <translation>最后的WAITFOR...()函数超时。另外，QProcess的状态不变，你可以尝试再次调用WAITFOR...()。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -18422,7 +18422,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     <message>
         <location filename="plugins/debugger/memoryagent.cpp" line="+158"/>
         <source>Memory at Register &quot;%1&quot; (0x%2)</source>
-        <translation>寄存器“%1”（0x%2）处的内存</translation>
+        <translation>寄存器“%1”(0x%2)处的内存</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -18623,7 +18623,7 @@ Do you want to retry?</source>
     <message>
         <location line="+43"/>
         <source>Run to line %1 (%2) requested...</source>
-        <translation>请求执行到行 %1（%2）...</translation>
+        <translation>请求执行到行 %1(%2)...</translation>
     </message>
     <message>
         <location line="-111"/>
@@ -19027,12 +19027,12 @@ Do you want to retry?</source>
     <message>
         <location line="+5"/>
         <source>Memory at Frame #%1 (%2) 0x%3</source>
-        <translation>帧#%1（%2）0x%3处的内存</translation>
+        <translation>帧#%1(%2)0x%3处的内存</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Frame #%1 (%2)</source>
-        <translation>帧#%1（%2）</translation>
+        <translation>帧#%1(%2)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -19187,7 +19187,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+262"/>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;The remote CDB needs to load the matching %1 CDB extension (&lt;code&gt;%2&lt;/code&gt; or &lt;code&gt;%3&lt;/code&gt;, respectively).&lt;/p&gt;&lt;p&gt;Copy it onto the remote machine and set the environment variable &lt;code&gt;%4&lt;/code&gt; to point to its folder.&lt;/p&gt;&lt;p&gt;Launch the remote CDB as &lt;code&gt;%5 &amp;lt;executable&amp;gt;&lt;/code&gt; to use TCP/IP as communication protocol.&lt;/p&gt;&lt;p&gt;Enter the connection parameters as:&lt;/p&gt;&lt;pre&gt;%6&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;远程CDB需要载入匹配的%1 CDB扩展（&lt;code&gt;%2&lt;/code&gt;或&lt;code&gt;%3&lt;/code&gt;，按顺序）。&lt;/p&gt;&lt;p&gt;请把它复制到远程机器，并设定环境变量&lt;code&gt;%4&lt;/code&gt;指向它所在的目录。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;以&lt;code&gt;%5 &amp;lt;可执行档&amp;gt;&lt;/code&gt;的方式启动远程CDB以使用TCP/IP作为通讯协议。&lt;/p&gt;&lt;p&gt;按照&lt;/p&gt;&lt;pre&gt;%6&lt;/pre&gt;的格式输入连接的参数&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;远程CDB需要载入匹配的%1 CDB扩展(&lt;code&gt;%2&lt;/code&gt;或&lt;code&gt;%3&lt;/code&gt;，按顺序)。&lt;/p&gt;&lt;p&gt;请把它复制到远程机器，并设定环境变量&lt;code&gt;%4&lt;/code&gt;指向它所在的目录。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;以&lt;code&gt;%5 &amp;lt;可执行档&amp;gt;&lt;/code&gt;的方式启动远程CDB以使用TCP/IP作为通讯协议。&lt;/p&gt;&lt;p&gt;按照&lt;/p&gt;&lt;pre&gt;%6&lt;/pre&gt;的格式输入连接的参数&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -19682,12 +19682,12 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+17"/>
         <source>Press Ctrl to select widget at (%1, %2). Press any other keyboard modifier to stop selection.</source>
-        <translation>按Ctrl键在（%1，%2）选择小部件。按其他键来停止选择。</translation>
+        <translation>按Ctrl键在(%1，%2)选择小部件。按其他键来停止选择。</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Selecting widget at (%1, %2).</source>
-        <translation>在（%1，%2）选择小部件。</translation>
+        <translation>在(%1，%2)选择小部件。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -19702,12 +19702,12 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+76"/>
         <source>Memory at Pointer&apos;s Address &quot;%1&quot; (0x%2)</source>
-        <translation>指针的地址处“%1”（0x%2）的内存</translation>
+        <translation>指针的地址处“%1”(0x%2)的内存</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Memory at Object&apos;s Address &quot;%1&quot; (0x%2)</source>
-        <translation>对象的地址处“%1”（0x%2）的内存</translation>
+        <translation>对象的地址处“%1”(0x%2)的内存</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -19819,7 +19819,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="-1"/>
         <source>Add Data Breakpoint at Object&apos;s Address (0x%1)</source>
-        <translation>在对象地址（0x%1）添加数据断点</translation>
+        <translation>在对象地址(0x%1)添加数据断点</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -19829,7 +19829,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+2"/>
         <source>Add Data Breakpoint at Pointer&apos;s Address (0x%1)</source>
-        <translation>在指针的地址（0x%1）处添加数据断点</translation>
+        <translation>在指针的地址(0x%1)处添加数据断点</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19859,7 +19859,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+10"/>
         <source>Open Memory View at Object&apos;s Address (0x%1)</source>
-        <translation>在对象地址（0x%1）处打开内存查看器</translation>
+        <translation>在对象地址(0x%1)处打开内存查看器</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19869,7 +19869,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+4"/>
         <source>Open Memory View at Pointer&apos;s Address (0x%1)</source>
-        <translation>在指针的地址（0x%1）处打开内存查看器</translation>
+        <translation>在指针的地址(0x%1)处打开内存查看器</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19879,7 +19879,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+4"/>
         <source>Open Memory Editor at Object&apos;s Address (0x%1)</source>
-        <translation>在对象的地址（0x%1）处打开内存编辑器</translation>
+        <translation>在对象的地址(0x%1)处打开内存编辑器</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19889,7 +19889,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+4"/>
         <source>Open Memory Editor at Pointer&apos;s Address (0x%1)</source>
-        <translation>在指针的地址（0x%1）处打开内存编辑器</translation>
+        <translation>在指针的地址(0x%1)处打开内存编辑器</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -19939,7 +19939,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location line="+3"/>
         <source>Use Format for Type (Currently %1)</source>
-        <translation>格式化类型（当前为%1）</translation>
+        <translation>格式化类型(当前为%1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -20383,7 +20383,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+27"/>
         <source>Creates a Qt Designer form along with a matching class (C++ header and source file) for implementation purposes. You can add the form and class to an existing Qt Widget Project.</source>
-        <translation>创建一个Qt设计器窗体文件和相应的类（C++头文件和源文件）用于实现，您可以将此窗体文件和类加入到已经存在的Qt控件项目中。</translation>
+        <translation>创建一个Qt设计器窗体文件和相应的类(C++头文件和源文件)用于实现，您可以将此窗体文件和类加入到已经存在的Qt控件项目中。</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -21152,7 +21152,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+10"/>
         <source>Dependency: &quot;%1&quot; must be &quot;%2&quot; or &quot;%3&quot; (is &quot;%4&quot;).</source>
-        <translation>依赖关系：“%1”必须是“%2”或“%3”（“%4”）。</translation>
+        <translation>依赖关系：“%1”必须是“%2”或“%3”(“%4”)。</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -21183,7 +21183,7 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+1"/>
         <source>%1 (current: &quot;%2&quot;)</source>
-        <translation>%1（当前：“%2”）</translation>
+        <translation>%1(当前：“%2”)</translation>
     </message>
 </context>
 <context>
@@ -21287,25 +21287,25 @@ Rebuilding the project might help.</source>
     <message>
         <location line="+4"/>
         <source>%1 (%2) depends on</source>
-        <translation>%1（%2）依赖于</translation>
+        <translation>%1(%2)依赖于</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 (%2)</source>
-        <translation>%1（%2）</translation>
+        <translation>%1(%2)</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Cannot load plugin because dependency failed to load: %1 (%2)
 Reason: %3</source>
-        <translation>因为无法载入依赖关系所以无法载入插件：%1（%2）
+        <translation>因为无法载入依赖关系所以无法载入插件：%1(%2)
 原因：%3</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Cannot load plugin because dependency failed to load: %1(%2)
 Reason: %3</source>
-        <translation>因为无法载入依赖关系所以无法载入插件：%1（%2）
+        <translation>因为无法载入依赖关系所以无法载入插件：%1(%2)
 原因：%3</translation>
     </message>
 </context>
@@ -21314,7 +21314,7 @@ Reason: %3</source>
     <message>
         <location filename="libs/extensionsystem/pluginview.cpp" line="+120"/>
         <source>%1 (experimental)</source>
-        <translation>%1（实验性）</translation>
+        <translation>%1(实验性)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -21519,7 +21519,7 @@ will also disable the following plugins:
     <message>
         <location line="+61"/>
         <source>File &quot;%1&quot; exists (add ! to override)</source>
-        <translation>文件“%1”已存在（添加!覆盖）</translation>
+        <translation>文件“%1”已存在(添加!覆盖)</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -22403,7 +22403,7 @@ will also disable the following plugins:
     <message>
         <location line="+12"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gerrit server with HTTP was detected, but you need to set up credentials for it.&lt;/p&gt;&lt;p&gt;To get your password, &lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;click here&lt;/span&gt;&lt;/a&gt; (sign in if needed). Click Generate Password if the password is blank, and copy the user name and password to this form.&lt;/p&gt;&lt;p&gt;Choose Anonymous if you do not want authentication for this server. In this case, changes that require authentication (like draft changes or private projects) will not be displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;通过HTTP检测到Gerrit服务器，但是您需要为它设置证书。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;点击此处&lt;/span&gt;&lt;/a&gt;获取密码（如果需要登录）。如果密码为空，请单击“生成密码”，并将用户名和密码复制到此窗体。&lt;/p&gt;&lt;p&gt;如果您不想要此服务器的身份验证，请选择匿名。在这种情况下，将不会显示需要身份验证的更改（如草稿更改或私有项目）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;通过HTTP检测到Gerrit服务器，但是您需要为它设置证书。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;点击此处&lt;/span&gt;&lt;/a&gt;获取密码(如果需要登录)。如果密码为空，请单击“生成密码”，并将用户名和密码复制到此窗体。&lt;/p&gt;&lt;p&gt;如果您不想要此服务器的身份验证，请选择匿名。在这种情况下，将不会显示需要身份验证的更改(如草稿更改或私有项目)。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -22526,7 +22526,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="plugins/git/gerrit/gerritmodel.cpp" line="+213"/>
         <source> (Draft)</source>
-        <translation> （草稿）</translation>
+        <translation> (草稿)</translation>
     </message>
     <message>
         <location line="+183"/>
@@ -22706,7 +22706,7 @@ were not verified among remotes in %3. Select different folder?</source>
     <message>
         <location line="+23"/>
         <source>Enter Local Repository for &quot;%1&quot; (%2)</source>
-        <translation>为“%1”输入本地存储库（%2）</translation>
+        <translation>为“%1”输入本地存储库(%2)</translation>
     </message>
 </context>
 <context>
@@ -22899,12 +22899,12 @@ Would you like to terminate it?</source>
     <message>
         <location line="+25"/>
         <source>Track remote branch &apos;%1&apos;</source>
-        <translation>跟踪远程分支‘%1’</translation>
+        <translation>跟踪远程分支'%1'</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Track local branch &apos;%1&apos;</source>
-        <translation>跟踪本地分支‘%1’</translation>
+        <translation>跟踪本地分支'%1'</translation>
     </message>
     <message>
         <location filename="plugins/git/branchadddialog.ui" line="+10"/>
@@ -23702,7 +23702,7 @@ Commit now?</source>
     <message>
         <location line="+1"/>
         <source>Discard (reset) local changes and execute %1.</source>
-        <translation>丢弃（重置）本地更改和执行%1。</translation>
+        <translation>丢弃(重置)本地更改和执行%1。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -23730,7 +23730,7 @@ Commit now?</source>
         <location line="+2"/>
         <source>Amended &quot;%1&quot; (%n files).</source>
         <translation>
-            <numerusform>增订了“%1”（%n个文件）。</numerusform>
+            <numerusform>增订了“%1”(%n个文件)。</numerusform>
         </translation>
     </message>
     <message>
@@ -24377,7 +24377,7 @@ Commit now?</source>
     <message>
         <location line="+47"/>
         <source>Patches (*.patch *.diff)</source>
-        <translation>补丁（*.patch *.diff）</translation>
+        <translation>补丁(*.patch *.diff)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -24927,7 +24927,7 @@ Remote: %4</source>
 (%2).
 This causes Git to look for the SSH-keys in that location
 instead of its installation directory when run outside git bash.</source>
-        <translation>将环境变量HOME设置为“%1”（%2）。
+        <translation>将环境变量HOME设置为“%1”(%2)。
 这会导致Git在运行时在该位置查找SSH密钥，而不是在外部运行时安装目录。</translation>
     </message>
     <message>
@@ -25070,7 +25070,7 @@ You can choose between stashing the changes or discarding them.</source>
     <message>
         <location filename="plugins/git/gitgrep.cpp" line="+227"/>
         <source>Tree (optional)</source>
-        <translation>树（可选）</translation>
+        <translation>树(可选)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -25376,7 +25376,7 @@ Leave empty to search through the file system.</source>
     <message>
         <location line="-180"/>
         <source>%1 (auto-detected)</source>
-        <translation>%1（自动检测）</translation>
+        <translation>%1(自动检测)</translation>
     </message>
     <message>
         <location filename="plugins/help/docsettingspage.ui" line="+14"/>
@@ -25481,7 +25481,7 @@ Add, modify, and remove document filters, which determine the documentation set 
         <location line="+0"/>
         <location line="+22"/>
         <source>Files (*.xbel)</source>
-        <translation>文件（*.xbel）</translation>
+        <translation>文件(*.xbel)</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -26406,7 +26406,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+8"/>
         <source>Development team: %1 (%2)</source>
-        <translation>开发团队：%1（%2）</translation>
+        <translation>开发团队：%1(%2)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -26555,7 +26555,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+87"/>
         <source>The provisioning profile &quot;%1&quot; (%2) used to sign the application does not cover the device %3 (%4). Deployment to it will fail.</source>
-        <translation>用来签署应用程序的配置文件“%1”（%2）不包含设计%3（%4）。部署将失败。</translation>
+        <translation>用来签署应用程序的配置文件“%1”(%2)不包含设计%3(%4)。部署将失败。</translation>
     </message>
 </context>
 <context>
@@ -26915,7 +26915,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location line="+6"/>
         <source>Cannot start simulator (%1, %2) in current state: %3</source>
-        <translation>不能在当前状态下启动模拟器（%1，%2）：%3</translation>
+        <translation>不能在当前状态下启动模拟器(%1，%2)：%3</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -26931,14 +26931,14 @@ Id必须以小写字母开头。</translation>
         <location line="+4"/>
         <source>Simulator device (%1) created.
 UDID: %2</source>
-        <translation>模拟器设备（%1）已创建。
+        <translation>模拟器设备(%1)已创建。
 UDID：%2</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Simulator device (%1) creation failed.
 Error: %2</source>
-        <translation>模拟器设备（%1）创建失败。
+        <translation>模拟器设备(%1)创建失败。
 错误：%2</translation>
     </message>
     <message numerus="yes">
@@ -27775,12 +27775,12 @@ UDID：%4
     <message>
         <location line="+18"/>
         <source>Add new key below &apos;%1&apos;</source>
-        <translation>在‘%1’下面添加新的键</translation>
+        <translation>在'%1'下面添加新的键</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Remove key &apos;%1&apos; and all its sub-keys</source>
-        <translation>删除键‘%1’和它的子键</translation>
+        <translation>删除键'%1'和它的子键</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -28284,7 +28284,7 @@ UDID：%4
         <location line="+7"/>
         <location line="+20"/>
         <source>For example: &apos;https://[user[:pass]@]host[:port]/[path]&apos;.</source>
-        <translation>例如‘https://[用户名[:密码]@]主机名[:端口]/[路径]’。</translation>
+        <translation>例如'https://[用户名[:密码]@]主机名[:端口]/[路径]'。</translation>
     </message>
     <message>
         <location line="-17"/>
@@ -28489,12 +28489,12 @@ UDID：%4
     <message>
         <location line="+217"/>
         <source>Images (*.png *.jpeg *.jpg *.tif *.tiff);;PDF (*.pdf)</source>
-        <translation>Images（*.png *.jpeg *.jpg *.tif *.tiff）;;PDF（*.pdf）</translation>
+        <translation>Images(*.png *.jpeg *.jpg *.tif *.tiff);;PDF(*.pdf)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>;;SVG (*.svg)</source>
-        <translation>;;SVG（*.svg）</translation>
+        <translation>;;SVG(*.svg)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -29594,7 +29594,7 @@ UDID：%4
     <message>
         <location line="+5"/>
         <source>Perforce did not respond within timeout limit (%1 s).</source>
-        <translation>Perforce响应超时（%1 s）。</translation>
+        <translation>Perforce响应超时(%1 s)。</translation>
     </message>
     <message>
         <location line="+112"/>
@@ -29752,7 +29752,7 @@ UDID：%4
     <message>
         <location line="+7"/>
         <source>Test succeeded (%1).</source>
-        <translation>测试成功（%1）。</translation>
+        <translation>测试成功(%1)。</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -29877,7 +29877,7 @@ Reason: %3</source>
     <message>
         <location line="+14"/>
         <source>Could not resolve dependency &apos;%1(%2)&apos;</source>
-        <translation>无法解决依赖‘%1（%2）’</translation>
+        <translation>无法解决依赖'%1(%2)'</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -29887,7 +29887,7 @@ Reason: %3</source>
     <message>
         <location line="+13"/>
         <source>Plugin is not valid (does not derive from IPlugin)</source>
-        <translation>无效插件（未从IPlugin继承）</translation>
+        <translation>无效插件(未从IPlugin继承)</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -30232,7 +30232,7 @@ Reason: %3</source>
         <location line="+8"/>
         <location line="+107"/>
         <source>Error while building/deploying project %1 (kit: %2)</source>
-        <translation>构建/部署项目%1时出错（Kit：%2）</translation>
+        <translation>构建/部署项目%1时出错(Kit：%2)</translation>
     </message>
     <message>
         <location line="-112"/>
@@ -30759,7 +30759,7 @@ cannot be found in the path.</source>
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicemanagermodel.cpp" line="+175"/>
         <source>%1 (default for %2)</source>
-        <translation>%1（默认为%2）</translation>
+        <translation>%1(默认为%2)</translation>
     </message>
 </context>
 <context>
@@ -30969,7 +30969,7 @@ cannot be found in the path.</source>
     <message>
         <location filename="plugins/projectexplorer/gcctoolchain.cpp" line="+295"/>
         <source>%1 (%2, %3 %4 in %5)</source>
-        <translation>%1（%2，%5中的%3 %4）</translation>
+        <translation>%1(%2，%5中的%3 %4)</translation>
     </message>
 </context>
 <context>
@@ -31649,7 +31649,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicesettingswidget.cpp" line="+177"/>
         <source>Yes (id is &quot;%1&quot;)</source>
-        <translation>是（ID为“%1”）</translation>
+        <translation>是(ID为“%1”)</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -31939,7 +31939,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/jsonwizard/jsonwizard.cpp" line="+160"/>
         <source>No &apos;key&apos; in options object.</source>
-        <translation>在选择对象没有‘key’。</translation>
+        <translation>在选择对象没有'key'。</translation>
     </message>
 </context>
 <context>
@@ -32015,7 +32015,7 @@ Excluding: %2
     <message>
         <location line="+2"/>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation>图片（*.png *.xpm *.jpg）</translation>
+        <translation>图片(*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -32033,7 +32033,7 @@ Excluding: %2
     <message>
         <location line="-34"/>
         <source>%1 (default)</source>
-        <translation>%1（默认）</translation>
+        <translation>%1(默认)</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -32404,7 +32404,7 @@ to project &quot;%2&quot;.</source>
         <location line="+8"/>
         <source>Failed to add one or more files to project
 &quot;%1&quot; (%2).</source>
-        <translation>添加一个或多个文件到项目“%1”（%2）失败。</translation>
+        <translation>添加一个或多个文件到项目“%1”(%2)失败。</translation>
     </message>
 </context>
 <context>
@@ -32412,7 +32412,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="plugins/projectexplorer/miniprojecttargetselector.cpp" line="-1292"/>
         <source>%1 (%2)</source>
-        <translation>%1（%2）</translation>
+        <translation>%1(%2)</translation>
     </message>
 </context>
 <context>
@@ -32496,7 +32496,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+2"/>
         <source>Open %1 &quot;%2&quot; (%3)</source>
-        <translation>打开%1“%2”（%3）</translation>
+        <translation>打开%1“%2”(%3)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -32507,12 +32507,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location line="+57"/>
         <source>%1 (last session)</source>
-        <translation>%1（最后的会话）</translation>
+        <translation>%1(最后的会话)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 (current session)</source>
-        <translation>%1（当前会话）</translation>
+        <translation>%1(当前会话)</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -33366,7 +33366,7 @@ to project &quot;%2&quot;.</source>
         <location line="+13"/>
         <source>Failed to add one or more files to project
 &quot;%1&quot; (%2).</source>
-        <translation>添加一个或多个文件到项目“%1”（%2）失败。</translation>
+        <translation>添加一个或多个文件到项目“%1”(%2)失败。</translation>
     </message>
 </context>
 <context>
@@ -34240,11 +34240,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a vertex shader in the Desktop OpenGL Shading Language (GLSL). Vertex shaders transform the positions, normals and texture coordinates of triangles, points and lines rendered with OpenGL.</source>
-        <translation type="vanished">在创建桌面OpenGL着色语言（GLSL）顶点着色器。顶点着色器变换使用OpenGL渲染的位置，法线和三角形，点纹理坐标和线条。</translation>
+        <translation type="vanished">在创建桌面OpenGL着色语言(GLSL)顶点着色器。顶点着色器变换使用OpenGL渲染的位置，法线和三角形，点纹理坐标和线条。</translation>
     </message>
     <message>
         <source>Creates a vertex shader in the OpenGL/ES 2.0 Shading Language (GLSL/ES). Vertex shaders transform the positions, normals and texture coordinates of triangles, points and lines rendered with OpenGL.</source>
-        <translation type="vanished">在创建OpenGL的顶点着色器/ ES2.0着色语言（GLSL/ ES）。顶点着色器变换使用OpenGL渲染的位置，法线和三角形，点纹理坐标和线条。</translation>
+        <translation type="vanished">在创建OpenGL的顶点着色器/ ES2.0着色语言(GLSL/ ES)。顶点着色器变换使用OpenGL渲染的位置，法线和三角形，点纹理坐标和线条。</translation>
     </message>
     <message>
         <source>Vertex Shader (Desktop OpenGL)</source>
@@ -34318,7 +34318,7 @@ Preselects a desktop Qt for building the application if available.</source>
         <location line="+22"/>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4
 </source>
-        <translation>* 解析“%1”失败：‘%2：%3：%4
+        <translation>* 解析“%1”失败：'%2：%3：%4
 </translation>
     </message>
     <message>
@@ -34384,12 +34384,12 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location line="+32"/>
         <source>&quot;kind&quot; value &quot;%1&quot; is not &quot;class&quot; (deprecated), &quot;file&quot; or &quot;project&quot;.</source>
-        <translation>“kind”值“%1”不是“class”（废弃），“file”或“project”。</translation>
+        <translation>“kind”值“%1”不是“class”(废弃)，“file”或“project”。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&quot;kind&quot; is &quot;file&quot; or &quot;class&quot; (deprecated) and &quot;%1&quot; is also set.</source>
-        <translation>“kind”时“file”或“class”（废弃）而且“%1”也设置了。</translation>
+        <translation>“kind”时“file”或“class”(废弃)而且“%1”也设置了。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -36067,12 +36067,12 @@ ID：%2
     <message>
         <location line="+62"/>
         <source>QML Emulation Layer (QML Puppet) Building was Unsuccessful</source>
-        <translation>QML仿真（QML Puppet）构建失败</translation>
+        <translation>QML仿真(QML Puppet)构建失败</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真（QML Puppet）不能构建。退回仿真，它不支持所有功能，将被使用。</translation>
+        <translation>该QML仿真(QML Puppet)不能构建。退回仿真，它不支持所有功能，将被使用。</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -36082,7 +36082,7 @@ ID：%2
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the Qt version is too old or it cannot run natively on your computer. The fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真（QML Puppet）不能构建，因为Qt版本太旧或者无法在本地计算机上运行。退回仿真，它不支持所有功能，将被使用。</translation>
+        <translation>该QML仿真(QML Puppet)不能构建，因为Qt版本太旧或者无法在本地计算机上运行。退回仿真，它不支持所有功能，将被使用。</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -36092,7 +36092,7 @@ ID：%2
     <message>
         <location line="+1"/>
         <source>The QML emulation layer (QML Puppet) cannot be built because the kit is not configured correctly. For example the compiler can be misconfigured. Fix the kit configuration and restart Qt Creator. Otherwise, the fallback emulation layer, which does not support all features, will be used.</source>
-        <translation>该QML仿真（QML Puppet）不能构建，因为该构建套件配置不正确。例如，编译器配置错误。修复构建套件配置并重新启动Qt Creator。否则，将退回仿真，它不支持所有功能，将被使用。</translation>
+        <translation>该QML仿真(QML Puppet)不能构建，因为该构建套件配置不正确。例如，编译器配置错误。修复构建套件配置并重新启动Qt Creator。否则，将退回仿真，它不支持所有功能，将被使用。</translation>
     </message>
 </context>
 <context>
@@ -36230,7 +36230,7 @@ ID：%2
     <message>
         <location line="+6"/>
         <source>Failed to retrieve information on the remote file (&apos;stat&apos; failed).</source>
-        <translation>获取远程文件的信息失败（‘stat’失败）。</translation>
+        <translation>获取远程文件的信息失败('stat'失败)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -36352,7 +36352,7 @@ ID：%2
     <message>
         <location line="+8"/>
         <source>Server identification string is invalid (missing carriage return).</source>
-        <translation>服务器的标识字符串无效（缺少回车)。</translation>
+        <translation>服务器的标识字符串无效(缺少回车)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -39740,7 +39740,7 @@ If you have more than a few settings, this might be preferable to plain &quot;qb
     <message>
         <location line="+12"/>
         <source>Keep going when errors occur (if at all possible).</source>
-        <translation>当错误发生时继续（如果可以的话）。</translation>
+        <translation>当错误发生时继续(如果可以的话)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -40337,7 +40337,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location line="+2"/>
         <source>Libraries (*.so)</source>
-        <translation>库文件 （*。so）</translation>
+        <translation>库文件 (*。so)</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -40457,7 +40457,7 @@ Please update your kit or choose a mkspec for qmake that matches your target env
     <message>
         <location line="+1"/>
         <source>Icon files (*.png *.ico *.jpg *.xpm *.tif *.svg)</source>
-        <translation>图标文件（*.png *.ico *.jpg *.xpm *.tif *.svg）</translation>
+        <translation>图标文件(*.png *.ico *.jpg *.xpm *.tif *.svg)</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/customwidgetwizard/classdefinition.ui" line="+3"/>
@@ -40706,7 +40706,7 @@ Please update your kit or choose a mkspec for qmake that matches your target env
     <message>
         <location filename="plugins/qmakeprojectmanager/externaleditors.cpp" line="+165"/>
         <source>Qt Designer is not responding (%1).</source>
-        <translation>Qt设计器无响应（%1）。</translation>
+        <translation>Qt设计器无响应(%1)。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -40746,7 +40746,7 @@ Please update your kit or choose a mkspec for qmake that matches your target env
     <message>
         <location line="+10"/>
         <source>Use debug version of frameworks (DYLD_IMAGE_SUFFIX=_debug)</source>
-        <translation>使用开发框架的调试版（DYLD_IMAGE_SUFFIX=_debug）</translation>
+        <translation>使用开发框架的调试版(DYLD_IMAGE_SUFFIX=_debug)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -41076,7 +41076,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+1"/>
         <source>Creates a C++ library based on qmake. This can be used to create:&lt;ul&gt;&lt;li&gt;a shared C++ library for use with &lt;tt&gt;QPluginLoader&lt;/tt&gt; and runtime (Plugins)&lt;/li&gt;&lt;li&gt;a shared or static C++ library for use with another project at linktime&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>创建一个基于qmake的C++库。可以用于创建：&lt;ul&gt;&lt;li&gt;用于&lt;tt&gt;QPluginLoader&lt;/tt&gt;和运行时（插件）的共享C++库&lt;/li&gt;&lt;li&gt;在其他项目中链接时使用的共享库或静态C++库&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>创建一个基于qmake的C++库。可以用于创建：&lt;ul&gt;&lt;li&gt;用于&lt;tt&gt;QPluginLoader&lt;/tt&gt;和运行时(插件)的共享C++库&lt;/li&gt;&lt;li&gt;在其他项目中链接时使用的共享库或静态C++库&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -41156,7 +41156,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location filename="plugins/qmakeprojectmanager/customwidgetwizard/plugingenerator.cpp" line="+177"/>
         <source>Creating multiple widget libraries (%1, %2) in one project (%3) is not supported.</source>
-        <translation>不支持在一个项目中（%3）创建多个部件库（%1，%2）。</translation>
+        <translation>不支持在一个项目中(%3)创建多个部件库(%1，%2)。</translation>
     </message>
 </context>
 <context>
@@ -41403,7 +41403,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location filename="plugins/qmakeprojectmanager/wizards/simpleprojectwizard.cpp" line="+44"/>
         <source>Import as qmake Project (Limited Functionality)</source>
-        <translation>导入为qmake项目（有限功能）</translation>
+        <translation>导入为qmake项目(有限功能)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -42197,7 +42197,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+2"/>
         <source>PNG (*.png);;JPG (*.jpg)</source>
-        <translation>PNG（*.png）;;JPG（*.jpg）</translation>
+        <translation>PNG(*.png);;JPG(*.jpg)</translation>
     </message>
     <message>
         <location line="-211"/>
@@ -42568,7 +42568,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+6"/>
         <source>If you select this radio button, Qt Quick Designer always uses the QML emulation layer (QML Puppet) located at the following path.</source>
-        <translation>如果选择此单选按钮，Qt Quick设计器总是使用位于以下路径的QML仿真（QML Puppet）。</translation>
+        <translation>如果选择此单选按钮，Qt Quick设计器总是使用位于以下路径的QML仿真(QML Puppet)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -42667,7 +42667,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <location line="+47"/>
         <source>Path to the QML emulation layer executable (qmlpuppet).</source>
-        <translation>QML仿真的可执行文件的路径（qmlpuppet）。</translation>
+        <translation>QML仿真的可执行文件的路径(qmlpuppet)。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -42876,22 +42876,22 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location line="+25"/>
         <source>Become last sibling of parent (CTRL + Left).</source>
-        <translation>变为父项最后的兄弟项（CTRL+Left）。</translation>
+        <translation>变为父项最后的兄弟项(CTRL+Left)。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Become child of last sibling (CTRL + Right).</source>
-        <translation>成为最后一个兄弟节点的子节点（CTRL+Right）。</translation>
+        <translation>成为最后一个兄弟节点的子节点(CTRL+Right)。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Move down (CTRL + Down).</source>
-        <translation>下移（CTRL+Down）。</translation>
+        <translation>下移(CTRL+Down)。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Move up (CTRL + Up).</source>
-        <translation>上移（CTRL+Up）。</translation>
+        <translation>上移(CTRL+Up)。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -42910,12 +42910,12 @@ This is independent of the visibility property in QML.</source>
         <location filename="plugins/qmldesigner/designercore/instances/nodeinstanceserverproxy.cpp" line="+93"/>
         <location line="+5"/>
         <source>Cannot Connect to QML Emulation Layer (QML Puppet)</source>
-        <translation>无法连接QML仿真（QML Puppet）</translation>
+        <translation>无法连接QML仿真(QML Puppet)</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>The executable of the QML emulation layer (QML Puppet) may not be responding. Switching to another kit might help.</source>
-        <translation>QML仿真的可执行文件（QML Puppet）可能不会回应。切换到另一个设备可能有帮助。</translation>
+        <translation>QML仿真的可执行文件(QML Puppet)可能不会回应。切换到另一个设备可能有帮助。</translation>
     </message>
     <message>
         <location line="+318"/>
@@ -43323,7 +43323,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location line="+1"/>
         <source>Stack (z)</source>
-        <translation>栈（z）</translation>
+        <translation>栈(z)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -43685,7 +43685,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="libs/qmljs/qmljscheck.cpp" line="+1065"/>
         <source>&apos;int&apos; or &apos;real&apos;</source>
-        <translation>‘整数’或‘实数’</translation>
+        <translation>'整数'或'实数'</translation>
     </message>
 </context>
 <context>
@@ -43707,7 +43707,7 @@ For Qbs projects, declare and set a qmlImportPaths property in your product to a
 For qmlproject projects, use the importPaths property to add import paths.
 For CMake projects, make sure QML_IMPORT_PATH variable is in CMakeCache.txt.
 </source>
-        <translation>找不到QML模块（%1）。
+        <translation>找不到QML模块(%1)。
 
 导入路径：
 %2
@@ -43978,7 +43978,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>Do not use &apos;eval&apos;.</source>
-        <translation>不要用‘eval’。</translation>
+        <translation>不要用'eval'。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -43988,7 +43988,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>Do not use &apos;with&apos;.</source>
-        <translation>不要用‘with’。</translation>
+        <translation>不要用'with'。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -44133,7 +44133,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>Unintentional empty block, use ({}) for empty object literal.</source>
-        <translation>非故意空闲数据块，使用（{}）空对象文本。</translation>
+        <translation>非故意空闲数据块，使用({})空对象文本。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -44208,7 +44208,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>This type (%1) is not supported in the Qt Quick Designer.</source>
-        <translation>Qt Quick不支持类型（%1）。</translation>
+        <translation>Qt Quick不支持类型(%1)。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -44238,17 +44238,17 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>This type (%1) is not supported as a root element by Qt Quick Designer.</source>
-        <translation>Qt Quick设计器根元素不支持类型（%1）。</translation>
+        <translation>Qt Quick设计器根元素不支持类型(%1)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>This type (%1) is not supported as a root element of a Qt Quick UI form.</source>
-        <translation>Qt Quick设计器根元素不支持类型（%1）。</translation>
+        <translation>Qt Quick设计器根元素不支持类型(%1)。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>This type (%1) is not supported in a Qt Quick UI form.</source>
-        <translation>Qt Quick设计器不支持类型（%1）。</translation>
+        <translation>Qt Quick设计器不支持类型(%1)。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -44278,7 +44278,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+2"/>
         <source>A State cannot have a child item (%1).</source>
-        <translation>一个声明不能有一个子项（%1）。</translation>
+        <translation>一个声明不能有一个子项(%1)。</translation>
     </message>
 </context>
 <context>
@@ -44456,7 +44456,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+9"/>
         <source>Expected string literal to contain &apos;Package/Name major.minor&apos; or &apos;Name major.minor&apos;.</source>
-        <translation>要求字符串包含‘ackage/Name major.minor’或‘Name major.minor’。</translation>
+        <translation>要求字符串包含'ackage/Name major.minor'或'Name major.minor'。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -44490,12 +44490,12 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     <message>
         <location line="+13"/>
         <source>Expected object literal to contain only &apos;string: number&apos; elements.</source>
-        <translation>要求对象仅仅包含‘string:number’元素。</translation>
+        <translation>要求对象仅仅包含'string:number'元素。</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Enum should not contain getter and setters, but only &apos;string: number&apos; elements.</source>
-        <translation>枚举不应该有 getter 和 setter，仅有‘string:number’元素。</translation>
+        <translation>枚举不应该有 getter 和 setter，仅有'string:number'元素。</translation>
     </message>
 </context>
 <context>
@@ -44594,7 +44594,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
         <source>// TODO: Move position bindings from the component to the Loader.
 //       Check all uses of &apos;parent&apos; inside the root element of the component.</source>
         <translation>//待完成：将位置绑定从组件移动到装载器。
-//        检查所有在组件的根元素中使用的‘parent’。</translation>
+//        检查所有在组件的根元素中使用的'parent'。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -45827,7 +45827,7 @@ itself takes time.</source>
     <message>
         <location line="+9"/>
         <source>Flush interval (ms):</source>
-        <translation>刷新间隔（ms）：</translation>
+        <translation>刷新间隔(ms)：</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -46130,7 +46130,7 @@ itself takes time.</source>
     <message>
         <location line="-37"/>
         <source>QML Profiler (Attach to Waiting Application)</source>
-        <translation>QML分析器（附加到等待程序）</translation>
+        <translation>QML分析器(附加到等待程序)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -46151,7 +46151,7 @@ itself takes time.</source>
         <location line="+155"/>
         <location line="+22"/>
         <source>QML traces (*%1 *%2)</source>
-        <translation>QML追踪文件（*%1*%2）</translation>
+        <translation>QML追踪文件(*%1*%2)</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -46539,17 +46539,17 @@ Do you want to retry?</source>
     <message>
         <location line="+107"/>
         <source>Debugger for %1 (%2)</source>
-        <translation>%1（%2）的调试器</translation>
+        <translation>%1(%2)的调试器</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>QCC for %1 (%2)</source>
-        <translation>%1（%2）的QCC</translation>
+        <translation>%1(%2)的QCC</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Kit for %1 (%2)</source>
-        <translation>%1（%2）的工具箱</translation>
+        <translation>%1(%2)的工具箱</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -46977,7 +46977,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+4"/>
         <source>Base classes for graphical user interface (GUI) components. (Qt 4: Includes widgets. Qt 5: Includes OpenGL.)</source>
-        <translation>基类的图形用户界面（GUI）组件。 （QT4：包括小工具的Qt5：包括OpenGL的。）</translation>
+        <translation>基类的图形用户界面(GUI)组件。 (QT4：包括小工具的Qt5：包括OpenGL的。)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -46992,7 +46992,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+4"/>
         <source>Classes for QML and JavaScript languages (Qt 5)</source>
-        <translation>QML和JavaScript语言类（QT5）</translation>
+        <translation>QML和JavaScript语言类(QT5)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -47002,22 +47002,22 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+12"/>
         <source>Print support classes (Qt 5)</source>
-        <translation>支持打印的类（Qt5）</translation>
+        <translation>支持打印的类(Qt5)</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>WebKit1 and QWidget-based classes from Qt 4 (Qt 5)</source>
-        <translation>从Qt 4开始的WebKit1和QWidget的基类（QT5）</translation>
+        <translation>从Qt 4开始的WebKit1和QWidget的基类(QT5)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Multimedia framework classes (Qt 4 only)</source>
-        <translation>多媒体框架类（仅限Qt 4）</translation>
+        <translation>多媒体框架类(仅限Qt 4)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Classes that ease porting from Qt 3 to Qt 4 (Qt 4 only)</source>
-        <translation>帮助Qt 3到Qt 4移植的类（仅限Qt 4）</translation>
+        <translation>帮助Qt 3到Qt 4移植的类(仅限Qt 4)</translation>
     </message>
     <message>
         <location line="-60"/>
@@ -47516,17 +47516,17 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+4"/>
         <source>The current Qt version&apos;s default mkspecs (Qt 4).</source>
-        <translation>目前的Qt版本默认mkspecs（QT4）。</translation>
+        <translation>目前的Qt版本默认mkspecs(QT4)。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; host system).</source>
-        <translation>目前的Qt版本默认mkspec（Qt5）。</translation>
+        <translation>目前的Qt版本默认mkspec(Qt5)。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; target system).</source>
-        <translation>目前的Qt版本默认mkspec（Qt5）。</translation>
+        <translation>目前的Qt版本默认mkspec(Qt5)。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -47608,12 +47608,12 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+14"/>
         <source>Qt %{Qt:Version} in PATH (%2)</source>
-        <translation>Qt %{Qt:Version} 在路径（%2）</translation>
+        <translation>Qt %{Qt:Version} 在路径(%2)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Qt %{Qt:Version} (%2)</source>
-        <translation>Qt %{Qt:Version} （%2）</translation>
+        <translation>Qt %{Qt:Version} (%2)</translation>
     </message>
     <message>
         <location line="+305"/>
@@ -47648,7 +47648,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location line="+5"/>
         <source>Timeout running &quot;%1&quot; (%2 ms).</source>
-        <translation>“%1”运行超时（%2 ms）。</translation>
+        <translation>“%1”运行超时(%2 ms)。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -48352,7 +48352,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+10"/>
         <source>Custom Executable (on Remote Generic Linux Host)</source>
-        <translation>自定义可执行文件（在通用远程Linux主机上）</translation>
+        <translation>自定义可执行文件(在通用远程Linux主机上)</translation>
     </message>
 </context>
 <context>
@@ -48416,7 +48416,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="plugins/remotelinux/remotelinuxrunconfigurationfactory.cpp" line="+104"/>
         <source>(on Remote Generic Linux Host)</source>
-        <translation>（在远程通用Linux主机）</translation>
+        <translation>(在远程通用Linux主机)</translation>
     </message>
 </context>
 <context>
@@ -48424,7 +48424,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="plugins/remotelinux/typespecificdeviceconfigurationlistmodel.cpp" line="+70"/>
         <source>%1 (default)</source>
-        <translation>%1（默认）</translation>
+        <translation>%1(默认)</translation>
     </message>
 </context>
 <context>
@@ -48444,7 +48444,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+1"/>
         <source>Public Key Files (*.pub);;All Files (*)</source>
-        <translation>选择公钥文件（*.pub）;;所有文件（*）</translation>
+        <translation>选择公钥文件(*.pub);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -48588,7 +48588,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="plugins/remotelinux/remotelinuxrunconfiguration.cpp" line="+156"/>
         <source>%1 (on Remote Device)</source>
-        <translation>%1（在远端设备上）</translation>
+        <translation>%1(在远端设备上)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -48696,7 +48696,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+8"/>
         <source>Error: tar file %1 cannot be opened (%2).</source>
-        <translation>错误：无法打开tar文件%1（%2）。</translation>
+        <translation>错误：无法打开tar文件%1(%2)。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -48984,7 +48984,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+2"/>
         <source>All files (*)</source>
-        <translation>所有文件（*）</translation>
+        <translation>所有文件(*)</translation>
     </message>
 </context>
 <context>
@@ -49249,7 +49249,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+34"/>
         <source>Images (%1)</source>
-        <translation>图片（%1）</translation>
+        <translation>图片(%1)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -49504,12 +49504,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="plugins/scxmleditor/scxmleditordata.cpp" line="+142"/>
         <source>Undo (Ctrl + Z)</source>
-        <translation>撤销（Ctrl+Z）</translation>
+        <translation>撤销(Ctrl+Z)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Redo (Ctrl + Y)</source>
-        <translation>重做（Ctrl+Y）</translation>
+        <translation>重做(Ctrl+Y)</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -49527,7 +49527,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="plugins/scxmleditor/outputpane/errorwidget.cpp" line="+164"/>
         <source>Errors(%1) / Warnings(%2) / Info(%3)</source>
-        <translation>错误（%1）警告（%2）信息（%3）</translation>
+        <translation>错误(%1)警告(%2)信息(%3)</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -49537,7 +49537,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location line="+0"/>
         <source>CSV files (*.csv)</source>
-        <translation>CSV文件（*.csv）</translation>
+        <translation>CSV文件(*.csv)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -49614,7 +49614,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Zoom In (Ctrl + + / Ctrl + Wheel)</source>
-        <translation>放大（Ctrl++/Ctrl+Wheel）</translation>
+        <translation>放大(Ctrl++/Ctrl+Wheel)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49624,7 +49624,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Zoom Out (Ctrl + - / Ctrl + Wheel)</source>
-        <translation>缩小（Ctrl+-/Ctrl+Wheel）</translation>
+        <translation>缩小(Ctrl+-/Ctrl+Wheel)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49634,7 +49634,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Fit to View (F11)</source>
-        <translation>适合页面（F11）</translation>
+        <translation>适合页面(F11)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49644,7 +49644,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Panning (Shift)</source>
-        <translation>平移（Shift）</translation>
+        <translation>平移(Shift)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -49654,7 +49654,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Magnifier Tool (Alt)</source>
-        <translation>放大镜（Alt）</translation>
+        <translation>放大镜(Alt)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49664,7 +49664,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Navigator (Ctrl+E)</source>
-        <translation>导航（Ctrl+E）</translation>
+        <translation>导航(Ctrl+E)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -49674,7 +49674,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Copy (Ctrl + C)</source>
-        <translation>复制（Ctrl+C）</translation>
+        <translation>复制(Ctrl+C)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49684,7 +49684,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Cut (Ctrl + X)</source>
-        <translation>剪切（Ctrl+X）</translation>
+        <translation>剪切(Ctrl+X)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49694,7 +49694,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Paste (Ctrl + V)</source>
-        <translation>粘贴（Ctrl+V）</translation>
+        <translation>粘贴(Ctrl+V)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49704,7 +49704,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Screenshot (Ctrl + Shift + C)</source>
-        <translation>截图（Ctrl+Shift+C）</translation>
+        <translation>截图(Ctrl+Shift+C)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49724,7 +49724,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Left (Ctrl+L,1)</source>
-        <translation>左对齐（Ctrl+L,1）</translation>
+        <translation>左对齐(Ctrl+L,1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49734,7 +49734,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Right (Ctrl+L,2)</source>
-        <translation>右对齐（Ctrl+L,2）</translation>
+        <translation>右对齐(Ctrl+L,2)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49744,7 +49744,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Top (Ctrl+L,3)</source>
-        <translation>顶对齐（Ctrl+L,3）</translation>
+        <translation>顶对齐(Ctrl+L,3)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49754,7 +49754,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Bottom (Ctrl+L,4)</source>
-        <translation>底对齐（Ctrl+L,4）</translation>
+        <translation>底对齐(Ctrl+L,4)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49764,7 +49764,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Horizontal (Ctrl+L,5)</source>
-        <translation>水平对齐（Ctrl+L,5）</translation>
+        <translation>水平对齐(Ctrl+L,5)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49774,7 +49774,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Align Vertical (Ctrl+L,6)</source>
-        <translation>垂直对齐（Ctrl+L,6）</translation>
+        <translation>垂直对齐(Ctrl+L,6)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49784,7 +49784,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Adjust Width (Ctrl+L,7)</source>
-        <translation>调整宽度（Ctrl+L,7）</translation>
+        <translation>调整宽度(Ctrl+L,7)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49794,7 +49794,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Adjust Height (Ctrl+L,8)</source>
-        <translation>调整高度（Ctrl+L,8）</translation>
+        <translation>调整高度(Ctrl+L,8)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -49804,7 +49804,7 @@ Description:	%4</source>
     <message>
         <location line="+0"/>
         <source>Adjust Size (Ctrl+L,9)</source>
-        <translation>调整大小（Ctrl+L,9）</translation>
+        <translation>调整大小(Ctrl+L,9)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -49896,7 +49896,7 @@ Description:	%4</source>
     <message>
         <location line="+24"/>
         <source>Duplicate ID (%1).</source>
-        <translation>重复的ID（%1）。</translation>
+        <translation>重复的ID(%1)。</translation>
     </message>
 </context>
 <context>
@@ -50012,7 +50012,7 @@ Description: %3
 Row: %4, Column: %5
 %6</source>
         <translation>读取XML错误。
-类型：%1（%2）
+类型：%1(%2)
 说明：%3
 
 行：%4，列：%5
@@ -50144,17 +50144,17 @@ Row: %4, Column: %5
     <message>
         <location line="+18"/>
         <source>No input or output connections (%1).</source>
-        <translation>没有输入输出连接（%1）。</translation>
+        <translation>没有输入输出连接(%1)。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>No output connections (%1).</source>
-        <translation>没有输出连接（%1）。</translation>
+        <translation>没有输出连接(%1)。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>No input connections (%1).</source>
-        <translation>没有输入连接（%1）。</translation>
+        <translation>没有输入连接(%1)。</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -50190,7 +50190,7 @@ Row: %4, Column: %5
     <message>
         <location line="+9"/>
         <source>Not connected (%1).</source>
-        <translation>没有连接（%1）。</translation>
+        <translation>没有连接(%1)。</translation>
     </message>
 </context>
 <context>
@@ -51024,7 +51024,7 @@ with a password, which you can enter below.</source>
     <message>
         <location filename="plugins/autotest/testtreeitem.cpp" line="+69"/>
         <source>%1 (none)</source>
-        <translation>%1（无）</translation>
+        <translation>%1(无)</translation>
     </message>
 </context>
 <context>
@@ -51230,7 +51230,7 @@ with a password, which you can enter below.</source>
     <message>
         <location line="+2"/>
         <source>%1 (Copy)</source>
-        <translation>%1（复制）</translation>
+        <translation>%1(复制)</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -51257,7 +51257,7 @@ with a password, which you can enter below.</source>
         <location line="-7"/>
         <location line="+17"/>
         <source>Code styles (*.xml);;All files (*)</source>
-        <translation>代码风格（*.xml）;;所有文件（*）</translation>
+        <translation>代码风格(*.xml);;所有文件(*)</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -51349,7 +51349,7 @@ Excluding: %3
     <message>
         <location line="+1"/>
         <source>%1 (copy)</source>
-        <translation>%1（复制）</translation>
+        <translation>%1(复制)</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -51648,7 +51648,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+3"/>
         <source>Show help tooltips using keyboard shortcut (Alt)</source>
-        <translation>使用键盘快捷键显示帮助提示（Alt）</translation>
+        <translation>使用键盘快捷键显示帮助提示(Alt)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -51718,7 +51718,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location line="+47"/>
         <source>%1 (Copy)</source>
-        <translation>%1（复制）</translation>
+        <translation>%1(复制)</translation>
     </message>
 </context>
 <context>
@@ -51975,9 +51975,9 @@ Specifies how backspace interacts with indentation.
         <source>Splits a string into two lines by adding an end quote at the cursor position when you press Enter and a start quote to the next line, before the rest of the string.
 
 In addition, Shift+Enter inserts an escape character at the cursor position and moves the rest of the string to the next line.</source>
-        <translation>当您按下回车键（Enter）后字符串被分为两行，光标所在处增加一个结束符并且在余下的字符串前增加一个行起始符。
+        <translation>当您按下回车键(Enter)后字符串被分为两行，光标所在处增加一个结束符并且在余下的字符串前增加一个行起始符。
 
-另外，按下换档键加回车键（Shift+Enter)后，光标所在处增加一个换码符号并且把余下的字符串移动到下一行中。</translation>
+另外，按下换档键加回车键(Shift+Enter)后，光标所在处增加一个换码符号并且把余下的字符串移动到下一行中。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -52067,7 +52067,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location line="+6"/>
         <source>Automatically creates a Doxygen comment upon pressing enter after a &apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; or &apos;///&apos;.</source>
-        <translation>在‘/**’，‘/*!’，‘//!’或‘///’之后按下回车时自动创建Doxygen注释。</translation>
+        <translation>在'/**'，'/*!'，'//!'或'///'之后按下回车时自动创建Doxygen注释。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53367,7 +53367,7 @@ Influences the indentation of continuation lines.
     <message>
         <location line="+7"/>
         <source>Current document&apos;s font size in points.</source>
-        <translation>当前文档的字体大小（以点为单位）。</translation>
+        <translation>当前文档的字体大小(以点为单位)。</translation>
     </message>
 </context>
 <context>
@@ -53551,7 +53551,7 @@ Applied to text, if no other rules matching.</source>
         <source>Occurrences of the symbol under the cursor.
 (Only the background will be applied.)</source>
         <translation>光标处的符号出现的位置。
-（仅应用背景颜色。）</translation>
+(仅应用背景颜色。)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -53661,7 +53661,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to lines with file information in differences (in side-by-side diff editor).</source>
-        <translation>用于不同的文件信息系（并排比较编辑）。</translation>
+        <translation>用于不同的文件信息系(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53671,7 +53671,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to lines describing hidden context in differences (in side-by-side diff editor).</source>
-        <translation>适用于描述隐藏的上下文不同行（并排比较编辑）。</translation>
+        <translation>适用于描述隐藏的上下文不同行(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53681,7 +53681,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to source lines with changes in differences (in side-by-side diff editor).</source>
-        <translation>应用于源代码行的差异（并排比较编辑）。</translation>
+        <translation>应用于源代码行的差异(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53691,7 +53691,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to removed characters in differences (in side-by-side diff editor).</source>
-        <translation>用于删除字符的差异（并排比较编辑）。</translation>
+        <translation>用于删除字符的差异(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53701,7 +53701,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to destination lines with changes in differences (in side-by-side diff editor).</source>
-        <translation>用于目标行的不同变化（并排比较编辑）。</translation>
+        <translation>用于目标行的不同变化(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -53711,7 +53711,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+1"/>
         <source>Applied to added characters in differences (in side-by-side diff editor).</source>
-        <translation>用于附加字符的差异（并排比较编辑）。</translation>
+        <translation>用于附加字符的差异(并排比较编辑)。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -53806,7 +53806,7 @@ Applied to text, if no other rules matching.</source>
     <message>
         <location line="+3"/>
         <source>Operators (for example operator++ or operator-=).</source>
-        <translation>运算符（例如运算符++或运算符-=）。</translation>
+        <translation>运算符(例如运算符++或运算符-=)。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -53998,7 +53998,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>Applied to added lines in differences (in diff editor).</source>
-        <translation>应用于（diff编辑器的）差异中增加的行。</translation>
+        <translation>应用于(diff编辑器的)差异中增加的行。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -54008,7 +54008,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>Applied to removed lines in differences (in diff editor).</source>
-        <translation>应用于（diff编辑器的）差异中删除的行。</translation>
+        <translation>应用于(diff编辑器的)差异中删除的行。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -54018,7 +54018,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+1"/>
         <source>Compared files (in diff editor).</source>
-        <translation>（diff编辑中）比较的文件。</translation>
+        <translation>(diff编辑中)比较的文件。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -54071,7 +54071,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+22"/>
         <source>The text is too large to be displayed (%1 MB).</source>
-        <translation>文本过大，无法显示（%1MB)。</translation>
+        <translation>文本过大，无法显示(%1MB)。</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -54618,7 +54618,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+30"/>
         <source>Could not determine location of maintenance tool. Please check your installation if you did not enable this plugin manually.</source>
-        <translation>无法确定维护工具所在位置，请检查安装（有可能没有手动开启插件支持）。</translation>
+        <translation>无法确定维护工具所在位置，请检查安装(有可能没有手动开启插件支持)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -54707,7 +54707,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="-10"/>
         <source>Unexpected output from helper program (%1).</source>
-        <translation>意料外的输出，来自帮助程序（%1）。</translation>
+        <translation>意料外的输出，来自帮助程序(%1)。</translation>
     </message>
     <message>
         <location filename="libs/utils/consoleprocess_win.cpp" line="+150"/>
@@ -54801,12 +54801,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="-31"/>
         <source>&quot;%1&quot; is an invalid ELF object (%2)</source>
-        <translation>“%1”不是一个有效的ELF对象（%2）</translation>
+        <translation>“%1”不是一个有效的ELF对象(%2)</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&quot;%1&quot; is not an ELF object (file too small)</source>
-        <translation>“%1”不是一个有效的ELF对象（文件太小）</translation>
+        <translation>“%1”不是一个有效的ELF对象(文件太小)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -54951,7 +54951,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+10"/>
         <source>Name matches MS Windows device. (%1).</source>
-        <translation>名称与Windows设备匹配（%1）。</translation>
+        <translation>名称与Windows设备匹配(%1)。</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -55127,12 +55127,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+5"/>
         <source>%1: Full path including file name, with native path separator (backslash on Windows).</source>
-        <translation>%1：包括文件名的完整路径，带本地路径分隔符（Windows使用反斜杠）。</translation>
+        <translation>%1：包括文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>%1: Full path excluding file name, with native path separator (backslash on Windows).</source>
-        <translation>%1：不包括文件名的完整路径，带本地路径分隔符（Windows使用反斜杠）。</translation>
+        <translation>%1：不包括文件名的完整路径，带本地路径分隔符(Windows使用反斜杠)。</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -55385,12 +55385,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+11"/>
         <source>Invalid character &quot;.&quot;.</source>
-        <translation>无效字符‘.’。</translation>
+        <translation>无效字符'.'。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Invalid character &quot;%1&quot; found.</source>
-        <translation>无效字符‘%1’。</translation>
+        <translation>无效字符'%1'。</translation>
     </message>
     <message>
         <location filename="libs/utils/projectintropage.ui" line="+58"/>
@@ -55594,7 +55594,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>The command &quot;%1&quot; did not respond within the timeout limit (%2 s).</source>
-        <translation>命令“%1”在指定超时时间（%2 s）内未响应。</translation>
+        <translation>命令“%1”在指定超时时间(%2 s)内未响应。</translation>
     </message>
     <message>
         <location line="+406"/>
@@ -55636,7 +55636,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="libs/utils/unixutils.cpp" line="+56"/>
         <source>&lt;table border=1 cellspacing=0 cellpadding=3&gt;&lt;tr&gt;&lt;th&gt;Variable&lt;/th&gt;&lt;th&gt;Expands to&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%d&lt;/td&gt;&lt;td&gt;directory of current file&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%f&lt;/td&gt;&lt;td&gt;file name (with full path)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%n&lt;/td&gt;&lt;td&gt;file name (without path)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%%&lt;/td&gt;&lt;td&gt;%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation>&lt;table border=1 cellspacing=0 cellpadding=3&gt;&lt;tr&gt;&lt;th&gt;变量&lt;/th&gt;&lt;th&gt;扩展为&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%d&lt;/td&gt;&lt;td&gt;当前文件所在目录&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%f&lt;/td&gt;&lt;td&gt;文件名（带完整路径）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%n&lt;/td&gt;&lt;td&gt;文件名（不带路径）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%%&lt;/td&gt;&lt;td&gt;%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
+        <translation>&lt;table border=1 cellspacing=0 cellpadding=3&gt;&lt;tr&gt;&lt;th&gt;变量&lt;/th&gt;&lt;th&gt;扩展为&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%d&lt;/td&gt;&lt;td&gt;当前文件所在目录&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%f&lt;/td&gt;&lt;td&gt;文件名(带完整路径)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%n&lt;/td&gt;&lt;td&gt;文件名(不带路径)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;%%&lt;/td&gt;&lt;td&gt;%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
 </context>
 <context>
@@ -56165,7 +56165,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+16"/>
         <source>Valgrind Function Profiler (External Application)</source>
-        <translation>Valgrind函数分析器（外部应用程序）</translation>
+        <translation>Valgrind函数分析器(外部应用程序)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -56340,7 +56340,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location line="+2"/>
         <source>Callgrind Output (callgrind.out*);;All Files (*)</source>
-        <translation>Callgrind输出（callgrind.out*）;;所有文件（*）</translation>
+        <translation>Callgrind输出(callgrind.out*);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -56451,7 +56451,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+19"/>
         <source>Valgrind Memory Analyzer (External Application)</source>
-        <translation>Valgrind内存分析器（外部应用程序）</translation>
+        <translation>Valgrind内存分析器(外部应用程序)</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -56477,7 +56477,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+2"/>
         <source>XML Files (*.xml);;All Files (*)</source>
-        <translation>XML文件（*.xml）;;所有文件（*）</translation>
+        <translation>XML文件(*.xml);;所有文件(*)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -56580,7 +56580,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message>
         <location line="+2"/>
         <source>Valgrind Suppression File (*.supp);;All Files (*)</source>
-        <translation>Valgrind Suppression文件（*.supp）;;所有文件（*）</translation>
+        <translation>Valgrind Suppression文件(*.supp);;所有文件(*)</translation>
     </message>
     <message>
         <location filename="plugins/valgrind/valgrindconfigwidget.ui" line="+234"/>
@@ -56831,7 +56831,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="plugins/valgrind/callgrindvisualisation.cpp" line="+390"/>
         <source>All functions with an inclusive cost ratio higher than %1 (%2 are hidden)</source>
-        <translation>包含比%1高的所有函数（%2被隐藏）</translation>
+        <translation>包含比%1高的所有函数(%2被隐藏)</translation>
     </message>
 </context>
 <context>
@@ -56894,7 +56894,7 @@ With cache simulation, further event counters are enabled:
         <location filename="plugins/valgrind/xmlprotocol/parser.cpp" line="+179"/>
         <location line="+10"/>
         <source>Could not parse hex number from &quot;%1&quot; (%2)</source>
-        <translation>无法从“%1”（%2）解析十六进制数字</translation>
+        <translation>无法从“%1”(%2)解析十六进制数字</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -56919,7 +56919,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location line="+3"/>
         <source>XmlProtocol version %1 not supported (supported version: 4)</source>
-        <translation>XmlProtocol版本%1不支持（支持版本：4）</translation>
+        <translation>XmlProtocol版本%1不支持(支持版本：4)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -57125,7 +57125,7 @@ With cache simulation, further event counters are enabled:
         <source>Specifies a command that is executed to graphically prompt for a password,
 should a repository require SSH-authentication (see documentation on SSH and the environment variable SSH_ASKPASS).</source>
         <translation>指定一条执行图形化提示密码的命令，
-会在代码仓库要求 SSH 身份验证的时候用到。（查看 SSH 和环境变量 SSH_ASKPASS 的相关文档）。</translation>
+会在代码仓库要求 SSH 身份验证的时候用到。(查看 SSH 和环境变量 SSH_ASKPASS 的相关文档)。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -57216,12 +57216,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset, String or List).</source>
-        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置，字符串或列表）。</translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知(未设置，字符串或列表)。</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&quot;%1&quot; in &quot;data&quot; section of &quot;VcsCommand&quot; page has unexpected type (unset or List).</source>
-        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知（未设置或列表）。</translation>
+        <translation>“VcsCommand”页面中的“data”字段的“%1”类型未知(未设置或列表)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -57254,7 +57254,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+9"/>
         <source>The current version control topic (branch or tag) identification of the current project.</source>
-        <translation>当前版本控制主题（分支或标签）标识当前的工程。</translation>
+        <translation>当前版本控制主题(分支或标签)标识当前的工程。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -57427,7 +57427,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+38"/>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation>目录“%1”已经被版本控制系统（%2）管理。您想要指定另一个目录吗？</translation>
+        <translation>目录“%1”已经被版本控制系统(%2)管理。您想要指定另一个目录吗？</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -57513,7 +57513,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="plugins/vcsbase/wizard/vcscommandpage.cpp" line="+18"/>
         <source>&quot;%1&quot; (%2) not found.</source>
-        <translation>找不到“%1”（%2）。</translation>
+        <translation>找不到“%1”(%2)。</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -57534,7 +57534,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="-8"/>
         <source>&quot;%1&quot; (%2) does not exist.</source>
-        <translation>“%1”（%2）不存在。</translation>
+        <translation>“%1”(%2)不存在。</translation>
     </message>
 </context>
 <context>
@@ -57554,7 +57554,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <location line="+9"/>
         <source>&quot;vcsId&quot; (&quot;%1&quot;) is invalid for &quot;VcsConfiguration&quot; page. Possible values are: %2.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation>“vcsId”（%1）在“VcsConfiguration”页面是无效的。可能的值是：%2。</translation>
+        <translation>“vcsId”(%1)在“VcsConfiguration”页面是无效的。可能的值是：%2。</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -57700,7 +57700,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location line="+13"/>
         <source>Cannot extract the PID from the WinRT debugging helper. (output: %1)</source>
-        <translation>无法从WinRT调试助手中获取PID。（输出：%1）</translation>
+        <translation>无法从WinRT调试助手中获取PID。(输出：%1)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -57739,7 +57739,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="plugins/winrt/winrtdevice.cpp" line="+135"/>
         <source>Windows Runtime (Local)</source>
-        <translation>Windows运行环境（本地）</translation>
+        <translation>Windows运行环境(本地)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -57962,17 +57962,17 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="-514"/>
         <source>Rule &apos;%1&apos; declares artifact &apos;%2&apos;, but the artifact was not produced.</source>
-        <translation>规则‘%1’声明工件‘%2’未生成工件。</translation>
+        <translation>规则'%1'声明工件'%2'未生成工件。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Rule declares artifact &apos;%1&apos;, but the artifact was not produced.</source>
-        <translation>规则声明工件‘%1’，但未生成工件。</translation>
+        <translation>规则声明工件'%1'，但未生成工件。</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Transformer declares artifact &apos;%1&apos;, but the artifact was not produced.</source>
-        <translation>转换声明工件‘%1’，但未生成工件。</translation>
+        <translation>转换声明工件'%1'，但未生成工件。</translation>
     </message>
     <message>
         <location line="+70"/>

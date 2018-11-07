@@ -727,7 +727,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androiddevicedialog.cpp" line="415"/>
         <source>&lt;p&gt;The adb tool in the Android SDK lists all connected devices if run via &amp;quot;adb devices&amp;quot;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;如果通过 &amp;quot ADB设备 &amp;quot运行，Android SDK ADB工具会列出所有连接的设备。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;如果通过 &amp;quot; ADB设备 &amp;quot;运行，Android SDK ADB工具会列出所有连接的设备。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androiddevicedialog.cpp" line="439"/>
@@ -1091,7 +1091,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidpotentialkit.cpp" line="96"/>
         <source>%1 needs additional settings to enable Android support. You can configure those settings in the Options dialog.</source>
-        <translation type="unfinished">%1需要额外的设置来支持Android。您可以在选项对话框中配置。</translation>
+        <translation>%1需要额外的设置来支持Android。您可以在选项对话框中配置。</translation>
     </message>
 </context>
 <context>
@@ -1099,13 +1099,13 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidqtversion.cpp" line="82"/>
         <source>Failed to detect the ABIs used by the Qt version.</source>
-        <translation type="unfinished">检测Qt版本使用的ABI失败。</translation>
+        <translation>检测当前Qt版本所使用的ABI失败。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidqtversion.cpp" line="117"/>
         <source>Android</source>
         <extracomment>Qt Version is meant for Android</extracomment>
-        <translation type="unfinished">Android</translation>
+        <translation>Android</translation>
     </message>
 </context>
 <context>
@@ -1113,7 +1113,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidrunner.cpp" line="187"/>
         <source>&quot;%1&quot; terminated.</source>
-        <translation type="unfinished">“%1”终止。</translation>
+        <translation>“%1”终止。</translation>
     </message>
 </context>
 <context>
@@ -1121,58 +1121,58 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="170"/>
         <source>No free ports available on host for QML debugging.</source>
-        <translation type="unfinished">主机上没有可供QML调试的空闲端口。</translation>
+        <translation>主机上没有可供QML调试的空闲端口。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="373"/>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="380"/>
         <source>Failed to get process path. Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>获取进程路径失败。原因： %1。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="392"/>
         <source>Cannot find C++ debugger.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到C++调试器。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="403"/>
         <source>Failed to start C++ debugger.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动C++调试器失败。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="411"/>
         <source>Failed to forward C++ debugging ports. Reason: %1.</source>
-        <translation type="unfinished">转发C++调试端口失败。原因：%1。</translation>
+        <translation>转发C++调试端口失败。原因：%1。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="423"/>
         <source>Failed to forward QML debugging ports. Reason: %1.</source>
-        <translation type="unfinished">转发QML调试端口失败。原因：%1。</translation>
+        <translation>转发QML调试端口失败。原因：%1。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="447"/>
         <source>Failed to start the activity. Reason: %1.</source>
-        <translation type="unfinished">无法开始活动。原因：%1。</translation>
+        <translation>无法启动活动。原因：%1。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="480"/>
         <source>Failed to forward jdb debugging ports. Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>转发jdb调试端口失败。原因：%1。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="497"/>
         <source>Failed to start jdb</source>
-        <translation type="unfinished"></translation>
+        <translation>启动jdb失败</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="533"/>
         <source>Cannot attach jdb to the running application</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将jdb附加到正在运行的应用程序上</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidrunnerworker.cpp" line="542"/>
         <source>&quot;%1&quot; died.</source>
-        <translation type="unfinished">“%1”消亡。</translation>
+        <translation>“%1”已死。</translation>
     </message>
 </context>
 <context>
@@ -1180,14 +1180,14 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="182"/>
         <source>The operation requires user interaction. Use the &quot;sdkmanager&quot; command-line tool.</source>
-        <translation type="unfinished">这个操作需要用户交互。使用“sdkmanager”命令行工具。</translation>
+        <translation>该操作需要用户交互。使用“sdkmanager”命令行工具。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="956"/>
         <source>License command failed.
 
 </source>
-        <translation type="unfinished">许可命令失败。
+        <translation>许可命令失败。
 
 </translation>
     </message>
@@ -1197,73 +1197,73 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="14"/>
         <source>Android SDK Manager</source>
-        <translation type="unfinished">Android SDK管理器</translation>
+        <translation>Android SDK管理器</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="65"/>
         <source>Expand All</source>
-        <translation type="unfinished">展开全部</translation>
+        <translation>展开全部</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="88"/>
         <source>SDK manger is not available with the current version of SDK tools. Use native SDK manager.</source>
-        <translation type="unfinished">目前版本的SDK工具无法使用SDK管理器。使用本地SDK管理器。</translation>
+        <translation>目前版本的SDK工具无法使用SDK管理器。使用本地SDK管理器。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="109"/>
         <source>Update Installed</source>
-        <translation type="unfinished">更新安装</translation>
+        <translation>更新已安装</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="119"/>
         <source>Apply</source>
-        <translation type="unfinished">应用</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="145"/>
         <source>Show Packages</source>
-        <translation type="unfinished">显示包</translation>
+        <translation>显示包</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="154"/>
         <source>Available</source>
-        <translation type="unfinished">可用</translation>
+        <translation>可用</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="161"/>
         <source>Installed</source>
-        <translation type="unfinished">已安装</translation>
+        <translation>已安装</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="168"/>
         <source>All</source>
-        <translation type="unfinished">所有</translation>
+        <translation>所有</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="181"/>
         <source>Advanced Options...</source>
-        <translation type="unfinished">高级选项...</translation>
+        <translation>高级选项...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="204"/>
         <source>Native SDK Manager...</source>
-        <translation type="unfinished">本地SDK管理器...</translation>
+        <translation>本地SDK管理器...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="217"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.ui" line="266"/>
         <source>Do you want to accept the Android SDK license?</source>
-        <translation type="unfinished">你想接受Android SDK许可证吗？</translation>
+        <translation>是否接受Android SDK许可？</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="179"/>
         <source>Checking pending licenses...
 </source>
-        <translation type="unfinished">检查待定的许可证...
+        <translation>检查挂起的许可证...
 </translation>
     </message>
     <message>
@@ -1271,61 +1271,61 @@ Do you want to uninstall the existing package?</source>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="238"/>
         <source>
 SDK Manager is busy.</source>
-        <translation type="unfinished">
+        <translation>
 SDK管理器忙。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="205"/>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="377"/>
         <source>Android SDK Changes</source>
-        <translation type="unfinished">Android SDK修改</translation>
+        <translation>Android SDK变更</translation>
     </message>
     <message numerus="yes">
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="206"/>
         <source>%n Android SDK packages shall be updated.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Android SDK 包需要更新.</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="212"/>
         <source>[Packages to be uninstalled:]
 </source>
-        <translation type="unfinished">[包卸载：]
+        <translation>[将被卸载的包：]
 </translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="256"/>
         <source>Native SDK Manager Not Available</source>
-        <translation type="unfinished">本地SDK管理器不可用</translation>
+        <translation>本地SDK管理器不可用</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="257"/>
         <source>SDK manager UI tool is not available in the installed SDK tools (version %1). Use the command line tool &quot;sdkmanager&quot; for advanced SDK management.</source>
-        <translation type="unfinished">SDK管理器UI工具在安装的SDK工具中不可用(版本%1)。在高级SDK管理中使用命令行工具“sdkmanager”。</translation>
+        <translation>已安装的SDK工具(版本%1)中，SDK管理器UI工具不可用。使用命令行工具“sdkmanager”进行高级SDK管理。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="290"/>
         <source>
 Please note that the installation and use of Android SDK packages may fail if respective licenses are not accepted.</source>
-        <translation type="unfinished">
+        <translation>
 请注意，如果不接受相应的许可，安装和使用Android SDK包可能会失败。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="292"/>
         <source>Android SDK Licenses</source>
-        <translation type="unfinished">Android SDK许可证</translation>
+        <translation>Android SDK许可</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="325"/>
         <source>SDK Manager is busy. Operation cancelled.</source>
-        <translation type="unfinished">SDK管理器忙。操作取消。</translation>
+        <translation>SDK管理器忙。操作取消。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="348"/>
         <source>Installing/Uninstalling selected packages...
 </source>
-        <translation type="unfinished">安装或卸载选择包...
+        <translation>安装或卸载选定的包...
 </translation>
     </message>
     <message>
@@ -1333,38 +1333,38 @@ Please note that the installation and use of Android SDK packages may fail if re
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="361"/>
         <source>Closing the %1 dialog will cancel the running and scheduled SDK operations.
 </source>
-        <translation type="unfinished">关闭%1对话框将取消运行和计划的SDK操作。
+        <translation>关闭%1对话框将取消运行和计划的SDK操作。
 </translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="352"/>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="363"/>
         <source>preferences</source>
-        <translation type="unfinished">首选项</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="352"/>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="363"/>
         <source>options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="360"/>
         <source>Updating installed packages...
 </source>
-        <translation type="unfinished">更新安装包...
+        <translation>更新宜安装的包...
 </translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="378"/>
         <source>Android SDK operations finished.</source>
-        <translation type="unfinished">Android SDK操作完成。</translation>
+        <translation>Android SDK操作完成。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="389"/>
         <source>Operation cancelled.
 </source>
-        <translation type="unfinished">操作取消。
+        <translation>操作取消。
 </translation>
     </message>
     <message>
@@ -1372,8 +1372,8 @@ Please note that the installation and use of Android SDK packages may fail if re
         <source>
 No pending operations to cancel...
 </source>
-        <translation type="unfinished">
-取消未挂起的操作...
+        <translation>
+没有可取消的挂起操作...
 </translation>
     </message>
     <message>
@@ -1381,8 +1381,8 @@ No pending operations to cancel...
         <source>
 Cancelling pending operations...
 </source>
-        <translation type="unfinished">
-取消挂起操作...
+        <translation>
+正在取消挂起的操作...
 </translation>
     </message>
 </context>
@@ -1391,47 +1391,47 @@ Cancelling pending operations...
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="64"/>
         <source>Package</source>
-        <translation type="unfinished">包</translation>
+        <translation>包</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="67"/>
         <source>Revision</source>
-        <translation type="unfinished">修订本</translation>
+        <translation>修订</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="70"/>
         <source>API</source>
-        <translation type="unfinished">API</translation>
+        <translation>API</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="73"/>
         <source>Operation</source>
-        <translation type="unfinished">操作</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="165"/>
         <source>Tools</source>
-        <translation type="unfinished">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="195"/>
         <source>SDK Platform</source>
-        <translation type="unfinished">SDK 平台</translation>
+        <translation>SDK 平台</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="203"/>
         <source>Update Only</source>
-        <translation type="unfinished">只更新</translation>
+        <translation>仅更新</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="205"/>
         <source>Uninstall</source>
-        <translation type="unfinished">卸载</translation>
+        <translation>卸载</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmodel.cpp" line="205"/>
         <source>Install</source>
-        <translation type="unfinished">安装</translation>
+        <translation>安装</translation>
     </message>
 </context>
 <context>
@@ -1439,7 +1439,7 @@ Cancelling pending operations...
     <message>
         <location filename="src/plugins/android/androidsettingspage.cpp" line="45"/>
         <source>Android</source>
-        <translation type="unfinished">Android</translation>
+        <translation>Android</translation>
     </message>
 </context>
 <context>
@@ -1447,112 +1447,112 @@ Cancelling pending operations...
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="250"/>
         <source>JDK path exists.</source>
-        <translation type="unfinished">JDK路径已存在。</translation>
+        <translation>JDK路径已存在。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="251"/>
         <source>JDK path is a valid JDK root folder.</source>
-        <translation type="unfinished">JDK路径是一个有效的JDK根文件夹。</translation>
+        <translation>JDK路径是有效的JDK根文件夹。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="252"/>
         <source>Java Settings are OK.</source>
-        <translation type="unfinished">Java设置正确。</translation>
+        <translation>Java设置正确。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="253"/>
         <source>Java settings have errors.</source>
-        <translation type="unfinished">Java设置有错误。</translation>
+        <translation>Java设置有错误。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="257"/>
         <source>Android SDK path exists.</source>
-        <translation type="unfinished">Android SDK路径已存在。</translation>
+        <translation>Android SDK路径已存在。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="258"/>
         <source>SDK tools installed.</source>
-        <translation type="unfinished">SDK工具已安装。</translation>
+        <translation>SDK工具已安装。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="259"/>
         <source>Platform tools installed.</source>
-        <translation type="unfinished">平台工具已安装。</translation>
+        <translation>平台工具已安装。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="260"/>
         <source>Build tools installed.</source>
-        <translation type="unfinished">构建工具已安装。</translation>
+        <translation>构建工具已安装。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="261"/>
         <source>Platform SDK installed.</source>
-        <translation type="unfinished">平台SDK已安装。</translation>
+        <translation>平台SDK已安装。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="262"/>
         <source>Android NDK path exists.</source>
-        <translation type="unfinished">Android NDK路径已存在。</translation>
+        <translation>Android NDK路径已存在。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="263"/>
         <source>Android NDK directory structure is correct.</source>
-        <translation type="unfinished">Android NDK目录结构正确。</translation>
+        <translation>Android NDK目录结构正确。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="264"/>
         <source>Android NDK installed into a path without spaces.</source>
-        <translation type="unfinished">Android NDK安装在没有空格的路径上。</translation>
+        <translation>Android NDK安装在没有空格的路径上。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="266"/>
         <source>Android settings are OK.</source>
-        <translation type="unfinished">Android设置正确。</translation>
+        <translation>Android设置正确。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="267"/>
         <source>Android settings have errors.</source>
-        <translation type="unfinished">Android设置有错误。</translation>
+        <translation>Android设置有错误。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="277"/>
         <source>Select Android SDK folder</source>
-        <translation type="unfinished">选择Android SDK的目录</translation>
+        <translation>选择Android SDK的目录</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="279"/>
         <source>Select Android NDK folder</source>
-        <translation type="unfinished">选择Android NDK的目录</translation>
+        <translation>选择Android NDK的目录</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="282"/>
         <source>Select JDK Path</source>
-        <translation type="unfinished">选择JDK的路径</translation>
+        <translation>选择JDK的路径</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="446"/>
         <source>Android SDK installation is missing necessary packages. Do you want to install the missing packages?</source>
-        <translation type="unfinished">Android SDK安装缺少必要的软件包。你想要安装此包吗？</translation>
+        <translation>Android SDK安装缺少必要的软件包。是否安装缺失的包？</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="448"/>
         <source>Missing Android SDK packages</source>
-        <translation type="unfinished">缺少Android SDK包</translation>
+        <translation>缺少Android SDK包</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="502"/>
         <source>Remove Android Virtual Device</source>
-        <translation type="unfinished">删除安卓虚拟设备</translation>
+        <translation>删除安卓虚拟设备</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="503"/>
         <source>Remove device &quot;%1&quot;? This cannot be undone.</source>
-        <translation type="unfinished">删除设备“%1”？这个动作无法撤消。</translation>
+        <translation>删除设备“%1”？这个动作无法撤消。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="566"/>
         <source>Cannot create kits for all architectures.</source>
-        <translation type="unfinished">无法创建所有架构的工具包。</translation>
+        <translation>无法创建用于所有架构的工具包。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="571"/>
@@ -1560,24 +1560,24 @@ Cancelling pending operations...
 %1
 
 To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</source>
-        <translation type="unfinished">Qt版本缺少以下架构。
+        <translation>Qt版本缺少以下架构。
 %1
 要添加Qt版本，选项-&gt;构建和运行-&gt;Qt版本。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="589"/>
         <source>(SDK Version: %1, NDK Version: %2)</source>
-        <translation type="unfinished">(SDK版本：%1，NDK版本：%2)</translation>
+        <translation>(SDK版本：%1，NDK版本：%2)</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="607"/>
         <source>AVD Manager Not Available</source>
-        <translation type="unfinished">AVD管理器不可用</translation>
+        <translation>AVD管理器不可用</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="608"/>
         <source>AVD manager UI tool is not available in the installed SDK tools(version %1). Use the command line tool &quot;avdmanager&quot; for advanced AVD management.</source>
-        <translation type="unfinished">AVD管理器UI工具在安装的SDK工具中不可用(版本%1)。在高级AVD管理中使用命令行工具“avdmanager”。</translation>
+        <translation>已安装的SDK工具(版本%1)中，AVD管理器UI工具不可用。使用命令行工具“sdkmanager”进行高级SDK管理。</translation>
     </message>
 </context>
 <context>
@@ -1585,7 +1585,7 @@ To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</so
     <message>
         <location filename="src/plugins/android/androidtoolchain.cpp" line="316"/>
         <source>NDK Root:</source>
-        <translation type="unfinished">NDK根目录：</translation>
+        <translation>NDK根目录：</translation>
     </message>
 </context>
 <context>
@@ -1594,7 +1594,7 @@ To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</so
         <location filename="src/plugins/android/androidtoolchain.cpp" line="149"/>
         <location filename="src/plugins/android/androidtoolchain.cpp" line="325"/>
         <source>Android GCC</source>
-        <translation type="unfinished">Android GCC</translation>
+        <translation>Android GCC</translation>
     </message>
 </context>
 <context>
@@ -1603,18 +1603,18 @@ To add the Qt version, select Options &gt; Build &amp; Run &gt; Qt Versions.</so
         <location filename="src/plugins/android/avddialog.cpp" line="141"/>
         <source>Cannot create a new AVD. No sufficiently recent Android SDK available.
 Install an SDK of at least API version %1.</source>
-        <translation type="unfinished">不能创建一个新的AVD。没有可用的Android SDK。
-至少安装一个SDK API版本%1。</translation>
+        <translation>无法创建新的AVD。Android SDK版本不够新。
+安装API版本至少为 %1 的SDK。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/avddialog.cpp" line="147"/>
         <source>Cannot create a AVD for ABI %1. Install an image for it.</source>
-        <translation type="unfinished">不能创建AVD ABI %1。安装一个镜像。</translation>
+        <translation>无法为 ABI %1 创建AVD 。为其安装一个镜像。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/avddialog.cpp" line="163"/>
         <source>Allowed characters are: a-z A-Z 0-9 and . _ -</source>
-        <translation type="unfinished">允许的字符是：a-z A-Z 0-9 . _ -</translation>
+        <translation>允许的字符是：a-z A-Z 0-9 . _ -</translation>
     </message>
 </context>
 <context>
@@ -1623,17 +1623,17 @@ Install an SDK of at least API version %1.</source>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="205"/>
         <source>AVD Name</source>
         <extracomment>AVD - Android Virtual Device</extracomment>
-        <translation type="unfinished">AVD名称</translation>
+        <translation>AVD名称</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="207"/>
         <source>AVD Target</source>
-        <translation type="unfinished">AVD目标</translation>
+        <translation>AVD目标</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="209"/>
         <source>CPU/ABI</source>
-        <translation type="unfinished">CPU/ABI</translation>
+        <translation>CPU/ABI</translation>
     </message>
 </context>
 <context>
@@ -1641,7 +1641,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/javaeditor.cpp" line="71"/>
         <source>Java Editor</source>
-        <translation type="unfinished">Java编辑器</translation>
+        <translation>Java编辑器</translation>
     </message>
 </context>
 <context>
@@ -1649,22 +1649,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="519"/>
         <source>SDK Manager Arguments</source>
-        <translation type="unfinished">SDK 管理参数</translation>
+        <translation>SDK 管理参数</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="526"/>
         <source>Cannot load available arguments for &quot;sdkmanager&quot; command.</source>
-        <translation type="unfinished">无法加载“sdkmanager”命令可用参数。</translation>
+        <translation>无法加载“sdkmanager”命令的可用参数。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="544"/>
         <source>SDK manager arguments:</source>
-        <translation type="unfinished">SDK 管理参数：</translation>
+        <translation>SDK 管理参数：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanagerwidget.cpp" line="546"/>
         <source>Available arguments:</source>
-        <translation type="unfinished">可用参数：</translation>
+        <translation>可用参数：</translation>
     </message>
 </context>
 <context>
@@ -1672,27 +1672,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidbuildapkstep.cpp" line="397"/>
         <source>Incorrect password.</source>
-        <translation type="unfinished">密码错误。</translation>
+        <translation>密码错误。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkstep.cpp" line="405"/>
         <source>Keystore</source>
-        <translation type="unfinished">签名文件</translation>
+        <translation>签名文件</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkstep.cpp" line="405"/>
         <source>Certificate</source>
-        <translation type="unfinished">证书</translation>
+        <translation>证书</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkstep.cpp" line="409"/>
         <source>Enter keystore password</source>
-        <translation type="unfinished">请输入签名文件的密码</translation>
+        <translation>请输入签名文件的密码</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkstep.cpp" line="411"/>
         <source>Enter certificate password</source>
-        <translation type="unfinished">请输入证书的密码</translation>
+        <translation>请输入证书的密码</translation>
     </message>
 </context>
 <context>
@@ -1700,22 +1700,22 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidavdmanager.cpp" line="115"/>
         <source>Cannot create AVD. Invalid input.</source>
-        <translation type="unfinished">无法创建AVD。无效输入。</translation>
+        <translation>无法创建AVD。无效输入。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidavdmanager.cpp" line="135"/>
         <source>Cannot create AVD. Cannot find system image for the ABI %1(%2).</source>
-        <translation type="unfinished">无法创建AVD。找不到ABI %1(%2)的系统映像。</translation>
+        <translation>无法创建AVD。找不到ABI %1(%2)的系统映像。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidavdmanager.cpp" line="151"/>
         <source>Could not start process &quot;%1 %2&quot;</source>
-        <translation type="unfinished">无法启动进程“%1 %2”</translation>
+        <translation>无法启动进程“%1 %2”</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidavdmanager.cpp" line="184"/>
         <source>Cannot create AVD. Command timed out.</source>
-        <translation type="unfinished">无法创建AVD。命令超时。</translation>
+        <translation>无法创建AVD。命令超时。</translation>
     </message>
 </context>
 <context>
@@ -1724,72 +1724,72 @@ Install an SDK of at least API version %1.</source>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="20"/>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="52"/>
         <source>Sign package</source>
-        <translation type="unfinished">为包签名</translation>
+        <translation>为包签名</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="28"/>
         <source>Keystore:</source>
-        <translation type="unfinished">签名文件：</translation>
+        <translation>签名文件：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="41"/>
         <source>Create...</source>
-        <translation type="unfinished">创建...</translation>
+        <translation>创建...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="79"/>
         <source>Signing a debug package</source>
-        <translation type="unfinished">为调试版包签名</translation>
+        <translation>为调试版包签名</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="92"/>
         <source>Certificate alias:</source>
-        <translation type="unfinished">证书别名：</translation>
+        <translation>证书别名：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="126"/>
         <source>Application</source>
-        <translation type="unfinished">应用程序</translation>
+        <translation>应用程序</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="132"/>
         <source>Android build SDK:</source>
-        <translation type="unfinished">Android构建的SDK：</translation>
+        <translation>Android构建SDK：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="145"/>
         <source>Advanced Actions</source>
-        <translation type="unfinished">高级动作</translation>
+        <translation>高级动作</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="151"/>
         <source>Open package location after build</source>
-        <translation type="unfinished">构建后打开包的位置</translation>
+        <translation>构建后打开包的位置</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="161"/>
         <source>Packages debug server with the APK to enable debugging. For the signed APK this option is unchecked by default.</source>
-        <translation type="unfinished">用APK包调试服务器来启用调试。对于已签名的APK，缺省情况下该选项未选。</translation>
+        <translation>使用APK打包调试服务器以启用调试。对于已签名的APK，该选项默认未选中。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="164"/>
         <source>Add debug server</source>
-        <translation type="unfinished">添加调试服务器</translation>
+        <translation>添加调试服务器</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="171"/>
         <source>Verbose output</source>
-        <translation type="unfinished">详细输出</translation>
+        <translation>详细输出</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="178"/>
         <source>Uses the external Ministro application to download and maintain Qt libraries.</source>
-        <translation type="unfinished">使用外部的Ministro应用程序来下载并且维护Qt库。</translation>
+        <translation>使用外部的Ministro应用程序来下载和维护Qt库。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidbuildapkwidget.ui" line="181"/>
         <source>Use Ministro service to install Qt</source>
-        <translation type="unfinished">使用Ministro服务来安装Qt</translation>
+        <translation>使用Ministro服务安装Qt</translation>
     </message>
 </context>
 <context>
@@ -1798,7 +1798,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="src/plugins/android/androiddevicedialog.cpp" line="598"/>
         <location filename="src/plugins/android/androidsettingswidget.cpp" line="490"/>
         <source>Error Creating AVD</source>
-        <translation type="unfinished">创建AVD错误</translation>
+        <translation>创建AVD错误</translation>
     </message>
 </context>
 <context>
@@ -1806,12 +1806,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidconfigurations.cpp" line="480"/>
         <source>Could not run: %1</source>
-        <translation type="unfinished">无法运行：%1</translation>
+        <translation>无法运行：%1</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidconfigurations.cpp" line="523"/>
         <source>No devices found in output of: %1</source>
-        <translation type="unfinished">没有发现输出设备：%1</translation>
+        <translation>没有发现输出设备：%1</translation>
     </message>
 </context>
 <context>
@@ -1819,90 +1819,90 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="14"/>
         <source>Create a keystore and a certificate</source>
-        <translation type="unfinished">创建一个签名文件和一个证书</translation>
+        <translation>创建签名文件和证书</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="20"/>
         <source>Certificate Distinguished Names</source>
-        <translation type="unfinished">证书专有名称</translation>
+        <translation>证书专有名称</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="26"/>
         <source>First and last name:</source>
-        <translation type="unfinished">姓和名：</translation>
+        <translation>姓和名：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="39"/>
         <source>Organizational unit (e.g. Necessitas):</source>
-        <translation type="unfinished">组织单位(例如：萌梦信息科技有限公司)：</translation>
+        <translation>组织单位(例如：Necessitas)：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="52"/>
         <source>Organization (e.g. KDE):</source>
-        <translation type="unfinished">组织(例如萌梦)：</translation>
+        <translation>组织(例如KDE)：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="65"/>
         <source>City or locality:</source>
-        <translation type="unfinished">城市或地区：</translation>
+        <translation>城市或地区：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="78"/>
         <source>State or province:</source>
-        <translation type="unfinished">州或省：</translation>
+        <translation>州或省：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="91"/>
         <source>Two-letter country code for this unit (e.g. RO):</source>
-        <translation type="unfinished">该单位的两字母的国家代码(如CN)：</translation>
+        <translation>该单位的两字母的国家代码(如CN)：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="114"/>
         <source>Certificate</source>
-        <translation type="unfinished">证书</translation>
+        <translation>证书</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="127"/>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="251"/>
         <source>Show password</source>
-        <translation type="unfinished">显示密码</translation>
+        <translation>显示密码</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="144"/>
         <source>Validity (days):</source>
-        <translation type="unfinished">有效期(天)：</translation>
+        <translation>有效期(天)：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="154"/>
         <source>Alias name:</source>
-        <translation type="unfinished">别名：</translation>
+        <translation>别名：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="164"/>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="258"/>
         <source>Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="184"/>
         <source>Keysize:</source>
-        <translation type="unfinished">密钥长度：</translation>
+        <translation>密钥长度：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="211"/>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="268"/>
         <source>Retype password:</source>
-        <translation type="unfinished">再次输入密码：</translation>
+        <translation>再次输入密码：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="221"/>
         <source>Use Keystore password</source>
-        <translation type="unfinished">使用签名文件密码</translation>
+        <translation>使用签名文件密码</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidcreatekeystorecertificate.ui" line="231"/>
         <source>Keystore</source>
-        <translation type="unfinished">签名文件</translation>
+        <translation>签名文件</translation>
     </message>
 </context>
 <context>
@@ -1910,27 +1910,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androiddeployqtwidget.ui" line="20"/>
         <source>Deploy options</source>
-        <translation type="unfinished">部署选项</translation>
+        <translation>部署选项</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androiddeployqtwidget.ui" line="26"/>
         <source>Uninstall previous package</source>
-        <translation type="unfinished">卸载之前的包</translation>
+        <translation>卸载以前的包</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androiddeployqtwidget.ui" line="33"/>
         <source>Reset Default Devices</source>
-        <translation type="unfinished">重置默认的设备</translation>
+        <translation>重置默认的设备</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androiddeployqtwidget.ui" line="40"/>
         <source>Clean Temporary Libraries Directory on Device</source>
-        <translation type="unfinished">在设备中清除临时库目录</translation>
+        <translation>在设备中清除临时库目录</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androiddeployqtwidget.ui" line="47"/>
         <source>Install Ministro from APK</source>
-        <translation type="unfinished">从APK中安装Ministro</translation>
+        <translation>从APK中安装Ministro</translation>
     </message>
 </context>
 <context>
@@ -1938,12 +1938,12 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="817"/>
         <source>Updating installed packages.</source>
-        <translation type="unfinished">更新安装包。</translation>
+        <translation>更新已安装的包。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="828"/>
         <source>Failed.</source>
-        <translation type="unfinished">失败。</translation>
+        <translation>失败。</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="829"/>
@@ -1951,24 +1951,24 @@ Install an SDK of at least API version %1.</source>
         <source>Done
 
 </source>
-        <translation type="unfinished">完成
+        <translation>完成
 
 </translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="842"/>
         <source>Installing</source>
-        <translation type="unfinished">安装</translation>
+        <translation>安装中</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="843"/>
         <source>Uninstalling</source>
-        <translation type="unfinished">卸载</translation>
+        <translation>卸载中</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsdkmanager.cpp" line="859"/>
         <source>Failed</source>
-        <translation type="unfinished">失败</translation>
+        <translation>失败</translation>
     </message>
 </context>
 <context>
@@ -1976,92 +1976,92 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="14"/>
         <source>Android Configuration</source>
-        <translation type="unfinished">Android配置</translation>
+        <translation>Android 配置</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="38"/>
         <source>Java Settings</source>
-        <translation type="unfinished">Java设置</translation>
+        <translation>Java设置</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="54"/>
         <source>Download JDK</source>
-        <translation type="unfinished">下载JDK</translation>
+        <translation>下载JDK</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="71"/>
         <source>JDK location:</source>
-        <translation type="unfinished">JDK路径：</translation>
+        <translation>JDK路径：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="94"/>
         <source>Android Settings</source>
-        <translation type="unfinished">Android设置</translation>
+        <translation>Android设置</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="113"/>
         <source>Download Android NDK</source>
-        <translation type="unfinished">下载Android NDK</translation>
+        <translation>下载Android NDK</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="130"/>
         <source>Android NDK location:</source>
-        <translation type="unfinished">Android NDK的路径：</translation>
+        <translation>Android NDK的路径：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="146"/>
         <source>Android SDK location:</source>
-        <translation type="unfinished">Android SDK的路径：</translation>
+        <translation>Android SDK的路径：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="156"/>
         <source>Download Android SDK</source>
-        <translation type="unfinished">下载Android SDK</translation>
+        <translation>下载Android SDK</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="179"/>
         <source>Automatically create kits for Android tool chains</source>
-        <translation type="unfinished">自动为Android工具链创建包</translation>
+        <translation>自动为Android工具链创建工具包</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="196"/>
         <source>AVD Manager</source>
-        <translation type="unfinished">AVD管理器</translation>
+        <translation>AVD管理器</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="238"/>
         <source>System/data partition size:</source>
-        <translation type="unfinished">系统/数据分区的大小：</translation>
+        <translation>系统/数据分区的大小：</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="251"/>
         <source> Mb</source>
-        <translation type="unfinished"> Mb</translation>
+        <translation> Mb</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="270"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="302"/>
         <source>Remove</source>
-        <translation type="unfinished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="318"/>
         <source>Start...</source>
-        <translation type="unfinished">启动...</translation>
+        <translation>开始...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="338"/>
         <source>Native AVD Manager...</source>
-        <translation type="unfinished">本地AVDK管理器...</translation>
+        <translation>本地AVD管理器...</translation>
     </message>
     <message>
         <location filename="src/plugins/android/androidsettingswidget.ui" line="348"/>
         <source>SDK Manager</source>
-        <translation type="unfinished">SDK管理器</translation>
+        <translation>SDK管理器</translation>
     </message>
 </context>
 <context>
@@ -2069,7 +2069,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/android/androidtoolmanager.cpp" line="163"/>
         <source>Could not start process &quot;%1 %2&quot;</source>
-        <translation type="unfinished">无法启动进程“%1 %2”</translation>
+        <translation>无法启动进程“%1 %2”</translation>
     </message>
 </context>
 <context>
@@ -2077,27 +2077,27 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/app/main.cpp" line="171"/>
         <source>Failed to load core: %1</source>
-        <translation type="unfinished">核心载入失败：%1</translation>
+        <translation>核心载入失败：%1</translation>
     </message>
     <message>
         <location filename="src/app/main.cpp" line="176"/>
         <source>Could not send message</source>
-        <translation type="unfinished">无法发送消息</translation>
+        <translation>无法发送消息</translation>
     </message>
     <message>
         <location filename="src/app/main.cpp" line="177"/>
         <source>Unable to send command line arguments to the already running instance. It does not appear to be responding. Do you want to start a new instance of %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>无法向已在运行的实例发送命令行参数。 它似乎没有响应。 是否启动一个新的 %1 实例？</translation>
     </message>
     <message>
         <location filename="src/app/main.cpp" line="534"/>
         <source>Could not find Core plugin in %1</source>
-        <translation type="unfinished">在%1中找不到核心插件</translation>
+        <translation>在%1中找不到核心插件</translation>
     </message>
     <message>
         <location filename="src/app/main.cpp" line="539"/>
         <source>Core plugin is disabled.</source>
-        <translation type="unfinished">核心插件被禁用。</translation>
+        <translation>核心插件已禁用。</translation>
     </message>
 </context>
 <context>
@@ -2105,33 +2105,33 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="37"/>
         <source>Window</source>
-        <translation type="unfinished">窗口</translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="41"/>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="56"/>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="95"/>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="98"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="113"/>
         <source>Visible</source>
-        <translation type="unfinished">可见</translation>
+        <translation>可视</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/componentsplugin/Controls/ApplicationWindowSpecifics.qml" line="125"/>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
@@ -2139,7 +2139,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/autotest/autotestconstants.h" line="45"/>
         <source>Testing</source>
-        <translation type="unfinished">测试</translation>
+        <translation>测试中</translation>
     </message>
 </context>
 <context>
@@ -2147,97 +2147,97 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="106"/>
         <source>&amp;Tests</source>
-        <translation type="unfinished">测试(&amp;A)</translation>
+        <translation>测试(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="109"/>
         <source>Run &amp;All Tests</source>
-        <translation type="unfinished">运行所有测试(&amp;A)</translation>
+        <translation>运行所有测试(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="111"/>
         <source>Run All Tests</source>
-        <translation type="unfinished">运行全部测试</translation>
+        <translation>运行全部测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="114"/>
         <source>Ctrl+Meta+T, Ctrl+Meta+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+A</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="114"/>
         <source>Alt+Shift+T,Alt+A</source>
-        <translation type="unfinished">Alt+Shift+T,Alt+A</translation>
+        <translation>Alt+Shift+T,Alt+A</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="119"/>
         <source>&amp;Run Selected Tests</source>
-        <translation type="unfinished">运行被选择的测试(&amp;R)</translation>
+        <translation>运行已选中的测试(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="124"/>
         <source>Run Selected Tests</source>
-        <translation type="unfinished">运行被选择的测试</translation>
+        <translation>运行已选中的测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="127"/>
         <source>Ctrl+Meta+T, Ctrl+Meta+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+R</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="127"/>
         <source>Alt+Shift+T,Alt+R</source>
-        <translation type="unfinished">Alt+Shift+T,Alt+R</translation>
+        <translation>Alt+Shift+T,Alt+R</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="132"/>
         <source>Run Tests for Current &amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>运行当前文件的测试(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="137"/>
         <source>Run Tests for Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>运行当前文件的测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="140"/>
         <source>Ctrl+Meta+T, Ctrl+Meta+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+F</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="140"/>
         <source>Alt+Shift+T,Alt+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+F</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="145"/>
         <source>Re&amp;scan Tests</source>
-        <translation type="unfinished">重新扫描测试(&amp;S)</translation>
+        <translation>重新扫描测试(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="148"/>
         <source>Ctrl+Meta+T, Ctrl+Meta+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+S</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="148"/>
         <source>Alt+Shift+T,Alt+S</source>
-        <translation type="unfinished">Alt+Shift+T,Alt+S</translation>
+        <translation>Alt+Shift+T,Alt+S</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="195"/>
         <source>&amp;Run Test Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>运行位于光标下的测试(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="205"/>
         <source>&amp;Debug Test Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>要是位于光标下的测试(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/autotestplugin.cpp" line="279"/>
         <source>Selected test was not found (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现选定的测试 (%1)。</translation>
     </message>
 </context>
 <context>
@@ -2247,45 +2247,47 @@ Install an SDK of at least API version %1.</source>
         <source>Running tests failed.
  %1
 Executable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>运行测试失败.
+ %1
+可执行文件: %2</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="89"/>
         <source>(iteration %1)</source>
-        <translation type="unfinished">(迭代%1)</translation>
+        <translation>(迭代%1)</translation>
     </message>
     <message numerus="yes">
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="99"/>
         <source>You have %n disabled test(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>有 %n 个禁用的测试。</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="110"/>
         <source>Test execution took %1</source>
-        <translation type="unfinished">测试执行了%1</translation>
+        <translation>测试执行了%1</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="119"/>
         <source>Repeating test case %1 (iteration %2)</source>
-        <translation type="unfinished">重复中的测试事件%1(迭代%2)</translation>
+        <translation>正在重复测试用例 %1 (迭代 %2)</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="122"/>
         <source>Executing test case %1</source>
-        <translation type="unfinished">执行中测试事件%1</translation>
+        <translation>正在执行测试用例 %1</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="129"/>
         <source>Entering test set %1</source>
-        <translation type="unfinished">进入测试集%1</translation>
+        <translation>进入测试集%1</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="140"/>
         <location filename="src/plugins/autotest/gtest/gtestoutputreader.cpp" line="170"/>
         <source>Execution took %1.</source>
-        <translation type="unfinished">执行了%1。</translation>
+        <translation>执行了%1。</translation>
     </message>
 </context>
 <context>
@@ -2293,98 +2295,99 @@ Executable: %2</source>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="24"/>
         <source>Turns failures into debugger breakpoints.</source>
-        <translation type="unfinished">将故障转换为调试器断点。</translation>
+        <translation>将失败转变为调试器断点。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="27"/>
         <source>Break on failure while debugging</source>
-        <translation type="unfinished">在调试时中断故障</translation>
+        <translation>调试时在失败除中断</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="37"/>
         <source>Executes disabled tests when performing a test run.</source>
-        <translation type="unfinished">执行测试运行时执行禁用测试。</translation>
+        <translation>执行测试运行时，执行禁用的测试。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="40"/>
         <source>Run disabled tests</source>
-        <translation type="unfinished">运行被禁用的测试</translation>
+        <translation>运行被禁用的测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="47"/>
         <source>Turns assertion failures into C++ exceptions.</source>
-        <translation type="unfinished">将断言失败转换为C++异常。</translation>
+        <translation>将断言失败转换为C++异常。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="50"/>
         <source>Throw on failure</source>
-        <translation type="unfinished">抛出失败</translation>
+        <translation>失败时抛出</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="63"/>
         <source>Iterations:</source>
-        <translation type="unfinished">迭代：</translation>
+        <translation>迭代：</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="70"/>
         <source>Shuffles tests automatically on every iteration by the given seed.</source>
-        <translation type="unfinished">随机运行将自动迭代所给定的种子。</translation>
+        <translation>在给定种子的每次迭代中，自动进行随机测试。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="73"/>
         <source>Shuffle tests</source>
-        <translation type="unfinished">随机测试</translation>
+        <translation>随机测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="80"/>
         <source>Repeats a test run (you might be required to increase the timeout to avoid canceling the tests).</source>
-        <translation type="unfinished">重复测试运行(您可能需要增加超时，以避免取消测试)。</translation>
+        <translation>重复测试运行(您可能需要增加超时，以避免取消测试)。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="83"/>
         <source>Repeat tests</source>
-        <translation type="unfinished">重复测试</translation>
+        <translation>重复测试</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="109"/>
         <source>Seed:</source>
-        <translation type="unfinished">种子：</translation>
+        <translation>种子：</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="119"/>
         <source>A seed of 0 generates a seed based on the current timestamp.</source>
-        <translation type="unfinished">0表示根据当前的时间戳生成种子。</translation>
+        <translation>0 表示根据当前的时间戳生成种子。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="136"/>
         <source>Group mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>分组模式：</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="143"/>
         <source>Active filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>激活的过滤：</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="150"/>
         <source>Select on what grouping the tests should be based.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择测试应基于的分组。</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="154"/>
         <source>Directory</source>
-        <translation type="unfinished">目录</translation>
+        <translation>目录</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="159"/>
         <source>GTest Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>GTest 过滤器</translation>
     </message>
     <message>
         <location filename="src/plugins/autotest/gtest/gtestsettingspage.ui" line="167"/>
         <source>Set the GTest filter to be used for grouping.
 See Google Test documentation for further information on GTest filters.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置要用于分组的GTest过滤器。
+有关GTest过滤器的更多信息，请参阅Google测试文档。</translation>
     </message>
 </context>
 <context>
@@ -30403,43 +30406,43 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/devicesupport/devicesettingspage.cpp" line="44"/>
         <source>Devices</source>
-        <translation type="unfinished">设备</translation>
+        <translation>设备</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/kitoptionspage.cpp" line="246"/>
         <source>Kits</source>
-        <translation type="unfinished">构建套件(Kit)</translation>
+        <translation>构建套件(Kit)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorersettingspage.cpp" line="193"/>
         <source>Build &amp; Run</source>
-        <translation type="unfinished">构建和运行</translation>
+        <translation>构建和运行</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectmacroexpander.cpp" line="37"/>
         <source>Main file of current project</source>
-        <translation type="unfinished">当前项目的主文件</translation>
+        <translation>当前工程的主文件</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectmacroexpander.cpp" line="41"/>
         <location filename="src/plugins/projectexplorer/target.cpp" line="136"/>
         <source>Name of current project</source>
-        <translation type="unfinished">当前项目的名字</translation>
+        <translation>当前工程的名字</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectmacroexpander.cpp" line="45"/>
         <source>Name of current build</source>
-        <translation type="unfinished">当前构建的名称</translation>
+        <translation>当前构建的名称</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectmacroexpander.cpp" line="49"/>
         <source>Type of current build</source>
-        <translation type="unfinished">当前构建的类型</translation>
+        <translation>当前构建的类型</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/runconfiguration.cpp" line="230"/>
         <source>The currently active run configuration&apos;s name.</source>
-        <translation type="unfinished">当前活动的运行配置的名称。</translation>
+        <translation>当前活动的运行配置的名称。</translation>
     </message>
 </context>
 <context>
@@ -30447,7 +30450,7 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/abiwidget.cpp" line="177"/>
         <source>&lt;custom&gt;</source>
-        <translation type="unfinished">&lt;自定义&gt;</translation>
+        <translation>&lt;自定义&gt;</translation>
     </message>
 </context>
 <context>
@@ -30455,37 +30458,37 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="136"/>
         <source>Configuration is faulty. Check the Issues view for details.</source>
-        <translation type="unfinished">配置错误，请检查“问题”视图来获得详细信息。</translation>
+        <translation>配置错误，请检查“问题”视图来获得详细信息。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="184"/>
         <source>Could not create directory &quot;%1&quot;</source>
-        <translation type="unfinished">无法创建目录“%1”</translation>
+        <translation>无法创建目录“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="248"/>
         <source>Starting: &quot;%1&quot; %2</source>
-        <translation type="unfinished">正在启动：“%1”%2</translation>
+        <translation>正在启动：“%1”%2</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="267"/>
         <source>The process &quot;%1&quot; exited normally.</source>
-        <translation type="unfinished">进程“%1”正常退出。</translation>
+        <translation>进程“%1”正常退出。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="270"/>
         <source>The process &quot;%1&quot; exited with code %2.</source>
-        <translation type="unfinished">进程“%1”退出，退出代码 %2。</translation>
+        <translation>进程“%1”退出，退出代码 %2。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="274"/>
         <source>The process &quot;%1&quot; crashed.</source>
-        <translation type="unfinished">进程“%1”崩溃。</translation>
+        <translation>进程“%1”崩溃。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/abstractprocessstep.cpp" line="286"/>
         <source>Could not start process &quot;%1&quot; %2</source>
-        <translation type="unfinished">无法启动进程“%1”%2</translation>
+        <translation>无法启动进程“%1”%2</translation>
     </message>
 </context>
 <context>
@@ -30493,57 +30496,57 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="207"/>
         <source>User requested stop. Shutting down...</source>
-        <translation type="unfinished">用户请求停止。正在关闭...</translation>
+        <translation>用户请求停止。正在关闭...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="278"/>
         <source>Failed to start program. Path or permissions wrong?</source>
-        <translation type="unfinished">启动程序失败，路径或者权限错误？</translation>
+        <translation>启动程序失败，路径或者权限错误？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="281"/>
         <source>The program has unexpectedly finished.</source>
-        <translation type="unfinished">程序异常结束。</translation>
+        <translation>程序异常结束。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="285"/>
         <source>Some error has occurred while running the program.</source>
-        <translation type="unfinished">运行程序期间发生了一些错误。</translation>
+        <translation>运行程序期间发生了一些错误。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="343"/>
         <source>Cannot retrieve debugging output.</source>
-        <translation type="unfinished">无法获取调试输出.</translation>
+        <translation>无法获取调试输出.</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="393"/>
         <source>Cannot run: No device.</source>
-        <translation type="unfinished">无法运行：没有设备。</translation>
+        <translation>无法运行：没有设备。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="399"/>
         <source>Cannot run: Device is not able to create processes.</source>
-        <translation type="unfinished">无法运行：设备不允许添加进程。</translation>
+        <translation>无法运行：设备不允许添加进程。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="405"/>
         <source>Cannot run: No command given.</source>
-        <translation type="unfinished">无法运行：没有给定命令。</translation>
+        <translation>无法运行：没有给定命令。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="431"/>
         <source>Application failed to start: %1</source>
-        <translation type="unfinished">应用程序启动失败：%1</translation>
+        <translation>应用程序启动失败：%1</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="461"/>
         <source>Application finished with exit code %1.</source>
-        <translation type="unfinished">程序退出，退出代码 %1。</translation>
+        <translation>程序退出，退出代码 %1。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/applicationlauncher.cpp" line="463"/>
         <source>Application finished with exit code 0.</source>
-        <translation type="unfinished">程序退出，退出代码 0。</translation>
+        <translation>程序退出，退出代码 0。</translation>
     </message>
 </context>
 <context>
@@ -30551,12 +30554,12 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/runconfigurationaspects.cpp" line="251"/>
         <source>Arguments</source>
-        <translation type="unfinished">参数</translation>
+        <translation>参数</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/runconfigurationaspects.cpp" line="303"/>
         <source>Command line arguments:</source>
-        <translation type="unfinished">命令行参数：</translation>
+        <translation>命令行参数：</translation>
     </message>
 </context>
 <context>
@@ -30565,7 +30568,7 @@ UDID：%4
         <location filename="src/plugins/projectexplorer/baseprojectwizarddialog.cpp" line="171"/>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
@@ -30573,33 +30576,33 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="64"/>
         <source>Build Settings</source>
-        <translation type="unfinished">构建设置</translation>
+        <translation>构建设置</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="68"/>
         <source>Build directory</source>
-        <translation type="unfinished">构建目录</translation>
+        <translation>构建目录</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="71"/>
         <source>Name of current build</source>
-        <translation type="unfinished">当前构建的名称</translation>
+        <translation>当前构建的名称</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="75"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1501"/>
         <source>Variables in the current build environment</source>
-        <translation type="unfinished">当前构建环境中的变量</translation>
+        <translation>当前构建环境中的变量</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="223"/>
         <source>System Environment</source>
-        <translation type="unfinished">系统环境变量</translation>
+        <translation>系统环境变量</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildconfiguration.cpp" line="225"/>
         <source>Clean Environment</source>
-        <translation type="unfinished">清除环境变量</translation>
+        <translation>清除环境变量</translation>
     </message>
 </context>
 <context>
@@ -30607,12 +30610,12 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/buildenvironmentwidget.cpp" line="44"/>
         <source>Clear system environment</source>
-        <translation type="unfinished">清除系统环境变量</translation>
+        <translation>清除系统环境变量</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildenvironmentwidget.cpp" line="64"/>
         <source>Build Environment</source>
-        <translation type="unfinished">构建环境</translation>
+        <translation>构建环境</translation>
     </message>
 </context>
 <context>
@@ -30620,70 +30623,70 @@ UDID：%4
     <message numerus="yes">
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="64"/>
         <source>Finished %1 of %n steps</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>完成 %1 / %n 步</numerusform>
         </translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="151"/>
         <source>Compile</source>
         <comment>Category for compiler issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished">编译</translation>
+        <translation>编译</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="153"/>
         <source>Build System</source>
         <comment>Category for build system issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished">构建系统</translation>
+        <translation>构建系统</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="155"/>
         <source>Deployment</source>
         <comment>Category for deployment issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="228"/>
         <source>Elapsed time: %1.</source>
-        <translation type="unfinished">已用时间：%1。</translation>
+        <translation>用时：%1。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="235"/>
         <source>Canceled build/deployment.</source>
-        <translation type="unfinished">取消了构建/部署。</translation>
+        <translation>取消的构建/部署。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="365"/>
         <source>Build/Deployment canceled</source>
-        <translation type="unfinished">构建/部署被取消</translation>
+        <translation>构建/部署被取消</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="384"/>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="392"/>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="499"/>
         <source>Error while building/deploying project %1 (kit: %2)</source>
-        <translation type="unfinished">构建/部署项目%1时出错(Kit：%2)</translation>
+        <translation>构建/部署项目%1时出错(Kit：%2)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="387"/>
         <source>The kit %1 has configuration issues which might be the root cause for this problem.</source>
-        <translation type="unfinished">套件%1的配置问题可能时针对此问题的根本原因。</translation>
+        <translation>套件%1的配置问题可能时针对此问题的根本原因。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="390"/>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="500"/>
         <source>When executing step &quot;%1&quot;</source>
-        <translation type="unfinished">单步执行时“%1”</translation>
+        <translation>单步执行时“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="434"/>
         <source>Running steps for project %1...</source>
-        <translation type="unfinished">为项目%1执行步骤 ...</translation>
+        <translation>工程 %1 的运行步骤 ...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildmanager.cpp" line="440"/>
         <source>Skipping disabled step %1.</source>
-        <translation type="unfinished">跳过被禁用的步骤 %1。</translation>
+        <translation>跳过被禁用的步骤 %1。</translation>
     </message>
 </context>
 <context>
@@ -30691,7 +30694,7 @@ UDID：%4
     <message>
         <location filename="src/plugins/projectexplorer/buildstep.cpp" line="123"/>
         <source>Build Step</source>
-        <translation type="unfinished">构建步骤</translation>
+        <translation>构建步骤</translation>
     </message>
 </context>
 <context>
@@ -30700,13 +30703,13 @@ UDID：%4
         <location filename="src/plugins/projectexplorer/buildsteplist.cpp" line="51"/>
         <source>Build</source>
         <extracomment>Display name of the build build step list. Used as part of the labels in the project window.</extracomment>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/buildsteplist.cpp" line="54"/>
         <source>Clean</source>
         <extracomment>Display name of the clean build step list. Used as part of the labels in the project window.</extracomment>
-        <translation type="unfinished">清除</translation>
+        <translation>清除</translation>
     </message>
 </context>
 <context>
@@ -30714,35 +30717,35 @@ UDID：%4
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="207"/>
         <source>Cannot start process: %1</source>
-        <translation type="unfinished">无法启动进程 %1</translation>
+        <translation>无法启动进程 %1</translation>
     </message>
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="216"/>
         <source>Timeout after %1 s.</source>
-        <translation type="unfinished">超时%1秒。</translation>
+        <translation>%1 秒后超时。</translation>
     </message>
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="223"/>
         <source>The process crashed.</source>
-        <translation type="unfinished">进程崩溃了。</translation>
+        <translation>进程已崩溃。</translation>
     </message>
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="229"/>
         <source>The process returned exit code %1:
 %2</source>
-        <translation type="unfinished">进程返回代码%1：
+        <translation>进程返回代码%1：
 %2</translation>
     </message>
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="255"/>
         <source>Error running &quot;%1&quot; in %2: %3</source>
-        <translation type="unfinished">在%2运行错误“%1”：%3</translation>
+        <translation>在 %2 运行&quot;%1&quot;错误：%3</translation>
     </message>
     <message>
         <location filename="src/libs/utils/buildablehelperlibrary.cpp" line="274"/>
         <source>Building helper &quot;%1&quot; in %2
 </source>
-        <translation type="unfinished">在%2构建助手“%1”
+        <translation type="unfinished">在 %2 中构建助手&quot;%1&quot;
 </translation>
     </message>
     <message>
@@ -57636,57 +57639,57 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="20"/>
         <source>Connection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>连接参数</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="26"/>
         <source>Remote host:</source>
-        <translation type="unfinished"></translation>
+        <translation>远程主机：</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="36"/>
         <source>User:</source>
-        <translation type="unfinished">用户名：</translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="46"/>
         <source>Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="60"/>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>端口：</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="94"/>
         <source>Use model tester</source>
-        <translation type="unfinished"></translation>
+        <translation>用户模型测试器</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="101"/>
         <source>Remote File System</source>
-        <translation type="unfinished"></translation>
+        <translation>远程文件系统</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="121"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="128"/>
         <source>Download...</source>
-        <translation type="unfinished"></translation>
+        <translation>下载...</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.ui" line="155"/>
         <source>Debug output</source>
-        <translation type="unfinished"></translation>
+        <translation>调试输出</translation>
     </message>
 </context>
 <context>
@@ -57694,33 +57697,33 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="37"/>
         <source>Window</source>
-        <translation type="unfinished">窗口</translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="41"/>
         <source>Title</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="56"/>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="95"/>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="98"/>
         <source>Color</source>
-        <translation type="unfinished">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="113"/>
         <source>Visible</source>
-        <translation type="unfinished">可见</translation>
+        <translation>可视</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/Window/WindowSpecifics.qml" line="125"/>
         <source>Opacity</source>
-        <translation type="unfinished">不透明度</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
@@ -57728,7 +57731,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/emptyPane.qml" line="45"/>
         <source>None or multiple items selected.</source>
-        <translation type="unfinished">没有选中或选中多项.</translation>
+        <translation>没有选中或选中多项.</translation>
     </message>
 </context>
 <context>
@@ -57736,7 +57739,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/api/jobs.cpp" line="135"/>
         <source>Cannot start a job while another one is in progress.</source>
-        <translation type="unfinished">当另一个工作正在进行时，无法开始工作。</translation>
+        <translation>当另一个工作正在处理时，无法启动新工作。</translation>
     </message>
 </context>
 <context>
@@ -57744,12 +57747,12 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="src/shared/qbs/src/app/qbs/commandlinefrontend.cpp" line="194"/>
         <source>Setting up projects</source>
-        <translation type="unfinished">建立项目</translation>
+        <translation>建立工程</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/app/qbs/commandlinefrontend.cpp" line="281"/>
         <source>Building</source>
-        <translation type="unfinished">构建中</translation>
+        <translation>构建中</translation>
     </message>
 </context>
 <context>
@@ -57757,32 +57760,32 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="579"/>
         <source>Rule &apos;%1&apos; declares artifact &apos;%2&apos;, but the artifact was not produced.</source>
-        <translation type="unfinished">规则&apos;%1&apos;声明工件&apos;%2&apos;未生成工件。</translation>
+        <translation>规则 &apos;% 1&apos; 声明了项目 &apos;% 2&apos;, 但该项目未生成。</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="583"/>
         <source>Rule declares artifact &apos;%1&apos;, but the artifact was not produced.</source>
-        <translation type="unfinished">规则声明工件&apos;%1&apos;，但未生成工件。</translation>
+        <translation>规则声明项目&apos;%1&apos;，但该项目未生成。</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="587"/>
         <source>Transformer declares artifact &apos;%1&apos;, but the artifact was not produced.</source>
-        <translation type="unfinished">转换声明工件&apos;%1&apos;，但未生成工件。</translation>
+        <translation>变换声明了项目&apos;%1&apos;，但该项目未生成。</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="657"/>
         <source> for configuration %1</source>
-        <translation type="unfinished"></translation>
+        <translation> 用于配置 %1</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="715"/>
         <source>Building%1</source>
-        <translation type="unfinished">构建 %1</translation>
+        <translation>构建 %1</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/lib/corelib/buildgraph/executor.cpp" line="978"/>
         <source>Failed to create directory &apos;%1&apos;.</source>
-        <translation type="unfinished">创建目录“%1”失败。</translation>
+        <translation>创建目录“%1”失败。</translation>
     </message>
 </context>
 <context>
@@ -58701,7 +58704,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message>
         <location filename="tests/auto/qml/qmldesigner/coretests/tst_testcore.cpp" line="2290"/>
         <source>Exception: %1 %2 %3:%4</source>
-        <translation type="unfinished"></translation>
+        <translation>异常: %1 %2 %3:%4</translation>
     </message>
 </context>
 </TS>

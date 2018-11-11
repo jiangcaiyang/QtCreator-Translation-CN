@@ -6325,22 +6325,22 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakespecificsettingspage.ui" line="23"/>
         <source>Adding Files</source>
-        <translation type="unfinished"></translation>
+        <translation>增加文件</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakespecificsettingspage.ui" line="31"/>
         <source>Ask about copying file paths</source>
-        <translation type="unfinished"></translation>
+        <translation>询问复制文件路径</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakespecificsettingspage.ui" line="41"/>
         <source>Do not copy file paths</source>
-        <translation type="unfinished"></translation>
+        <translation>不要复制文件路径</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakespecificsettingspage.ui" line="51"/>
         <source>Copy file paths</source>
-        <translation type="unfinished"></translation>
+        <translation>复制文件路径</translation>
     </message>
 </context>
 <context>
@@ -6348,7 +6348,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakespecificsettingspage.cpp" line="83"/>
         <source>CMake</source>
-        <translation type="unfinished">CMake</translation>
+        <translation>CMake</translation>
     </message>
 </context>
 <context>
@@ -6357,7 +6357,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location filename="src/plugins/projectexplorer/userfileaccessor.cpp" line="635"/>
         <source>Desktop</source>
         <comment>CMake Default target display name</comment>
-        <translation type="unfinished">桌面</translation>
+        <translation>桌面</translation>
     </message>
 </context>
 <context>
@@ -6365,37 +6365,37 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="423"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="425"/>
         <source>Clone</source>
-        <translation type="unfinished">克隆</translation>
+        <translation>克隆</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="428"/>
         <source>Remove</source>
-        <translation type="unfinished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="431"/>
         <source>Make Default</source>
-        <translation type="unfinished">设置为默认</translation>
+        <translation>设置为默认</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="433"/>
         <source>Set as the default CMake Tool to use when creating a new kit or when no value is set.</source>
-        <translation type="unfinished">设置为默认使用的CMake工具当建立一个新的构建工具或当设置值为空时。</translation>
+        <translation>设置为默认使用的CMake工具当建立一个新的构建工具或当设置值为空时。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="511"/>
         <source>Clone of %1</source>
-        <translation type="unfinished">%1 的克隆</translation>
+        <translation>%1 的克隆</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="521"/>
         <source>New CMake</source>
-        <translation type="unfinished">新的CMake</translation>
+        <translation>新的CMake</translation>
     </message>
 </context>
 <context>
@@ -6403,52 +6403,52 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="136"/>
         <source>Running &quot;%1 %2&quot; in %3.</source>
-        <translation type="unfinished">在%3中运行“%1 %2”。</translation>
+        <translation>在%3中运行“%1 %2”。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="201"/>
         <source>Running &quot;%1&quot; failed: Timeout waiting for pipe &quot;%2&quot;.</source>
-        <translation type="unfinished">运行“%1”失败：等待管道“%2”超时。</translation>
+        <translation>运行“%1”失败：等待管道“%2”超时。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="239"/>
         <source>CMake process &quot;%1&quot; crashed.</source>
-        <translation type="unfinished">CMake进程“%1”崩溃。</translation>
+        <translation>CMake进程“%1”崩溃。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="241"/>
         <source>CMake process &quot;%1&quot; quit with exit code %2.</source>
-        <translation type="unfinished">CMake进程“%1”退出，退出代码 %2。</translation>
+        <translation>CMake进程“%1”退出，退出代码 %2。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="246"/>
         <source>CMake process &quot;%1&quot; quit normally.</source>
-        <translation type="unfinished">CMake进程“%1”正常退出。</translation>
+        <translation>CMake进程“%1”正常退出。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="301"/>
         <source>Failed to parse JSON from CMake server.</source>
-        <translation type="unfinished">未能从CMake服务器解析JSON。</translation>
+        <translation>未能从CMake服务器解析JSON。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="306"/>
         <source>JSON data from CMake server was not a JSON object.</source>
-        <translation type="unfinished">来自CMake服务器的JSON数据不是JSON对象。</translation>
+        <translation>来自CMake服务器的JSON数据不是JSON对象。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="319"/>
         <source>Unexpected hello received from CMake server.</source>
-        <translation type="unfinished">来自CMake服务器的意外的应答。</translation>
+        <translation>来自CMake服务器的意外的应答。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="328"/>
         <source>Unexpected type &quot;%1&quot; received while waiting for &quot;hello&quot;.</source>
-        <translation type="unfinished">在等待应答时收到的意外类型“%1”。</translation>
+        <translation>在等待应答时收到的意外类型“%1”。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="334"/>
         <source>Received a reply even though no request is open.</source>
-        <translation type="unfinished">收到回复，尽管没有请求。</translation>
+        <translation>收到回复，尽管没有请求。</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/servermode.cpp" line="343"/>
@@ -9397,217 +9397,217 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="217"/>
         <source>Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>属性...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="261"/>
         <source>Revert File to Saved</source>
-        <translation type="unfinished">恢复文件到已保存的状态</translation>
+        <translation>恢复文件到已保存的状态</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="282"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="291"/>
         <source>Alternative Close</source>
-        <translation type="unfinished">可选关闭</translation>
+        <translation>可选关闭</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="293"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished">Ctrl+F4</translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="301"/>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished">Ctrl+Shift+W</translation>
+        <translation>Ctrl+Shift+W</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="356"/>
         <source>Alt+Tab</source>
-        <translation type="unfinished">Alt+Tab</translation>
+        <translation>Alt+Tab</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="356"/>
         <source>Ctrl+Tab</source>
-        <translation type="unfinished">Ctrl+Tab</translation>
+        <translation>Ctrl+Tab</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="363"/>
         <source>Alt+Shift+Tab</source>
-        <translation type="unfinished">Alt+Shift+Tab</translation>
+        <translation>Alt+Shift+Tab</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="363"/>
         <source>Ctrl+Shift+Tab</source>
-        <translation type="unfinished">Ctrl+Shift+Tab</translation>
+        <translation>Ctrl+Shift+Tab</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="370"/>
         <source>Ctrl+Alt+Left</source>
-        <translation type="unfinished">Ctrl+Alt+Left</translation>
+        <translation>Ctrl+Alt+Left</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="370"/>
         <source>Alt+Left</source>
-        <translation type="unfinished">Alt+Left</translation>
+        <translation>Alt+Left</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="377"/>
         <source>Ctrl+Alt+Right</source>
-        <translation type="unfinished">Ctrl+Alt+Right</translation>
+        <translation>Ctrl+Alt+Right</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="377"/>
         <source>Alt+Right</source>
-        <translation type="unfinished">Alt+Right</translation>
+        <translation>Alt+Right</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="382"/>
         <source>Split</source>
-        <translation type="unfinished">分栏</translation>
+        <translation>分栏</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="384"/>
         <source>Meta+E,2</source>
-        <translation type="unfinished">Meta+E,2</translation>
+        <translation>Meta+E,2</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="384"/>
         <source>Ctrl+E,2</source>
-        <translation type="unfinished">Ctrl+E,2</translation>
+        <translation>Ctrl+E,2</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="389"/>
         <source>Split Side by Side</source>
-        <translation type="unfinished">左右分栏</translation>
+        <translation>左右分栏</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="391"/>
         <source>Meta+E,3</source>
-        <translation type="unfinished">Meta+E,3</translation>
+        <translation>Meta+E,3</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="391"/>
         <source>Ctrl+E,3</source>
-        <translation type="unfinished">Ctrl+E,3</translation>
+        <translation>Ctrl+E,3</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="395"/>
         <source>Open in New Window</source>
-        <translation type="unfinished">在新的窗口中打开</translation>
+        <translation>在新窗口中打开</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="397"/>
         <source>Meta+E,4</source>
-        <translation type="unfinished">Meta+E,4</translation>
+        <translation>Meta+E,4</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="397"/>
         <source>Ctrl+E,4</source>
-        <translation type="unfinished">Ctrl+E,4</translation>
+        <translation>Ctrl+E,4</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="402"/>
         <source>Remove Current Split</source>
-        <translation type="unfinished">移除当前分隔</translation>
+        <translation>移除当前分隔</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="404"/>
         <source>Meta+E,0</source>
-        <translation type="unfinished">Meta+E,0</translation>
+        <translation>Meta+E,0</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="404"/>
         <source>Ctrl+E,0</source>
-        <translation type="unfinished">Ctrl+E,0</translation>
+        <translation>Ctrl+E,0</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="409"/>
         <source>Remove All Splits</source>
-        <translation type="unfinished">删除所有分隔</translation>
+        <translation>删除所有分隔</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="411"/>
         <source>Meta+E,1</source>
-        <translation type="unfinished">Meta+E,1</translation>
+        <translation>Meta+E,1</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="411"/>
         <source>Ctrl+E,1</source>
-        <translation type="unfinished">Ctrl+E,1</translation>
+        <translation>Ctrl+E,1</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="416"/>
         <source>Go to Previous Split or Window</source>
-        <translation type="unfinished">转到上一个分隔或窗口</translation>
+        <translation>转到上一个分隔或窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="418"/>
         <source>Meta+E,i</source>
-        <translation type="unfinished">Meta+E,i</translation>
+        <translation>Meta+E,i</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="418"/>
         <source>Ctrl+E,i</source>
-        <translation type="unfinished">Ctrl+E,i</translation>
+        <translation>Ctrl+E,i</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="423"/>
         <source>Go to Next Split or Window</source>
-        <translation type="unfinished">转到下一个分隔或窗口</translation>
+        <translation>转到下一个分隔或窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="425"/>
         <source>Meta+E,o</source>
-        <translation type="unfinished">Meta+E,o</translation>
+        <translation>Meta+E,o</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="425"/>
         <source>Ctrl+E,o</source>
-        <translation type="unfinished">Ctrl+E,o</translation>
+        <translation>Ctrl+E,o</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="432"/>
         <source>Ad&amp;vanced</source>
-        <translation type="unfinished">高级(&amp;A)</translation>
+        <translation>高级(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="471"/>
         <source>Current document</source>
-        <translation type="unfinished">当前文档</translation>
+        <translation>当前文档</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="478"/>
         <source>X-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished">当前编辑器的左上(相对屏幕)X坐标轴。</translation>
+        <translation>当前编辑器的左上(相对屏幕)X坐标轴。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="485"/>
         <source>Y-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished">当前编辑器的左上角(相对屏幕)Y坐标轴。</translation>
+        <translation>当前编辑器的左上角(相对屏幕)Y坐标轴。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="596"/>
         <source>Could not open &quot;%1&quot;: Cannot open files of type &quot;%2&quot;.</source>
-        <translation type="unfinished">无法打开“%1”：无法打开文件类型：“%2”。</translation>
+        <translation>无法打开“%1”：无法打开文件类型：“%2”。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="636"/>
         <source>Could not open &quot;%1&quot; for reading. Either the file does not exist or you do not have the permissions to open it.</source>
-        <translation type="unfinished">无法读取“%1”。文件不存在或者您没有相应的权限打开。</translation>
+        <translation>无法读取“%1”。文件不存在或者您没有相应的权限打开。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="647"/>
         <source>Could not open &quot;%1&quot;: Unknown error.</source>
-        <translation type="unfinished">无法打开“%1”：未知错误。</translation>
+        <translation>无法打开“%1”：未知错误。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1689"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file was not opened in %1 yet.</source>
-        <translation type="unfinished">&lt;b&gt;警告：&lt;/b&gt; 此文件还没有在%1中打开。</translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 此文件还没有在%1中打开。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1691"/>
@@ -9617,12 +9617,12 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1695"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; You are changing a read-only file.</source>
-        <translation type="unfinished">&lt;b&gt;警告：&lt;/b&gt; 您正在改写一个只读文件。</translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 正在修改一个只读文件。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1696"/>
         <source>Make Writable</source>
-        <translation type="unfinished">使文件可写</translation>
+        <translation>使文件可写</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1716"/>
@@ -9632,17 +9632,17 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1717"/>
         <source>Save %1 &amp;As...</source>
-        <translation type="unfinished">%1另存为(&amp;A)...</translation>
+        <translation>%1另存为(&amp;A)...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1719"/>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished">恢复%1到已保存的状态</translation>
+        <translation>恢复%1到已保存的状态</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1720"/>
         <source>Reload %1</source>
-        <translation type="unfinished">重新载入%1</translation>
+        <translation>重新载入%1</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1743"/>
@@ -9667,23 +9667,23 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="1929"/>
         <source>Cannot open the file for editing with VCS.</source>
-        <translation type="unfinished">无法以包含版本控制系统的编辑方式打开文件。</translation>
+        <translation>无法以包含版本控制系统的编辑方式打开文件。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2002"/>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2204"/>
         <source>File Error</source>
-        <translation type="unfinished">文件错误</translation>
+        <translation>文件错误</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2181"/>
         <source>Revert to Saved</source>
-        <translation type="unfinished">恢复到已保存的状态</translation>
+        <translation>恢复到已保存的状态</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2182"/>
         <source>You will lose your current changes if you proceed reverting %1.</source>
-        <translation type="unfinished">如果恢复%1那么您将会丢失现有的所有修改。</translation>
+        <translation>如果继续还原％1，将丢失当前更改。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2184"/>
@@ -9698,7 +9698,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="src/plugins/coreplugin/editormanager/editormanager.cpp" line="2190"/>
         <source>Cancel &amp;&amp; &amp;Diff</source>
-        <translation type="unfinished">取消并对比(&amp;D)</translation>
+        <translation>取消并对比(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -10630,97 +10630,97 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="644"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished">Ctrl+M</translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="648"/>
         <source>Zoom</source>
-        <translation type="unfinished">缩放</translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="655"/>
         <source>Full Screen</source>
-        <translation type="unfinished">全屏</translation>
+        <translation>全屏</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="659"/>
         <source>Ctrl+Meta+F</source>
-        <translation type="unfinished">Ctrl+Meta+F</translation>
+        <translation>Ctrl+Meta+F</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="659"/>
         <source>Ctrl+Shift+F11</source>
-        <translation type="unfinished">Ctrl+Shift+F11</translation>
+        <translation>Ctrl+Shift+F11</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="667"/>
         <source>Close Window</source>
-        <translation type="unfinished">关闭窗口</translation>
+        <translation>关闭窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="670"/>
         <source>Ctrl+Meta+W</source>
-        <translation type="unfinished">Ctrl+Meta+W</translation>
+        <translation>Ctrl+Meta+W</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="683"/>
         <source>Alt+0</source>
-        <translation type="unfinished">Alt+0</translation>
+        <translation>Alt+0</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="699"/>
         <source>Ctrl+Shift+0</source>
-        <translation type="unfinished">Ctrl+Shift+0</translation>
+        <translation>Ctrl+Shift+0</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="699"/>
         <source>Alt+Shift+0</source>
-        <translation type="unfinished">Alt+Shift+0</translation>
+        <translation>Alt+Shift+0</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="713"/>
         <source>&amp;Views</source>
-        <translation type="unfinished">视图(&amp;V)</translation>
+        <translation>视图(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="723"/>
         <source>About &amp;%1</source>
-        <translation type="unfinished">关于%1(&amp;A)</translation>
+        <translation>关于%1(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="725"/>
         <source>About &amp;%1...</source>
-        <translation type="unfinished">关于%1(&amp;A)...</translation>
+        <translation>关于%1(&amp;A)...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="733"/>
         <source>About &amp;Plugins...</source>
-        <translation type="unfinished">关于插件(&amp;P)...</translation>
+        <translation>关于插件(&amp;P)...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="759"/>
         <source>Cycle Mode Selector Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>循环模式选择器样式</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="770"/>
         <source>Mode Selector Style</source>
-        <translation type="unfinished"></translation>
+        <translation>模式选择器样式</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="774"/>
         <source>Icons and Text</source>
-        <translation type="unfinished"></translation>
+        <translation>图标和文本</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="778"/>
         <source>Icons Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅图标</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mainwindow.cpp" line="782"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏</translation>
     </message>
 </context>
 <context>
@@ -10728,7 +10728,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/menubarfilter.cpp" line="47"/>
         <source>Actions from the Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>菜单中的命令</translation>
     </message>
 </context>
 <context>
@@ -10736,7 +10736,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/messageoutputwindow.cpp" line="87"/>
         <source>General Messages</source>
-        <translation type="unfinished">概要信息</translation>
+        <translation>概要信息</translation>
     </message>
 </context>
 <context>
@@ -10744,102 +10744,102 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MIME magic data is interpreted as defined by the Shared MIME-info Database specification from &lt;a href=&quot;http://standards.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-latest.html&quot;&gt;freedesktop.org&lt;/a&gt;.&lt;hr/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;默认情况下，MIME的Magic数据由共享MIME信息数据库解释，该数据库位于&lt;a href=&quot;http://standards.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-latest.html&quot;&gt;freedesktop.org&lt;/a&gt;。&lt;hr/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;默认情况下，MIME的Magic数据由共享MIME信息数据库解释，该数据库位于&lt;a href=&quot;http://standards.freedesktop.org/shared-mime-info-spec/shared-mime-info-spec-latest.html&quot;&gt;freedesktop.org&lt;/a&gt;。&lt;hr/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="32"/>
         <source>Value:</source>
-        <translation type="unfinished">值：</translation>
+        <translation>值：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="42"/>
         <source>Type:</source>
-        <translation type="unfinished">类型：</translation>
+        <translation>类型：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="52"/>
         <source>String</source>
-        <translation type="unfinished">字符串</translation>
+        <translation>字符串</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="57"/>
         <source>RegExp</source>
-        <translation type="unfinished">正则表达式</translation>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="62"/>
         <source>Host16</source>
-        <translation type="unfinished">Host16</translation>
+        <translation>Host16</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="67"/>
         <source>Host32</source>
-        <translation type="unfinished">Host32</translation>
+        <translation>Host32</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="72"/>
         <source>Big16</source>
-        <translation type="unfinished">Big16</translation>
+        <translation>Big16</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="77"/>
         <source>Big32</source>
-        <translation type="unfinished">Big32</translation>
+        <translation>Big32</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="82"/>
         <source>Little16</source>
-        <translation type="unfinished">Little16</translation>
+        <translation>Little16</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="87"/>
         <source>Little32</source>
-        <translation type="unfinished">Little32</translation>
+        <translation>Little32</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="92"/>
         <source>Byte</source>
-        <translation type="unfinished">字节</translation>
+        <translation>字节</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="115"/>
         <source>Mask:</source>
-        <translation type="unfinished">掩码：</translation>
+        <translation>掩码：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="127"/>
         <source>Use Recommended</source>
-        <translation type="unfinished">使用建议</translation>
+        <translation>使用建议值</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="139"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Wide range values might impact performance when opening files.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;注意：广域的取值范围可能影响到打开文件的性能。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;注意：广域的取值范围可能影响到打开文件的性能。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="154"/>
         <source>Range start:</source>
-        <translation type="unfinished">范围起始：</translation>
+        <translation>范围开始：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="164"/>
         <source>Range end:</source>
-        <translation type="unfinished">范围结束：</translation>
+        <translation>范围结束：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.ui" line="174"/>
         <source>Priority:</source>
-        <translation type="unfinished">优先级：</translation>
+        <translation>优先级：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.cpp" line="54"/>
         <source>Add Magic Header</source>
-        <translation type="unfinished">添加Magic Header</translation>
+        <translation>添加Magic Header</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.cpp" line="106"/>
@@ -10849,7 +10849,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypemagicdialog.cpp" line="163"/>
         <source>Internal error: Type is invalid</source>
-        <translation type="unfinished">内部错误：无效的类型</translation>
+        <translation>内部错误：无效的类型</translation>
     </message>
 </context>
 <context>
@@ -10857,7 +10857,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="563"/>
         <source>MIME Types</source>
-        <translation type="unfinished">MIME 类型</translation>
+        <translation>MIME 类型</translation>
     </message>
 </context>
 <context>
@@ -10865,17 +10865,17 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="116"/>
         <source>MIME Type</source>
-        <translation type="unfinished">MIME 类型</translation>
+        <translation>MIME 类型</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="118"/>
         <source>Handler</source>
-        <translation type="unfinished">处理器</translation>
+        <translation>处理程序</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="157"/>
         <source>Undefined</source>
-        <translation type="unfinished">未定义</translation>
+        <translation>未定义</translation>
     </message>
 </context>
 <context>
@@ -10883,62 +10883,62 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="27"/>
         <source>Registered MIME Types</source>
-        <translation type="unfinished">已注册的MIME类型</translation>
+        <translation>已注册的MIME类型</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="33"/>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="40"/>
         <source>Reset all to default.</source>
-        <translation type="unfinished">重置所有为默认值。</translation>
+        <translation>重置所有为默认值。</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="43"/>
         <source>Reset All</source>
-        <translation type="unfinished">重置所有</translation>
+        <translation>重置所有</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="74"/>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="82"/>
         <source>Patterns:</source>
-        <translation type="unfinished">模式：</translation>
+        <translation>模式：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="111"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="116"/>
         <source>Range</source>
-        <translation type="unfinished">范围</translation>
+        <translation>范围</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="121"/>
         <source>Priority</source>
-        <translation type="unfinished">优先级</translation>
+        <translation>优先级</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="131"/>
         <source>Add...</source>
-        <translation type="unfinished">添加...</translation>
+        <translation>添加...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="138"/>
         <source>Edit...</source>
-        <translation type="unfinished">编辑...</translation>
+        <translation>编辑...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettingspage.ui" line="145"/>
         <source>Remove</source>
-        <translation type="unfinished">移除</translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -10946,12 +10946,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="403"/>
         <source>Reset MIME Types</source>
-        <translation type="unfinished">重置 MIME 模型</translation>
+        <translation>重置 MIME 模型</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/mimetypesettings.cpp" line="404"/>
         <source>Changes will take effect after restart.</source>
-        <translation type="unfinished">改变会在下次启动时生效。</translation>
+        <translation>变更将在下次启动时生效。</translation>
     </message>
 </context>
 <context>
@@ -10959,7 +10959,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/navigationsubwidget.cpp" line="75"/>
         <source>Split</source>
-        <translation type="unfinished">分栏</translation>
+        <translation>分栏</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/navigationsubwidget.cpp" line="84"/>
@@ -10972,47 +10972,47 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.ui" line="20"/>
         <source>New Project</source>
-        <translation type="unfinished">新建工程</translation>
+        <translation>新建工程</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.ui" line="26"/>
         <source>Choose a template:</source>
-        <translation type="unfinished">选择一个模板：</translation>
+        <translation>选择模板：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="195"/>
         <source>Choose...</source>
-        <translation type="unfinished">选择...</translation>
+        <translation>选择...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="258"/>
         <source>Projects</source>
-        <translation type="unfinished">工程</translation>
+        <translation>工程</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="261"/>
         <source>Files and Classes</source>
-        <translation type="unfinished">文件和类</translation>
+        <translation>文件和类</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="275"/>
         <source>All Templates</source>
-        <translation type="unfinished">所有模板</translation>
+        <translation>所有模板</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="279"/>
         <source>%1 Templates</source>
-        <translation type="unfinished">%1 模板</translation>
+        <translation>%1 模板</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="460"/>
         <source>Platform independent</source>
-        <translation type="unfinished">与平台无关</translation>
+        <translation>平台无关</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/newdialog.cpp" line="462"/>
         <source>Supported Platforms</source>
-        <translation type="unfinished">支持的平台</translation>
+        <translation>支持的平台</translation>
     </message>
 </context>
 <context>
@@ -11020,7 +11020,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/locator/opendocumentsfilter.cpp" line="44"/>
         <source>Open Documents</source>
-        <translation type="unfinished">打开文档</translation>
+        <translation>打开文档</translation>
     </message>
 </context>
 <context>
@@ -11028,12 +11028,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/openeditorsview.cpp" line="136"/>
         <source>Meta+O</source>
-        <translation type="unfinished">Meta+O</translation>
+        <translation>Meta+O</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/openeditorsview.cpp" line="136"/>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
 </context>
 <context>
@@ -11042,7 +11042,7 @@ Do you want to kill it?</source>
         <location filename="src/plugins/coreplugin/editormanager/openeditorsview.cpp" line="47"/>
         <location filename="src/plugins/coreplugin/editormanager/openeditorsview.cpp" line="135"/>
         <source>Open Documents</source>
-        <translation type="unfinished">打开文档</translation>
+        <translation>打开文档</translation>
     </message>
 </context>
 <context>
@@ -11050,7 +11050,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/editormanager/openeditorswindow.cpp" line="250"/>
         <source>*</source>
-        <translation type="unfinished">*</translation>
+        <translation>*</translation>
     </message>
 </context>
 <context>
@@ -11058,17 +11058,17 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/openwithdialog.ui" line="14"/>
         <source>Open File With...</source>
-        <translation type="unfinished">用...打开文件...</translation>
+        <translation>用...打开文件...</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/openwithdialog.ui" line="26"/>
         <source>Open file extension with:</source>
-        <translation type="unfinished">用...打开文件扩展名：</translation>
+        <translation>用...打开文件扩展名：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/openwithdialog.cpp" line="40"/>
         <source>Open file &quot;%1&quot; with:</source>
-        <translation type="unfinished">用...打开文件“%1”：</translation>
+        <translation>用...打开文件“%1”：</translation>
     </message>
 </context>
 <context>
@@ -11076,58 +11076,58 @@ Do you want to kill it?</source>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="155"/>
         <source>Minimize Output Pane</source>
-        <translation type="unfinished">最小化输出窗口</translation>
+        <translation>最小化输出窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="158"/>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="208"/>
         <source>Maximize Output Pane</source>
-        <translation type="unfinished">最大化输出窗口</translation>
+        <translation>最大化输出窗口</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="187"/>
         <source>Output</source>
-        <translation type="unfinished">输出</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="193"/>
         <source>Clear</source>
-        <translation type="unfinished">清除</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="198"/>
         <source>Next Item</source>
-        <translation type="unfinished">下一项</translation>
+        <translation>下一项</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="203"/>
         <source>Previous Item</source>
-        <translation type="unfinished">上一项</translation>
+        <translation>前一项</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="251"/>
         <source>Output &amp;Panes</source>
-        <translation type="unfinished">输出窗口(&amp;P)</translation>
+        <translation>输出窗口(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="263"/>
         <source>Shift+F6</source>
-        <translation type="unfinished">Shift+F6</translation>
+        <translation>Shift+F6</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="271"/>
         <source>F6</source>
-        <translation type="unfinished">F6</translation>
+        <translation>F6</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="275"/>
         <source>Ctrl+Shift+9</source>
-        <translation type="unfinished">Ctrl+Shift+9</translation>
+        <translation>Ctrl+Shift+9</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/outputpanemanager.cpp" line="275"/>
         <source>Alt+Shift+9</source>
-        <translation type="unfinished">Alt+Shift+9</translation>
+        <translation>Alt+Shift+9</translation>
     </message>
 </context>
 <context>
@@ -18214,7 +18214,7 @@ Do you want to retry?</source>
     <message>
         <location filename="src/plugins/debugger/qml/qmlinspectoragent.cpp" line="692"/>
         <source>Properties</source>
-        <translation type="unfinished">属性</translation>
+        <translation>属性</translation>
     </message>
 </context>
 <context>
@@ -18222,112 +18222,112 @@ Do you want to retry?</source>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="586"/>
         <source>Content as ASCII Characters</source>
-        <translation type="unfinished">连接所有ASCII 字符</translation>
+        <translation>连接所有ASCII 字符</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="588"/>
         <source>Content as %1-bit Signed Decimal Values</source>
-        <translation type="unfinished">内容%1位有符号十进制值</translation>
+        <translation>内容%1位有符号十进制值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="590"/>
         <source>Content as %1-bit Unsigned Decimal Values</source>
-        <translation type="unfinished">内容%1位无符号十进制值</translation>
+        <translation>内容%1位无符号十进制值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="592"/>
         <source>Content as %1-bit Hexadecimal Values</source>
-        <translation type="unfinished">内容%1位十六进制值</translation>
+        <translation>内容%1位十六进制值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="594"/>
         <source>Content as %1-bit Octal Values</source>
-        <translation type="unfinished">内容%1位八进制值</translation>
+        <translation>内容%1位八进制值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="596"/>
         <source>Content as %1-bit Binary Values</source>
-        <translation type="unfinished">内容%1位二进制值</translation>
+        <translation>内容%1位二进制值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="599"/>
         <source>Content as %1-bit Floating Point Values</source>
-        <translation type="unfinished">内容%1位浮点值</translation>
+        <translation>内容%1位浮点值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="618"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="618"/>
         <source>Value</source>
-        <translation type="unfinished">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="690"/>
         <source>Reload Register Listing</source>
-        <translation type="unfinished">重新载入寄存器列表</translation>
+        <translation>重新载入寄存器列表</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="697"/>
         <source>Open Memory View at Value of Register %1 0x%2</source>
-        <translation type="unfinished">在寄存器%1的值0x%2处打开内存查看器</translation>
+        <translation>在寄存器%1的值0x%2处打开内存查看器</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="699"/>
         <source>Open Memory View at Value of Register</source>
-        <translation type="unfinished">在寄存器的值的位置打开内存查看器</translation>
+        <translation>在寄存器的值的位置打开内存查看器</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="710"/>
         <source>Open Memory Editor at 0x%1</source>
-        <translation type="unfinished">在0x%1处打开内存编辑器</translation>
+        <translation>在0x%1处打开内存编辑器</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="711"/>
         <source>Open Memory Editor</source>
-        <translation type="unfinished">打开内存编辑器</translation>
+        <translation>打开内存编辑器</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="722"/>
         <source>Open Disassembler at 0x%1</source>
-        <translation type="unfinished">在0x%1处打开反汇编程序</translation>
+        <translation>在0x%1处打开反汇编程序</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="723"/>
         <source>Open Disassembler</source>
-        <translation type="unfinished">打开反汇编程序</translation>
+        <translation>打开反汇编程序</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="727"/>
         <source>Open Disassembler...</source>
-        <translation type="unfinished">打开反汇编程序...</translation>
+        <translation>打开反汇编程序...</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="754"/>
         <source>Hexadecimal</source>
-        <translation type="unfinished">十六进制</translation>
+        <translation>十六进制</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="755"/>
         <source>Decimal</source>
-        <translation type="unfinished">十进制</translation>
+        <translation>十进制</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="756"/>
         <source>Octal</source>
-        <translation type="unfinished">八进制</translation>
+        <translation>八进制</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="757"/>
         <source>Binary</source>
-        <translation type="unfinished">二进制</translation>
+        <translation>二进制</translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/registerhandler.cpp" line="783"/>
         <source>Edit bits %1...%2 of register %3</source>
-        <translation type="unfinished">编辑位%1...%2寄存器%3</translation>
+        <translation>编辑位%1...%2寄存器%3</translation>
     </message>
 </context>
 <context>
@@ -19000,12 +19000,12 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location filename="src/plugins/debugger/unstartedappwatcherdialog.cpp" line="151"/>
         <source>Kit: </source>
-        <translation type="unfinished">构建套件：</translation>
+        <translation>构建套件： </translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/unstartedappwatcherdialog.cpp" line="152"/>
         <source>Executable: </source>
-        <translation type="unfinished">可执行文件： </translation>
+        <translation>可执行文件： </translation>
     </message>
     <message>
         <location filename="src/plugins/debugger/unstartedappwatcherdialog.cpp" line="323"/>
@@ -21473,83 +21473,83 @@ will also disable the following plugins:
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="14"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>文件属性</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="22"/>
         <source>Owner:</source>
-        <translation type="unfinished"></translation>
+        <translation>所有者：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="39"/>
         <source>Group:</source>
-        <translation type="unfinished">群组：</translation>
+        <translation>分组：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="56"/>
         <source>Size:</source>
-        <translation type="unfinished">字号：</translation>
+        <translation>大小：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="165"/>
         <source>Name:</source>
-        <translation type="unfinished">名称：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="172"/>
         <source>Path:</source>
-        <translation type="unfinished">路径：</translation>
+        <translation>路径：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="179"/>
         <source>Last read:</source>
-        <translation type="unfinished"></translation>
+        <translation>最后读取：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="186"/>
         <source>Last modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>最后修改：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="193"/>
         <source>Readable:</source>
-        <translation type="unfinished"></translation>
+        <translation>可读：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="200"/>
         <source>Writable:</source>
-        <translation type="unfinished"></translation>
+        <translation>可写：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="207"/>
         <source>Executable:</source>
-        <translation type="unfinished">可执行文件：</translation>
+        <translation>可执行：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="214"/>
         <source>Symbolic link:</source>
-        <translation type="unfinished"></translation>
+        <translation>符号链接：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="221"/>
         <source>MIME type:</source>
-        <translation type="unfinished"></translation>
+        <translation>MIME 类型：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.ui" line="228"/>
         <source>Default editor:</source>
-        <translation type="unfinished"></translation>
+        <translation>默认编辑器：</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.cpp" line="75"/>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.cpp" line="78"/>
         <source>Undefined</source>
-        <translation type="unfinished">未定义</translation>
+        <translation>未定义</translation>
     </message>
     <message>
         <location filename="src/plugins/coreplugin/dialogs/filepropertiesdialog.cpp" line="85"/>
         <source>%1 Bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 字节</translation>
     </message>
 </context>
 <context>
@@ -22157,32 +22157,32 @@ See also Google Test settings.</source>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.ui" line="14"/>
         <source>Authentication</source>
-        <translation type="unfinished">验证信息</translation>
+        <translation>认证</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.ui" line="26"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gerrit server with HTTP was detected, but you need to set up credentials for it.&lt;/p&gt;&lt;p&gt;To get your password, &lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;click here&lt;/span&gt;&lt;/a&gt; (sign in if needed). Click Generate Password if the password is blank, and copy the user name and password to this form.&lt;/p&gt;&lt;p&gt;Choose Anonymous if you do not want authentication for this server. In this case, changes that require authentication (like draft changes or private projects) will not be displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;通过HTTP检测到Gerrit服务器，但是您需要为它设置证书。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;点击此处&lt;/span&gt;&lt;/a&gt;获取密码(如果需要登录)。如果密码为空，请单击“生成密码”，并将用户名和密码复制到此窗体。&lt;/p&gt;&lt;p&gt;如果您不想要此服务器的身份验证，请选择匿名。在这种情况下，将不会显示需要身份验证的更改(如草稿更改或私有工程)。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;已检测到Gerrit HTTP服务器，但需要为其设置登录凭证。&lt;/p&gt;&lt;p&gt;获取密码，请&lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;点击此处&lt;/span&gt;&lt;/a&gt;(可能需要登录)。如果密码为空，请单击“生成密码”，并将用户名和密码复制到此表单。&lt;/p&gt;&lt;p&gt;如果您不希望对此服务器进行身份验证，请选择“匿名”。 这种情况下，将不会显示需要身份验证的变更（如草稿更改或私有项目）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.ui" line="41"/>
         <source>&amp;User:</source>
-        <translation type="unfinished">用户(&amp;U)：</translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.ui" line="54"/>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密码(&amp;P)：</translation>
+        <translation>密码(&amp;P)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.ui" line="67"/>
         <source>Server:</source>
-        <translation type="unfinished">服务器：</translation>
+        <translation>服务器：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/authenticationdialog.cpp" line="82"/>
         <source>Anonymous</source>
-        <translation type="unfinished">匿名</translation>
+        <translation>匿名</translation>
     </message>
 </context>
 <context>
@@ -22190,22 +22190,22 @@ See also Google Test settings.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="167"/>
         <source>Fetching from Gerrit</source>
-        <translation type="unfinished">从Gerrit获取</translation>
+        <translation>从Gerrit获取</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="181"/>
         <source>%1 crashed.</source>
-        <translation type="unfinished">%1 崩溃。</translation>
+        <translation>%1 崩溃。</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="185"/>
         <source>%1 returned %2.</source>
-        <translation type="unfinished">%1 返回了 %2。</translation>
+        <translation>%1 返回 %2。</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="233"/>
         <source>Error running %1: %2</source>
-        <translation type="unfinished">运行%1发生错误：%2</translation>
+        <translation>运行%1发生错误：%2</translation>
     </message>
 </context>
 <context>
@@ -22213,69 +22213,69 @@ See also Google Test settings.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="14"/>
         <source>Gerrit</source>
-        <translation type="unfinished">Gerrit</translation>
+        <translation>Gerrit</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="48"/>
         <source>Remote:</source>
-        <translation type="unfinished">远程：</translation>
+        <translation>远程：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="95"/>
         <source>Changes</source>
-        <translation type="unfinished">修改</translation>
+        <translation>变更</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="103"/>
         <source>&amp;Query:</source>
-        <translation type="unfinished">查询(&amp;Q)：</translation>
+        <translation>查询(&amp;Q)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="125"/>
         <source>Change #, SHA-1, tr:id, owner:email or reviewer:email</source>
-        <translation type="unfinished">修改#，SHA-1，tr:id，所有者：电子邮件或者审校者：电子邮件</translation>
+        <translation>修改#，SHA-1，tr:id，所有者：电子邮件或者审校者：电子邮件</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.ui" line="195"/>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.cpp" line="112"/>
         <source>&amp;Show</source>
-        <translation type="unfinished">显示(&amp;S)</translation>
+        <translation>显示(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.cpp" line="113"/>
         <source>Cherry &amp;Pick</source>
-        <translation type="unfinished">择优挑选(&amp;P)</translation>
+        <translation>择优挑选(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.cpp" line="114"/>
         <source>C&amp;heckout</source>
-        <translation type="unfinished">检出(&amp;H)</translation>
+        <translation>检出(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.cpp" line="115"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">刷新(&amp;R)</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritdialog.cpp" line="293"/>
         <source>Fetching &quot;%1&quot;...</source>
-        <translation type="unfinished">获取“%1”...</translation>
+        <translation>获取“%1”...</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritserver.cpp" line="305"/>
         <source>Certificate Error</source>
-        <translation type="unfinished">证书错误</translation>
+        <translation>证书错误</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritserver.cpp" line="307"/>
         <source>Server certificate for %1 cannot be authenticated.
 Do you want to disable SSL verification for this server?
 Note: This can expose you to man-in-the-middle attack.</source>
-        <translation type="unfinished">服务器证书%1无法进行身份验证。
+        <translation>服务器证书%1无法进行身份验证。
 您想要禁用这个服务器的SSL验证吗？
 注意：这会让你暴露在中间人攻击中。</translation>
     </message>
@@ -22285,76 +22285,76 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="212"/>
         <source> (Draft)</source>
-        <translation type="unfinished"> (草稿)</translation>
+        <translation> (草稿)</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="395"/>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="441"/>
         <source>Subject</source>
-        <translation type="unfinished">标题</translation>
+        <translation>标题</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="395"/>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="443"/>
         <source>Owner</source>
-        <translation type="unfinished">所有者</translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="396"/>
         <source>Updated</source>
-        <translation type="unfinished">已更新</translation>
+        <translation>已更新</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="396"/>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="444"/>
         <source>Project</source>
-        <translation type="unfinished">工程</translation>
+        <translation>工程</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="397"/>
         <source>Approvals</source>
-        <translation type="unfinished">审批</translation>
+        <translation>审批</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="397"/>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="445"/>
         <source>Status</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="442"/>
         <source>Number</source>
-        <translation type="unfinished">数字</translation>
+        <translation>数字</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="446"/>
         <source>Patch set</source>
-        <translation type="unfinished">补丁设置</translation>
+        <translation>补丁设置</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="447"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="448"/>
         <source>Depends on</source>
-        <translation type="unfinished">依赖于</translation>
+        <translation>依赖项</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="449"/>
         <source>Needed by</source>
-        <translation type="unfinished">需求于</translation>
+        <translation>被依赖于</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="809"/>
         <source>Parse error: &quot;%1&quot; -&gt; %2</source>
-        <translation type="unfinished">解析错误：“%1”-&gt; %2</translation>
+        <translation>解析错误：“%1”-&gt; %2</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritmodel.cpp" line="834"/>
         <source>Parse error: &quot;%1&quot;</source>
-        <translation type="unfinished">解析错误：“%1”</translation>
+        <translation>解析错误：“%1”</translation>
     </message>
 </context>
 <context>
@@ -22362,7 +22362,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="47"/>
         <source>Gerrit</source>
-        <translation type="unfinished">Gerrit</translation>
+        <translation>Gerrit</translation>
     </message>
 </context>
 <context>
@@ -22370,44 +22370,44 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="92"/>
         <source>HTTPS</source>
-        <translation type="unfinished">HTTPS</translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="96"/>
         <source>&amp;Host:</source>
-        <translation type="unfinished">主机(&amp;H)：</translation>
+        <translation>主机(&amp;H)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="97"/>
         <source>&amp;User:</source>
-        <translation type="unfinished">用户(&amp;U)：</translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="101"/>
         <source>&amp;ssh:</source>
-        <translation type="unfinished">SSH(&amp;S)：</translation>
+        <translation>SSH(&amp;S)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="104"/>
         <source>cur&amp;l:</source>
-        <translation type="unfinished">Curl(&amp;L)：</translation>
+        <translation>Curl(&amp;L)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="107"/>
         <source>SSH &amp;Port:</source>
-        <translation type="unfinished">SSH端口(&amp;P)：</translation>
+        <translation>SSH端口(&amp;P)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="108"/>
         <source>P&amp;rotocol:</source>
-        <translation type="unfinished">协议(&amp;R)：</translation>
+        <translation>协议(&amp;R)：</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritoptionspage.cpp" line="109"/>
         <source>Determines the protocol used to form a URL in case
 &quot;canonicalWebUrl&quot; is not configured in the file
 &quot;gerrit.config&quot;.</source>
-        <translation type="unfinished">当文件“gerrit.config”没有配置“canonicalWebUrl”时，从URL推测使用的协议。</translation>
+        <translation>当文件“gerrit.config”没有设置“canonicalWebUrl”项时，从URL推测使用的协议。</translation>
     </message>
 </context>
 <context>
@@ -22415,17 +22415,17 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="281"/>
         <source>Gerrit...</source>
-        <translation type="unfinished">Gerrit...</translation>
+        <translation>Gerrit...</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="288"/>
         <source>Push to Gerrit...</source>
-        <translation type="unfinished">推送Gerrit...</translation>
+        <translation>推送到Gerrit...</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="326"/>
         <source>Initialization Failed</source>
-        <translation type="unfinished">初始化失败</translation>
+        <translation>初始化失败</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="348"/>
@@ -22435,17 +22435,17 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="349"/>
         <source>Invalid Gerrit configuration. Host, user and ssh binary are mandatory.</source>
-        <translation type="unfinished">无效的Gerrit配置。主机、用户和ssh是必填项。</translation>
+        <translation>无效的Gerrit配置。主机、用户名和ssh是必填项。</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="396"/>
         <source>Git is not available.</source>
-        <translation type="unfinished">Git不可用。</translation>
+        <translation>Git不可用。</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="436"/>
         <source>Remote Not Verified</source>
-        <translation type="unfinished">远程未验证</translation>
+        <translation>远程未验证</translation>
     </message>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="437"/>
@@ -22453,7 +22453,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
 and project %2
 
 were not verified among remotes in %3. Select different folder?</source>
-        <translation type="unfinished">改变主机 %1
+        <translation>改变主机 %1
 和工程 %2
 
 没有验证远程数据库 %3。选择不同的文件夹？</translation>
@@ -22461,7 +22461,7 @@ were not verified among remotes in %3. Select different folder?</source>
     <message>
         <location filename="src/plugins/git/gerrit/gerritplugin.cpp" line="460"/>
         <source>Enter Local Repository for &quot;%1&quot; (%2)</source>
-        <translation type="unfinished">为“%1”输入本地存储库(%2)</translation>
+        <translation>为“%1”输入本地存储库(%2)</translation>
     </message>
 </context>
 <context>
@@ -28685,7 +28685,7 @@ UDID：%4
     <message>
         <location filename="src/plugins/modeleditor/actionhandler.cpp" line="194"/>
         <source>Edit Element Properties</source>
-        <translation type="unfinished">编辑元素属性</translation>
+        <translation>编辑元素属性</translation>
     </message>
     <message>
         <location filename="src/plugins/modeleditor/actionhandler.cpp" line="197"/>
@@ -32172,37 +32172,37 @@ Excluding: %2
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="860"/>
         <source>File System</source>
-        <translation type="unfinished">文件系统</translation>
+        <translation>文件系统</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="863"/>
         <source>Meta+Y</source>
-        <translation type="unfinished">Meta+Y</translation>
+        <translation>Meta+Y</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="863"/>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+Y</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="900"/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="976"/>
         <source>Add New...</source>
-        <translation type="unfinished">添加新文件...</translation>
+        <translation>添加新文件...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="983"/>
         <source>Rename...</source>
-        <translation type="unfinished">重命名...</translation>
+        <translation>重命名...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="990"/>
         <source>Remove...</source>
-        <translation type="unfinished"></translation>
+        <translation>删除...</translation>
     </message>
 </context>
 <context>
@@ -34251,14 +34251,14 @@ Please close all running instances of your application before starting a build.<
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3405"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3430"/>
         <source>Project Editing Failed</source>
-        <translation type="unfinished">编辑工程失败</translation>
+        <translation>编辑工程失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="516"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3142"/>
         <source>New File</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished">新建文件</translation>
+        <translation>新建文件</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/foldernavigationwidget.cpp" line="793"/>
@@ -34269,65 +34269,65 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="550"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="551"/>
         <source>C++</source>
-        <translation type="unfinished">C++</translation>
+        <translation>C++</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="681"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="686"/>
         <source>Open...</source>
-        <translation type="unfinished">打开...</translation>
+        <translation>打开...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="692"/>
         <source>&amp;Build</source>
-        <translation type="unfinished">构建(&amp;B)</translation>
+        <translation>构建(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="698"/>
         <source>&amp;Debug</source>
-        <translation type="unfinished">调试(&amp;D)</translation>
+        <translation>调试(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="703"/>
         <source>&amp;Start Debugging</source>
-        <translation type="unfinished">开始调试(&amp;S)</translation>
+        <translation>开始调试(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="754"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="964"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1035"/>
         <source>Run</source>
-        <translation type="unfinished">运行</translation>
+        <translation>运行</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="772"/>
         <source>Open With</source>
-        <translation type="unfinished">用...打开</translation>
+        <translation>用...打开</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="801"/>
         <source>New Project...</source>
-        <translation type="unfinished">新建工程...</translation>
+        <translation>新建工程...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="803"/>
         <source>Ctrl+Shift+N</source>
-        <translation type="unfinished">Ctrl+Shift+N</translation>
+        <translation>Ctrl+Shift+N</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="807"/>
         <source>Load Project...</source>
-        <translation type="unfinished">载入工程...</translation>
+        <translation>载入工程...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="810"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="814"/>
@@ -34337,275 +34337,275 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="845"/>
         <source>Recent P&amp;rojects</source>
-        <translation type="unfinished">最近使用的工程(&amp;R)</translation>
+        <translation>最近使用的工程(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="853"/>
         <source>S&amp;essions</source>
-        <translation type="unfinished">会话(&amp;E)</translation>
+        <translation>会话(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="861"/>
         <source>&amp;Manage...</source>
-        <translation type="unfinished">管理(&amp;M)...</translation>
+        <translation>管理(&amp;M)...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="868"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1073"/>
         <source>Close Project</source>
-        <translation type="unfinished">关闭工程</translation>
+        <translation>关闭工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="868"/>
         <source>Close Pro&amp;ject &quot;%1&quot;</source>
-        <translation type="unfinished">关闭工程“%1”</translation>
+        <translation>关闭工程“%1”(&amp;j)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="877"/>
         <source>Close Pro&amp;ject</source>
-        <translation type="unfinished">关闭工程(&amp;J)</translation>
+        <translation>关闭工程(&amp;J)</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="884"/>
         <source>Close All Projects and Editors</source>
-        <translation type="unfinished">关闭所有工程和编辑器</translation>
+        <translation>关闭所有工程和编辑器</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="892"/>
         <source>Build All</source>
-        <translation type="unfinished">构建所有</translation>
+        <translation>全部构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="894"/>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished">Ctrl+Shift+B</translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="899"/>
         <source>Deploy All</source>
-        <translation type="unfinished">部署所有</translation>
+        <translation>全部部署</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="905"/>
         <source>Rebuild All</source>
-        <translation type="unfinished">重构所有</translation>
+        <translation>全部重新构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="911"/>
         <source>Clean All</source>
-        <translation type="unfinished">清除所有</translation>
+        <translation>全部清除</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="917"/>
         <source>Build Project</source>
-        <translation type="unfinished">构建工程</translation>
+        <translation>构建工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="917"/>
         <source>Build Project &quot;%1&quot;</source>
-        <translation type="unfinished">构建工程“%1”</translation>
+        <translation>构建工程“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="923"/>
         <source>Ctrl+B</source>
-        <translation type="unfinished">Ctrl+B</translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="934"/>
         <source>Deploy Project</source>
-        <translation type="unfinished">部署工程</translation>
+        <translation>部署工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="934"/>
         <source>Deploy Project &quot;%1&quot;</source>
-        <translation type="unfinished">部署工程“%1”</translation>
+        <translation>部署工程“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="942"/>
         <source>Rebuild Project</source>
-        <translation type="unfinished">重新构建工程</translation>
+        <translation>重新构建工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="942"/>
         <source>Rebuild Project &quot;%1&quot;</source>
-        <translation type="unfinished">重新构建工程“%1”</translation>
+        <translation>重新构建工程“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="950"/>
         <source>Clean Project</source>
-        <translation type="unfinished">清除工程</translation>
+        <translation>清理工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="950"/>
         <source>Clean Project &quot;%1&quot;</source>
-        <translation type="unfinished">清理工程“%1”</translation>
+        <translation>清理工程“%1”</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="958"/>
         <source>Cancel Build</source>
-        <translation type="unfinished">取消构建</translation>
+        <translation>取消构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="960"/>
         <source>Meta+Backspace</source>
-        <translation type="unfinished">Meta+Backspace</translation>
+        <translation>Meta+Backspace</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="960"/>
         <source>Alt+Backspace</source>
-        <translation type="unfinished">Alt+Backspace</translation>
+        <translation>Alt+Backspace</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="968"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished">Ctrl+R</translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="974"/>
         <source>Run Without Deployment</source>
-        <translation type="unfinished">忽略部署直接运行</translation>
+        <translation>直接运行不部署</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="979"/>
         <source>Build</source>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="985"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1015"/>
         <source>Build Without Dependencies</source>
-        <translation type="unfinished">忽略依赖关系来构建</translation>
+        <translation>忽略依赖关系来构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="991"/>
         <source>Rebuild</source>
-        <translation type="unfinished">重新构建</translation>
+        <translation>重新构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="997"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1019"/>
         <source>Rebuild Without Dependencies</source>
-        <translation type="unfinished">忽略依赖关系重新构建</translation>
+        <translation>忽略依赖关系重新构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1003"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2344"/>
         <source>Clean</source>
-        <translation type="unfinished">清除</translation>
+        <translation>清理</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1009"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1027"/>
         <source>Clean Without Dependencies</source>
-        <translation type="unfinished">忽略依赖关系来清除</translation>
+        <translation>忽略依赖关系清理</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1023"/>
         <source>Deploy Without Dependencies</source>
-        <translation type="unfinished">忽略依赖关系部署</translation>
+        <translation>忽略依赖关系部署</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1031"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2348"/>
         <source>Deploy</source>
-        <translation type="unfinished">部署</translation>
+        <translation>部署</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1049"/>
         <source>Add Existing Files...</source>
-        <translation type="unfinished">添加现有文件...</translation>
+        <translation>添加现有文件...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1057"/>
         <source>Add Existing Directory...</source>
-        <translation type="unfinished">添加现有目录...</translation>
+        <translation>添加现有目录...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1066"/>
         <source>New Subproject...</source>
-        <translation type="unfinished">新建子工程...</translation>
+        <translation>新建子工程...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1073"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2884"/>
         <source>Close Project &quot;%1&quot;</source>
-        <translation type="unfinished">关闭工程 %1</translation>
+        <translation>关闭工程 %1</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1081"/>
         <source>Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>属性...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1094"/>
         <source>Duplicate File...</source>
-        <translation type="unfinished">复制文件...</translation>
+        <translation>复制文件...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1100"/>
         <source>Remove Project...</source>
         <extracomment>Remove project from parent profile (Project explorer view); will not physically delete any files.</extracomment>
-        <translation type="unfinished">删除工程...</translation>
+        <translation>删除工程...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1106"/>
         <source>Delete File...</source>
-        <translation type="unfinished">删除文件...</translation>
+        <translation>删除文件...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1130"/>
         <source>Set as Active Project</source>
-        <translation type="unfinished">设为活动工程</translation>
+        <translation>设为活动工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1131"/>
         <source>Set &quot;%1&quot; as Active Project</source>
-        <translation type="unfinished">设置“%1”为活动工程</translation>
+        <translation>设置“%1”为活动工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1167"/>
         <source>Open Build and Run Kit Selector...</source>
-        <translation type="unfinished">打开构建和运行套件选择器...</translation>
+        <translation>打开构建和运行套件选择器...</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1176"/>
         <source>Quick Switch Kit Selector</source>
-        <translation type="unfinished">快速切换套件选择器</translation>
+        <translation>快速切换套件选择器</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1180"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+T</translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1387"/>
         <source>Current project&apos;s main file.</source>
-        <translation type="unfinished">当前工程的主要文件。</translation>
+        <translation>当前工程的主文件。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1396"/>
         <source>Full build path of the current project&apos;s active build configuration.</source>
-        <translation type="unfinished">当前工程的活动构建配置的绝对构建路径。</translation>
+        <translation>当前工程的活动构建配置的绝对构建路径。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1403"/>
         <source>The name of the current project.</source>
-        <translation type="unfinished">当前工程的名称。</translation>
+        <translation>当前工程的名称。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1410"/>
         <source>The name of the currently active kit.</source>
-        <translation type="unfinished">当前活跃的构建套件的名称。</translation>
+        <translation>当前激活构建套件名称。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1417"/>
         <source>The name of the currently active kit as a filesystem-friendly version.</source>
-        <translation type="unfinished">当前活动的套件作为文件系统的版本的名称。</translation>
+        <translation>当前激活构建套件的文件系统友好名称。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1424"/>
         <source>The ID of the currently active kit.</source>
-        <translation type="unfinished">当前活动的构建套件ID。</translation>
+        <translation>当前活动构建套件ID。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1431"/>
@@ -34660,7 +34660,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1534"/>
         <source>Load Project</source>
-        <translation type="unfinished">载入工程</translation>
+        <translation>载入工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1564"/>
@@ -34670,309 +34670,309 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1565"/>
         <source>Do Not Unload</source>
-        <translation type="unfinished">不要卸载</translation>
+        <translation>不要卸载</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1567"/>
         <source>Unload Project %1?</source>
-        <translation type="unfinished">卸载工程%1？</translation>
+        <translation>卸载工程%1？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1568"/>
         <source>The project %1 is currently being built.</source>
-        <translation type="unfinished">工程 %1 正在被构建。</translation>
+        <translation>正在构建工程 %1 。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1569"/>
         <source>Do you want to cancel the build process and unload the project anyway?</source>
-        <translation type="unfinished">您确定要取消构建并卸载工程吗？</translation>
+        <translation>一定要取消构建并卸载工程吗？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1629"/>
         <source>All Projects</source>
-        <translation type="unfinished">所有工程</translation>
+        <translation>所有工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1679"/>
         <source>New Project</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished">新建工程</translation>
+        <translation>新建工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1796"/>
         <source>Failed to Open Project</source>
-        <translation type="unfinished">打开工程失败</translation>
+        <translation>打开工程失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1801"/>
         <source>&lt;h3&gt;Project already open&lt;/h3&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;工程已经打开&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;工程已经打开&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1843"/>
         <source>Failed opening project &quot;%1&quot;: Project is not a file.</source>
-        <translation type="unfinished">打开工程“%1”失败：打开的工程不是文件。</translation>
+        <translation>打开工程“%1”失败：打开的工程不是文件。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1862"/>
         <source>Failed opening project &quot;%1&quot;: No plugin can open project type &quot;%2&quot;.</source>
-        <translation type="unfinished">打开工程“%1”失败：没有插件可以打开工程类型“%2”。</translation>
+        <translation>打开工程“%1”失败：没有插件可以打开工程类型“%2”。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="1867"/>
         <source>Failed opening project &quot;%1&quot;: Unknown project type.</source>
-        <translation type="unfinished">打开工程“%1”失败：未知的工程类型。</translation>
+        <translation>打开工程“%1”失败：未知的工程类型。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2058"/>
         <source>Unknown error</source>
-        <translation type="unfinished">未知错误</translation>
+        <translation>未知错误</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2058"/>
         <source>Could Not Run</source>
-        <translation type="unfinished">无法运行</translation>
+        <translation>无法运行</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2108"/>
         <source>Ignore All Errors?</source>
-        <translation type="unfinished">忽略所有的错误？</translation>
+        <translation>忽略所有的错误？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2109"/>
         <source>Found some build errors in current task.
 Do you want to ignore them?</source>
-        <translation type="unfinished">在当前任务中发现一些构建错误。
+        <translation>在当前任务中发现一些构建错误。
 您想要忽略这些错误吗？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2116"/>
         <source>Run Configuration Removed</source>
-        <translation type="unfinished">运行配置被删除</translation>
+        <translation>运行配置被删除</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2117"/>
         <source>The configuration that was supposed to run is no longer available.</source>
-        <translation type="unfinished">应该运行的配置不再可用。</translation>
+        <translation>应该运行的配置不再可用。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2317"/>
         <source>Always save files before build</source>
-        <translation type="unfinished">构建之前总是先保存文件</translation>
+        <translation>构建之前总是先保存文件</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2346"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2349"/>
         <source>Build</source>
         <comment>Build step</comment>
-        <translation type="unfinished">构建</translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2393"/>
         <source>Stop Applications</source>
-        <translation type="unfinished">停止应用</translation>
+        <translation>停止应用程序</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2394"/>
         <source>Stop these applications before building?</source>
-        <translation type="unfinished">构建前停止这些应用程序？</translation>
+        <translation>构建前停止这些应用程序？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2420"/>
         <source>The project %1 is not configured, skipping it.</source>
-        <translation type="unfinished">工程%1没有被配置，跳过它。</translation>
+        <translation>工程%1没有被配置，跳过。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2484"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2517"/>
         <source>No project loaded.</source>
-        <translation type="unfinished">没有载入工程。</translation>
+        <translation>没有载入工程。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2487"/>
         <source>Currently building the active project.</source>
-        <translation type="unfinished">目前正在构建活动工程。</translation>
+        <translation>目前正在构建活动工程。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2490"/>
         <source>The project %1 is not configured.</source>
-        <translation type="unfinished">工程 %1 未配置。</translation>
+        <translation>工程 %1 未配置。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2493"/>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2523"/>
         <source>Project has no build settings.</source>
-        <translation type="unfinished">工程没有构建设置。</translation>
+        <translation>工程没有构建设置。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2502"/>
         <source>Building &quot;%1&quot; is disabled: %2&lt;br&gt;</source>
-        <translation type="unfinished">构建“%1”禁用：%2&lt;br&gt;</translation>
+        <translation>构建“%1”已禁用：%2&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2520"/>
         <source>A build is in progress.</source>
-        <translation type="unfinished">正在进行构建。</translation>
+        <translation>正在进行构建。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2531"/>
         <source>Building &quot;%1&quot; is disabled: %2</source>
-        <translation type="unfinished">构建“%1”禁用：%2</translation>
+        <translation>构建“%1”已禁用：%2</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2545"/>
         <source>Cancel Build &amp;&amp; Close</source>
-        <translation type="unfinished">取消构建并关闭</translation>
+        <translation>取消构建并关闭</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2546"/>
         <source>Do Not Close</source>
-        <translation type="unfinished">不要关闭</translation>
+        <translation>不要关闭</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2548"/>
         <source>Close %1?</source>
-        <translation type="unfinished">关闭%1？</translation>
+        <translation>关闭%1？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2549"/>
         <source>A project is currently being built.</source>
-        <translation type="unfinished">有个工程现正在构建中。</translation>
+        <translation>有个工程现正在构建中。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2550"/>
         <source>Do you want to cancel the build process and close %1 anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2788"/>
         <source>No active project.</source>
-        <translation type="unfinished">没有活动工程。</translation>
+        <translation>没有活动工程。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2794"/>
         <source>The project &quot;%1&quot; is not configured.</source>
-        <translation type="unfinished">没有配置工程“%1”。</translation>
+        <translation>没有配置工程“%1”。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2801"/>
         <source>The project &quot;%1&quot; has no active kit.</source>
-        <translation type="unfinished">该工程“%1”没有有效的构建套件。</translation>
+        <translation>该工程“%1”没有有效的构建套件。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2808"/>
         <source>The kit &quot;%1&quot; for the project &quot;%2&quot; has no active run configuration.</source>
-        <translation type="unfinished">构建套件“%1”为工程“%2”没有设置有效的运行配置。</translation>
+        <translation>构建套件“%1”为工程“%2”没有设置有效的运行配置。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2835"/>
         <source>Cannot run &quot;%1&quot;.</source>
-        <translation type="unfinished">无法运行“%1”。</translation>
+        <translation>无法运行“%1”。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="2841"/>
         <source>A build is still in progress.</source>
-        <translation type="unfinished">仍有一个构建在进行中。</translation>
+        <translation>仍有一个构建在进行中。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3011"/>
         <source>Run %1</source>
-        <translation type="unfinished">运行 %1</translation>
+        <translation>运行 %1</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3168"/>
         <source>New Subproject</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished">新建子工程</translation>
+        <translation>新建子工程</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3185"/>
         <source>Add Existing Files</source>
-        <translation type="unfinished">添加现有文件</translation>
+        <translation>添加现有文件</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3219"/>
         <source>Could not add following files to project %1:</source>
-        <translation type="unfinished">无法为工程%1添加以下文件：</translation>
+        <translation>以下文件无法添加至工程%1：</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3223"/>
         <source>Adding Files to Project Failed</source>
-        <translation type="unfinished">添加文件到工程失败</translation>
+        <translation>添加文件到工程失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3299"/>
         <source>Removing File Failed</source>
-        <translation type="unfinished">删除文件失败</translation>
+        <translation>删除文件失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3300"/>
         <source>Could not remove file %1 from project %2.</source>
-        <translation type="unfinished">无法从工程 %2.中删除文件 %1 。</translation>
+        <translation>无法从工程 %2.中删除文件 %1 。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3324"/>
         <source>_copy</source>
-        <translation type="unfinished">_复制</translation>
+        <translation>_copy</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3330"/>
         <source>_copy%1</source>
-        <translation type="unfinished">_复制%1</translation>
+        <translation>_copy%1</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3337"/>
         <source>Duplicating File Failed</source>
-        <translation type="unfinished">复制文件失败</translation>
+        <translation>复制文件失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3338"/>
         <source>Could not duplicate the file %1.</source>
-        <translation type="unfinished">不能复制文件%1.</translation>
+        <translation>无法复制文件%1.</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3353"/>
         <source>Delete File</source>
-        <translation type="unfinished">删除文件</translation>
+        <translation>删除文件</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3354"/>
         <source>Delete %1 from file system?</source>
-        <translation type="unfinished">从文件系统中删除 %1吗？</translation>
+        <translation>从文件系统中删除 %1？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3373"/>
         <source>Deleting File Failed</source>
-        <translation type="unfinished">删除文件失败</translation>
+        <translation>删除文件失败</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3374"/>
         <source>Could not delete file %1.</source>
-        <translation type="unfinished">无法删除文件 %1 。</translation>
+        <translation>无法删除文件 %1 。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3406"/>
         <source>The project file %1 cannot be automatically changed.
 
 Rename %2 to %3 anyway?</source>
-        <translation type="unfinished">工程文件%1不能自动改变。
+        <translation>工程文件%1无法自动修改。
 
-重命名%2为%3？</translation>
+一定要将%2重命名为%3？</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3423"/>
         <source>The file %1 was renamed to %2, but the project file %3 could not be automatically changed.</source>
-        <translation type="unfinished">文件 %1 更名为 %2，但工程文件 %3 无法自动更改。</translation>
+        <translation>文件 %1 更名为 %2，但工程文件 %3 无法自动修改。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3435"/>
         <source>The file %1 could not be renamed %2.</source>
-        <translation type="unfinished">文件%1无法重命名为%2。</translation>
+        <translation>文件%1无法重命名为%2。</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectexplorer.cpp" line="3441"/>
         <source>Cannot Rename File</source>
-        <translation type="unfinished">无法重命名文件</translation>
+        <translation>无法重命名文件</translation>
     </message>
 </context>
 <context>
@@ -34980,7 +34980,7 @@ Rename %2 to %3 anyway?</source>
     <message>
         <location filename="src/plugins/projectexplorer/projectimporter.cpp" line="146"/>
         <source>No Build Found</source>
-        <translation type="unfinished">找不到构建</translation>
+        <translation>找不到构建</translation>
     </message>
     <message>
         <location filename="src/plugins/projectexplorer/projectimporter.cpp" line="147"/>
@@ -34995,7 +34995,7 @@ Rename %2 to %3 anyway?</source>
     <message>
         <location filename="src/plugins/projectexplorer/projectimporter.cpp" line="293"/>
         <source>Imported Kit</source>
-        <translation type="unfinished">导入Kit</translation>
+        <translation>导入的Kit</translation>
     </message>
 </context>
 <context>
@@ -35690,7 +35690,7 @@ App ID：%2
     <message>
         <location filename="src/plugins/coreplugin/themechooser.cpp" line="69"/>
         <source>unnamed</source>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
@@ -35698,12 +35698,12 @@ App ID：%2
     <message>
         <location filename="src/libs/utils/fancymainwindow.cpp" line="166"/>
         <source>Float</source>
-        <translation type="unfinished">浮动</translation>
+        <translation>浮动</translation>
     </message>
     <message>
         <location filename="src/libs/utils/fancymainwindow.cpp" line="167"/>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation type="unfinished">移除并重新安装dock widget</translation>
+        <translation>取消停靠并重新附加停靠窗口</translation>
     </message>
     <message>
         <location filename="src/libs/utils/fancymainwindow.cpp" line="168"/>
@@ -35713,7 +35713,7 @@ App ID：%2
     <message>
         <location filename="src/libs/utils/fancymainwindow.cpp" line="169"/>
         <source>Closes the dock widget</source>
-        <translation type="unfinished">关闭dock widget</translation>
+        <translation>关闭停靠窗口</translation>
     </message>
 </context>
 <context>
@@ -35721,13 +35721,14 @@ App ID：%2
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakeprojectnodes.cpp" line="75"/>
         <source>Copy to Clipboard?</source>
-        <translation type="unfinished"></translation>
+        <translation>复制到剪贴板？</translation>
     </message>
     <message>
         <location filename="src/plugins/cmakeprojectmanager/cmakeprojectnodes.cpp" line="76"/>
         <source>Files are not automatically added to the CMakeLists.txt file of the CMake project.
 Copy the path to the source files to the clipboard?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件不会自动添加到CMake项目的CMakeLists.txt文件中。
+将源文件的路径复制到剪贴板？</translation>
     </message>
 </context>
 <context>
@@ -35735,27 +35736,27 @@ Copy the path to the source files to the clipboard?</source>
     <message>
         <location filename="src/plugins/cppeditor/cppeditorwidget.cpp" line="405"/>
         <source>C++ Usages:</source>
-        <translation type="unfinished">C++ 使用：</translation>
+        <translation>C++ 用法：</translation>
     </message>
     <message>
         <location filename="src/plugins/serialterminal/serialterminalsettings.cpp" line="47"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="src/plugins/serialterminal/serialterminalsettings.cpp" line="48"/>
         <source>LF</source>
-        <translation type="unfinished"></translation>
+        <translation>LF</translation>
     </message>
     <message>
         <location filename="src/plugins/serialterminal/serialterminalsettings.cpp" line="49"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="src/plugins/serialterminal/serialterminalsettings.cpp" line="50"/>
         <source>CRLF</source>
-        <translation type="unfinished"></translation>
+        <translation>CRLF</translation>
     </message>
 </context>
 <context>
@@ -35763,17 +35764,17 @@ Copy the path to the source files to the clipboard?</source>
     <message>
         <location filename="src/libs/ssh/sftpchannel.cpp" line="269"/>
         <source>Server could not start SFTP subsystem.</source>
-        <translation type="unfinished">服务器无法启动 sftp 子系统。</translation>
+        <translation>服务器无法启动 sftp 子系统。</translation>
     </message>
     <message>
         <location filename="src/libs/ssh/sftpchannel.cpp" line="301"/>
         <source>The SFTP server finished unexpectedly with exit code %1.</source>
-        <translation type="unfinished">SFTP 服务意外的退出，返回值是 %1 。</translation>
+        <translation>SFTP 服务意外的退出，退出码 %1 。</translation>
     </message>
     <message>
         <location filename="src/libs/ssh/sftpchannel.cpp" line="311"/>
         <source>The SFTP server crashed: %1.</source>
-        <translation type="unfinished">SFTP服务奔溃：%1。</translation>
+        <translation>SFTP服务奔溃：%1。</translation>
     </message>
     <message>
         <location filename="src/libs/ssh/sftpchannel.cpp" line="340"/>
@@ -42653,22 +42654,22 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetbuildprogressdialog.ui" line="14"/>
         <source>Build Progress</source>
-        <translation type="unfinished">构建进度</translation>
+        <translation>构建进度</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetbuildprogressdialog.ui" line="23"/>
         <source>Build Adapter for the current Qt. Happens only once for every Qt installation.</source>
-        <translation type="unfinished">为当前的Qt构建适配器。每一个Qt的安装只发生一次。</translation>
+        <translation>为当前的Qt构建适配器。仅在Qt安装时出现一次。</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetbuildprogressdialog.ui" line="39"/>
         <source>Open error output file</source>
-        <translation type="unfinished">打开错误输出文件</translation>
+        <translation>打开错误输出文件</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetbuildprogressdialog.ui" line="65"/>
         <source>Use Fallback QML Emulation Layer</source>
-        <translation type="unfinished">使用回退QML仿真</translation>
+        <translation>使用后备QML仿真层</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetbuildprogressdialog.cpp" line="73"/>
@@ -42681,7 +42682,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/designercore/instances/puppetdialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
 </context>
 <context>
@@ -42689,12 +42690,12 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/qmldesignerplugin.cpp" line="110"/>
         <source>Cannot Open Design Mode</source>
-        <translation type="unfinished">无法打开设计模式</translation>
+        <translation>无法打开设计模式</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/qmldesignerplugin.cpp" line="111"/>
         <source>The QML file is not currently opened in a QML Editor.</source>
-        <translation type="unfinished">该QML文件目前尚未在QML编辑器中打开。</translation>
+        <translation>该QML文件目前尚未在QML编辑器中打开。</translation>
     </message>
 </context>
 <context>
@@ -42702,97 +42703,97 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="66"/>
         <source>Export as &amp;Image...</source>
-        <translation type="unfinished">图片格式导出(&amp;I)...</translation>
+        <translation>导出为图像(&amp;I)...</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="67"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished">撤销(&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="68"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished">重做(&amp;R)</translation>
+        <translation>重做(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="69"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="70"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished">剪切(&amp;T)</translation>
+        <translation>剪切(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="71"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">复制(&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="72"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished">粘贴(&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="73"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished">全选(&amp;A)</translation>
+        <translation>全选(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="74"/>
         <source>Toggle States</source>
-        <translation type="unfinished"></translation>
+        <translation>切换状态</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="75"/>
         <source>&amp;Restore Default View</source>
-        <translation type="unfinished">重置到默认视图(&amp;R)</translation>
+        <translation>恢复默认视图(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="76"/>
         <source>Toggle &amp;Left Sidebar</source>
-        <translation type="unfinished">切换左边栏(&amp;L)</translation>
+        <translation>切换左边栏(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="77"/>
         <source>Toggle &amp;Right Sidebar</source>
-        <translation type="unfinished">切换右边栏(&amp;R)</translation>
+        <translation>切换右边栏(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="78"/>
         <source>Switch Text/Design</source>
-        <translation type="unfinished">切换文本/设计</translation>
+        <translation>切换文本/设计</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="271"/>
         <source>Save %1 As...</source>
-        <translation type="unfinished">%1另存为...</translation>
+        <translation>%1另存为...</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="272"/>
         <source>&amp;Save %1</source>
-        <translation type="unfinished">保存%1(&amp;S)</translation>
+        <translation>保存%1(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="273"/>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished">恢复%1到已保存的状态</translation>
+        <translation>恢复%1到已保存的状态</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="276"/>
         <source>Close %1</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭 %1</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="279"/>
         <source>Close All Except %1</source>
-        <translation type="unfinished">除此以外全部关闭</translation>
+        <translation>除 %1 以外全部关闭</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/shortcutmanager.cpp" line="279"/>
         <source>Close Others</source>
-        <translation type="unfinished">关闭其它</translation>
+        <translation>关闭其它</translation>
     </message>
 </context>
 <context>
@@ -42805,7 +42806,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/qmldesignerextension/sourcetool/sourcetool.cpp" line="238"/>
         <source>Source Tool</source>
-        <translation type="unfinished">源工具</translation>
+        <translation>源码工具</translation>
     </message>
 </context>
 <context>
@@ -42814,22 +42815,22 @@ This is independent of the visibility property in QML.</source>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditormodel.cpp" line="103"/>
         <source>base state</source>
         <comment>Implicit default state</comment>
-        <translation type="unfinished">基线状态</translation>
+        <translation>基础状态</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditormodel.cpp" line="184"/>
         <source>Invalid state name</source>
-        <translation type="unfinished">无效状态名称</translation>
+        <translation>无效的状态名</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditormodel.cpp" line="186"/>
         <source>The empty string as a name is reserved for the base state.</source>
-        <translation type="unfinished">空字符串是为基线状态保留的名称。</translation>
+        <translation>空字符串是基础状态的保留名。</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditormodel.cpp" line="187"/>
         <source>Name already used in another state</source>
-        <translation type="unfinished">名称已经被另一个状态使用</translation>
+        <translation>另一个状态已经使用该名称</translation>
     </message>
 </context>
 <context>
@@ -42837,12 +42838,12 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditorview.cpp" line="70"/>
         <source>States</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="src/plugins/qmldesigner/components/stateseditor/stateseditorview.cpp" line="230"/>
         <source>base state</source>
-        <translation type="unfinished">基线状态</translation>
+        <translation>基础状态</translation>
     </message>
 </context>
 <context>
@@ -46981,123 +46982,123 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1250"/>
         <location filename="src/plugins/qtsupport/qtkitinformation.cpp" line="110"/>
         <source>Qt version</source>
-        <translation type="unfinished">Qt 版本</translation>
+        <translation>Qt 版本</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1254"/>
         <source>The version string of the current Qt version.</source>
-        <translation type="unfinished">当前Qt版本的字符串表示。</translation>
+        <translation>当前Qt版本的字符串表示。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1261"/>
         <source>The type of the current Qt version.</source>
-        <translation type="unfinished">当前Qt版本的类别。</translation>
+        <translation>当前Qt版本的类别。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1268"/>
         <source>The mkspec of the current Qt version.</source>
-        <translation type="unfinished">当前Qt版本的mkspec。</translation>
+        <translation>当前Qt版本的mkspec。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1275"/>
         <source>The installation prefix of the current Qt version.</source>
-        <translation type="unfinished">当前Qt版本的安装前缀。</translation>
+        <translation>当前Qt版本的安装前缀。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1282"/>
         <source>The installation location of the current Qt version&apos;s data.</source>
-        <translation type="unfinished">当前的Qt版本数据的安装位置。</translation>
+        <translation>当前的Qt版本数据的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1289"/>
         <source>The installation location of the current Qt version&apos;s header files.</source>
-        <translation type="unfinished">当前的Qt版本头文件的安装位置。</translation>
+        <translation>当前的Qt版本头文件的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1296"/>
         <source>The installation location of the current Qt version&apos;s library files.</source>
-        <translation type="unfinished">当前的Qt版本库文件的安装位置。</translation>
+        <translation>当前的Qt版本库文件的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1303"/>
         <source>The installation location of the current Qt version&apos;s documentation files.</source>
-        <translation type="unfinished">当前的Qt版本文档的安装位置。</translation>
+        <translation>当前的Qt版本文档的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1310"/>
         <source>The installation location of the current Qt version&apos;s executable files.</source>
-        <translation type="unfinished">当前的Qt版本执行文件的安装位置。</translation>
+        <translation>当前的Qt版本执行文件的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1317"/>
         <source>The installation location of the current Qt version&apos;s plugins.</source>
-        <translation type="unfinished">当前的Qt版本插件的安装位置。</translation>
+        <translation>当前的Qt版本插件的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1324"/>
         <source>The installation location of the current Qt version&apos;s QML files.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1331"/>
         <source>The installation location of the current Qt version&apos;s imports.</source>
-        <translation type="unfinished">当前的Qt版本导入路径的安装位置。</translation>
+        <translation>当前的Qt版本导入路径的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1338"/>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1345"/>
         <source>The installation location of the current Qt version&apos;s translation files.</source>
-        <translation type="unfinished">当前的Qt版本翻译的安装位置。</translation>
+        <translation>当前的Qt版本翻译的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1352"/>
         <source>The installation location of the current Qt version&apos;s examples.</source>
-        <translation type="unfinished">当前的Qt版本例子的安装位置。</translation>
+        <translation>当前的Qt版本例子的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1359"/>
         <source>The installation location of the current Qt version&apos;s demos.</source>
-        <translation type="unfinished">当前的Qt版本示例的安装位置。</translation>
+        <translation>当前的Qt版本示例的安装位置。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1366"/>
         <source>The current Qt version&apos;s default mkspecs (Qt 4).</source>
-        <translation type="unfinished">目前的Qt版本默认mkspecs(QT4)。</translation>
+        <translation>目前的Qt版本默认mkspecs(Qt4)。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1373"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; host system).</source>
-        <translation type="unfinished">目前的Qt版本默认mkspec(Qt5)。</translation>
+        <translation>目前的Qt版本默认mkspec(Qt5;主机系统)。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1380"/>
         <source>The current Qt version&apos;s default mkspec (Qt 5; target system).</source>
-        <translation type="unfinished">目前的Qt版本默认mkspec(Qt5)。</translation>
+        <translation>目前的Qt版本默认mkspec(Qt5；目标系统)。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/baseqtversion.cpp" line="1387"/>
         <source>The current Qt&apos;s qmake version.</source>
-        <translation type="unfinished">当前Qt版本的qmake版本。</translation>
+        <translation>当前Qt版本的qmake版本。</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/qtkitinformation.cpp" line="110"/>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/qtkitinformation.cpp" line="148"/>
         <source>Name of Qt Version</source>
-        <translation type="unfinished">Qt 版本的名称</translation>
+        <translation>Qt 版本的名称</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/qtkitinformation.cpp" line="151"/>
         <source>unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/plugins/qtsupport/qtkitinformation.cpp" line="153"/>
         <source>Path to the qmake executable</source>
-        <translation type="unfinished">路径可执行的qmake</translation>
+        <translation>qmake可执行文件路径</translation>
     </message>
 </context>
 <context>
@@ -47105,7 +47106,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="src/plugins/qtsupport/qtversionfactory.cpp" line="88"/>
         <source>No factory found for qmake: &quot;%1&quot;</source>
-        <translation type="unfinished">无法为 qmake 找到工厂：%1</translation>
+        <translation>无法为 qmake 找到工厂：%1</translation>
     </message>
 </context>
 <context>
@@ -47360,37 +47361,38 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="132"/>
         <source>No deployment action necessary. Skipping.</source>
-        <translation type="unfinished">不必要执行部署，跳过。</translation>
+        <translation>不必要部署操作，跳过。</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="167"/>
         <source>No device configuration set.</source>
-        <translation type="unfinished">没有设备设置。</translation>
+        <translation>
+设备配置未设置。</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="201"/>
         <source>Connecting to device...</source>
-        <translation type="unfinished">正在连接设备...</translation>
+        <translation>正在连接设备...</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="235"/>
         <source>Could not connect to host: %1</source>
-        <translation type="unfinished">无法连接到主机：%1</translation>
+        <translation>无法连接到主机：%1</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="238"/>
         <source>Did the emulator fail to start?</source>
-        <translation type="unfinished">模拟器启动失败了吗？</translation>
+        <translation>模拟器启动失败？</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="240"/>
         <source>Is the device connected and set up for network access?</source>
-        <translation type="unfinished">设备已经连接并设置为可以访问网络了吗？</translation>
+        <translation>设备是否已连接并设置为网络可访问？</translation>
     </message>
     <message>
         <location filename="src/plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="246"/>
         <source>Connection error: %1</source>
-        <translation type="unfinished">连接错误：%1</translation>
+        <translation>连接错误：%1</translation>
     </message>
 </context>
 <context>
@@ -48497,7 +48499,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/libs/tracing/qml/RowLabel.qml" line="40"/>
         <source>[unknown]</source>
-        <translation type="unfinished">[未知]</translation>
+        <translation>[未知]</translation>
     </message>
 </context>
 <context>
@@ -48505,17 +48507,17 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/RowSpecifics.qml" line="37"/>
         <source>Row</source>
-        <translation type="unfinished">行</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/RowSpecifics.qml" line="41"/>
         <source>Layout Direction</source>
-        <translation type="unfinished">布局方向</translation>
+        <translation>布局方向</translation>
     </message>
     <message>
         <location filename="share/qtcreator/qmldesigner/propertyEditorQmlSources/QtQuick/RowSpecifics.qml" line="54"/>
         <source>Spacing</source>
-        <translation type="unfinished">间距</translation>
+        <translation>间距</translation>
     </message>
 </context>
 <context>
@@ -48523,7 +48525,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/scxmltag.cpp" line="383"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
@@ -48531,7 +48533,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/scxmltag.cpp" line="373"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
@@ -48539,17 +48541,17 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorpicker.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished">框架</translation>
+        <translation>框架</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorpicker.ui" line="62"/>
         <source>Basic Colors</source>
-        <translation type="unfinished">基本颜色</translation>
+        <translation>基本颜色</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorpicker.ui" line="112"/>
         <source>Last used colors</source>
-        <translation type="unfinished">最后使用颜色</translation>
+        <translation>最后使用颜色</translation>
     </message>
 </context>
 <context>
@@ -48557,42 +48559,42 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.ui" line="25"/>
         <source>+</source>
-        <translation type="unfinished">+</translation>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.ui" line="32"/>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="85"/>
         <source>Create New Color Theme</source>
-        <translation type="unfinished">创建新的颜色主题</translation>
+        <translation>创建新的颜色主题</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="85"/>
         <source>Theme ID</source>
-        <translation type="unfinished">主题ID</translation>
+        <translation>主题ID</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="88"/>
         <source>Cannot Create Theme</source>
-        <translation type="unfinished">无法创建主题</translation>
+        <translation>无法创建主题</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="88"/>
         <source>Theme %1 is already available.</source>
-        <translation type="unfinished">主题%1已存在。</translation>
+        <translation>主题%1已存在。</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="101"/>
         <source>Remove Color Theme</source>
-        <translation type="unfinished">移除颜色主题</translation>
+        <translation>移除颜色主题</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorsettings.cpp" line="102"/>
         <source>Are you sure you want to delete color theme %1?</source>
-        <translation type="unfinished">你确定你想要删除主题%1吗？</translation>
+        <translation>确定要删除主题 %1 ？</translation>
     </message>
 </context>
 <context>
@@ -48600,7 +48602,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemedialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemedialog.ui" line="51"/>
@@ -48623,7 +48625,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemeview.cpp" line="62"/>
         <source>Pick Color</source>
-        <translation type="unfinished">拾取颜色</translation>
+        <translation>拾取颜色</translation>
     </message>
 </context>
 <context>
@@ -48631,27 +48633,27 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemes.cpp" line="42"/>
         <source>Modify Color Themes...</source>
-        <translation type="unfinished">修改颜色主题...</translation>
+        <translation>修改颜色主题...</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemes.cpp" line="43"/>
         <source>Modify Color Theme</source>
-        <translation type="unfinished">修改颜色主题</translation>
+        <translation>修改颜色主题</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemes.cpp" line="47"/>
         <source>Select Color Theme</source>
-        <translation type="unfinished">选择颜色主题</translation>
+        <translation>选择颜色主题</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemes.cpp" line="100"/>
         <source>Factory Default</source>
-        <translation type="unfinished">恢复出厂设置</translation>
+        <translation>恢复出厂设置</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colorthemes.cpp" line="101"/>
         <source>Colors from SCXML Document</source>
-        <translation type="unfinished">SCXML文档获取颜色</translation>
+        <translation>来自SCXML文档的颜色</translation>
     </message>
 </context>
 <context>
@@ -48659,12 +48661,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/colortoolbutton.cpp" line="67"/>
         <source>Automatic Color</source>
-        <translation type="unfinished">自动颜色</translation>
+        <translation>自动颜色</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/colortoolbutton.cpp" line="71"/>
         <source>More Colors...</source>
-        <translation type="unfinished">更多颜色...</translation>
+        <translation>更多颜色...</translation>
     </message>
 </context>
 <context>
@@ -48672,12 +48674,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/graphicsview.cpp" line="249"/>
         <source>SCXML Generation Failed</source>
-        <translation type="unfinished">SCXML生成失败</translation>
+        <translation>SCXML生成失败</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/graphicsview.cpp" line="263"/>
         <source>Loading document...</source>
-        <translation type="unfinished">加载文档...</translation>
+        <translation>加载文档...</translation>
     </message>
 </context>
 <context>
@@ -48685,72 +48687,72 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="332"/>
         <source>State Color</source>
-        <translation type="unfinished">状况色</translation>
+        <translation>状况颜色</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="333"/>
         <source>Font Color</source>
-        <translation type="unfinished">字体色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="334"/>
         <source>Align Left</source>
-        <translation type="unfinished">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="335"/>
         <source>Adjust Width</source>
-        <translation type="unfinished">调整宽度</translation>
+        <translation>调整宽度</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="367"/>
         <source>Alignment</source>
-        <translation type="unfinished">对齐方式</translation>
+        <translation>对齐方式</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="372"/>
         <source>Adjustment</source>
-        <translation type="unfinished">调整</translation>
+        <translation>调整</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="406"/>
         <source>Images (%1)</source>
-        <translation type="unfinished">图片(%1)</translation>
+        <translation>图片(%1)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="417"/>
         <source>Untitled</source>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="428"/>
         <source>Export Canvas to Image</source>
-        <translation type="unfinished">将画布导出到图像</translation>
+        <translation>导出画布到图像</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="443"/>
         <source>Export Failed</source>
-        <translation type="unfinished">导出失败</translation>
+        <translation>导出失败</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="443"/>
         <source>Could not export to image.</source>
-        <translation type="unfinished">无法导出图像。</translation>
+        <translation>无法导出图像。</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="459"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished">保存截图</translation>
+        <translation>保存屏幕截图</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="469"/>
         <source>Saving Failed</source>
-        <translation type="unfinished">保存失败</translation>
+        <translation>保存失败</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/mainwidget.cpp" line="469"/>
         <source>Could not save the screenshot.</source>
-        <translation type="unfinished">无法保存截图。</translation>
+        <translation>无法保存屏幕截图。</translation>
     </message>
 </context>
 <context>
@@ -48758,7 +48760,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/navigator.cpp" line="84"/>
         <source>Navigator</source>
-        <translation type="unfinished">导航</translation>
+        <translation>导航</translation>
     </message>
 </context>
 <context>
@@ -48766,17 +48768,17 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/navigatorslider.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished">框架</translation>
+        <translation>框架</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/navigatorslider.ui" line="65"/>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/navigatorslider.ui" line="113"/>
         <source>+</source>
-        <translation type="unfinished">+</translation>
+        <translation>+</translation>
     </message>
 </context>
 <context>
@@ -48784,12 +48786,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/search.ui" line="95"/>
         <source>Enter search term</source>
-        <translation type="unfinished">输入搜索词</translation>
+        <translation>输入搜索词</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/search.h" line="61"/>
         <source>Search</source>
-        <translation type="unfinished">查找</translation>
+        <translation>查找</translation>
     </message>
 </context>
 <context>
@@ -48797,12 +48799,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/searchmodel.cpp" line="40"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/searchmodel.cpp" line="40"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
 </context>
 <context>
@@ -48810,7 +48812,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/shapestoolbox.ui" line="20"/>
         <source>Frame</source>
-        <translation type="unfinished">框架</translation>
+        <translation>框架</translation>
     </message>
 </context>
 <context>
@@ -48818,12 +48820,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/stateproperties.cpp" line="124"/>
         <source>Attributes</source>
-        <translation type="unfinished">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/stateproperties.cpp" line="148"/>
         <source>Content</source>
-        <translation type="unfinished">内容</translation>
+        <translation>内容</translation>
     </message>
 </context>
 <context>
@@ -48831,7 +48833,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/stateview.ui" line="59"/>
         <source>Back</source>
-        <translation type="unfinished">返回</translation>
+        <translation>返回</translation>
     </message>
 </context>
 <context>
@@ -48839,27 +48841,27 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.ui" line="38"/>
         <source>Time</source>
-        <translation type="unfinished">时间</translation>
+        <translation>时间</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.ui" line="52"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.ui" line="59"/>
         <source>File</source>
-        <translation type="unfinished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.ui" line="113"/>
         <source>Max. levels</source>
-        <translation type="unfinished">最大级别</translation>
+        <translation>最大级别</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.cpp" line="146"/>
         <source>yyyy/MM/dd hh:mm:ss</source>
-        <translation type="unfinished">yyyy/MM/dd hh:mm:ss</translation>
+        <translation>yyyy/MM/dd hh:mm:ss</translation>
     </message>
 </context>
 <context>
@@ -48867,7 +48869,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/statisticsdialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statisticsdialog.ui" line="57"/>
@@ -48877,7 +48879,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/statisticsdialog.cpp" line="35"/>
         <source>Document Statistics</source>
-        <translation type="unfinished">文档统计</translation>
+        <translation>文档统计</translation>
     </message>
 </context>
 <context>
@@ -48885,12 +48887,12 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.cpp" line="103"/>
         <source>Tag</source>
-        <translation type="unfinished">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/statistics.cpp" line="105"/>
         <source>Count</source>
-        <translation type="unfinished">计数</translation>
+        <translation>计数</translation>
     </message>
 </context>
 <context>
@@ -48898,33 +48900,33 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="112"/>
         <source>Common states</source>
-        <translation type="unfinished">公用状态</translation>
+        <translation>公用状态</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="113"/>
         <source>Metadata</source>
-        <translation type="unfinished">元数据</translation>
+        <translation>元数据</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="114"/>
         <source>Other tags</source>
-        <translation type="unfinished">其他标签</translation>
+        <translation>其他标签</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="115"/>
         <source>Unknown tags</source>
-        <translation type="unfinished">未知标签</translation>
+        <translation>未知标签</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="246"/>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="325"/>
         <source>Remove items</source>
-        <translation type="unfinished">移除项</translation>
+        <translation>移除条目</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="256"/>
         <source>Structure</source>
-        <translation type="unfinished">结构</translation>
+        <translation>结构</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="304"/>
@@ -48939,7 +48941,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/structure.cpp" line="331"/>
         <source>Add child</source>
-        <translation type="unfinished">添加子项</translation>
+        <translation>添加子项</translation>
     </message>
 </context>
 <context>
@@ -48947,7 +48949,7 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/common/structuremodel.cpp" line="225"/>
         <source>Change parent</source>
-        <translation type="unfinished">修改父</translation>
+        <translation>改变父亲</translation>
     </message>
 </context>
 <context>
@@ -48955,22 +48957,22 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/scxmleditordata.cpp" line="141"/>
         <source>Undo (Ctrl + Z)</source>
-        <translation type="unfinished">撤销(Ctrl+Z)</translation>
+        <translation>撤销(Ctrl+Z)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/scxmleditordata.cpp" line="145"/>
         <source>Redo (Ctrl + Y)</source>
-        <translation type="unfinished">重做(Ctrl+Y)</translation>
+        <translation>重做(Ctrl+Y)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/scxmleditordata.cpp" line="169"/>
         <source>This file can only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished">此文件仅可在&lt;b&gt;设计&lt;/b&gt;模式中编辑。</translation>
+        <translation>此文件仅可在&lt;b&gt;设计&lt;/b&gt;模式中编辑。</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/scxmleditordata.cpp" line="170"/>
         <source>Switch Mode</source>
-        <translation type="unfinished">切换模式</translation>
+        <translation>切换模式</translation>
     </message>
 </context>
 <context>
@@ -48978,27 +48980,27 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/errorwidget.cpp" line="164"/>
         <source>Errors(%1) / Warnings(%2) / Info(%3)</source>
-        <translation type="unfinished">错误(%1)警告(%2)信息(%3)</translation>
+        <translation>错误(%1)警告(%2)信息(%3)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/errorwidget.cpp" line="206"/>
         <source>Export to File</source>
-        <translation type="unfinished">导出文件</translation>
+        <translation>导出文件</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/errorwidget.cpp" line="206"/>
         <source>CSV files (*.csv)</source>
-        <translation type="unfinished">CSV文件(*.csv)</translation>
+        <translation>CSV文件(*.csv)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/errorwidget.cpp" line="212"/>
         <source>Export Failed</source>
-        <translation type="unfinished">导出失败</translation>
+        <translation>导出失败</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/errorwidget.cpp" line="212"/>
         <source>Cannot open file %1.</source>
-        <translation type="unfinished">无法打开文件%1。</translation>
+        <translation>无法打开文件%1。</translation>
     </message>
 </context>
 <context>
@@ -49006,22 +49008,22 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="102"/>
         <source>Severity</source>
-        <translation type="unfinished">严重性</translation>
+        <translation>严重性</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="104"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="106"/>
         <source>Reason</source>
-        <translation type="unfinished">理由</translation>
+        <translation>理由</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="108"/>
         <source>Description</source>
-        <translation type="unfinished">说明</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="121"/>
@@ -49031,17 +49033,17 @@ In addition, device connectivity will be tested.</source>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="123"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="125"/>
         <source>Info</source>
-        <translation type="unfinished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="127"/>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/outputpane/warningmodel.cpp" line="168"/>
@@ -49049,7 +49051,7 @@ In addition, device connectivity will be tested.</source>
 Type:     	%2
 Reason: 	%3
 Description:	%4</source>
-        <translation type="unfinished">严重性：	%1
+        <translation>严重性：	%1
 类型：  	%2
 理由：  	%3
 说明：  	%4</translation>
@@ -49060,62 +49062,62 @@ Description:	%4</source>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="45"/>
         <source>Zoom In</source>
-        <translation type="unfinished">放大</translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="45"/>
         <source>Zoom In (Ctrl + + / Ctrl + Wheel)</source>
-        <translation type="unfinished">放大(Ctrl++/Ctrl+Wheel)</translation>
+        <translation>放大(Ctrl++/Ctrl+Wheel)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="46"/>
         <source>Zoom Out</source>
-        <translation type="unfinished">缩小</translation>
+        <translation>缩小</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="46"/>
         <source>Zoom Out (Ctrl + - / Ctrl + Wheel)</source>
-        <translation type="unfinished">缩小(Ctrl+-/Ctrl+Wheel)</translation>
+        <translation>缩小(Ctrl+-/Ctrl+Wheel)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="47"/>
         <source>Fit to View</source>
-        <translation type="unfinished">适合页面</translation>
+        <translation>适合页面</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="47"/>
         <source>Fit to View (F11)</source>
-        <translation type="unfinished">适合页面(F11)</translation>
+        <translation>适合页面(F11)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="48"/>
         <source>Panning</source>
-        <translation type="unfinished">平移</translation>
+        <translation>平移</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="48"/>
         <source>Panning (Shift)</source>
-        <translation type="unfinished">平移(Shift)</translation>
+        <translation>平移(Shift)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="50"/>
         <source>Magnifier</source>
-        <translation type="unfinished">放大镜</translation>
+        <translation>放大镜</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="50"/>
         <source>Magnifier Tool (Alt)</source>
-        <translation type="unfinished">放大镜(Alt)</translation>
+        <translation>放大镜(Alt)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="51"/>
         <source>Navigator</source>
-        <translation type="unfinished">导航</translation>
+        <translation>导航</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="51"/>
         <source>Navigator (Ctrl+E)</source>
-        <translation type="unfinished">导航(Ctrl+E)</translation>
+        <translation>导航(Ctrl+E)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="53"/>
@@ -49125,147 +49127,147 @@ Description:	%4</source>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="53"/>
         <source>Copy (Ctrl + C)</source>
-        <translation type="unfinished">复制(Ctrl+C)</translation>
+        <translation>复制(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="54"/>
         <source>Cut</source>
-        <translation type="unfinished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="54"/>
         <source>Cut (Ctrl + X)</source>
-        <translation type="unfinished">剪切(Ctrl+X)</translation>
+        <translation>剪切(Ctrl+X)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="55"/>
         <source>Paste</source>
-        <translation type="unfinished">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="55"/>
         <source>Paste (Ctrl + V)</source>
-        <translation type="unfinished">粘贴(Ctrl+V)</translation>
+        <translation>粘贴(Ctrl+V)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="56"/>
         <source>Screenshot</source>
-        <translation type="unfinished">截图</translation>
+        <translation>屏幕截图</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="56"/>
         <source>Screenshot (Ctrl + Shift + C)</source>
-        <translation type="unfinished">截图(Ctrl+Shift+C)</translation>
+        <translation>屏幕截图(Ctrl+Shift+C)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="57"/>
         <source>Export to Image</source>
-        <translation type="unfinished">导出图片</translation>
+        <translation>导出图片</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="58"/>
         <source>Toggle Full Namespace</source>
-        <translation type="unfinished">切换全名称空间</translation>
+        <translation>切换完整命名空间</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="60"/>
         <source>Align Left</source>
-        <translation type="unfinished">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="60"/>
         <source>Align Left (Ctrl+L,1)</source>
-        <translation type="unfinished">左对齐(Ctrl+L,1)</translation>
+        <translation>左对齐(Ctrl+L,1)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="61"/>
         <source>Align Right</source>
-        <translation type="unfinished">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="61"/>
         <source>Align Right (Ctrl+L,2)</source>
-        <translation type="unfinished">右对齐(Ctrl+L,2)</translation>
+        <translation>右对齐(Ctrl+L,2)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="62"/>
         <source>Align Top</source>
-        <translation type="unfinished">顶对齐</translation>
+        <translation>顶对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="62"/>
         <source>Align Top (Ctrl+L,3)</source>
-        <translation type="unfinished">顶对齐(Ctrl+L,3)</translation>
+        <translation>顶对齐(Ctrl+L,3)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="63"/>
         <source>Align Bottom</source>
-        <translation type="unfinished">底对齐</translation>
+        <translation>底对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="63"/>
         <source>Align Bottom (Ctrl+L,4)</source>
-        <translation type="unfinished">底对齐(Ctrl+L,4)</translation>
+        <translation>底对齐(Ctrl+L,4)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="64"/>
         <source>Align Horizontal</source>
-        <translation type="unfinished">水平对齐</translation>
+        <translation>水平对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="64"/>
         <source>Align Horizontal (Ctrl+L,5)</source>
-        <translation type="unfinished">水平对齐(Ctrl+L,5)</translation>
+        <translation>水平对齐(Ctrl+L,5)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="65"/>
         <source>Align Vertical</source>
-        <translation type="unfinished">垂直对齐</translation>
+        <translation>垂直对齐</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="65"/>
         <source>Align Vertical (Ctrl+L,6)</source>
-        <translation type="unfinished">垂直对齐(Ctrl+L,6)</translation>
+        <translation>垂直对齐(Ctrl+L,6)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="66"/>
         <source>Adjust Width</source>
-        <translation type="unfinished">调整宽度</translation>
+        <translation>调整宽度</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="66"/>
         <source>Adjust Width (Ctrl+L,7)</source>
-        <translation type="unfinished">调整宽度(Ctrl+L,7)</translation>
+        <translation>调整宽度(Ctrl+L,7)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="67"/>
         <source>Adjust Height</source>
-        <translation type="unfinished">调整高度</translation>
+        <translation>调整高度</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="67"/>
         <source>Adjust Height (Ctrl+L,8)</source>
-        <translation type="unfinished">调整高度(Ctrl+L,8)</translation>
+        <translation>调整高度(Ctrl+L,8)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="68"/>
         <source>Adjust Size</source>
-        <translation type="unfinished">调整大小</translation>
+        <translation>调整大小</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="68"/>
         <source>Adjust Size (Ctrl+L,9)</source>
-        <translation type="unfinished">调整大小(Ctrl+L,9)</translation>
+        <translation>调整大小(Ctrl+L,9)</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="70"/>
         <source>Show Statistics...</source>
-        <translation type="unfinished">显示统计...</translation>
+        <translation>显示统计...</translation>
     </message>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/actionhandler.cpp" line="70"/>
         <source>Show Statistics</source>
-        <translation type="unfinished">显示统计</translation>
+        <translation>显示统计</translation>
     </message>
 </context>
 <context>
@@ -49273,7 +49275,7 @@ Description:	%4</source>
     <message>
         <location filename="src/plugins/scxmleditor/plugin_interface/baseitem.cpp" line="210"/>
         <source>Add child</source>
-        <translation type="unfinished">添加子项</translation>
+        <translation>添加子项</translation>
     </message>
 </context>
 <context>
@@ -49758,22 +49760,22 @@ Row: %4, Column: %5
     <message>
         <location filename="src/shared/qbs/src/app/qbs-setup-qt/setupqt.cpp" line="136"/>
         <source>%1 cannot be started.</source>
-        <translation type="unfinished">无法启动%1。</translation>
+        <translation>无法启动%1。</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/app/qbs-setup-qt/setupqt.cpp" line="224"/>
         <source>Cannot extract the mkspecs directory.</source>
-        <translation type="unfinished">无法提取mkspecs目录。</translation>
+        <translation>无法提取mkspecs目录。</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/app/qbs-setup-qt/setupqt.cpp" line="309"/>
         <source>mkspec &apos;%1&apos; does not exist</source>
-        <translation type="unfinished">不存在mkspec“%1”</translation>
+        <translation>mkspec“%1”不存在</translation>
     </message>
     <message>
         <location filename="src/shared/qbs/src/app/qbs-setup-qt/setupqt.cpp" line="445"/>
         <source>Creating profile &apos;%1&apos;.</source>
-        <translation type="unfinished">创建概要文件“%1”。</translation>
+        <translation>创建概要文件“%1”。</translation>
     </message>
 </context>
 <context>
@@ -49781,12 +49783,12 @@ Row: %4, Column: %5
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.cpp" line="85"/>
         <source>Choose Target File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择目标文件</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.cpp" line="92"/>
         <source>Download failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败。</translation>
     </message>
     <message>
         <location filename="tests/manual/ssh/sftpfsmodel/window.cpp" line="94"/>
@@ -53879,7 +53881,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="src/plugins/qmldesigner/qmldesignerextension/texttool/texttool.cpp" line="257"/>
         <source>Text Tool</source>
-        <translation type="unfinished">文本工具</translation>
+        <translation>文本工具</translation>
     </message>
 </context>
 <context>

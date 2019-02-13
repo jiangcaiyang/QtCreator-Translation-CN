@@ -15929,7 +15929,9 @@ Collecting backtrace aborted by user.</source>
         <source>Internal error: The extension %1 cannot be found.
 If you have updated %2 via Maintenance Tool, you may need to rerun the Tool and select &quot;Add or remove components&quot; and then select the Qt &gt; Tools &gt; Qt Creator CDB Debugger Support component.
 If you build %2 from sources and want to use a CDB executable with another bitness than your %2 build, you will need to build a separate CDB extension with the same bitness as the CDB you want to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>内部错误：找不到扩展%1。
+如果您通过维护工具更新到%2，您可能需要重新运行工具并且选择“添加或者移除组件”然后选择“Qt &gt; 工具 &gt; Qt Creator CDB调试器支持组件”。
+如果您从源码中构建%2并且想要使用CDB调试不同位数的可执行文件而不是%2构建，你将需要构建一个单独的和您想使用的CDB位数相同的CDB扩展。</translation>
     </message>
     <message>
         <location line="+423"/>
@@ -15976,12 +15978,12 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+1328"/>
         <source>Trace point %1 in thread %2 triggered.</source>
-        <translation type="unfinished"></translation>
+        <translation>跟踪点%1在线程%2处触发。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Conditional breakpoint %1 in thread %2 triggered, examining expression &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>条件断点%1在线程%2触发。检查扩展“%3”。</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -16099,17 +16101,17 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location/>
         <source>Add Exceptions to Issues View</source>
-        <translation type="unfinished"></translation>
+        <translation>为问题视图添加异常</translation>
     </message>
     <message>
         <location/>
         <source>First chance exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>首次异常</translation>
     </message>
     <message>
         <location/>
         <source>Second chance exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>第二次异常</translation>
     </message>
 </context>
 <context>
@@ -16413,7 +16415,7 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+301"/>
         <source>Operate in Reverse Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>反方向操作</translation>
     </message>
     <message>
         <location line="+212"/>
@@ -16446,12 +16448,12 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+19"/>
         <source>Reverse-execution history exhausted. Going forward again.</source>
-        <translation type="unfinished"></translation>
+        <translation>反向执行历史已用完，再次向前。</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Reverse-execution recording failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>反向执行录制失败。</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -16468,7 +16470,8 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
         <location line="+106"/>
         <source>%1 for &quot;%2&quot;</source>
         <extracomment>e.g. LLDB for &quot;myproject&quot;, shows up i</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>比方说“为‘myproject’的LLDB”，显示i</translatorcomment>
+        <translation>为“%2”的%1</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -16530,22 +16533,22 @@ Qt&gt;工具&gt;Qt Creator&gt; Qt Creator CDB调试器支持组件。
     <message>
         <location line="+61"/>
         <source>Finished retrieving data.</source>
-        <translation type="unfinished"></translation>
+        <translation>完成获取数据。</translation>
     </message>
     <message>
         <location line="+149"/>
         <source>No function selected.</source>
-        <translation type="unfinished">没有选择函数。</translation>
+        <translation>没有选择函数。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Running to function &quot;%1&quot;.</source>
-        <translation type="unfinished">运行到函数“%1”。</translation>
+        <translation>运行到函数“%1”。</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Select a valid expression to evaluate.</source>
-        <translation type="unfinished">请选择一个有效的表达式进行求值。</translation>
+        <translation>请选择一个有效的表达式进行求值。</translation>
     </message>
     <message>
         <location line="+143"/>
@@ -16571,17 +16574,17 @@ Selecting GDB or LLDB as debugger would improve the debugging experience for thi
     <message>
         <location line="-2375"/>
         <source>Debugger</source>
-        <translation type="unfinished">调试器</translation>
+        <translation>调试器</translation>
     </message>
     <message>
         <location line="+785"/>
         <source>Current debugger location of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>当前位置%1的调试器</translation>
     </message>
     <message>
         <location line="+126"/>
         <source>Debugging has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>调试器失败。</translation>
     </message>
     <message>
         <location line="+1556"/>
@@ -16649,113 +16652,113 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="../../../src/plugins/debugger/debuggerengine.cpp" line="-2407"/>
         <source>Continue %1</source>
-        <translation type="unfinished"></translation>
+        <translation>继续%1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Interrupt %1</source>
-        <translation type="unfinished"></translation>
+        <translation>中断%1</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Debugger finished.</source>
-        <translation type="unfinished">调试器已结束。</translation>
+        <translation>调试器完成。</translation>
     </message>
     <message>
         <location line="+103"/>
         <source>Continue</source>
-        <translation type="unfinished">继续</translation>
+        <translation>继续</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Stop Debugger</source>
-        <translation type="unfinished">停止调试</translation>
+        <translation>停止调试</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Interrupt</source>
-        <translation type="unfinished">中断</translation>
+        <translation>中断</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Abort Debugging</source>
-        <translation type="unfinished">终止调试</translation>
+        <translation>终止调试</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Step Into</source>
-        <translation type="unfinished">单步进入</translation>
+        <translation>单步进入</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Step Out</source>
-        <translation type="unfinished">单步跳出</translation>
+        <translation>单步跳出</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run to Line</source>
-        <translation type="unfinished">执行到行</translation>
+        <translation>执行到行</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run to Selected Function</source>
-        <translation type="unfinished">运行到选择的函数</translation>
+        <translation>运行到选择的函数</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Jump to Line</source>
-        <translation type="unfinished">跳到指定行</translation>
+        <translation>跳到指定行</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Immediately Return From Inner Function</source>
-        <translation type="unfinished">从内层函数立即返回</translation>
+        <translation>从内层函数立即返回</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Step Over</source>
-        <translation type="unfinished">单步跳过</translation>
+        <translation>单步跳过</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Add Expression Evaluator</source>
-        <translation type="unfinished">添加求值表达式</translation>
+        <translation>添加求值表达式</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Toggle Breakpoint</source>
-        <translation type="unfinished">切换断点</translation>
+        <translation>切换断点</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Restart Debugging</source>
-        <translation type="unfinished">重新启动调试器</translation>
+        <translation>重新启动调试器</translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../src/plugins/debugger/debuggerplugin.cpp" line="-595"/>
         <source>Operate by Instruction</source>
-        <translation type="unfinished">依照命令操作</translation>
+        <translation>依照命令操作</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Record Information to Allow Reversal of Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>记录信息以便的允许反向操作</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Reverse Direction</source>
-        <translation type="unfinished">掉转方向</translation>
+        <translation>反向</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Take Snapshot of Process State</source>
-        <translation type="unfinished"></translation>
+        <translation>进程状态的快照</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Launching Debugger</source>
-        <translation type="unfinished">启动调试器</translation>
+        <translation>启动调试器</translation>
     </message>
     <message>
         <location line="+14"/>

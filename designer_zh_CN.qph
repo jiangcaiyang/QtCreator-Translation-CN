@@ -5,46 +5,6 @@
     <target>下一个(&amp;N)</target>
 </phrase>
 <phrase>
-    <source>Selectable</source>
-    <target>Selectable</target>
-</phrase>
-<phrase>
-    <source>Editable</source>
-    <target>Editable</target>
-</phrase>
-<phrase>
-    <source>DragEnabled</source>
-    <target>DragEnabled</target>
-</phrase>
-<phrase>
-    <source>DropEnabled</source>
-    <target>DropEnabled</target>
-</phrase>
-<phrase>
-    <source>UserCheckable</source>
-    <target>UserCheckable</target>
-</phrase>
-<phrase>
-    <source>Enabled</source>
-    <target>Enabled</target>
-</phrase>
-<phrase>
-    <source>Tristate</source>
-    <target>Tristate</target>
-</phrase>
-<phrase>
-    <source>Unchecked</source>
-    <target>Unchecked</target>
-</phrase>
-<phrase>
-    <source>PartiallyChecked</source>
-    <target>PartiallyChecked</target>
-</phrase>
-<phrase>
-    <source>Checked</source>
-    <target>Checked</target>
-</phrase>
-<phrase>
     <source>Insert Link</source>
     <target>插入链接</target>
 </phrase>
@@ -150,7 +110,7 @@
 </phrase>
 <phrase>
     <source>Cross</source>
-    <target>交叉的</target>
+    <target>交叉</target>
 </phrase>
 <phrase>
     <source>Backward diagonal</source>
@@ -198,27 +158,27 @@
 </phrase>
 <phrase>
     <source>Add &apos;%1&apos; to &apos;%2&apos;</source>
-    <target>添加“%1”到“%2”</target>
+    <target>添加‘%1’到‘%2’</target>
 </phrase>
 <phrase>
     <source>Insert &apos;%1&apos;</source>
-    <target>插入“%1”</target>
+    <target>插入‘%1’</target>
 </phrase>
 <phrase>
     <source>Raise &apos;%1&apos;</source>
-    <target>上移“%1”</target>
+    <target>上移‘%1’</target>
 </phrase>
 <phrase>
     <source>Lower &apos;%1&apos;</source>
-    <target>下移“%1”</target>
+    <target>下移‘%1’</target>
 </phrase>
 <phrase>
     <source>Delete &apos;%1&apos;</source>
-    <target>删除“%1”</target>
+    <target>删除‘%1’</target>
 </phrase>
 <phrase>
     <source>Reparent &apos;%1&apos;</source>
-    <target>重定义“%1”的父对象</target>
+    <target>重定义‘%1’的父对象</target>
 </phrase>
 <phrase>
     <source>Add action</source>
@@ -234,11 +194,11 @@
 </phrase>
 <phrase>
     <source>Add dynamic property &apos;%1&apos; to &apos;%2&apos;</source>
-    <target>添加动态属性“%1”到“%2”</target>
+    <target>添加动态属性‘%1’到‘%2’</target>
 </phrase>
 <phrase>
     <source>Add dynamic property &apos;%1&apos; to %n objects</source>
-    <target>添加动态属性“%1”到%n个对象</target>
+    <target>添加动态属性‘%1’到%n个对象</target>
 </phrase>
 <phrase>
     <source>Add menu</source>
@@ -250,7 +210,7 @@
 </phrase>
 <phrase>
     <source>Adjust Size of &apos;%1&apos;</source>
-    <target>调整“%1”的大小</target>
+    <target>调整‘%1’大小</target>
 </phrase>
 <phrase>
     <source>Break button group</source>
@@ -274,19 +234,19 @@
 </phrase>
 <phrase>
     <source>Standard (96 x 96)</source>
-    <target>标准(96 X 96)</target>
+    <target>标准（96 X 96）</target>
 </phrase>
 <phrase>
     <source>High (192 x 192)</source>
-    <target>高(192 X 192)</target>
+    <target>高（192 X 192）</target>
 </phrase>
 <phrase>
     <source>Greenphone (179 x 185)</source>
-    <target>绿机(179 X 185)</target>
+    <target>绿机（179 X 185）</target>
 </phrase>
 <phrase>
     <source>Unable to launch %1.</source>
-    <target>不能启动 %1。</target>
+    <target>无法启动‘%1’。</target>
 </phrase>
 <phrase>
     <source>%1 timed out.</source>
@@ -306,7 +266,7 @@
 </phrase>
 <phrase>
     <source>&apos;%1&apos; is not a number.</source>
-    <target>“%1”不是一个数字。</target>
+    <target>‘%1’不是一个数字。</target>
 </phrase>
 <phrase>
     <source>Embedded Design</source>
@@ -426,7 +386,7 @@
 </phrase>
 <phrase>
     <source>All Pixmaps (</source>
-    <target>所有像素映射 (</target>
+    <target>所有像素映射(</target>
 </phrase>
 <phrase>
     <source>Main</source>
@@ -555,7 +515,7 @@
 <phrase>
     <source>%1 already exists.
 Do you want to replace it?</source>
-    <target>%1 已经存在。
+    <target>‘%1’已经存在。
 您想要替换它么？</target>
 </phrase>
 <phrase>
@@ -636,7 +596,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>About Qt</source>
-    <target>关于 Qt</target>
+    <target>关于Qt</target>
 </phrase>
 <phrase>
     <source>Clear &amp;Menu</source>
@@ -648,7 +608,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Designer UI files (*.%1);;All Files (*)</source>
-    <target>设计师 UI 文件 (*.%1);;全部文件 (*)</target>
+    <target>设计师UI文件(*.%1);;全部文件(*)</target>
 </phrase>
 <phrase>
     <source>Save Form As</source>
@@ -692,7 +652,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Assistant</source>
-    <target>助手</target>
+    <target>助理</target>
 </phrase>
 <phrase>
     <source>&amp;Close Preview</source>
@@ -704,7 +664,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Image files (*.%1)</source>
-    <target>图像文件 (*.%1)</target>
+    <target>图像文件(*.%1)</target>
 </phrase>
 <phrase>
     <source>Save Image</source>
@@ -716,11 +676,11 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>The file %1 could not be written.</source>
-    <target>无法写入文件 %1。</target>
+    <target>无法写入文件‘%1’。</target>
 </phrase>
 <phrase>
     <source>Printed %1.</source>
-    <target>%1 已打印。</target>
+    <target>‘%1’已打印。</target>
 </phrase>
 <phrase>
     <source>Docked Window</source>
@@ -772,7 +732,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Remove action &apos;%1&apos;</source>
-    <target>移除动作“%1”</target>
+    <target>移除动作‘%1’</target>
 </phrase>
 <phrase>
     <source>Add separator</source>
@@ -780,7 +740,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Remove Menu &apos;%1&apos;</source>
-    <target>移除菜单“%1”</target>
+    <target>移除菜单‘%1’</target>
 </phrase>
 <phrase>
     <source>Remove Menu Bar</source>
@@ -796,11 +756,11 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Unexpected element &lt;%1&gt;</source>
-    <target>未知的元素&lt;%1&gt;</target>
+    <target>未预期的元素&lt;%1&gt;</target>
 </phrase>
 <phrase>
     <source>The template path %1 could not be created.</source>
-    <target>无法创建临时路径 %1。</target>
+    <target>无法创建临时路径‘%1’。</target>
 </phrase>
 <phrase>
     <source>Property Editor</source>
@@ -1204,15 +1164,15 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Radial</source>
-    <target>辐射</target>
+    <target>放射状</target>
 </phrase>
 <phrase>
     <source>Conical</source>
-    <target>锥形</target>
+    <target>圆锥形</target>
 </phrase>
 <phrase>
     <source>Pad</source>
-    <target>填充</target>
+    <target>衬垫</target>
 </phrase>
 <phrase>
     <source>Repeat</source>
@@ -1352,7 +1312,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Resource files (*.qrc)</source>
-    <target>资源文件 (*.qrc)</target>
+    <target>资源文件(*.qrc)</target>
 </phrase>
 <phrase>
     <source>Import Resource File</source>
@@ -1624,10 +1584,6 @@ Do you want overwrite the template?</source>
     <target>类</target>
 </phrase>
 <phrase>
-    <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
-    <target>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</target>
-</phrase>
-<phrase>
     <source>Signals and slots</source>
     <target>信号和槽</target>
 </phrase>
@@ -1769,7 +1725,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Button group &apos;%1&apos;</source>
-    <target>按钮组“%1”</target>
+    <target>按钮组‘%1’</target>
 </phrase>
 <phrase>
     <source>Change text...</source>
@@ -1801,7 +1757,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Header Files (*.%1)</source>
-    <target>头文件 (*.%1)</target>
+    <target>头文件(*.%1)</target>
 </phrase>
 <phrase>
     <source>Save Code</source>
@@ -1813,15 +1769,11 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>The file %1 could not be opened: %2</source>
-    <target>无法打开文件 %1：%2</target>
+    <target>无法打开文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>The file %1 could not be written: %2</source>
-    <target>无法写入文件 %1：%2</target>
-</phrase>
-<phrase>
-    <source>The temporary form file %1 could not be written.</source>
-    <target>无法写入临时窗体文件 %1。</target>
+    <target>无法写入文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>Text Color</source>
@@ -1901,7 +1853,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>System (%1 x %2)</source>
-    <target>系统(%1 X %2)</target>
+    <target>系统（%1 X %2）</target>
 </phrase>
 <phrase>
     <source>User defined</source>
@@ -1921,7 +1873,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Customized (%n roles)</source>
-    <target>自定义的(%n 个角色)</target>
+    <target>自定义的（%n个角色）</target>
 </phrase>
 <phrase>
     <source>Active Off</source>
@@ -1988,16 +1940,8 @@ Do you want overwrite the template?</source>
     <target>Normal On</target>
 </phrase>
 <phrase>
-    <source>Selected Off</source>
-    <target>Selected Off</target>
-</phrase>
-<phrase>
-    <source>Selected On</source>
-    <target>Selected On</target>
-</phrase>
-<phrase>
     <source>&apos;%1&apos; is not a valid profile: %2</source>
-    <target>“%1”不是有效的描述文件：%2</target>
+    <target>‘%1’不是有效的描述文件：%2</target>
 </phrase>
 <phrase>
     <source>Default</source>
@@ -2025,11 +1969,11 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Unable to open the file &apos;%1&apos; for reading: %2</source>
-    <target>无法用读方式打开文件“%1”：%2</target>
+    <target>无法用读方式打开文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>Unable to open the file &apos;%1&apos; for writing: %2</source>
-    <target>无法用写方式打开文件“%1”：%2</target>
+    <target>无法用写方式打开文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>&amp;Delete</source>
@@ -2093,7 +2037,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Would you like to delete the profile &apos;%1&apos;?</source>
-    <target>你要删除描述文件“%1”吗？</target>
+    <target>你要删除描述文件‘%1’吗？</target>
 </phrase>
 <phrase>
     <source>Resource File Changed</source>
@@ -2117,7 +2061,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Insert widget &apos;%1&apos;</source>
-    <target>插入窗口部件“%1”</target>
+    <target>插入窗口部件‘%1’</target>
 </phrase>
 <phrase>
     <source>Key Move</source>
@@ -2149,7 +2093,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Paste (%1 widgets, %2 actions)</source>
-    <target>粘贴(%1 个窗口部件，%2 个动作)</target>
+    <target>粘贴（%1个窗口部件，%2个动作）</target>
 </phrase>
 <phrase>
     <source>Paste error</source>
@@ -2237,7 +2181,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Lay Out Vertically in Sp&amp;litter</source>
-    <target>分裂器垂直布局(&amp;L)</target>
+    <target>拆分垂直布局(&amp;L)</target>
 </phrase>
 <phrase>
     <source>Preview current form</source>
@@ -2313,15 +2257,15 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>The file &apos;%1&apos; could not be read: %2</source>
-    <target>无法读取文件“%1”：%2</target>
+    <target>无法读取文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>The file &apos;%1&apos; does not appear to be a valid pixmap file: %2</source>
-    <target>无效的像素映射文件“%1”：%2</target>
+    <target>无效的像素映射文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>The pixmap file &apos;%1&apos; cannot be read.</source>
-    <target>无法读取像素映射文件“%1”。</target>
+    <target>无法读取像素映射文件‘%1’。</target>
 </phrase>
 <phrase>
     <source>Paste Path</source>
@@ -2481,11 +2425,11 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>QVGA landscape (320x240)</source>
-    <target>QVGA 横向(320X240)</target>
+    <target>QVGA 宽屏（320 X 240）</target>
 </phrase>
 <phrase>
     <source>QVGA portrait (240x320)</source>
-    <target>QVGA 纵向(240x320)</target>
+    <target>QVGA 竖屏（240 x 320）</target>
 </phrase>
 <phrase>
     <source>Screen Size:</source>
@@ -2493,15 +2437,15 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Unable to open the form template file &apos;%1&apos;: %2</source>
-    <target>无法打开窗体模版文件“%1”：%2</target>
+    <target>无法打开窗体模版文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>VGA landscape (640x480)</source>
-    <target>VGA 横向(640x480)</target>
+    <target>VGA 宽屏（640 x 480）</target>
 </phrase>
 <phrase>
     <source>VGA portrait (480x640)</source>
-    <target>VGA 纵向(480x640)</target>
+    <target>VGA 竖屏（480 x 640）</target>
 </phrase>
 <phrase>
     <source>Widgets</source>
@@ -2537,7 +2481,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Index %1 (%2)</source>
-    <target>索引 %1 (%2)</target>
+    <target>索引 %1（%2）</target>
 </phrase>
 <phrase>
     <source>Move page down</source>
@@ -2549,7 +2493,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Page Order</source>
-    <target>页顺序</target>
+    <target>页面顺序</target>
 </phrase>
 <phrase>
     <source>Active</source>
@@ -2561,7 +2505,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Disabled</source>
-    <target>失效</target>
+    <target>禁用</target>
 </phrase>
 <phrase>
     <source>Edit Palette</source>
@@ -2639,7 +2583,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>All QVFB Skins (*.%1)</source>
-    <target>所有 QVFB 皮肤 (*.%1)</target>
+    <target>所有 QVFB 皮肤(*.%1)</target>
 </phrase>
 <phrase>
     <source>Browse...</source>
@@ -2651,19 +2595,19 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>The skin &apos;%1&apos; already exists.</source>
-    <target>皮肤“%1”已经存在。</target>
+    <target>皮肤‘%1’已经存在。</target>
 </phrase>
 <phrase>
     <source>&amp;Portrait</source>
-    <target>纵向(&amp;P)</target>
+    <target>竖屏(&amp;P)</target>
 </phrase>
 <phrase>
     <source>Landscape (&amp;CCW)</source>
-    <target>横向 (&amp;CCM)</target>
+    <target>宽屏(&amp;CCM)</target>
 </phrase>
 <phrase>
     <source>&amp;Landscape (CW)</source>
-    <target>横向 (&amp;LCM)</target>
+    <target>宽屏(&amp;LCM)</target>
 </phrase>
 <phrase>
     <source>%1 - [Preview]</source>
@@ -2676,14 +2620,6 @@ Do you want overwrite the template?</source>
 <phrase>
     <source>ButtonGroup</source>
     <target>ButtonGroup</target>
-</phrase>
-<phrase>
-    <source>CheckBox1</source>
-    <target>Checkbox1</target>
-</phrase>
-<phrase>
-    <source>CheckBox2</source>
-    <target>CheckBox2</target>
 </phrase>
 <phrase>
     <source>ComboBox</source>
@@ -2825,11 +2761,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Loaded Plugins</source>
-    <target>已加载的插件</target>
+    <target>已加载插件</target>
 </phrase>
 <phrase>
     <source>Failed Plugins</source>
-    <target>错误的插件</target>
+    <target>错误插件</target>
 </phrase>
 <phrase>
     <source>Promoted Classes</source>
@@ -2933,7 +2869,7 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Rich Text</source>
-    <target>多文本</target>
+    <target>富文本</target>
 </phrase>
 <phrase>
     <source>Source</source>
@@ -2953,7 +2889,7 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>CTRL+U</source>
-    <target>CTRL+I</target>
+    <target>CTRL+U</target>
 </phrase>
 <phrase>
     <source>Insert &amp;Image</source>
@@ -2981,7 +2917,7 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Simplify Rich Text</source>
-    <target>简易多文本</target>
+    <target>简化富文本</target>
 </phrase>
 <phrase>
     <source>Subscript</source>
@@ -3001,11 +2937,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>There is already a signal with the signature &apos;%1&apos;.</source>
-    <target>这里已经有一个签名为“%1”的信号。</target>
+    <target>这里已经有一个签名为‘%1’的信号。</target>
 </phrase>
 <phrase>
     <source>There is already a slot with the signature &apos;%1&apos;.</source>
-    <target>这里已经有一个签名为“%1”的槽。</target>
+    <target>这里已经有一个签名为‘%1’的槽。</target>
 </phrase>
 <phrase>
     <source>Edit Signals/Slots</source>
@@ -3133,11 +3069,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Insert Separator before &apos;%1&apos;</source>
-    <target>在“%1”之前插入分隔符</target>
+    <target>在‘%1’之前插入分隔符</target>
 </phrase>
 <phrase>
     <source>Remove Toolbar &apos;%1&apos;</source>
-    <target>移除工具栏“%1”</target>
+    <target>移除工具栏‘%1’</target>
 </phrase>
 <phrase>
     <source>Common properties</source>
@@ -3153,11 +3089,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Move Item Left (before Parent Item)</source>
-    <target>向左移动项目(移动到父项目之前)</target>
+    <target>向左移动项目（移动到父项目之前）</target>
 </phrase>
 <phrase>
     <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
-    <target>向右移动项目(作为下一个同级项目的第一个子项目)</target>
+    <target>向右移动项目（作为下一个同级项目的第一个子项目）</target>
 </phrase>
 <phrase>
     <source>New Subitem</source>
@@ -3197,11 +3133,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Cannot create style &apos;%1&apos;.</source>
-    <target>无法创建样式“%1”。</target>
+    <target>无法创建样式‘%1’。</target>
 </phrase>
 <phrase>
     <source>Back</source>
-    <target>后退</target>
+    <target>上一个</target>
 </phrase>
 <phrase>
     <source>&amp;Zoom</source>
@@ -3209,14 +3145,54 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>The class %1 cannot be removed</source>
-    <target>类 %1 不能移除</target>
+    <target>类‘%1’不能移除</target>
 </phrase>
 <phrase>
     <source>The class %1 cannot be renamed</source>
-    <target>类 %1不能被重命名</target>
+    <target>类‘%1’不能重命名</target>
 </phrase>
 <phrase>
     <source>Cannot set an empty include file.</source>
-    <target>不能设定空白包含文件。</target>
+    <target>无法设定空白包含文件。</target>
+</phrase>
+<phrase>
+    <source>Translations</source>
+    <target>翻译</target>
+</phrase>
+<phrase>
+    <source>ID-based</source>
+    <target>基于ID</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>下一个</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>名称</target>
+</phrase>
+<phrase>
+    <source>Zoom</source>
+    <target>缩放</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not a file.</source>
+    <target>‘%1’不是一个文件。</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not a valid font id.</source>
+    <target>‘%1’不是一个有效的字体标识。</target>
+</phrase>
+<phrase>
+    <source>Minimize</source>
+    <target>最小化</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>确定</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>取消</target>
 </phrase>
 </QPH>

@@ -6548,7 +6548,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
         <location line="+108"/>
         <source>Default</source>
         <extracomment>The name of the build configuration created by default for a cmake project.</extracomment>
-        <translation>默认</translation>
+        <translation>Default</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -6558,12 +6558,12 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location line="+4"/>
         <source>Debug</source>
-        <translation>调试</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Release</source>
-        <translation>发布</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <location line="+5"/>

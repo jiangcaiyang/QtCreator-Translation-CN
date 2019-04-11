@@ -9,17 +9,12 @@
     <target>警告</target>
 </phrase>
 <phrase>
-    <source>Unable to launch external application.
-</source>
-    <target>不能启动外部应用程序。</target>
-</phrase>
-<phrase>
     <source>OK</source>
     <target>确定</target>
 </phrase>
 <phrase>
     <source>Error registering documentation file &apos;%1&apos;: %2</source>
-    <target>注册文档“%1”错误：%2</target>
+    <target>注册文档‘%1’错误：%2</target>
 </phrase>
 <phrase>
     <source>Error: %1</source>
@@ -59,11 +54,11 @@ Reason:
 </phrase>
 <phrase>
     <source>Error reading collection file &apos;%1&apos;: %2.</source>
-    <target>读取收集文件“%1”错误：%2。</target>
+    <target>读取收集文件‘%1’错误：%2。</target>
 </phrase>
 <phrase>
     <source>Error creating collection file &apos;%1&apos;: %2.</source>
-    <target>创建收集文件“%1”错误：%2。</target>
+    <target>创建收集文件‘%1’错误：%2。</target>
 </phrase>
 <phrase>
     <source>Cannot load sqlite database driver!</source>
@@ -159,7 +154,7 @@ Reason:
 </phrase>
 <phrase>
     <source>Files (*.xbel)</source>
-    <target>书签文件（*.xbel）</target>
+    <target>文件(*.xbel)</target>
 </phrase>
 <phrase>
     <source>Save File</source>
@@ -211,7 +206,7 @@ Reason:
 </phrase>
 <phrase>
     <source>The collection file &apos;%1&apos; does not exist.</source>
-    <target>收集文件“%1”不存在。</target>
+    <target>收集文件‘%1’不存在。</target>
 </phrase>
 <phrase>
     <source>Missing collection file.</source>
@@ -219,7 +214,7 @@ Reason:
 </phrase>
 <phrase>
     <source>Invalid URL &apos;%1&apos;.</source>
-    <target>无效的URL“%1”。</target>
+    <target>无效的URL‘%1’。</target>
 </phrase>
 <phrase>
     <source>Missing URL.</source>
@@ -235,7 +230,7 @@ Reason:
 </phrase>
 <phrase>
     <source>The Qt help file &apos;%1&apos; does not exist.</source>
-    <target>Qt帮助文件“%1”不存在。</target>
+    <target>Qt帮助文件‘%1’不存在。</target>
 </phrase>
 <phrase>
     <source>Missing help file.</source>
@@ -366,16 +361,12 @@ Reason:
     <target>错误404...</target>
 </phrase>
 <phrase>
-    <source>The page could not be found!</source>
-    <target>找不到该页面！</target>
-</phrase>
-<phrase>
     <source>Please make sure that you have all documentation sets installed.</source>
     <target>请确保所有文档都已经安装。</target>
 </phrase>
 <phrase>
     <source>Error loading: %1</source>
-    <target>错误载入中：%1</target>
+    <target>载入错误：%1</target>
 </phrase>
 <phrase>
     <source>Open Link in New Page</source>
@@ -475,7 +466,7 @@ Reason:
 </phrase>
 <phrase>
     <source>Could not register file &apos;%1&apos;: %2</source>
-    <target>无法注册文件“%1”：%2</target>
+    <target>无法注册文件‘%1’：%2</target>
 </phrase>
 <phrase>
     <source>Ctrl+Alt+Left</source>
@@ -563,7 +554,7 @@ Reason:
 </phrase>
 <phrase>
     <source>Qt Compressed Help Files (*.qch)</source>
-    <target>Qt压缩帮助文件（*.qch）</target>
+    <target>Qt压缩帮助文件(*.qch)</target>
 </phrase>
 <phrase>
     <source>Remove Documentation</source>
@@ -571,7 +562,7 @@ Reason:
 </phrase>
 <phrase>
     <source>The namespace %1 is already registered!</source>
-    <target>命名空间 %1 已经被注册！</target>
+    <target>命名空间‘%1’已经注册！</target>
 </phrase>
 <phrase>
     <source>The specified file is not a valid Qt Help File!</source>
@@ -671,7 +662,7 @@ Reason:
 </phrase>
 <phrase>
     <source>On help start:</source>
-    <target>启动时：</target>
+    <target>帮助启动时：</target>
 </phrase>
 <phrase>
     <source>Options</source>
@@ -760,5 +751,160 @@ Reason:
 <phrase>
     <source>(新条目)</source>
     <target></target>
+</phrase>
+<phrase>
+    <source>Unable to launch external application.</source>
+    <target>无法启动外部应用程序。</target>
+</phrase>
+<phrase>
+    <source>Warning: %1</source>
+    <target>警告：%1</target>
+</phrase>
+<phrase>
+    <source>Invalid help data.</source>
+    <target>无效的帮助数据。</target>
+</phrase>
+<phrase>
+    <source>The page could not be found</source>
+    <target>找不到该页面</target>
+</phrase>
+<phrase>
+    <source>Building up file structure...</source>
+    <target>建立文件结构...</target>
+</phrase>
+<phrase>
+    <source>Documentation successfully generated.</source>
+    <target>文档生成成功。</target>
+</phrase>
+<phrase>
+    <source>Some tables already exist.</source>
+    <target>某些表已存在。</target>
+</phrase>
+<phrase>
+    <source>Cannot create tables.</source>
+    <target>无法创建表。</target>
+</phrase>
+<phrase>
+    <source>Cannot register virtual folder.</source>
+    <target>无法注册虚拟文件夹。</target>
+</phrase>
+<phrase>
+    <source>Insert files...</source>
+    <target>插入文件...</target>
+</phrase>
+<phrase>
+    <source>Insert indices...</source>
+    <target>插入索引...</target>
+</phrase>
+<phrase>
+    <source>Insert contents...</source>
+    <target>插入内容...</target>
+</phrase>
+<phrase>
+    <source>Cannot insert contents.</source>
+    <target>无法插入内容。</target>
+</phrase>
+<phrase>
+    <source>Cannot register contents.</source>
+    <target>无法注册内容。</target>
+</phrase>
+<phrase>
+    <source>File &quot;%1&quot; does not exist.</source>
+    <target>文件‘%1’不存在。</target>
+</phrase>
+<phrase>
+    <source>File &quot;%1&quot; cannot be opened.</source>
+    <target>无法打开文件‘%1’。</target>
+</phrase>
+<phrase>
+    <source>Unknown token at line %1.</source>
+    <target>未知的标记在行%1。</target>
+</phrase>
+<phrase>
+    <source>Missing end tags.</source>
+    <target>缺少结束标记。</target>
+</phrase>
+<phrase>
+    <source>Missing input or output file for help file generation.</source>
+    <target>缺少用于生成帮助文件的输入或输出文件。</target>
+</phrase>
+<phrase>
+    <source>Cannot load sqlite database driver.</source>
+    <target>无法加载sqlite数据库驱动。</target>
+</phrase>
+<phrase>
+    <source>Cannot open collection file: %1</source>
+    <target>无法打开收集文件：%1</target>
+</phrase>
+<phrase>
+    <source>The collection file &quot;%1&quot; already exists.</source>
+    <target>收集文件‘%1’已经存在。</target>
+</phrase>
+<phrase>
+    <source>Cannot create directory: %1</source>
+    <target>无法创建目录：%1</target>
+</phrase>
+<phrase>
+    <source>Cannot copy collection file: %1</source>
+    <target>无法复制收集文件：%1</target>
+</phrase>
+<phrase>
+    <source>Unknown filter &quot;%1&quot;.</source>
+    <target>未知的过滤器‘%1’。</target>
+</phrase>
+<phrase>
+    <source>Cannot open documentation file %1.</source>
+    <target>无法打开文档文件‘%1’。</target>
+</phrase>
+<phrase>
+    <source>Invalid documentation file &quot;%1&quot;.</source>
+    <target>无效的文档文件‘%1’。</target>
+</phrase>
+<phrase>
+    <source>The namespace %1 was not registered.</source>
+    <target>命名空间‘%1’未注册。</target>
+</phrase>
+<phrase>
+    <source>Namespace %1 already exists.</source>
+    <target>命名空间‘%1’已存在。</target>
+</phrase>
+<phrase>
+    <source>Reading collection config file...
+</source>
+    <target>正在读取收集配置文件...
+</target>
+</phrase>
+<phrase>
+    <source>The file %1 cannot be overwritten.
+</source>
+    <target>无法重写文件‘%1’。</target>
+</phrase>
+<phrase>
+    <source>Missing output file name.</source>
+    <target>缺少输出文件名。</target>
+</phrase>
+<phrase>
+    <source>Missing input file name.</source>
+    <target>缺少输入文件名。</target>
+</phrase>
+<phrase>
+    <source>Unknown input file type.</source>
+    <target>未知输入文件类型。</target>
+</phrase>
+<phrase>
+    <source>Search for:</source>
+    <target>搜索：</target>
+</phrase>
+<phrase>
+    <source>Next search</source>
+    <target>下一搜索</target>
+</phrase>
+<phrase>
+    <source>Search Results</source>
+    <target>搜索结果</target>
+</phrase>
+<phrase>
+    <source>Note:</source>
+    <target>注释：</target>
 </phrase>
 </QPH>

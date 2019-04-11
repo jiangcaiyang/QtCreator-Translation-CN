@@ -2,7 +2,7 @@
 <QPH language="zh_CN">
 <phrase>
     <source>Qt Linguist</source>
-    <target>Qt 语言家</target>
+    <target>Qt语言家</target>
 </phrase>
 <phrase>
     <source>Batch translated %n entries</source>
@@ -10,7 +10,7 @@
 </phrase>
 <phrase>
     <source>Batch Translation of &apos;%1&apos; - Qt Linguist</source>
-    <target>批翻译“%1” - Qt 语言家</target>
+    <target>批翻译‘%1’ - Qt 语言家</target>
 </phrase>
 <phrase>
     <source>Linguist batch translator</source>
@@ -98,7 +98,7 @@
 </phrase>
 <phrase>
     <source>%n translation unit(s) loaded.</source>
-    <target>已加载%n 个翻译单元。</target>
+    <target>已加载%n个翻译单元。</target>
 </phrase>
 <phrase>
     <source>About Qt Linguist</source>
@@ -122,7 +122,7 @@
 </phrase>
 <phrase>
     <source>&amp;Batch Translation of &apos;%1&apos;...</source>
-    <target>“%1”的批翻译(&amp;B)...</target>
+    <target>‘%1’的批翻译(&amp;B)...</target>
 </phrase>
 <phrase>
     <source>&amp;Batch Translation...</source>
@@ -130,15 +130,15 @@
 </phrase>
 <phrase>
     <source>Cannot create phrase book &apos;%1&apos;.</source>
-    <target>无法创建短语书“%1”。</target>
+    <target>无法创建短语书‘%1’。</target>
 </phrase>
 <phrase>
     <source>Cannot find the string &apos;%1&apos;.</source>
-    <target>找不到字符串“%1”。</target>
+    <target>找不到字符串‘%1’。</target>
 </phrase>
 <phrase>
     <source>Cannot read from phrase book &apos;%1&apos;.</source>
-    <target>无法读取短语书“%1”。</target>
+    <target>无法读取短语书‘%1’。</target>
 </phrase>
 <phrase>
     <source>Close</source>
@@ -146,7 +146,7 @@
 </phrase>
 <phrase>
     <source>&amp;Close &apos;%1&apos;</source>
-    <target>关闭“%1”(&amp;C)</target>
+    <target>关闭‘%1’(&amp;C)</target>
 </phrase>
 <phrase>
     <source>&amp;Close All</source>
@@ -302,7 +302,7 @@
 </phrase>
 <phrase>
     <source>Do you want to save &apos;%1&apos;?</source>
-    <target>您想保存“%1”么？</target>
+    <target>您想保存‘%1’么？</target>
 </phrase>
 <phrase>
     <source>&lt;p&gt;* Context: %1&lt;br&gt;* Source: %2</source>
@@ -310,7 +310,7 @@
 </phrase>
 <phrase>
     <source>&lt;p&gt;* ID: %1</source>
-    <target>&lt;p&gt;* ID: %1</target>
+    <target>&lt;p&gt;* ID：%1</target>
 </phrase>
 <phrase>
     <source>&lt;p&gt;[more duplicates omitted]</source>
@@ -318,16 +318,16 @@
 </phrase>
 <phrase>
     <source>&lt;qt&gt;Duplicate messages found in &apos;%1&apos;:</source>
-    <target>&lt;qt&gt;在“%1”中找到的重复信息：</target>
+    <target>&lt;qt&gt;在‘%1’中找到的重复信息：</target>
 </phrase>
 <phrase>
     <source>Cannot create &apos;%2&apos;: %1</source>
-    <target>无法创建&apos;%2&apos;: %1</target>
+    <target>无法创建‘%2’：%1</target>
 </phrase>
 <phrase>
     <source>&apos;%1&apos;
 Line: %2</source>
-    <target>“%1”行：%2</target>
+    <target>‘%1’行：%2</target>
 </phrase>
 <phrase>
     <source>%1 translation</source>
@@ -379,7 +379,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Source text (Plural)</source>
-    <target>源文(复数)</target>
+    <target>源文（复数）</target>
 </phrase>
 <phrase>
     <source>This area shows the source text.</source>
@@ -411,7 +411,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Do you want to save phrase book &apos;%1&apos;?</source>
-    <target>是否保存短语书&apos;%1&apos;？</target>
+    <target>是否保存短语书‘%1’？</target>
 </phrase>
 <phrase>
     <source>Do you want to save the modified files?</source>
@@ -431,7 +431,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Enter What&apos;s This? mode.</source>
-    <target>进入“这是什么？”模式。</target>
+    <target>进入‘这是什么？’模式。</target>
 </phrase>
 <phrase>
     <source>E&amp;xit</source>
@@ -547,7 +547,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Mark item as done and move to the next unfinished item</source>
-    <target>标记这一项为完成并且移动到下一个未完成项</target>
+    <target>标记此项为完成并移动到下一个未完成项</target>
 </phrase>
 <phrase>
     <source> MOD </source>
@@ -683,11 +683,11 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>&amp;Redo</source>
-    <target>重做(&amp;R)</target>
+    <target>恢复(&amp;R)</target>
 </phrase>
 <phrase>
     <source>Related files (%1);;</source>
-    <target>相关文件(%1);;</target>
+    <target>相关文件（%1）;;</target>
 </phrase>
 <phrase>
     <source>Release</source>
@@ -699,11 +699,11 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Release &apos;%1&apos;</source>
-    <target>发布“%1”</target>
+    <target>发布‘%1’</target>
 </phrase>
 <phrase>
     <source>Release &apos;%1&apos; As...</source>
-    <target>发布“%1”为...</target>
+    <target>发布‘%1’为...</target>
 </phrase>
 <phrase>
     <source>&amp;Release All</source>
@@ -723,7 +723,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>&amp;Save &apos;%1&apos;</source>
-    <target>保存“%1”(&amp;S)</target>
+    <target>保存‘%1’(&amp;S)</target>
 </phrase>
 <phrase>
     <source>Reset to default</source>
@@ -731,7 +731,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Save &apos;%1&apos; &amp;As...</source>
-    <target>另存“%1”为(&amp;A)...</target>
+    <target>另存‘%1’为(&amp;A)...</target>
 </phrase>
 <phrase>
     <source>&amp;Save All</source>
@@ -751,11 +751,11 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Search And Translate in &apos;%1&apos; - Qt Linguist</source>
-    <target>搜索并翻译&apos;%1&apos; - Qt 语言家</target>
+    <target>搜索并翻译‘%1’ - Qt 语言家</target>
 </phrase>
 <phrase>
     <source>Search And &amp;Translate in &apos;%1&apos;...</source>
-    <target>在“%1”内搜索并翻译(&amp;T)...</target>
+    <target>在‘%1’内搜索并翻译(&amp;T)...</target>
 </phrase>
 <phrase>
     <source>&amp;Search And Translate...</source>
@@ -827,7 +827,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Translated %n entry(s)</source>
-    <target>已翻译 %n 个条目。</target>
+    <target>已翻译 %n 个条目</target>
 </phrase>
 <phrase>
     <source>&amp;Translation</source>
@@ -875,7 +875,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>&amp;What&apos;s This?</source>
-    <target>这是什么？(&amp;W)</target>
+    <target>这是什么(&amp;W)？</target>
 </phrase>
 <phrase>
     <source>(New Entry)</source>
@@ -883,7 +883,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Cannot save phrase book &apos;%1&apos;.</source>
-    <target>无法保存短语书“%1”。</target>
+    <target>无法保存短语书‘%1’。</target>
 </phrase>
 <phrase>
     <source>Click here to add the phrase to the phrase book.</source>
@@ -931,7 +931,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
-    <target>选中时，“TeX”和“tex”会被认为是不同的文本。</target>
+    <target>选中时，‘TeX’和‘tex’会被认为是不同的文本。</target>
 </phrase>
 <phrase>
     <source>Translate</source>
@@ -955,7 +955,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Qt translation sources</source>
-    <target>Qt翻译源</target>
+    <target>Qt 翻译源</target>
 </phrase>
 <phrase>
     <source>XLIFF localization files</source>
@@ -968,5 +968,29 @@ Line: %2</source>
 <phrase>
     <source>Lay Out in a &amp;Form Layout</source>
     <target>窗体布局(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>Guesses</source>
+    <target>猜测</target>
+</phrase>
+<phrase>
+    <source>Surrounding &amp;Whitespace</source>
+    <target>四周空白(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>Go to</source>
+    <target>转到</target>
+</phrase>
+<phrase>
+    <source>Alt+-</source>
+    <target>Alt+-</target>
+</phrase>
+<phrase>
+    <source>Alt++</source>
+    <target>Alt++</target>
+</phrase>
+<phrase>
+    <source>Alt+0</source>
+    <target>Alt+0</target>
 </phrase>
 </QPH>

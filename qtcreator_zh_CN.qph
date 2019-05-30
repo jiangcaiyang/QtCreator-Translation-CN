@@ -81,10 +81,6 @@
     <target>安装</target>
 </phrase>
 <phrase>
-    <source>Android</source>
-    <target>Android</target>
-</phrase>
-<phrase>
     <source>SDK Manager Arguments</source>
     <target>SDK 管理参数</target>
 </phrase>
@@ -98,7 +94,7 @@
 </phrase>
 <phrase>
     <source>Form</source>
-    <target>界面</target>
+    <target>窗体</target>
 </phrase>
 <phrase>
     <source>Ignore Whitespace</source>
@@ -122,7 +118,7 @@
 </phrase>
 <phrase>
     <source>GNU Change Log</source>
-    <target>GNU 改变日志</target>
+    <target>GNU更改日志</target>
 </phrase>
 <phrase>
     <source>Bea&amp;utifier</source>
@@ -130,11 +126,11 @@
 </phrase>
 <phrase>
     <source>Cannot open file &quot;%1&quot;: %2.</source>
-    <target>无法打开文件“%1”：%2。</target>
+    <target>无法打开文件‘%1’：%2。</target>
 </phrase>
 <phrase>
     <source>Cannot save file &quot;%1&quot;: %2.</source>
-    <target>无法保存文件“%1”：%2。</target>
+    <target>无法保存文件‘%1’：%2。</target>
 </phrase>
 <phrase>
     <source>&amp;Artistic Style</source>
@@ -214,11 +210,11 @@
 </phrase>
 <phrase>
     <source>Could not start process &quot;%1 %2&quot;</source>
-    <target>无法启动进程“%1 %2”</target>
+    <target>无法启动进程‘%1 %2’</target>
 </phrase>
 <phrase>
     <source>&amp;Redo</source>
-    <target>重做(&amp;R)</target>
+    <target>恢复(&amp;R)</target>
 </phrase>
 <phrase>
     <source>Little Endian</source>
@@ -294,7 +290,7 @@
 </phrase>
 <phrase>
     <source>Profiling %1</source>
-    <target>正在分析%1</target>
+    <target>正在分析‘%1’</target>
 </phrase>
 <phrase>
     <source>(all)</source>
@@ -310,23 +306,23 @@
 </phrase>
 <phrase>
     <source>Redo</source>
-    <target>重做</target>
+    <target>恢复</target>
 </phrase>
 <phrase>
     <source>Close Project &quot;%1&quot;</source>
-    <target>关闭项目 %1</target>
+    <target>关闭项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Build Project &quot;%1&quot;</source>
-    <target>构建项目“%1”</target>
+    <target>构建项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Rebuild Project &quot;%1&quot;</source>
-    <target>重新构建项目“%1”</target>
+    <target>重新构建项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Deploy Project &quot;%1&quot;</source>
-    <target>部署项目“%1”</target>
+    <target>部署项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Open...</source>
@@ -443,14 +439,6 @@
     <target>系统信息...</target>
 </phrase>
 <phrase>
-    <source>Build Project &quot;%1&quot;</source>
-    <target>构建项目%1</target>
-</phrase>
-<phrase>
-    <source>Rebuild Project &quot;%1&quot;</source>
-    <target>重新构建项目%1</target>
-</phrase>
-<phrase>
     <source>Headers</source>
     <target>头文件</target>
 </phrase>
@@ -532,15 +520,15 @@
 </phrase>
 <phrase>
     <source>Build Subproject &quot;%1&quot;</source>
-    <target>构建子项目“%1”</target>
+    <target>构建子项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Rebuild Subproject &quot;%1&quot;</source>
-    <target>重新构建项目“%1”</target>
+    <target>重新构建子项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Build File &quot;%1&quot;</source>
-    <target>构建文件“%1”</target>
+    <target>构建文件‘%1’</target>
 </phrase>
 <phrase>
     <source>Internal error</source>
@@ -568,7 +556,7 @@
 </phrase>
 <phrase>
     <source>Copy URL &quot;%1&quot;</source>
-    <target>复制URL“%1”</target>
+    <target>复制URL‘%1’</target>
 </phrase>
 <phrase>
     <source>Unknown</source>
@@ -576,7 +564,7 @@
 </phrase>
 <phrase>
     <source>Add &quot;%1&quot;</source>
-    <target>添加“%1”</target>
+    <target>添加‘%1’</target>
 </phrase>
 <phrase>
     <source>Clone</source>
@@ -712,11 +700,11 @@
 </phrase>
 <phrase>
     <source>All Files (*.*)</source>
-    <target>所有文件（*.*）</target>
+    <target>所有文件(*.*)</target>
 </phrase>
 <phrase>
     <source>All Files (*)</source>
-    <target>所有文件（*）</target>
+    <target>所有文件(*)</target>
 </phrase>
 <phrase>
     <source>Saved</source>
@@ -827,10 +815,6 @@
     <target>Callgrind</target>
 </phrase>
 <phrase>
-    <source>Perf</source>
-    <target>Perf</target>
-</phrase>
-<phrase>
     <source>Select Run Configuration</source>
     <target>选择运行配置</target>
 </phrase>
@@ -840,7 +824,7 @@
 </phrase>
 <phrase>
     <source>Executable:</source>
-    <target>执行档：</target>
+    <target>可执行程序：</target>
 </phrase>
 <phrase>
     <source>Arguments:</source>
@@ -900,11 +884,11 @@
 </phrase>
 <phrase>
     <source>CMake process &quot;%1&quot; crashed.</source>
-    <target>CMake进程“%1”崩溃。</target>
+    <target>CMake进程‘%1’崩溃。</target>
 </phrase>
 <phrase>
     <source>&amp;Executable:</source>
-    <target>执行档(&amp;E)：</target>
+    <target>可执行程序(&amp;E)：</target>
 </phrase>
 <phrase>
     <source>Working Directory</source>
@@ -960,7 +944,7 @@
 </phrase>
 <phrase>
     <source>Diff Project &quot;%1&quot;</source>
-    <target>对比项目“%1”</target>
+    <target>对比项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Diff Current File</source>
@@ -968,7 +952,7 @@
 </phrase>
 <phrase>
     <source>Commit &quot;%1&quot;</source>
-    <target>提交“%1”</target>
+    <target>提交‘%1’</target>
 </phrase>
 <phrase>
     <source>Commit All Files</source>
@@ -988,19 +972,19 @@
 </phrase>
 <phrase>
     <source>Filelog &quot;%1&quot;</source>
-    <target>文件“%1”日志</target>
+    <target>文件‘%1’日志</target>
 </phrase>
 <phrase>
     <source>Delete &quot;%1&quot;...</source>
-    <target>删除“%1”...</target>
+    <target>删除‘%1’...</target>
 </phrase>
 <phrase>
     <source>Revert &quot;%1&quot;...</source>
-    <target>还原“%1”...</target>
+    <target>还原‘%1’...</target>
 </phrase>
 <phrase>
     <source>Status of Project &quot;%1&quot;</source>
-    <target>项目“%1”的状态</target>
+    <target>项目‘%1’的状态</target>
 </phrase>
 <phrase>
     <source>Log Project</source>
@@ -1008,7 +992,7 @@
 </phrase>
 <phrase>
     <source>Log Project &quot;%1&quot;</source>
-    <target>项目“%1”日志</target>
+    <target>项目‘%1’日志</target>
 </phrase>
 <phrase>
     <source>Diff Repository</source>
@@ -1072,7 +1056,7 @@
 </phrase>
 <phrase>
     <source>Analyzing &quot;%1&quot;.</source>
-    <target>分析中“%1”。</target>
+    <target>分析‘%1’中。</target>
 </phrase>
 <phrase>
     <source>Arg&amp;uments:</source>
@@ -1100,7 +1084,7 @@
 </phrase>
 <phrase>
     <source>Open Project &quot;%1&quot;</source>
-    <target>打开项目“%1”</target>
+    <target>打开项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Computer</source>
@@ -1112,7 +1096,7 @@
 </phrase>
 <phrase>
     <source>Open &quot;%1&quot;</source>
-    <target>打开“%1”</target>
+    <target>打开‘%1’</target>
 </phrase>
 <phrase>
     <source>Projects</source>
@@ -1144,11 +1128,11 @@
 </phrase>
 <phrase>
     <source>Open %1 &quot;%2&quot;</source>
-    <target>打开%1“%2”</target>
+    <target>打开%1‘%2’</target>
 </phrase>
 <phrase>
     <source>Open %1 &quot;%2&quot; (%3)</source>
-    <target>打开%1“%2”（%3）</target>
+    <target>打开%1‘%2’（%3）</target>
 </phrase>
 <phrase>
     <source>Open Project</source>
@@ -1368,7 +1352,7 @@
 </phrase>
 <phrase>
     <source>Delete Breakpoints of &quot;%1&quot;</source>
-    <target>删除“%1”的断点</target>
+    <target>删除‘%1’的断点</target>
 </phrase>
 <phrase>
     <source>Delete Breakpoints of File</source>
@@ -1648,7 +1632,7 @@
 </phrase>
 <phrase>
     <source>Resetting contents and settings...</source>
-    <target>重置内容和设置…</target>
+    <target>重置内容和设置...</target>
 </phrase>
 <phrase>
     <source>Simulator Name</source>
@@ -1736,7 +1720,7 @@
 </phrase>
 <phrase>
     <source>%1 is an invalid id.</source>
-    <target>标识符%1无效。</target>
+    <target>标识符‘%1’无效。</target>
 </phrase>
 <phrase>
     <source>%1 already exists.</source>
@@ -2024,7 +2008,7 @@
 </phrase>
 <phrase>
     <source>Blame for &quot;%1&quot;</source>
-    <target>“%1”的追溯</target>
+    <target>‘%1’的追溯</target>
 </phrase>
 <phrase>
     <source>Diff</source>
@@ -2060,11 +2044,11 @@
 </phrase>
 <phrase>
     <source>&lt;No repository&gt;</source>
-    <target>&lt;无仓库&gt;</target>
+    <target>&lt;无代码仓库&gt;</target>
 </phrase>
 <phrase>
     <source>Repository: %1</source>
-    <target>仓库：%1</target>
+    <target>代码仓库：%1</target>
 </phrase>
 <phrase>
     <source>Log</source>
@@ -2108,7 +2092,7 @@
 </phrase>
 <phrase>
     <source>&amp;Remote Repository</source>
-    <target>远程仓库(&amp;R)</target>
+    <target>远程代码仓库(&amp;R)</target>
 </phrase>
 <phrase>
     <source>Revert...</source>
@@ -2176,11 +2160,11 @@
 </phrase>
 <phrase>
     <source>Repository:</source>
-    <target>仓库：</target>
+    <target>代码仓库：</target>
 </phrase>
 <phrase>
     <source>repository</source>
-    <target>仓库</target>
+    <target>代码仓库</target>
 </phrase>
 <phrase>
     <source>Branch:</source>
@@ -2380,23 +2364,23 @@
 </phrase>
 <phrase>
     <source>Delete &quot;%1&quot;</source>
-    <target>删除“%1”</target>
+    <target>删除‘%1’</target>
 </phrase>
 <phrase>
     <source>Cut &quot;%1&quot;</source>
-    <target>剪切“%1”</target>
+    <target>剪切‘%1’</target>
 </phrase>
 <phrase>
     <source>Copy &quot;%1&quot;</source>
-    <target>复制“%1”</target>
+    <target>复制‘%1’</target>
 </phrase>
 <phrase>
     <source>Paste &quot;%1&quot;</source>
-    <target>粘贴“%1”</target>
+    <target>粘贴‘%1’</target>
 </phrase>
 <phrase>
     <source>Select All &quot;%1&quot;</source>
-    <target>全选“%1”</target>
+    <target>全选‘%1’</target>
 </phrase>
 <phrase>
     <source>Toggle States Editor</source>
@@ -2412,7 +2396,7 @@
 </phrase>
 <phrase>
     <source>Color Scheme for Theme &quot;%1&quot;</source>
-    <target>主题“%1”的配色方案</target>
+    <target>主题‘%1’的配色方案</target>
 </phrase>
 <phrase>
     <source>Email</source>
@@ -2424,7 +2408,7 @@
 </phrase>
 <phrase>
     <source>Close Pro&amp;ject &quot;%1&quot;</source>
-    <target>关闭项目“%1”</target>
+    <target>关闭项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Close %1</source>
@@ -2432,7 +2416,7 @@
 </phrase>
 <phrase>
     <source>Export as Image</source>
-    <target>图片格式导出</target>
+    <target>图像格式导出</target>
 </phrase>
 <phrase>
     <source>Stacked Container</source>
@@ -2492,7 +2476,7 @@
 </phrase>
 <phrase>
     <source>Handling Signal</source>
-    <target>处理信号中</target>
+    <target>信号处理中</target>
 </phrase>
 <phrase>
     <source>called recursively</source>
@@ -2516,23 +2500,23 @@
 </phrase>
 <phrase>
     <source>Starting: &quot;%1&quot; %2</source>
-    <target>正在启动：“%1”%2</target>
+    <target>正在启动：‘%1’%2</target>
 </phrase>
 <phrase>
     <source>Build &quot;%1&quot;</source>
-    <target>构建“%1”</target>
+    <target>构建‘%1’</target>
 </phrase>
 <phrase>
     <source>Clean Subproject &quot;%1&quot;</source>
-    <target>清理子项目“%1”</target>
+    <target>清理子项目‘%1’</target>
 </phrase>
 <phrase>
     <source>&quot;%1&quot; crashed.</source>
-    <target>“%1”崩溃。</target>
+    <target>‘%1’崩溃。</target>
 </phrase>
 <phrase>
     <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-    <target>无法复制文件“%1”到“%2”。</target>
+    <target>无法从‘%1’复制到‘%2’。</target>
 </phrase>
 <phrase>
     <source>%1 (copy)</source>
@@ -2552,15 +2536,15 @@
 </phrase>
 <phrase>
     <source>Diff &quot;%1&quot;</source>
-    <target>对比“%1”</target>
+    <target>对比‘%1’</target>
 </phrase>
 <phrase>
     <source>Revert Project &quot;%1&quot;</source>
-    <target>还原项目“%1”</target>
+    <target>还原项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Annotate &quot;%1&quot;</source>
-    <target>注释“%1”</target>
+    <target>注释‘%1’</target>
 </phrase>
 <phrase>
     <source>Annotate...</source>
@@ -2588,7 +2572,7 @@
 </phrase>
 <phrase>
     <source>Commit Project &quot;%1&quot;</source>
-    <target>提交项目“%1”</target>
+    <target>提交项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Diff &amp;Selected Files</source>
@@ -2596,15 +2580,15 @@
 </phrase>
 <phrase>
     <source>Edit &quot;%1&quot;</source>
-    <target>编辑“%1”</target>
+    <target>编辑‘%1’</target>
 </phrase>
 <phrase>
     <source>Unedit &quot;%1&quot;</source>
-    <target>撤销编辑“%1”</target>
+    <target>撤销编辑‘%1’</target>
 </phrase>
 <phrase>
     <source>Update Directory &quot;%1&quot;</source>
-    <target>更新目录“%1”</target>
+    <target>更新目录‘%1’</target>
 </phrase>
 <phrase>
     <source>Diff options:</source>
@@ -2624,7 +2608,7 @@
 </phrase>
 <phrase>
     <source>Add File &quot;%1&quot;</source>
-    <target>添加文件“%1”</target>
+    <target>添加文件‘%1’</target>
 </phrase>
 <phrase>
     <source>Navigator</source>
@@ -2640,11 +2624,11 @@
 </phrase>
 <phrase>
     <source>&quot;%1&quot; terminated.</source>
-    <target>“%1”终止。</target>
+    <target>‘%1’终止。</target>
 </phrase>
 <phrase>
     <source>Annotate version &quot;%1&quot;</source>
-    <target>注释版本“%1”</target>
+    <target>注释版本‘%1’</target>
 </phrase>
 <phrase>
     <source>Sys Root</source>
@@ -2692,7 +2676,7 @@
 </phrase>
 <phrase>
     <source>Search</source>
-    <target>查找</target>
+    <target>搜索</target>
 </phrase>
 <phrase>
     <source>Attributes</source>
@@ -2804,7 +2788,7 @@
 </phrase>
 <phrase>
     <source>Export to Image</source>
-    <target>导出图片</target>
+    <target>导出图像</target>
 </phrase>
 <phrase>
     <source>Align Left</source>
@@ -2905,5 +2889,757 @@
 <phrase>
     <source>&amp;Search</source>
     <target>搜索(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>大小</target>
+</phrase>
+<phrase>
+    <source>Add Resources</source>
+    <target>添加资源</target>
+</phrase>
+<phrase>
+    <source>&amp;Browse...</source>
+    <target>浏览(&amp;B)...</target>
+</phrase>
+<phrase>
+    <source>Target Directory</source>
+    <target>目标目录</target>
+</phrase>
+<phrase>
+    <source>In directory:</source>
+    <target>目录中：</target>
+</phrase>
+<phrase>
+    <source>Copy application data</source>
+    <target>复制应用程序数据</target>
+</phrase>
+<phrase>
+    <source>Removing directory %1</source>
+    <target>移除目录%1</target>
+</phrase>
+<phrase>
+    <source>Deploy to device</source>
+    <target>部署到设备</target>
+</phrase>
+<phrase>
+    <source>Make install</source>
+    <target>制作安装</target>
+</phrase>
+<phrase>
+    <source>Invalid syntax.</source>
+    <target>无效语法。</target>
+</phrase>
+<phrase>
+    <source>Bookmarks</source>
+    <target>书签</target>
+</phrase>
+<phrase>
+    <source>Adding Files</source>
+    <target>添加文件</target>
+</phrase>
+<phrase>
+    <source>Copy file paths</source>
+    <target>复制文件路径</target>
+</phrase>
+<phrase>
+    <source>Do not copy file paths</source>
+    <target>不复制文件路径</target>
+</phrase>
+<phrase>
+    <source>&lt;No Symbols&gt;</source>
+    <target>&lt;没有符号&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;Select Symbol&gt;</source>
+    <target>&lt;选择符号&gt;</target>
+</phrase>
+<phrase>
+    <source>Technical Support...</source>
+    <target>技术支持...</target>
+</phrase>
+<phrase>
+    <source>Size:</source>
+    <target>大小：</target>
+</phrase>
+<phrase>
+    <source>Ctrl+[</source>
+    <target>Ctrl+[</target>
+</phrase>
+<phrase>
+    <source>Alt+[</source>
+    <target>Alt+[</target>
+</phrase>
+<phrase>
+    <source>Ctrl+]</source>
+    <target>Ctrl+]</target>
+</phrase>
+<phrase>
+    <source>Alt+]</source>
+    <target>Alt+]</target>
+</phrase>
+<phrase>
+    <source>Export Selected Elements...</source>
+    <target>导出所选元素...</target>
+</phrase>
+<phrase>
+    <source>Synchronize Browser and Diagram</source>
+    <target>同步浏览器和图表</target>
+</phrase>
+<phrase>
+    <source>Export Selected Elements</source>
+    <target>导出所选元素</target>
+</phrase>
+<phrase>
+    <source>New %1</source>
+    <target>新建 %1</target>
+</phrase>
+<phrase>
+    <source>New Package</source>
+    <target>新包</target>
+</phrase>
+<phrase>
+    <source>New Component</source>
+    <target>新组件</target>
+</phrase>
+<phrase>
+    <source>New Class</source>
+    <target>新类</target>
+</phrase>
+<phrase>
+    <source>New Item</source>
+    <target>新项</target>
+</phrase>
+<phrase>
+    <source>Build &amp; Run</source>
+    <target>构建并运行</target>
+</phrase>
+<phrase>
+    <source>Deploy Configuration</source>
+    <target>部署配置</target>
+</phrase>
+<phrase>
+    <source>Environment</source>
+    <target>环境</target>
+</phrase>
+<phrase>
+    <source>Create Templates</source>
+    <target>创建模板</target>
+</phrase>
+<phrase>
+    <source>Additional Libraries</source>
+    <target>额外的库</target>
+</phrase>
+<phrase>
+    <source>Update...</source>
+    <target>更新...</target>
+</phrase>
+<phrase>
+    <source>Category:</source>
+    <target>分类：</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>是</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>否</target>
+</phrase>
+<phrase>
+    <source>Issue</source>
+    <target>问题</target>
+</phrase>
+<phrase>
+    <source>Clang Tools</source>
+    <target>Clang工具</target>
+</phrase>
+<phrase>
+    <source>%1: %2</source>
+    <target>%1：%2</target>
+</phrase>
+<phrase>
+    <source>Settings...</source>
+    <target>设置...</target>
+</phrase>
+<phrase>
+    <source>Properties...</source>
+    <target>属性...</target>
+</phrase>
+<phrase>
+    <source>Close All Except %1</source>
+    <target>除了‘%1’以外全部关闭</target>
+</phrase>
+<phrase>
+    <source>Sear&amp;ch for:</source>
+    <target>搜索于(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>Find Previous</source>
+    <target>查找上一个</target>
+</phrase>
+<phrase>
+    <source>Search for...</source>
+    <target>搜索于...</target>
+</phrase>
+<phrase>
+    <source>Choose...</source>
+    <target>选择...</target>
+</phrase>
+<phrase>
+    <source>&amp;Views</source>
+    <target>视图(&amp;V)</target>
+</phrase>
+<phrase>
+    <source>Diagnostic Configuration:</source>
+    <target>诊断配置：</target>
+</phrase>
+<phrase>
+    <source>Manage...</source>
+    <target>管理...</target>
+</phrase>
+<phrase>
+    <source>Cannot parse &quot;%1&quot;.</source>
+    <target>无法解析‘%1’。</target>
+</phrase>
+<phrase>
+    <source>Running &quot;%1 %2&quot; in %3.</source>
+    <target>在‘%3’中运行‘%1 %2’。</target>
+</phrase>
+<phrase>
+    <source>Configuring &quot;%1&quot;</source>
+    <target>正在配置‘%1’</target>
+</phrase>
+<phrase>
+    <source>Disable</source>
+    <target>禁用</target>
+</phrase>
+<phrase>
+    <source>Web Page</source>
+    <target>网页</target>
+</phrase>
+<phrase>
+    <source>Performance</source>
+    <target>性能</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>信息</target>
+</phrase>
+<phrase>
+    <source>Inconclusive errors</source>
+    <target>非结论性错误</target>
+</phrase>
+<phrase>
+    <source>Update Project &quot;%1&quot;</source>
+    <target>更新项目‘%1’</target>
+</phrase>
+<phrase>
+    <source>Commit Directory &quot;%1&quot;</source>
+    <target>提交目录‘%1’</target>
+</phrase>
+<phrase>
+    <source>Binary:</source>
+    <target>二进制：</target>
+</phrase>
+<phrase>
+    <source>Checks:</source>
+    <target>检查：</target>
+</phrase>
+<phrase>
+    <source>Custom arguments:</source>
+    <target>自定义参数：</target>
+</phrase>
+<phrase>
+    <source>Ignored file patterns:</source>
+    <target>忽略的文件模式：</target>
+</phrase>
+<phrase>
+    <source>Debug Message</source>
+    <target>调试消息</target>
+</phrase>
+<phrase>
+    <source>Warning Message</source>
+    <target>警告消息</target>
+</phrase>
+<phrase>
+    <source>Critical Message</source>
+    <target>严重消息</target>
+</phrase>
+<phrase>
+    <source>&amp;Show this message again.</source>
+    <target>再次显示此消息(&amp;S)。</target>
+</phrase>
+<phrase>
+    <source>Debuggee</source>
+    <target>调试程序</target>
+</phrase>
+<phrase>
+    <source>Debugging has failed.</source>
+    <target>调试器失败。</target>
+</phrase>
+<phrase>
+    <source>&amp;Modules</source>
+    <target>模块(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Reg&amp;isters</source>
+    <target>寄存器(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>&amp;Stack</source>
+    <target>堆栈(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Source Files</source>
+    <target>源文件</target>
+</phrase>
+<phrase>
+    <source>&amp;Threads</source>
+    <target>线程(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>&amp;Expressions</source>
+    <target>表达式(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>&amp;Breakpoints</source>
+    <target>断点(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>Threads:</source>
+    <target>线程：</target>
+</phrase>
+<phrase>
+    <source>Threads</source>
+    <target>线程</target>
+</phrase>
+<phrase>
+    <source>Breakpoint Preset</source>
+    <target>断点预设</target>
+</phrase>
+<phrase>
+    <source>Remove Breakpoint</source>
+    <target>移除断点</target>
+</phrase>
+<phrase>
+    <source>Edit Breakpoint...</source>
+    <target>编辑断点...</target>
+</phrase>
+<phrase>
+    <source>Debugger Preset</source>
+    <target>调试器预置</target>
+</phrase>
+<phrase>
+    <source>Create Snapshot</source>
+    <target>创建快照</target>
+</phrase>
+<phrase>
+    <source>Abort Debugger</source>
+    <target>关于调试器</target>
+</phrase>
+<phrase>
+    <source>Global Debugger &amp;Log</source>
+    <target>全局调试器日志(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Receiver:</source>
+    <target>接收者：</target>
+</phrase>
+<phrase>
+    <source>Stack</source>
+    <target>堆栈</target>
+</phrase>
+<phrase>
+    <source>&amp;Recent:</source>
+    <target>最近历史(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>Stop Watching</source>
+    <target>停止监控</target>
+</phrase>
+<phrase>
+    <source>Owner:</source>
+    <target>所有者：</target>
+</phrase>
+<phrase>
+    <source>Group:</source>
+    <target>组：</target>
+</phrase>
+<phrase>
+    <source>Symbolic link:</source>
+    <target>符号链接：</target>
+</phrase>
+<phrase>
+    <source>Undefined</source>
+    <target>未定义</target>
+</phrase>
+<phrase>
+    <source>%1 Bytes</source>
+    <target>%1 字节</target>
+</phrase>
+<phrase>
+    <source>Add Filter Name</source>
+    <target>增加过滤器名称</target>
+</phrase>
+<phrase>
+    <source>Expressions</source>
+    <target>表达式</target>
+</phrase>
+<phrase>
+    <source>&lt;matching&gt;</source>
+    <target>&lt;匹配&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;not matching&gt;</source>
+    <target>&lt;不匹配&gt;</target>
+</phrase>
+<phrase>
+    <source>Owner</source>
+    <target>所有者</target>
+</phrase>
+<phrase>
+    <source>Group</source>
+    <target>组</target>
+</phrase>
+<phrase>
+    <source>Include Old Entries</source>
+    <target>包含旧条目</target>
+</phrase>
+<phrase>
+    <source>Include Tags</source>
+    <target>包含标签</target>
+</phrase>
+<phrase>
+    <source>Fetch</source>
+    <target>获取</target>
+</phrase>
+<phrase>
+    <source>Manage Remotes...</source>
+    <target>管理远程...</target>
+</phrase>
+<phrase>
+    <source>Remove...</source>
+    <target>移除...</target>
+</phrase>
+<phrase>
+    <source>Merge</source>
+    <target>合并</target>
+</phrase>
+<phrase>
+    <source>Rebase</source>
+    <target>变基</target>
+</phrase>
+<phrase>
+    <source>Cherry Pick</source>
+    <target>择优挑选</target>
+</phrase>
+<phrase>
+    <source>Track</source>
+    <target>跟踪</target>
+</phrase>
+<phrase>
+    <source>Git Branches</source>
+    <target>Git分支</target>
+</phrase>
+<phrase>
+    <source>&amp;Local Repository</source>
+    <target>本地代码仓库(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Repository Status</source>
+    <target>代码仓库状态</target>
+</phrase>
+<phrase>
+    <source>Repository Log</source>
+    <target>代码仓库日志</target>
+</phrase>
+<phrase>
+    <source>Update Repository</source>
+    <target>更新代码仓库</target>
+</phrase>
+<phrase>
+    <source>Revert Repository...</source>
+    <target>还原代码仓库...</target>
+</phrase>
+<phrase>
+    <source>Revert Repository</source>
+    <target>还原代码仓库</target>
+</phrase>
+<phrase>
+    <source>Local repository</source>
+    <target>本地代码仓库</target>
+</phrase>
+<phrase>
+    <source>Create Repository...</source>
+    <target>创建代码仓库...</target>
+</phrase>
+<phrase>
+    <source>Repository Browser</source>
+    <target>代码仓库浏览器</target>
+</phrase>
+<phrase>
+    <source>Update Documentation</source>
+    <target>更新文档</target>
+</phrase>
+<phrase>
+    <source>F&amp;etch</source>
+    <target>获取(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>Registered Documentation</source>
+    <target>已注册的文档</target>
+</phrase>
+<phrase>
+    <source>Show My Home Page</source>
+    <target>显示我的主页</target>
+</phrase>
+<phrase>
+    <source>Show My Tabs from Last Session</source>
+    <target>显示上一次会话的打开页面</target>
+</phrase>
+<phrase>
+    <source>Checks</source>
+    <target>检查</target>
+</phrase>
+<phrase>
+    <source>&amp;Annotate %1</source>
+    <target>注释‘%1’(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Annotate &amp;parent revision %1</source>
+    <target>注释父修订‘%1’(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Image Cached</source>
+    <target>图像缓存</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>清空</target>
+</phrase>
+<phrase>
+    <source>Sizes:</source>
+    <target>大小：</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>抛光</target>
+</phrase>
+<phrase>
+    <source>Error %1</source>
+    <target>错误 %1</target>
+</phrase>
+<phrase>
+    <source>Log &quot;%1&quot;</source>
+    <target>日志‘%1’</target>
+</phrase>
+<phrase>
+    <source>Unknown option %1</source>
+    <target>未知选项 %1</target>
+</phrase>
+<phrase>
+    <source>Process failed at startup.</source>
+    <target>进程启动失败。</target>
+</phrase>
+<phrase>
+    <source>Process timed out.</source>
+    <target>进程超时。</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>设备</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>终端</target>
+</phrase>
+<phrase>
+    <source>Executable</source>
+    <target>可执行程序</target>
+</phrase>
+<phrase>
+    <source>Show Hidden Files</source>
+    <target>显示隐藏文件</target>
+</phrase>
+<phrase>
+    <source>characters</source>
+    <target>字符</target>
+</phrase>
+<phrase>
+    <source>Synchronize with Editor</source>
+    <target>与编辑器同步</target>
+</phrase>
+<phrase>
+    <source>Override %1:</source>
+    <target>覆盖 %1：</target>
+</phrase>
+<phrase>
+    <source>System Environment</source>
+    <target>系统环境</target>
+</phrase>
+<phrase>
+    <source>Clean Project &quot;%1&quot;</source>
+    <target>清理项目‘%1’</target>
+</phrase>
+<phrase>
+    <source>Tool Chains</source>
+    <target>工具链</target>
+</phrase>
+<phrase>
+    <source>Interpreter:</source>
+    <target>解释器：</target>
+</phrase>
+<phrase>
+    <source>Script:</source>
+    <target>脚本：</target>
+</phrase>
+<phrase>
+    <source>Modules</source>
+    <target>模块</target>
+</phrase>
+<phrase>
+    <source>Release</source>
+    <target>Release</target>
+</phrase>
+<phrase>
+    <source>Toggle States</source>
+    <target>切换状态</target>
+</phrase>
+<phrase>
+    <source>Image Files</source>
+    <target>图像文件</target>
+</phrase>
+<phrase>
+    <source>%n byte(s)</source>
+    <target>%n 字节</target>
+</phrase>
+<phrase>
+    <source>Binding</source>
+    <target>绑定</target>
+</phrase>
+<phrase>
+    <source>Main program</source>
+    <target>主程序</target>
+</phrase>
+<phrase>
+    <source>Callee</source>
+    <target>被调用者</target>
+</phrase>
+<phrase>
+    <source>Command line:</source>
+    <target>命令行：</target>
+</phrase>
+<phrase>
+    <source>Failed to kill remote process: %1</source>
+    <target>终止远程进程失败：%1</target>
+</phrase>
+<phrase>
+    <source>End</source>
+    <target>结束</target>
+</phrase>
+<phrase>
+    <source>Close All Tabs</source>
+    <target>关闭所有标签页</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>连接</target>
+</phrase>
+<phrase>
+    <source>Disconnect</source>
+    <target>断开</target>
+</phrase>
+<phrase>
+    <source>Family:</source>
+    <target>字体：</target>
+</phrase>
+<phrase>
+    <source>Go to Document Start</source>
+    <target>移到文档开始</target>
+</phrase>
+<phrase>
+    <source>Go to Document End</source>
+    <target>移到文档结尾</target>
+</phrase>
+<phrase>
+    <source>Go to Line Start</source>
+    <target>移到行首</target>
+</phrase>
+<phrase>
+    <source>Go to Line End</source>
+    <target>移到行尾</target>
+</phrase>
+<phrase>
+    <source>Go to Next Line</source>
+    <target>移到下一行</target>
+</phrase>
+<phrase>
+    <source>Go to Previous Line</source>
+    <target>移到上一行</target>
+</phrase>
+<phrase>
+    <source>Go to Previous Character</source>
+    <target>移到上一字符</target>
+</phrase>
+<phrase>
+    <source>Go to Next Character</source>
+    <target>移到下一字符</target>
+</phrase>
+<phrase>
+    <source>Edit Environment</source>
+    <target>编辑环境</target>
+</phrase>
+<phrase>
+    <source>Command Line</source>
+    <target>命令行</target>
+</phrase>
+<phrase>
+    <source>Discard Data</source>
+    <target>丢弃数据</target>
+</phrase>
+<phrase>
+    <source>Layout Objects</source>
+    <target>布局对象</target>
+</phrase>
+<phrase>
+    <source>Add Related Elements</source>
+    <target>添加相关的元素</target>
+</phrase>
+<phrase>
+    <source>Close Other Tabs</source>
+    <target>关闭其他标签页</target>
+</phrase>
+<phrase>
+    <source>Go to File Start</source>
+    <target>移到文件首</target>
+</phrase>
+<phrase>
+    <source>Go to File End</source>
+    <target>移到文件尾</target>
+</phrase>
+<phrase>
+    <source>Submit Project &quot;%1&quot;</source>
+    <target>提交项目‘%1’</target>
+</phrase>
+<phrase>
+    <source>Cannot start &quot;%1&quot;: %2</source>
+    <target>无法启动‘%1’：%2</target>
+</phrase>
+<phrase>
+    <source>Copy Path &quot;%1&quot;</source>
+    <target>复制路径‘%1’</target>
+</phrase>
+<phrase>
+    <source>The file &quot;%1&quot; could not be deleted.</source>
+    <target>文件‘%1’无法删除。</target>
+</phrase>
+<phrase>
+    <source>Could not open file &apos;%1&apos; for writing: %2</source>
+    <target>无法以写方式打开文件‘%1’：%2</target>
+</phrase>
+<phrase>
+    <source>Insert &quot;%1&quot;</source>
+    <target>插入‘%1’</target>
 </phrase>
 </QPH>

@@ -1,0 +1,1709 @@
+<!DOCTYPE QPH>
+<QPH sourcelanguage="en" language="zh_CN">
+<phrase>
+    <source>Operation on socket is not supported</source>
+    <target>不支持对套接字的操作</target>
+</phrase>
+<phrase>
+    <source>Close Tab</source>
+    <target>关闭标签页</target>
+</phrase>
+<phrase>
+    <source>Socket operation timed out</source>
+    <target>套接字操作超时</target>
+</phrase>
+<phrase>
+    <source>Operation on socket is not supported</source>
+    <target>套接字的操作不支持</target>
+</phrase>
+<phrase>
+    <source>Host not found</source>
+    <target>未找到主机</target>
+</phrase>
+<phrase>
+    <source>Connection refused</source>
+    <target>连接被拒绝</target>
+</phrase>
+<phrase>
+    <source>Connection timed out</source>
+    <target>连接超时</target>
+</phrase>
+<phrase>
+    <source>Trying to connect while connection is in progress</source>
+    <target>正在连接时尝试连接</target>
+</phrase>
+<phrase>
+    <source>Socket is not connected</source>
+    <target>套接字未连接</target>
+</phrase>
+<phrase>
+    <source>Network unreachable</source>
+    <target>网络不能访问</target>
+</phrase>
+<phrase>
+    <source>&amp;Select All</source>
+    <target>全选(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>&amp;Step up</source>
+    <target>增加(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Step &amp;down</source>
+    <target>减少(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Press</source>
+    <target>按下</target>
+</phrase>
+<phrase>
+    <source>Increase</source>
+    <target>增加</target>
+</phrase>
+<phrase>
+    <source>Decrease</source>
+    <target>减少</target>
+</phrase>
+<phrase>
+    <source>ShowMenu</source>
+    <target>显示菜单</target>
+</phrase>
+<phrase>
+    <source>SetFocus</source>
+    <target>设置焦点</target>
+</phrase>
+<phrase>
+    <source>Toggle</source>
+    <target>切换</target>
+</phrase>
+<phrase>
+    <source>Scroll Left</source>
+    <target>向左滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll Right</source>
+    <target>向右滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll Up</source>
+    <target>向上滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll Down</source>
+    <target>向下滚动</target>
+</phrase>
+<phrase>
+    <source>Previous Page</source>
+    <target>上一页</target>
+</phrase>
+<phrase>
+    <source>Next Page</source>
+    <target>下一页</target>
+</phrase>
+<phrase>
+    <source>Triggers the action</source>
+    <target>触发操作</target>
+</phrase>
+<phrase>
+    <source>Increase the value</source>
+    <target>增加值</target>
+</phrase>
+<phrase>
+    <source>Decrease the value</source>
+    <target>减少值</target>
+</phrase>
+<phrase>
+    <source>Shows the menu</source>
+    <target>显示菜单</target>
+</phrase>
+<phrase>
+    <source>Sets the focus</source>
+    <target>设置焦点</target>
+</phrase>
+<phrase>
+    <source>Toggles the state</source>
+    <target>切换状态</target>
+</phrase>
+<phrase>
+    <source>Goes to the next page</source>
+    <target>转到下一页</target>
+</phrase>
+<phrase>
+    <source>Goes back a page</source>
+    <target>转到上一页</target>
+</phrase>
+<phrase>
+    <source>Hu&amp;e:</source>
+    <target>色调(&amp;E)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Sat:</source>
+    <target>饱和度(&amp;S)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Val:</source>
+    <target>亮度(&amp;V)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Red:</source>
+    <target>红色(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Green:</source>
+    <target>绿色(&amp;G)：</target>
+</phrase>
+<phrase>
+    <source>Bl&amp;ue:</source>
+    <target>蓝色(&amp;U)：</target>
+</phrase>
+<phrase>
+    <source>A&amp;lpha channel:</source>
+    <target>透明度(&amp;L)：</target>
+</phrase>
+<phrase>
+    <source>&amp;HTML:</source>
+    <target>HTML(&amp;H)：</target>
+</phrase>
+<phrase>
+    <source>Select Color</source>
+    <target>选择颜色</target>
+</phrase>
+<phrase>
+    <source>&amp;Basic colors</source>
+    <target>基本颜色(&amp;B)</target>
+</phrase>
+<phrase>
+    <source>&amp;Custom colors</source>
+    <target>自定义颜色(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Add to Custom Colors</source>
+    <target>添加到自定义颜色(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>&amp;Pick Screen Color</source>
+    <target>选取屏幕颜色(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Open the combo box selection popup</source>
+    <target>打开组合框下拉菜单</target>
+</phrase>
+<phrase>
+    <source>False</source>
+    <target>假</target>
+</phrase>
+<phrase>
+    <source>True</source>
+    <target>真</target>
+</phrase>
+<phrase>
+    <source>[options]</source>
+    <target>[选项]</target>
+</phrase>
+<phrase>
+    <source>Usage: %1</source>
+    <target>用法：%1</target>
+</phrase>
+<phrase>
+    <source>Options:</source>
+    <target>选项：</target>
+</phrase>
+<phrase>
+    <source>Arguments:</source>
+    <target>参数：</target>
+</phrase>
+<phrase>
+    <source>%1: key is empty</source>
+    <target>%1：空键</target>
+</phrase>
+<phrase>
+    <source>%1: unable to make key</source>
+    <target>%1：无法生成键</target>
+</phrase>
+<phrase>
+    <source>%1: ftok failed</source>
+    <target>%1：ftok失败</target>
+</phrase>
+<phrase>
+    <source>Job Control</source>
+    <target>作业控制</target>
+</phrase>
+<phrase>
+    <source>Billing information:</source>
+    <target>账单信息：</target>
+</phrase>
+<phrase>
+    <source>Job priority:</source>
+    <target>作业优先级：</target>
+</phrase>
+<phrase>
+    <source>Banner Pages</source>
+    <target>标题页</target>
+</phrase>
+<phrase>
+    <source>End:</source>
+    <target>结束：</target>
+</phrase>
+<phrase>
+    <source>Start:</source>
+    <target>开始：</target>
+</phrase>
+<phrase>
+    <source>Print Immediately</source>
+    <target>立即打印</target>
+</phrase>
+<phrase>
+    <source>Specific Time</source>
+    <target>指定时间</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>无</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>标准</target>
+</phrase>
+<phrase>
+    <source>Username:</source>
+    <target>用户名：</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>密码：</target>
+</phrase>
+<phrase>
+    <source>Unable to connect</source>
+    <target>无法连接</target>
+</phrase>
+<phrase>
+    <source>Unable to commit transaction</source>
+    <target>无法提交事务</target>
+</phrase>
+<phrase>
+    <source>Unable to rollback transaction</source>
+    <target>无法回滚事务</target>
+</phrase>
+<phrase>
+    <source>Unable to set autocommit</source>
+    <target>无法设置自动提交</target>
+</phrase>
+<phrase>
+    <source>Unable to execute statement</source>
+    <target>无法执行语句</target>
+</phrase>
+<phrase>
+    <source>Unable to prepare statement</source>
+    <target>无法准备语句</target>
+</phrase>
+<phrase>
+    <source>Unable to bind variable</source>
+    <target>无法绑定变量</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch next</source>
+    <target>无法提取下一个</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch first</source>
+    <target>无法提取第一个</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>确定</target>
+</phrase>
+<phrase>
+    <source>What&apos;s This?</source>
+    <target>这是什么？</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>名称</target>
+</phrase>
+<phrase>
+    <source>Kind</source>
+    <target>种类</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>类型</target>
+</phrase>
+<phrase>
+    <source>Date Modified</source>
+    <target>修改日期</target>
+</phrase>
+<phrase>
+    <source>Operation cancelled</source>
+    <target>操作取消</target>
+</phrase>
+<phrase>
+    <source>Invalid hostname</source>
+    <target>无效的主机名</target>
+</phrase>
+<phrase>
+    <source>Unknown error</source>
+    <target>未知错误</target>
+</phrase>
+<phrase>
+    <source>Resolver functions not found</source>
+    <target>找不到解析函数</target>
+</phrase>
+<phrase>
+    <source>Resolver initialization failed</source>
+    <target>解析器初始化失败</target>
+</phrase>
+<phrase>
+    <source>Server failure</source>
+    <target>服务器失败</target>
+</phrase>
+<phrase>
+    <source>Server refused to answer</source>
+    <target>服务器拒绝回答</target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target>关闭</target>
+</phrase>
+<phrase>
+    <source>Closes the dock widget</source>
+    <target>关闭可停靠窗体</target>
+</phrase>
+<phrase>
+    <source>Float</source>
+    <target>浮动</target>
+</phrase>
+<phrase>
+    <source>Debug Message:</source>
+    <target>调试消息：</target>
+</phrase>
+<phrase>
+    <source>Warning:</source>
+    <target>警告：</target>
+</phrase>
+<phrase>
+    <source>Critical Error:</source>
+    <target>严重错误：</target>
+</phrase>
+<phrase>
+    <source>Fatal Error:</source>
+    <target>致命错误：</target>
+</phrase>
+<phrase>
+    <source>Information:</source>
+    <target>信息：</target>
+</phrase>
+<phrase>
+    <source>&amp;Show this message again</source>
+    <target>再次显示此消息(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>&amp;OK</source>
+    <target>确定(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Source file does not exist.</source>
+    <target>源文件不存在。</target>
+</phrase>
+<phrase>
+    <source>Destination file exists</source>
+    <target>目标文件已存在</target>
+</phrase>
+<phrase>
+    <source>Error while renaming: %1</source>
+    <target>重命名时出错：%1</target>
+</phrase>
+<phrase>
+    <source>Cannot remove source file</source>
+    <target>无法删除源文件</target>
+</phrase>
+<phrase>
+    <source>No file engine available</source>
+    <target>没有可用的文件引擎</target>
+</phrase>
+<phrase>
+    <source>All Files (*)</source>
+    <target>所有文件(*)</target>
+</phrase>
+<phrase>
+    <source>Look in:</source>
+    <target>查看：</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>后退</target>
+</phrase>
+<phrase>
+    <source>Go back</source>
+    <target>后退</target>
+</phrase>
+<phrase>
+    <source>Alt+Left</source>
+    <target>Alt+Left</target>
+</phrase>
+<phrase>
+    <source>Forward</source>
+    <target>前进</target>
+</phrase>
+<phrase>
+    <source>Go forward</source>
+    <target>前进</target>
+</phrase>
+<phrase>
+    <source>Alt+Right</source>
+    <target>Alt+Right</target>
+</phrase>
+<phrase>
+    <source>Parent Directory</source>
+    <target>父目录</target>
+</phrase>
+<phrase>
+    <source>Alt+Up</source>
+    <target>Alt+Up</target>
+</phrase>
+<phrase>
+    <source>Create New Folder</source>
+    <target>新建文件夹</target>
+</phrase>
+<phrase>
+    <source>List View</source>
+    <target>列表视图</target>
+</phrase>
+<phrase>
+    <source>Change to list view mode</source>
+    <target>切换到列表视图</target>
+</phrase>
+<phrase>
+    <source>Detail View</source>
+    <target>详细视图</target>
+</phrase>
+<phrase>
+    <source>Change to detail view mode</source>
+    <target>切换到详细视图</target>
+</phrase>
+<phrase>
+    <source>Sidebar</source>
+    <target>侧边栏</target>
+</phrase>
+<phrase>
+    <source>List of places and bookmarks</source>
+    <target>位置和书签列表</target>
+</phrase>
+<phrase>
+    <source>Files</source>
+    <target>文件</target>
+</phrase>
+<phrase>
+    <source>Files of type:</source>
+    <target>文件类型：</target>
+</phrase>
+<phrase>
+    <source>Find Directory</source>
+    <target>查找目录</target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target>打开</target>
+</phrase>
+<phrase>
+    <source>Save As</source>
+    <target>另存为</target>
+</phrase>
+<phrase>
+    <source>Directory:</source>
+    <target>目录：</target>
+</phrase>
+<phrase>
+    <source>File &amp;name:</source>
+    <target>文件名(&amp;N)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Open</source>
+    <target>打开(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>&amp;Choose</source>
+    <target>选择(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Save</source>
+    <target>保存(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Show </source>
+    <target>显示 </target>
+</phrase>
+<phrase>
+    <source>&amp;Rename</source>
+    <target>重命名(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>&amp;Delete</source>
+    <target>删除(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Show &amp;hidden files</source>
+    <target>显示隐藏文件(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>&amp;New Folder</source>
+    <target>新建文件夹(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Directories</source>
+    <target>目录</target>
+</phrase>
+<phrase>
+    <source>%1 already exists.
+Do you want to replace it?</source>
+    <target>‘%1’已经存在。
+你想要替换它么？</target>
+</phrase>
+<phrase>
+    <source>New Folder</source>
+    <target>新建文件夹</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>删除</target>
+</phrase>
+<phrase>
+    <source>Recent Places</source>
+    <target>最近访问的位置</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>文件</target>
+</phrase>
+<phrase>
+    <source>File Folder</source>
+    <target>文件夹</target>
+</phrase>
+<phrase>
+    <source>Folder</source>
+    <target>文件夹</target>
+</phrase>
+<phrase>
+    <source>Alias</source>
+    <target>别名</target>
+</phrase>
+<phrase>
+    <source>Shortcut</source>
+    <target>快捷方式</target>
+</phrase>
+<phrase>
+    <source>Invalid filename</source>
+    <target>无效的文件名</target>
+</phrase>
+<phrase>
+    <source>Demi Bold</source>
+    <target>半粗体</target>
+</phrase>
+<phrase>
+    <source>Select Font</source>
+    <target>选择字体</target>
+</phrase>
+<phrase>
+    <source>&amp;Font</source>
+    <target>字体(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>Font st&amp;yle</source>
+    <target>字体风格(&amp;Y)</target>
+</phrase>
+<phrase>
+    <source>&amp;Size</source>
+    <target>大小(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Effects</source>
+    <target>效果</target>
+</phrase>
+<phrase>
+    <source>Stri&amp;keout</source>
+    <target>删除线(&amp;K)</target>
+</phrase>
+<phrase>
+    <source>&amp;Underline</source>
+    <target>下划线(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>Sample</source>
+    <target>实例</target>
+</phrase>
+<phrase>
+    <source>Wr&amp;iting System</source>
+    <target>书写系统(&amp;I)</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>日文</target>
+</phrase>
+<phrase>
+    <source>Not connected</source>
+    <target>没有连接</target>
+</phrase>
+<phrase>
+    <source>Data Connection refused</source>
+    <target>数据连接被拒绝</target>
+</phrase>
+<phrase>
+    <source>No host name given</source>
+    <target>未指定主机名</target>
+</phrase>
+<phrase>
+    <source>Unknown address type</source>
+    <target>未知的地址类型</target>
+</phrase>
+<phrase>
+    <source>Unknown error (%1)</source>
+    <target>未知错误（%1）</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>大小</target>
+</phrase>
+<phrase>
+    <source>Connection closed</source>
+    <target>连接已关闭</target>
+</phrase>
+<phrase>
+    <source>&amp;Cancel</source>
+    <target>取消(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Close</source>
+    <target>关闭(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Close without Saving</source>
+    <target>关闭不保存</target>
+</phrase>
+<phrase>
+    <source>Unknown protocol specified</source>
+    <target>指定了未知协议</target>
+</phrase>
+<phrase>
+    <source>SSL handshake failed</source>
+    <target>SSL握手失败</target>
+</phrase>
+<phrase>
+    <source>Too many redirects</source>
+    <target>重定向太多</target>
+</phrase>
+<phrase>
+    <source>Proxy server not found</source>
+    <target>找不到代理服务器</target>
+</phrase>
+<phrase>
+    <source>Proxy server connection timed out</source>
+    <target>代理服务器连接超时</target>
+</phrase>
+<phrase>
+    <source>Proxy connection closed prematurely</source>
+    <target>代理连接过早关闭</target>
+</phrase>
+<phrase>
+    <source>Error opening database</source>
+    <target>打开数据库错误</target>
+</phrase>
+<phrase>
+    <source>Could not find array</source>
+    <target>找不到数组</target>
+</phrase>
+<phrase>
+    <source>Could not get array data</source>
+    <target>无法获取数组数据</target>
+</phrase>
+<phrase>
+    <source>Could not get query info</source>
+    <target>无法获取查询信息</target>
+</phrase>
+<phrase>
+    <source>Could not fetch next item</source>
+    <target>无法提取下一项</target>
+</phrase>
+<phrase>
+    <source>No such file or directory</source>
+    <target>没有这个文件或者目录</target>
+</phrase>
+<phrase>
+    <source>No space left on device</source>
+    <target>设备上没有剩余空间</target>
+</phrase>
+<phrase>
+    <source>Invalid device</source>
+    <target>无效的设备</target>
+</phrase>
+<phrase>
+    <source>File not found</source>
+    <target>找不到文件</target>
+</phrase>
+<phrase>
+    <source>Unsupported image format</source>
+    <target>图像格式不支持</target>
+</phrase>
+<phrase>
+    <source>Unable to read image data</source>
+    <target>无法读取图像数据</target>
+</phrase>
+<phrase>
+    <source>Device is not set</source>
+    <target>设备未设置</target>
+</phrase>
+<phrase>
+    <source>Device not writable</source>
+    <target>设备不可写</target>
+</phrase>
+<phrase>
+    <source>Image is empty</source>
+    <target>图像是空的</target>
+</phrase>
+<phrase>
+    <source>Enter a value:</source>
+    <target>输入一个值：</target>
+</phrase>
+<phrase>
+    <source>missing name separator</source>
+    <target>缺少的名字分隔符</target>
+</phrase>
+<phrase>
+    <source>unterminated array</source>
+    <target>未终止的数组</target>
+</phrase>
+<phrase>
+    <source>missing value separator</source>
+    <target>缺少的值分隔符</target>
+</phrase>
+<phrase>
+    <source>illegal value</source>
+    <target>非法值</target>
+</phrase>
+<phrase>
+    <source>invalid termination by number</source>
+    <target>无效的数字结束符</target>
+</phrase>
+<phrase>
+    <source>illegal number</source>
+    <target>非法数字</target>
+</phrase>
+<phrase>
+    <source>invalid escape sequence</source>
+    <target>无效的转义序列</target>
+</phrase>
+<phrase>
+    <source>invalid UTF8 string</source>
+    <target>无效的UTF8字符串</target>
+</phrase>
+<phrase>
+    <source>unterminated string</source>
+    <target>未终止的字符串</target>
+</phrase>
+<phrase>
+    <source>object is missing after a comma</source>
+    <target>逗号后缺少对象</target>
+</phrase>
+<phrase>
+    <source>too deeply nested document</source>
+    <target>文档嵌套太深</target>
+</phrase>
+<phrase>
+    <source>too large document</source>
+    <target>文档太大</target>
+</phrase>
+<phrase>
+    <source>Press shortcut</source>
+    <target>按下快捷键</target>
+</phrase>
+<phrase>
+    <source>file too small</source>
+    <target>文件太小</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not an ELF object</source>
+    <target>‘%1’不是一个ELF对象</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is an invalid ELF object (%2)</source>
+    <target>‘%1’是一个无效的ELF对象（%2）</target>
+</phrase>
+<phrase>
+    <source>The shared library was not found.</source>
+    <target>找不到共享库。</target>
+</phrase>
+<phrase>
+    <source>Cannot load library %1: %2</source>
+    <target>无法加载库‘%1’：%2</target>
+</phrase>
+<phrase>
+    <source>Cannot unload library %1: %2</source>
+    <target>无法卸载库‘%1’：%2</target>
+</phrase>
+<phrase>
+    <source>file is corrupt</source>
+    <target>文件损坏</target>
+</phrase>
+<phrase>
+    <source>odd cpu architecture</source>
+    <target>奇数CPU架构</target>
+</phrase>
+<phrase>
+    <source>wrong cpu architecture</source>
+    <target>CPU架构错误</target>
+</phrase>
+<phrase>
+    <source>wrong architecture</source>
+    <target>架构错误</target>
+</phrase>
+<phrase>
+    <source>not a dynamic library</source>
+    <target>不是一个动态库</target>
+</phrase>
+<phrase>
+    <source>&apos;%1&apos; is not a Qt plugin</source>
+    <target>‘%1’不是一个Qt插件</target>
+</phrase>
+<phrase>
+    <source>&amp;Undo</source>
+    <target>撤销(&amp;U)</target>
+</phrase>
+<phrase>
+    <source>&amp;Redo</source>
+    <target>恢复(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Cu&amp;t</source>
+    <target>剪切(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>&amp;Copy</source>
+    <target>复制(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>&amp;Paste</source>
+    <target>粘贴(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Select All</source>
+    <target>全选</target>
+</phrase>
+<phrase>
+    <source>%1: Name error</source>
+    <target>%1：名称错误</target>
+</phrase>
+<phrase>
+    <source>%1: Permission denied</source>
+    <target>%1：权限不够</target>
+</phrase>
+<phrase>
+    <source>%1: Address in use</source>
+    <target>%1：地址正在使用</target>
+</phrase>
+<phrase>
+    <source>%1: Unknown error %2</source>
+    <target>%1：未知错误%2</target>
+</phrase>
+<phrase>
+    <source>%1: Connection refused</source>
+    <target>%1：连接被拒绝</target>
+</phrase>
+<phrase>
+    <source>%1: Remote closed</source>
+    <target>%1：远程已关闭</target>
+</phrase>
+<phrase>
+    <source>%1: Invalid name</source>
+    <target>%1：无效的名称</target>
+</phrase>
+<phrase>
+    <source>%1: Socket access error</source>
+    <target>%1：套接字访问错误</target>
+</phrase>
+<phrase>
+    <source>%1: Socket resource error</source>
+    <target>%1：套接字资源错误</target>
+</phrase>
+<phrase>
+    <source>%1: Socket operation timed out</source>
+    <target>%1：套接字操作超时</target>
+</phrase>
+<phrase>
+    <source>%1: Datagram too large</source>
+    <target>%1：数据报太大</target>
+</phrase>
+<phrase>
+    <source>%1: Connection error</source>
+    <target>%1：连接错误</target>
+</phrase>
+<phrase>
+    <source>%1: The socket operation is not supported</source>
+    <target>%1：套接字操作不支持</target>
+</phrase>
+<phrase>
+    <source>%1: Operation not permitted when socket is in this state</source>
+    <target>%1：套接字当前状态不允许该操作</target>
+</phrase>
+<phrase>
+    <source>%1: Unknown error</source>
+    <target>%1：未知错误</target>
+</phrase>
+<phrase>
+    <source>%1: Access denied</source>
+    <target>%1：访问被拒绝</target>
+</phrase>
+<phrase>
+    <source>Unable to open database &apos;%1&apos;</source>
+    <target>无法打开数据库‘%1’</target>
+</phrase>
+<phrase>
+    <source>Unable to allocate a MYSQL object</source>
+    <target>无法分配MySQL对象</target>
+</phrase>
+<phrase>
+    <source>Unable to begin transaction</source>
+    <target>无法开始事务</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch data</source>
+    <target>无法提取数据</target>
+</phrase>
+<phrase>
+    <source>Unable to execute query</source>
+    <target>无法执行查询</target>
+</phrase>
+<phrase>
+    <source>Unable to store result</source>
+    <target>无法存储结果</target>
+</phrase>
+<phrase>
+    <source>Unable to execute next query</source>
+    <target>无法执行下一个查询</target>
+</phrase>
+<phrase>
+    <source>Unable to store next result</source>
+    <target>无法存储下一个结果</target>
+</phrase>
+<phrase>
+    <source>Unable to reset statement</source>
+    <target>无法重置语句</target>
+</phrase>
+<phrase>
+    <source>Unable to bind value</source>
+    <target>无法绑定值</target>
+</phrase>
+<phrase>
+    <source>Unable to bind outvalues</source>
+    <target>无法绑定外值</target>
+</phrase>
+<phrase>
+    <source>Unable to store statement results</source>
+    <target>无法存储语句结果</target>
+</phrase>
+<phrase>
+    <source>(Untitled)</source>
+    <target>（未命名）</target>
+</phrase>
+<phrase>
+    <source>- [%1]</source>
+    <target>- [%1]</target>
+</phrase>
+<phrase>
+    <source>%1 - [%2]</source>
+    <target>%1 - [%2]</target>
+</phrase>
+<phrase>
+    <source>Minimize</source>
+    <target>最小化</target>
+</phrase>
+<phrase>
+    <source>Maximize</source>
+    <target>最大化</target>
+</phrase>
+<phrase>
+    <source>Unshade</source>
+    <target>取消遮蔽</target>
+</phrase>
+<phrase>
+    <source>Shade</source>
+    <target>遮蔽</target>
+</phrase>
+<phrase>
+    <source>Restore Down</source>
+    <target>向下还原</target>
+</phrase>
+<phrase>
+    <source>Restore</source>
+    <target>还原</target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target>帮助</target>
+</phrase>
+<phrase>
+    <source>&amp;Restore</source>
+    <target>还原(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>&amp;Move</source>
+    <target>移动(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>Mi&amp;nimize</source>
+    <target>最小化(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>Ma&amp;ximize</source>
+    <target>最大化(&amp;X)</target>
+</phrase>
+<phrase>
+    <source>Stay on &amp;Top</source>
+    <target>总在最前(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>&amp;Close</source>
+    <target>关闭(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Menu</source>
+    <target>菜单</target>
+</phrase>
+<phrase>
+    <source>Show Details...</source>
+    <target>显示细节...</target>
+</phrase>
+<phrase>
+    <source>Hide Details...</source>
+    <target>隐藏细节...</target>
+</phrase>
+<phrase>
+    <source>About Qt</source>
+    <target>关于Qt</target>
+</phrase>
+<phrase>
+    <source>Host unreachable</source>
+    <target>主机不能访问</target>
+</phrase>
+<phrase>
+    <source>Permission denied</source>
+    <target>权限不够</target>
+</phrase>
+<phrase>
+    <source>The bound address is already in use</source>
+    <target>绑定地址已在使用</target>
+</phrase>
+<phrase>
+    <source>The address is not available</source>
+    <target>此地址不可用</target>
+</phrase>
+<phrase>
+    <source>The address is protected</source>
+    <target>此地址受保护</target>
+</phrase>
+<phrase>
+    <source>Datagram was too large to send</source>
+    <target>发送的数据报过大</target>
+</phrase>
+<phrase>
+    <source>Unable to send a message</source>
+    <target>无法发送消息</target>
+</phrase>
+<phrase>
+    <source>Unable to receive a message</source>
+    <target>无法接收消息</target>
+</phrase>
+<phrase>
+    <source>Unable to write</source>
+    <target>无法写入</target>
+</phrase>
+<phrase>
+    <source>Unable to initialize non-blocking socket</source>
+    <target>无法初始化非阻塞套接字</target>
+</phrase>
+<phrase>
+    <source>Unable to initialize broadcast socket</source>
+    <target>无法初始化广播套接字</target>
+</phrase>
+<phrase>
+    <source>The remote host closed the connection</source>
+    <target>远程主机关闭了此连接</target>
+</phrase>
+<phrase>
+    <source>Network operation timed out</source>
+    <target>网络操作超时</target>
+</phrase>
+<phrase>
+    <source>Out of resources</source>
+    <target>资源不足</target>
+</phrase>
+<phrase>
+    <source>Unsupported socket operation</source>
+    <target>不支持的套接字操作</target>
+</phrase>
+<phrase>
+    <source>Protocol type not supported</source>
+    <target>不支持协议类型</target>
+</phrase>
+<phrase>
+    <source>Invalid socket descriptor</source>
+    <target>无效的套接字描述符</target>
+</phrase>
+<phrase>
+    <source>Network error</source>
+    <target>网络错误</target>
+</phrase>
+<phrase>
+    <source>Another socket is already listening on the same port</source>
+    <target>另一个套接字已在同一端口上监听</target>
+</phrase>
+<phrase>
+    <source>Operation on non-socket</source>
+    <target>对非套接字操作</target>
+</phrase>
+<phrase>
+    <source>Temporary error</source>
+    <target>临时错误</target>
+</phrase>
+<phrase>
+    <source>Connection reset by peer</source>
+    <target>对端重置连接</target>
+</phrase>
+<phrase>
+    <source>Error opening %1</source>
+    <target>打开‘%1’时出错</target>
+</phrase>
+<phrase>
+    <source>Invalid URI: %1</source>
+    <target>无效的URI：%1</target>
+</phrase>
+<phrase>
+    <source>Network access is disabled.</source>
+    <target>网络访问被禁用。</target>
+</phrase>
+<phrase>
+    <source>Write error writing to %1: %2</source>
+    <target>写入‘%1’错误：%2</target>
+</phrase>
+<phrase>
+    <source>Socket error on %1: %2</source>
+    <target>‘%1’上的套接字错误：%2</target>
+</phrase>
+<phrase>
+    <source>Error opening %1: %2</source>
+    <target>打开‘%1’时出错：%2</target>
+</phrase>
+<phrase>
+    <source>Cannot open %1: Path is a directory</source>
+    <target>无法打开‘%1’：路径是一个目录</target>
+</phrase>
+<phrase>
+    <source>No suitable proxy found</source>
+    <target>找不到合适的代理</target>
+</phrase>
+<phrase>
+    <source>Cannot open %1: is a directory</source>
+    <target>无法打开‘%1’：这是目录</target>
+</phrase>
+<phrase>
+    <source>Logging in to %1 failed: authentication required</source>
+    <target>登入‘%1’失败：需要验证</target>
+</phrase>
+<phrase>
+    <source>Error while downloading %1: %2</source>
+    <target>下载‘%1’错误：%2</target>
+</phrase>
+<phrase>
+    <source>Error while uploading %1: %2</source>
+    <target>上传‘%1’错误：%2</target>
+</phrase>
+<phrase>
+    <source>Error transferring %1 - server replied: %2</source>
+    <target>传输‘%1’错误 - 服务器回复：%2</target>
+</phrase>
+<phrase>
+    <source>Network session error.</source>
+    <target>网络会话错误。</target>
+</phrase>
+<phrase>
+    <source>Background request not allowed.</source>
+    <target>不允许后台请求。</target>
+</phrase>
+<phrase>
+    <source>backend start error.</source>
+    <target>后端启动错误。</target>
+</phrase>
+<phrase>
+    <source>Temporary network failure.</source>
+    <target>临时网络故障。</target>
+</phrase>
+<phrase>
+    <source>Operation canceled</source>
+    <target>操作取消</target>
+</phrase>
+<phrase>
+    <source>Invalid configuration.</source>
+    <target>无效的配置。</target>
+</phrase>
+<phrase>
+    <source>Unknown session error.</source>
+    <target>未知会话错误。</target>
+</phrase>
+<phrase>
+    <source>Unable to initialize</source>
+    <target>无法初始化</target>
+</phrase>
+<phrase>
+    <source>Unable to logon</source>
+    <target>无法登入</target>
+</phrase>
+<phrase>
+    <source>Unable to bind column for batch execute</source>
+    <target>无法绑定批处理执行的列</target>
+</phrase>
+<phrase>
+    <source>Unable to execute batch statement</source>
+    <target>无法执行批处理语句</target>
+</phrase>
+<phrase>
+    <source>Unable to goto next</source>
+    <target>无法转到下一个</target>
+</phrase>
+<phrase>
+    <source>Unable to alloc statement</source>
+    <target>无法分配语句</target>
+</phrase>
+<phrase>
+    <source>Unable to get statement type</source>
+    <target>无法获取语句类型</target>
+</phrase>
+<phrase>
+    <source>Unable to disable autocommit</source>
+    <target>无法禁用自动提交</target>
+</phrase>
+<phrase>
+    <source>Unable to enable autocommit</source>
+    <target>无法启用自动提交</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch</source>
+    <target>无法提取</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch previous</source>
+    <target>无法提取上一个</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch last</source>
+    <target>无法提取最后一个</target>
+</phrase>
+<phrase>
+    <source>Could not begin transaction</source>
+    <target>无法开始事务</target>
+</phrase>
+<phrase>
+    <source>Could not commit transaction</source>
+    <target>无法提交事务</target>
+</phrase>
+<phrase>
+    <source>Could not rollback transaction</source>
+    <target>无法回滚事务</target>
+</phrase>
+<phrase>
+    <source>Unable to subscribe</source>
+    <target>无法订阅</target>
+</phrase>
+<phrase>
+    <source>Unable to unsubscribe</source>
+    <target>无法取消订阅</target>
+</phrase>
+<phrase>
+    <source>Unable to create query</source>
+    <target>无法创建查询</target>
+</phrase>
+<phrase>
+    <source>Unable to get result</source>
+    <target>无法获取结果</target>
+</phrase>
+<phrase>
+    <source>Unable to send query</source>
+    <target>无法发送查询</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>窗体</target>
+</phrase>
+<phrase>
+    <source>Paper</source>
+    <target>纸张</target>
+</phrase>
+<phrase>
+    <source>Width:</source>
+    <target>宽度：</target>
+</phrase>
+<phrase>
+    <source>Height:</source>
+    <target>高度：</target>
+</phrase>
+<phrase>
+    <source>Orientation</source>
+    <target>方向</target>
+</phrase>
+<phrase>
+    <source>Portrait</source>
+    <target>纵向</target>
+</phrase>
+<phrase>
+    <source>Landscape</source>
+    <target>横向</target>
+</phrase>
+<phrase>
+    <source>Reverse landscape</source>
+    <target>反向横向</target>
+</phrase>
+<phrase>
+    <source>Reverse portrait</source>
+    <target>反向纵向</target>
+</phrase>
+<phrase>
+    <source>Margins</source>
+    <target>边距</target>
+</phrase>
+<phrase>
+    <source>Pages per sheet:</source>
+    <target>每张页数：</target>
+</phrase>
+<phrase>
+    <source>Custom</source>
+    <target>自定义</target>
+</phrase>
+<phrase>
+    <source>Abort</source>
+    <target>中止</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>应用</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>取消</target>
+</phrase>
+<phrase>
+    <source>Discard</source>
+    <target>丢弃</target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target>帮助</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>忽略</target>
+</phrase>
+<phrase>
+    <source>&amp;No</source>
+    <target>否(&amp;N)</target>
+</phrase>
+<phrase>
+    <source>N&amp;o to All</source>
+    <target>全否(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>重置</target>
+</phrase>
+<phrase>
+    <source>Restore Defaults</source>
+    <target>恢复默认</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>重试</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>保存</target>
+</phrase>
+<phrase>
+    <source>Save All</source>
+    <target>全部保存</target>
+</phrase>
+<phrase>
+    <source>&amp;Yes</source>
+    <target>是(&amp;Y)</target>
+</phrase>
+<phrase>
+    <source>Yes to &amp;All</source>
+    <target>全是(&amp;A)</target>
+</phrase>
+<phrase>
+    <source>Print</source>
+    <target>打印</target>
+</phrase>
+<phrase>
+    <source>&amp;Print</source>
+    <target>打印(&amp;P)</target>
+</phrase>
+<phrase>
+    <source>Automatic</source>
+    <target>自动</target>
+</phrase>
+<phrase>
+    <source>Print Preview</source>
+    <target>打印预览</target>
+</phrase>
+<phrase>
+    <source>First page</source>
+    <target>第一页</target>
+</phrase>
+<phrase>
+    <source>Last page</source>
+    <target>最后一页</target>
+</phrase>
+<phrase>
+    <source>Fit width</source>
+    <target>适应宽度</target>
+</phrase>
+<phrase>
+    <source>Fit page</source>
+    <target>适应页面</target>
+</phrase>
+<phrase>
+    <source>Zoom in</source>
+    <target>放大</target>
+</phrase>
+<phrase>
+    <source>Zoom out</source>
+    <target>缩小</target>
+</phrase>
+<phrase>
+    <source>Portrait</source>
+    <target>纵向</target>
+</phrase>
+<phrase>
+    <source>Landscape</source>
+    <target>横向</target>
+</phrase>
+<phrase>
+    <source>Show single page</source>
+    <target>显示单页</target>
+</phrase>
+<phrase>
+    <source>Page setup</source>
+    <target>页面设置</target>
+</phrase>
+<phrase>
+    <source>Printer Properties</source>
+    <target>打印机属性</target>
+</phrase>
+<phrase>
+    <source>Page Setup Conflicts</source>
+    <target>页面设置冲突</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>高级</target>
+</phrase>
+<phrase>
+    <source>Copies</source>
+    <target>副本</target>
+</phrase>
+<phrase>
+    <source>Print range</source>
+    <target>打印范围</target>
+</phrase>
+<phrase>
+    <source>Current Page</source>
+    <target>当前页</target>
+</phrase>
+<phrase>
+    <source>Output Settings</source>
+    <target>输出设置</target>
+</phrase>
+<phrase>
+    <source>Options</source>
+    <target>选项</target>
+</phrase>
+<phrase>
+    <source>&amp;Name:</source>
+    <target>名称(&amp;N)：</target>
+</phrase>
+<phrase>
+    <source>P&amp;roperties</source>
+    <target>属性(&amp;R)</target>
+</phrase>
+<phrase>
+    <source>Type:</source>
+    <target>类型：</target>
+</phrase>
+<phrase>
+    <source>Output &amp;file:</source>
+    <target>输出文件(&amp;F)：</target>
+</phrase>
+<phrase>
+    <source>Process failed to start</source>
+    <target>进程启动失败</target>
+</phrase>
+<phrase>
+    <source>Process operation timed out</source>
+    <target>进程操作超时</target>
+</phrase>
+<phrase>
+    <source>bad repetition syntax</source>
+    <target>错误的重复语法</target>
+</phrase>
+<phrase>
+    <source>bad char class syntax</source>
+    <target>错误的字符类语法</target>
+</phrase>
+<phrase>
+    <source>bad lookahead syntax</source>
+    <target>错误的先行断言语法</target>
+</phrase>
+<phrase>
+    <source>invalid octal value</source>
+    <target>无效的八进制值</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch results</source>
+    <target>无法提取结果</target>
+</phrase>
+<phrase>
+    <source>Error closing database</source>
+    <target>关闭数据库错误</target>
+</phrase>
+<phrase>
+    <source>Unable to fetch row</source>
+    <target>无法提取行</target>
+</phrase>
+<phrase>
+    <source>No query</source>
+    <target>无查询</target>
+</phrase>
+<phrase>
+    <source>Unable to bind parameters</source>
+    <target>无法绑定参数</target>
+</phrase>
+<phrase>
+    <source>Parameter count mismatch</source>
+    <target>参数数量不匹配</target>
+</phrase>
+<phrase>
+    <source>Left edge</source>
+    <target>左边缘</target>
+</phrase>
+<phrase>
+    <source>Right edge</source>
+    <target>右边缘</target>
+</phrase>
+<phrase>
+    <source>Scroll left</source>
+    <target>向左滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll up</source>
+    <target>向上滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll right</source>
+    <target>向右滚动</target>
+</phrase>
+<phrase>
+    <source>Scroll down</source>
+    <target>向下滚动</target>
+</phrase>
+<phrase>
+    <source>Copy &amp;Link Location</source>
+    <target>复制链接地址(&amp;L)</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>继续</target>
+</phrase>
+<phrase>
+    <source>Commit</source>
+    <target>提交</target>
+</phrase>
+<phrase>
+    <source>Done</source>
+    <target>完成</target>
+</phrase>
+<phrase>
+    <source>&amp;Finish</source>
+    <target>完成(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>&amp;Help</source>
+    <target>帮助(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>%1: unable to lock</source>
+    <target>%1：无法锁定</target>
+</phrase>
+<phrase>
+    <source>%1: already exists</source>
+    <target>%1：已存在</target>
+</phrase>
+<phrase>
+    <source>%1: doesn&apos;t exist</source>
+    <target>%1：不存在</target>
+</phrase>
+<phrase>
+    <source>%1: out of resources</source>
+    <target>%1：资源不足</target>
+</phrase>
+<phrase>
+    <source>%1: invalid size</source>
+    <target>%1：无效的大小</target>
+</phrase>
+<phrase>
+    <source>Display</source>
+    <target>显示</target>
+</phrase>
+<phrase>
+    <source>Documents</source>
+    <target>文档</target>
+</phrase>
+<phrase>
+    <source>Undo</source>
+    <target>撤销</target>
+</phrase>
+<phrase>
+    <source>Redo %1</source>
+    <target>恢复 %1</target>
+</phrase>
+<phrase>
+    <source>title bar</source>
+    <target>标题栏</target>
+</phrase>
+<phrase>
+    <source>menu bar</source>
+    <target>菜单栏</target>
+</phrase>
+<phrase>
+    <source>scroll bar</source>
+    <target>滚动条</target>
+</phrase>
+<phrase>
+    <source>No error</source>
+    <target>无错误</target>
+</phrase>
+<phrase>
+    <source>note</source>
+    <target>便签</target>
+</phrase>
+<phrase>
+    <source>row</source>
+    <target>行</target>
+</phrase>
+<phrase>
+    <source>%1 (%2)</source>
+    <target>%1（%2）</target>
+</phrase>
+<phrase>
+    <source>Title</source>
+    <target>标题</target>
+</phrase>
+<phrase>
+    <source>Directory</source>
+    <target>目录</target>
+</phrase>
+</QPH>

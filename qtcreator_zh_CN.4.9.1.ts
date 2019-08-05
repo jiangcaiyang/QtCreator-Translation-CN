@@ -28308,7 +28308,7 @@ UDID：%4
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/languageclient/languageclientmanager.cpp" line="338"/>
         <source>Find References with %1 for:</source>
-        <translation type="unfinished"></translation>
+        <translation>在此处查找到包含%1的引用：</translation>
     </message>
 </context>
 <context>
@@ -55238,7 +55238,7 @@ Influences the indentation of continuation lines.
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/texteditor/texteditoractionhandler.cpp" line="293"/>
         <source>Find References to Symbol Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>查找在光标处符号的引用</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/texteditor/texteditoractionhandler.cpp" line="294"/>

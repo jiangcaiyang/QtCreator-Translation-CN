@@ -3224,14 +3224,14 @@ Check the test environment.</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testsettingspage.ui" line="79"/>
         <source>Group results by application</source>
-        <translation type="unfinished"></translation>
+        <translation>以应用程序为分组依据来分组结果</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testsettingspage.ui" line="86"/>
         <source>Allow passing arguments specified on the respective run configuration.
 Warning: this is an experimental feature and might lead to failing to execute the test executable.</source>
-        <translation type="unfinished">允许在各自的运行配置中指定的传递参数。
-警告：这是一个实验性的特性，可能导致无法执行测试。</translation>
+        <translation>允许在各自的运行配置中指定的传递参数。
+警告：这是一个实验性的特性，可能导致无法执行测试可执行程序。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testsettingspage.ui" line="90"/>
@@ -6933,7 +6933,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangcodemodel/clangtextmark.cpp" line="203"/>
         <source>Changes applied in Projects Mode &gt; Clang Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>在 项目模式 &gt; Clang代码模型 中应用改变</translation>
     </message>
 </context>
 <context>
@@ -6976,7 +6976,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/cpptools/clangdiagnosticconfigsmodel.cpp" line="169"/>
         <source>Build-system warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>构建系统警告</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/cpptools/clangdiagnosticconfigsmodel.cpp" line="246"/>
@@ -7002,22 +7002,22 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.ui" line="32"/>
         <source>Format instead of indenting</source>
-        <translation type="unfinished"></translation>
+        <translation>格式化而不是缩进</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.ui" line="39"/>
         <source>Format while typing</source>
-        <translation type="unfinished"></translation>
+        <translation>输入时格式化</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.ui" line="46"/>
         <source>Format edited code on file save</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存时格式化已编辑的代码</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.ui" line="60"/>
         <source>Override Clang Format configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖Clang格式配置文件</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.ui" line="76"/>
@@ -7027,12 +7027,12 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.cpp" line="156"/>
         <source>Current project has its own overridden .clang-format file and can be configured in Projects &gt; Code Style &gt; C++.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前项目拥有自己的覆盖 .clang-format文件 而且在 项目 &gt; 代码风格 &gt; C++ 中配置。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatconfigwidget.cpp" line="208"/>
         <source>Error in ClangFormat configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>在ClangFormat配置中出错</translation>
     </message>
 </context>
 <context>
@@ -7040,7 +7040,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangformat/clangformatplugin.cpp" line="121"/>
         <source>Open Used .clang-format Configuration File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开已使用的.clang-format配置文件</translation>
     </message>
 </context>
 <context>
@@ -7057,12 +7057,12 @@ However, using the relaxed and extended rules means also that no highlighting/co
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangpchmanager/clangpchmanagerplugin.cpp" line="72"/>
         <source>Creating PCHs</source>
         <comment>PCH stands for precompiled header</comment>
-        <translation type="unfinished"></translation>
+        <translation>创建预编译头</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangpchmanager/clangpchmanagerplugin.cpp" line="79"/>
         <source>Creating Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>创建依赖项</translation>
     </message>
 </context>
 <context>
@@ -7083,7 +7083,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangrefactoring/clangrefactoringplugin.cpp" line="90"/>
         <source>C++ Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>C++索引中</translation>
     </message>
 </context>
 <context>
@@ -7116,7 +7116,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="248"/>
         <source>Fixit status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixit状态：</translation>
     </message>
 </context>
 <context>
@@ -16875,7 +16875,7 @@ Setting breakpoints by file name and line number may fail.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/debugger/debuggerplugin.cpp" line="472"/>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/debugger/debuggerplugin.cpp" line="2343"/>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/debugger/debuggerplugin.cpp" line="600"/>
@@ -28308,7 +28308,7 @@ UDID：%4
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/languageclient/languageclientmanager.cpp" line="338"/>
         <source>Find References with %1 for:</source>
-        <translation type="unfinished"></translation>
+        <translation>在此处查找到包含%1的引用：</translation>
     </message>
 </context>
 <context>
@@ -35620,37 +35620,37 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="114"/>
         <source>Enable connection sharing:</source>
-        <translation type="unfinished"></translation>
+        <translation>启用连接共享：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="115"/>
         <source>Connection sharing timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>连接共享超时：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="116"/>
         <source>Path to ssh executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ssh可执行程序路径：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="117"/>
         <source>Path to sftp executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>sftp可执行程序路径：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="118"/>
         <source>Path to ssh-askpass executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ssh-askpass可执行程序路径：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="119"/>
         <source>Path to ssh-keygen executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>ssh-keygen可执行程序路径：</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/devicesupport/sshsettingspage.cpp" line="150"/>
         <source> minutes</source>
-        <translation type="unfinished"></translation>
+        <translation> 分钟</translation>
     </message>
 </context>
 <context>
@@ -35658,7 +35658,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/kitinformationconfigwidget.cpp" line="85"/>
         <source>Sysroot</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/kitinformationconfigwidget.cpp" line="90"/>
@@ -35712,8 +35712,8 @@ to project &quot;%2&quot;.</source>
     <message numerus="yes">
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/customtoolchain.cpp" line="502"/>
         <source>%n entries</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 项</numerusform>
         </translation>
     </message>
     <message>
@@ -35864,7 +35864,7 @@ to project &quot;%2&quot;.</source>
 
 
 </source>
-        <translation type="unfinished">以下文件将被添加：
+        <translation>以下文件将被添加：
 
 
 
@@ -36260,56 +36260,56 @@ to project &quot;%2&quot;.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="219"/>
         <source>Path &quot;%1&quot; does not exist when checking Json wizard search paths.
 </source>
-        <translation type="unfinished">检查的Json向导搜索路径时，路径‘%1’不存在。
+        <translation>检查的Json向导搜索路径时，路径“%1”不存在。
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="232"/>
         <source>Checking &quot;%1&quot; for %2.
 </source>
-        <translation type="unfinished">为%2校验‘%1’。
+        <translation>为%2校验“%1”。
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="254"/>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4
 </source>
-        <translation type="unfinished">* 解析‘%1’失败：‘%2’：%3：%4
+        <translation>* 解析“%1”失败：“%2”：%3：%4
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="262"/>
         <source>* Did not find a JSON object in &quot;%1&quot;.
 </source>
-        <translation type="unfinished">* 在‘%1’中找不到JSON对象。
+        <translation>* 在“%1”中找不到JSON对象。
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="268"/>
         <source>* Configuration found and parsed.
 </source>
-        <translation type="unfinished">* 发现配置发现并解析。
+        <translation>* 发现配置并已解析。
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="274"/>
         <source>* Version %1 not supported.
 </source>
-        <translation type="unfinished">* 不支持版本%1。
+        <translation>* 不支持版本%1。
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="280"/>
         <source>* Failed to create: %1
 </source>
-        <translation type="unfinished">* 创建失败：%1
+        <translation>* 创建失败：%1
 </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardfactory.cpp" line="292"/>
         <source>JsonWizard: &quot;%1&quot; not found
 </source>
-        <translation type="unfinished">JsonWizard：找不到‘%1’
+        <translation>JsonWizard：找不到“%1”
 </translation>
     </message>
     <message>
@@ -36414,7 +36414,7 @@ to project &quot;%2&quot;.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/jsonwizard/jsonwizardgeneratorfactory.cpp" line="201"/>
         <source>The directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished">目录%1包含不能写入的文件：
+        <translation>目录%1包含不能写入的文件：
 %2。</translation>
     </message>
 </context>
@@ -36593,8 +36593,8 @@ to project &quot;%2&quot;.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/projectexplorer/osparser.cpp" line="56"/>
         <source>The process cannot access the file because it is being used by another process.
 Please close all running instances of your application before starting a build.</source>
-        <translation type="unfinished">该进程不能访问该文件，因为它正被另一个进程使用。
-请在开始构建应用之前关闭所有正在运行的实例。</translation>
+        <translation>该进程不能访问该文件，因为它正被另一个进程使用。
+请在开始构建应用程序之前关闭所有正在运行的实例。</translation>
     </message>
 </context>
 <context>
@@ -55238,7 +55238,7 @@ Influences the indentation of continuation lines.
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/texteditor/texteditoractionhandler.cpp" line="293"/>
         <source>Find References to Symbol Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>查找在光标处符号的引用</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/texteditor/texteditoractionhandler.cpp" line="294"/>

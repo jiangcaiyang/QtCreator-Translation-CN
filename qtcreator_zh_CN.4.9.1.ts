@@ -343,13 +343,15 @@ The minimum API level required by the kit is %1.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidmanager.cpp" line="468"/>
         <source>Cleaning Qt libraries on device failed.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在设备中清理Qt库失败。
+%1</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidmanager.cpp" line="492"/>
         <source>Android package installation failed.
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Android包安装失败。
+%1</translation>
     </message>
 </context>
 <context>
@@ -448,7 +450,7 @@ The minimum API level required by the kit is %1.</source>
         <source>Select the Android package source directory.
 
 The files in the Android package source directory are copied to the build directory&apos;s Android directory and the default files are overwritten.</source>
-        <translation type="unfinished">选择Android包的源目录。
+        <translation>选择Android包的源目录。
 
 在Android包源目录中的文件将复制到构建目录中Android目录并覆盖默认文件。</translation>
     </message>
@@ -749,7 +751,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androiddeployqtstep.cpp" line="180"/>
         <source>Initializing deployment to Android device/simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>正在初始化安卓设备/模拟器的部署</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androiddeployqtstep.cpp" line="190"/>
@@ -806,7 +808,7 @@ The files in the Android package source directory are copied to the build direct
         <source>Deployment failed with the following errors:
 
 </source>
-        <translation type="unfinished">部署失败，以下是错误信息：
+        <translation>部署失败，以下是错误信息：
 
 </translation>
     </message>
@@ -815,7 +817,7 @@ The files in the Android package source directory are copied to the build direct
         <source>
 Uninstalling the installed package may solve the issue.
 Do you want to uninstall the existing package?</source>
-        <translation type="unfinished">
+        <translation>
 卸载安装的包可能解决该问题。
 你想卸载已存在的包吗？</translation>
     </message>
@@ -1098,10 +1100,10 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidmanifesteditorwidget.cpp" line="143"/>
         <source>&lt;p align=&quot;justify&quot;&gt;Please choose a valid package name for your application (for example, &quot;org.example.myapplication&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Packages are usually defined using a hierarchical naming pattern, with levels in the hierarchy separated by periods (.) (pronounced &quot;dot&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;In general, a package name begins with the top level domain name of the organization and then the organization&apos;s domain and then any subdomains listed in reverse order. The organization can then choose a specific name for their package. Package names should be all lowercase characters whenever possible.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Complete conventions for disambiguating package names and rules for naming packages when the Internet domain name cannot be directly used as a package name are described in section 7.7 of the Java Language Specification.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p align=&quot;justify&quot;&gt;请为您的应用程序选择一个有效的包名（如‘org.example.myapplication’）。&lt;/p&gt;
+        <translation>&lt;p align=&quot;justify&quot;&gt;请为您的应用程序选择一个有效的包名（如“org.example.myapplication”）。&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;包通常用层次性命名规则来定义，层次用英文句点（.）来分隔。&lt;/p&gt;
 &lt;p align=&quot;justify&quot;&gt;通常情况下，包名由组织的顶层域名打头，接着是组织的域名，然后是反向排列的子域名。之后组织可以为包选择一个特定的名称。包名必须全部为小写字母。&lt;/p&gt;
-&lt;p align=&quot;justify&quot;&gt;在网络域名不能直接用作包名时，如何解决包名的二义性和命名包的规则的完整惯例说明可以在‘Java语言规范’的Section7.7找到。&lt;/p&gt;</translation>
+&lt;p align=&quot;justify&quot;&gt;在网络域名不能直接用作包名时，如何解决包名的二义性和命名包的规则的完整惯例说明可以在“Java语言规范”的Section7.7找到。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidmanifesteditorwidget.cpp" line="155"/>
@@ -1325,47 +1327,47 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="436"/>
         <source>Failed to find application directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>查找应用程序的目录失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="460"/>
         <source>Cannot find or copy C++ debug server.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到或者复制C++调试服务器。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="481"/>
         <source>Failed to forward QML debugging ports.</source>
-        <translation type="unfinished"></translation>
+        <translation>传递给QML调试端口失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="516"/>
         <source>Failed to start the activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动activity失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="538"/>
         <source>Failed to start debugger server.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动调试服务器失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="549"/>
         <source>Failed to forward C++ debugging ports.</source>
-        <translation type="unfinished"></translation>
+        <translation>传递C++调试端口失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="583"/>
         <source>Failed to forward JDB debugging ports.</source>
-        <translation type="unfinished"></translation>
+        <translation>传递JDB调试端口失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="602"/>
         <source>Failed to start JDB.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动JDB失败。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="642"/>
         <source>Cannot attach JDB to the running application.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法附加JDB到正在运行的应用程序中。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidrunnerworker.cpp" line="653"/>
@@ -1385,7 +1387,7 @@ Do you want to uninstall the existing package?</source>
         <source>License command failed.
 
 </source>
-        <translation type="unfinished">许可命令失败。
+        <translation>许可命令失败。
 
 </translation>
     </message>
@@ -1461,7 +1463,7 @@ Do you want to uninstall the existing package?</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="179"/>
         <source>Checking pending licenses...
 </source>
-        <translation type="unfinished">检查待定的许可证...
+        <translation>检查待定的许可证…
 </translation>
     </message>
     <message>
@@ -1469,7 +1471,7 @@ Do you want to uninstall the existing package?</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="238"/>
         <source>
 SDK Manager is busy.</source>
-        <translation type="unfinished">
+        <translation>
 SDK管理器忙。</translation>
     </message>
     <message>
@@ -1481,15 +1483,15 @@ SDK管理器忙。</translation>
     <message numerus="yes">
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="206"/>
         <source>%n Android SDK packages shall be updated.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n安卓SDK包应更新。</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="212"/>
         <source>[Packages to be uninstalled:]
 </source>
-        <translation type="unfinished">[包卸载：]
+        <translation>[即将卸载的包：]
 </translation>
     </message>
     <message>
@@ -1506,7 +1508,7 @@ SDK管理器忙。</translation>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="290"/>
         <source>Review Android SDK package licenses that have not been accepted?
 Please note that the installation and use of Android SDK packages may fail if respective licenses are not accepted.</source>
-        <translation type="unfinished">回顾没有同意的Android的SDK包许可证？
+        <translation>回顾没有同意的Android的SDK包许可证？
 请注意如果相应的许可证未同意，Android SDK的安装和使用可能会失败。</translation>
     </message>
     <message>
@@ -1523,7 +1525,7 @@ Please note that the installation and use of Android SDK packages may fail if re
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="349"/>
         <source>Installing/Uninstalling selected packages...
 </source>
-        <translation type="unfinished">安装或卸载选择包...
+        <translation>安装/卸载选定的包…
 </translation>
     </message>
     <message>
@@ -1531,7 +1533,7 @@ Please note that the installation and use of Android SDK packages may fail if re
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="362"/>
         <source>Closing the %1 dialog will cancel the running and scheduled SDK operations.
 </source>
-        <translation type="unfinished">关闭%1对话框将取消运行和计划的SDK操作。
+        <translation>关闭%1对话框将取消运行和计划的SDK操作。
 </translation>
     </message>
     <message>
@@ -1550,7 +1552,7 @@ Please note that the installation and use of Android SDK packages may fail if re
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="361"/>
         <source>Updating installed packages...
 </source>
-        <translation type="unfinished">更新安装包...
+        <translation>更新已安装的包…
 </translation>
     </message>
     <message>
@@ -1562,7 +1564,7 @@ Please note that the installation and use of Android SDK packages may fail if re
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/androidsdkmanagerwidget.cpp" line="390"/>
         <source>Operation cancelled.
 </source>
-        <translation type="unfinished">操作取消。
+        <translation>操作取消。
 </translation>
     </message>
     <message>
@@ -1570,8 +1572,8 @@ Please note that the installation and use of Android SDK packages may fail if re
         <source>
 No pending operations to cancel...
 </source>
-        <translation type="unfinished">
-取消未挂起的操作...
+        <translation>
+没有挂起的取消操作…
 </translation>
     </message>
     <message>
@@ -1579,8 +1581,8 @@ No pending operations to cancel...
         <source>
 Cancelling pending operations...
 </source>
-        <translation type="unfinished">
-取消挂起操作...
+        <translation>
+取消挂起的操作…
 </translation>
     </message>
 </context>
@@ -1778,7 +1780,7 @@ Cancelling pending operations...
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/android/avddialog.cpp" line="141"/>
         <source>Cannot create a new AVD. No sufficiently recent Android SDK available.
 Install an SDK of at least API version %1.</source>
-        <translation type="unfinished">不能创建一个新的AVD。没有可用的Android SDK。
+        <translation>不能创建一个新的AVD。没有可用的最近的Android SDK。
 至少安装一个SDK API版本%1。</translation>
     </message>
     <message>
@@ -2546,7 +2548,7 @@ Executable: %2</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/gtest/gtestsettingspage.ui" line="167"/>
         <source>Set the GTest filter to be used for grouping.
 See Google Test documentation for further information on GTest filters.</source>
-        <translation type="unfinished">选择被用于分组的GTest过滤器。
+        <translation>选择被用于分组的GTest过滤器。
 有关GTest过滤器的详细内容请参见谷歌测试文档。</translation>
     </message>
 </context>
@@ -2630,7 +2632,7 @@ See Google Test documentation for further information on GTest filters.</source>
         <source>XML output is recommended, because it avoids parsing issues, while plain text is more human readable.
 
 Warning: Plain text misses some information, such as duration.</source>
-        <translation type="unfinished">推荐使用XML输出，因为它避免了解析问题，而纯文本更易于阅读。
+        <translation>推荐使用XML输出，因为它避免了解析问题，而纯文本更易于阅读。
 
 警告：纯文本遗漏了一些信息，比如持续时间。</translation>
     </message>
@@ -2936,12 +2938,12 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="450"/>
         <source>Uncheck All Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>反勾选所有过滤器</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="458"/>
         <source>Test summary</source>
-        <translation type="unfinished"></translation>
+        <translation>测试结论</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="461"/>
@@ -2976,12 +2978,12 @@ Warning: Plain text misses some information, such as duration.</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="481"/>
         <source>skipped</source>
-        <translation type="unfinished"></translation>
+        <translation>已跳过</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="484"/>
         <source>disabled</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testresultspane.cpp" line="541"/>
@@ -3023,7 +3025,7 @@ Warning: Plain text misses some information, such as duration.</source>
         <source>Failed to write &quot;%1&quot;.
 
 %2</source>
-        <translation type="unfinished">写入失败‘%1’。
+        <translation>写入失败“%1”。
 
 %2</translation>
     </message>
@@ -3047,15 +3049,15 @@ Warning: Plain text misses some information, such as duration.</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testrunner.cpp" line="142"/>
         <source>
 Run configuration: deduced from &quot;%1&quot;</source>
-        <translation type="unfinished">
-运行配置：从‘%1’中推导</translation>
+        <translation>
+运行配置：从“%1”中推导</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testrunner.cpp" line="144"/>
         <source>
 Run configuration: &quot;%1&quot;</source>
-        <translation type="unfinished">
-运行配置：‘%1’</translation>
+        <translation>
+运行配置：“%1”</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testrunner.cpp" line="150"/>
@@ -3086,7 +3088,7 @@ Run configuration: &quot;%1&quot;</source>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testrunner.cpp" line="248"/>
         <source>Test case canceled due to timeout.
 Maybe raise the timeout?</source>
-        <translation type="unfinished">测试用例因超时而取消。
+        <translation>测试用例因超时而取消。
 需要提高超时？</translation>
     </message>
     <message>
@@ -3120,9 +3122,9 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
         <source>Project&apos;s run configuration was deduced for &quot;%1&quot;.
 This might cause trouble during execution.
 (deduced from &quot;%2&quot;)</source>
-        <translation type="unfinished">曾为‘%1’推导出项目的运行配置。
+        <translation>曾为“%1”推导出项目的运行配置。
 这有可能在执行过程中造成麻烦。
-（从‘%2’中推导）</translation>
+（从“%2”中推导）</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/autotest/testrunner.cpp" line="422"/>
@@ -7150,7 +7152,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangtools/clangtidyclazytool.cpp" line="222"/>
         <source>Clang-Tidy and Clazy Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang-Tidy和Clazy诊断</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangtools/clangtidyclazytool.cpp" line="240"/>
@@ -7181,7 +7183,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangtools/clangtidyclazytool.cpp" line="284"/>
         <source>Filter Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤诊断信息</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/plugins/clangtools/clangtidyclazytool.cpp" line="293"/>
@@ -60768,7 +60770,8 @@ What do you want to do?</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/tests/manual/qml/testprojects/gridlayout/gridlayout.qml" line="32"/>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>“您好，世界”需要被翻译成中文吗？因为很有可能被当作代码使用。</translatorcomment>
+        <translation>你好，世界</translation>
     </message>
 </context>
 <context>
@@ -60776,7 +60779,8 @@ What do you want to do?</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/shared/qbs/examples/helloworld-qt/main.cpp" line="58"/>
         <source>Hello, World!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>“您好，世界”需要被翻译成中文吗？因为很有可能被当作代码使用。</translatorcomment>
+        <translation>你好，世界！</translation>
     </message>
 </context>
 <context>
@@ -60784,35 +60788,35 @@ What do you want to do?</source>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/accelbubble/main.qml" line="59"/>
         <source>Accelerate Bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>加速气泡</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/accelbubble/main.qml" line="99"/>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/transitions/main.qml" line="136"/>
         <source>Page 1</source>
-        <translation type="unfinished"></translation>
+        <translation>第一页</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/accelbubble/main.qml" line="102"/>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/transitions/main.qml" line="139"/>
         <source>Page 2</source>
-        <translation type="unfinished"></translation>
+        <translation>第二页</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/doc/examples/transitions/main.qml" line="58"/>
         <source>Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabs</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/shared/qbs/tests/auto/blackbox/testdata-android/qml-app/main.qml" line="8"/>
         <location filename="../qt-creator-opensource-src-4.9.1/tests/manual/qml/testprojects/cppmockup/main.qml" line="33"/>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translation>您好世界</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/tools/perfparser/app/main.cpp" line="88"/>
         <source>Read perf data from &lt;file&gt; instead of stdin.</source>
-        <translation type="unfinished"></translation>
+        <translation>从&lt;file&gt;中读取perf数据而不是stdin。</translation>
     </message>
     <message>
         <location filename="../qt-creator-opensource-src-4.9.1/src/tools/perfparser/app/main.cpp" line="94"/>

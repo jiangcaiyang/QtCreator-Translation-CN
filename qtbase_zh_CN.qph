@@ -1706,4 +1706,76 @@ Do you want to replace it?</source>
     <source>Directory</source>
     <target>目录</target>
 </phrase>
+<phrase>
+    <source>Services</source>
+    <target>服务</target>
+</phrase>
+<phrase>
+    <source>Hide %1</source>
+    <target>隐藏‘%1’</target>
+</phrase>
+<phrase>
+    <source>Hide Others</source>
+    <target>隐藏其他</target>
+</phrase>
+<phrase>
+    <source>Show All</source>
+    <target>全部显示</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>是</target>
+</phrase>
+<phrase>
+    <source>Yes to All</source>
+    <target>全是</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>否</target>
+</phrase>
+<phrase>
+    <source>No to All</source>
+    <target>全否</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t Save</source>
+    <target>不保存</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>关于</target>
+</phrase>
+<phrase>
+    <source>Config</source>
+    <target>配置</target>
+</phrase>
+<phrase>
+    <source>desktop</source>
+    <target>桌面</target>
+</phrase>
+<phrase>
+    <source>notification</source>
+    <target>通知</target>
+</phrase>
+<phrase>
+    <source>Redo</source>
+    <target>恢复</target>
+</phrase>
+<phrase>
+    <source>Setting</source>
+    <target>配置</target>
+</phrase>
+<phrase>
+    <source>Quit</source>
+    <target>退出</target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>退出</target>
+</phrase>
+<phrase>
+    <source>Home</source>
+    <target>主页</target>
+</phrase>
 </QPH>

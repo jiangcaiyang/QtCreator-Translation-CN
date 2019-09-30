@@ -170,7 +170,7 @@ Reason:
 </phrase>
 <phrase>
     <source>Name</source>
-    <target>名字</target>
+    <target>名称</target>
 </phrase>
 <phrase>
     <source>Address</source>
@@ -906,5 +906,17 @@ Reason:
 <phrase>
     <source>Note:</source>
     <target>注释：</target>
+</phrase>
+<phrase>
+    <source>Add Filter</source>
+    <target>添加过滤器</target>
+</phrase>
+<phrase>
+    <source>Components:</source>
+    <target>组件：</target>
+</phrase>
+<phrase>
+    <source>Versions:</source>
+    <target>版本：</target>
 </phrase>
 </QPH>

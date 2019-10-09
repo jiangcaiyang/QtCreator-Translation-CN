@@ -6374,7 +6374,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="530"/>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="535"/>
@@ -6384,12 +6384,12 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="540"/>
         <source>Minimum Size Release</source>
-        <translation>最小发布版</translation>
+        <translation>MinSizeRel</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="545"/>
         <source>Release with Debug Information</source>
-        <translation>含调试信息的发布版</translation>
+        <translation>RelWithDebInfo</translation>
     </message>
 </context>
 <context>
@@ -7519,7 +7519,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangcodemodel/clangtextmark.cpp" line="181"/>
         <source>Project: %1 (based on %2)</source>
-        <translation>工程: %1 (基于 %2)</translation>
+        <translation>工程：%1（基于 %2）</translation>
     </message>
     <message>
         <location filename="plugins/clangcodemodel/clangtextmark.cpp" line="203"/>
@@ -7868,7 +7868,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangtools/clangtoolruncontrol.cpp" line="146"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolruncontrol.cpp" line="148"/>
@@ -9232,7 +9232,7 @@ p, li { white-space: pre-wrap; }
         <location filename="plugins/compilationdatabaseprojectmanager/compilationdatabaseproject.cpp" line="548"/>
         <location filename="plugins/compilationdatabaseprojectmanager/compilationdatabaseproject.cpp" line="554"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
 </context>
 <context>
@@ -17741,7 +17741,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="2354"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="2363"/>
@@ -18973,7 +18973,7 @@ You can choose between waiting longer or aborting debugging.</source>
     <message>
         <location filename="plugins/debugger/gdb/gdbengine.cpp" line="3531"/>
         <source>Cannot set up communication with child process: %1</source>
-        <translation>不能建立与子进程的联系:%1</translation>
+        <translation>不能建立与子进程的联系：%1</translation>
     </message>
     <message>
         <location filename="plugins/debugger/gdb/gdbengine.cpp" line="3570"/>
@@ -30817,7 +30817,7 @@ UDID：%4
     <message>
         <location filename="plugins/nim/project/nimbuildconfiguration.cpp" line="194"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
 </context>
 <context>
@@ -30878,7 +30878,7 @@ UDID：%4
     <message>
         <location filename="plugins/nim/project/nimcompilerbuildstepconfigwidget.ui" line="83"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
 </context>
 <context>
@@ -33774,7 +33774,7 @@ UDID：%4
     <message>
         <location filename="plugins/projectexplorer/devicesupport/deviceusedportsgatherer.cpp" line="128"/>
         <source>Connection error: %1</source>
-        <translation>连接错误:%1</translation>
+        <translation>连接错误：%1</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/devicesupport/deviceusedportsgatherer.cpp" line="140"/>
@@ -42751,14 +42751,14 @@ In case the compiler has an unusual file name, you may need to provide the &apos
         <location filename="plugins/qbsprojectmanager/qbsbuildconfiguration.cpp" line="396"/>
         <source>Debug</source>
         <extracomment>The name of the debug build configuration created by default for a qbs project.</extracomment>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="plugins/qbsprojectmanager/qbsbuildconfiguration.cpp" line="399"/>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="plugins/qbsprojectmanager/qbsbuildconfiguration.cpp" line="405"/>
@@ -42809,7 +42809,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="plugins/qbsprojectmanager/qbsbuildstepconfigwidget.ui" line="38"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
     <message>
         <location filename="plugins/qbsprojectmanager/qbsbuildstepconfigwidget.ui" line="61"/>
@@ -43782,7 +43782,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <location filename="plugins/qmakeprojectmanager/librarydetailswidget.ui" line="199"/>
         <source>Library inside &quot;debug&quot; or &quot;release&quot; subfolder</source>
-        <translation>库里面的‘debug’或‘release’子文件夹</translation>
+        <translation>库在‘debug’或‘release’子文件夹中</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/librarydetailswidget.ui" line="209"/>
@@ -43938,7 +43938,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakestep.ui" line="66"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakestep.ui" line="90"/>
@@ -44076,7 +44076,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakeprojectimporter.cpp" line="249"/>
         <source>Release</source>
-        <translation>Release</translation>
+        <translation>发布版</translation>
     </message>
 </context>
 <context>
@@ -44422,14 +44422,14 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <location filename="plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="622"/>
         <source>Debug</source>
         <extracomment>The name of the debug build configuration created by default for a qmake project.</extracomment>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="624"/>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="627"/>
@@ -51165,7 +51165,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/remotelinux/abstractremotelinuxdeployservice.cpp" line="250"/>
         <source>Connection error: %1</source>
-        <translation>连接错误:%1</translation>
+        <translation>连接错误：%1</translation>
     </message>
 </context>
 <context>

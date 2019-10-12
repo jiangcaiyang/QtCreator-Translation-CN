@@ -198,7 +198,7 @@
 </phrase>
 <phrase>
     <source>Java Settings</source>
-    <target>Java设置</target>
+    <target>Java配置</target>
 </phrase>
 <phrase>
     <source>Native AVD Manager...</source>
@@ -400,7 +400,7 @@
 </phrase>
 <phrase>
     <source>Qbs Settings</source>
-    <target>Qbs设置</target>
+    <target>Qbs配置</target>
 </phrase>
 <phrase>
     <source>submit</source>
@@ -824,7 +824,7 @@
 </phrase>
 <phrase>
     <source>Executable:</source>
-    <target>可执行程序：</target>
+    <target>程序：</target>
 </phrase>
 <phrase>
     <source>Arguments:</source>
@@ -888,7 +888,7 @@
 </phrase>
 <phrase>
     <source>&amp;Executable:</source>
-    <target>可执行程序(&amp;E)：</target>
+    <target>程序(&amp;E)：</target>
 </phrase>
 <phrase>
     <source>Working Directory</source>
@@ -1632,7 +1632,7 @@
 </phrase>
 <phrase>
     <source>Resetting contents and settings...</source>
-    <target>重置内容和设置...</target>
+    <target>重置内容和配置...</target>
 </phrase>
 <phrase>
     <source>Simulator Name</source>
@@ -1840,7 +1840,7 @@
 </phrase>
 <phrase>
     <source>&amp;Track</source>
-    <target>跟踪(&amp;T)</target>
+    <target>追踪(&amp;T)</target>
 </phrase>
 <phrase>
     <source>&amp;Include old entries</source>
@@ -3060,7 +3060,7 @@
 </phrase>
 <phrase>
     <source>Settings...</source>
-    <target>设置...</target>
+    <target>配置...</target>
 </phrase>
 <phrase>
     <source>Properties...</source>
@@ -3336,7 +3336,7 @@
 </phrase>
 <phrase>
     <source>Track</source>
-    <target>跟踪</target>
+    <target>追踪</target>
 </phrase>
 <phrase>
     <source>Git Branches</source>
@@ -3456,7 +3456,7 @@
 </phrase>
 <phrase>
     <source>Executable</source>
-    <target>可执行程序</target>
+    <target>程序</target>
 </phrase>
 <phrase>
     <source>Show Hidden Files</source>
@@ -3641,5 +3641,341 @@
 <phrase>
     <source>Insert &quot;%1&quot;</source>
     <target>插入‘%1’</target>
+</phrase>
+<phrase>
+    <source>Account</source>
+    <target>账户</target>
+</phrase>
+<phrase>
+    <source>Clean Environment</source>
+    <target>清除环境</target>
+</phrase>
+<phrase>
+    <source>Executing test suite %1</source>
+    <target>执行测试套件‘%1’</target>
+</phrase>
+<phrase>
+    <source>&amp;ABI:</source>
+    <target>ABI（&amp;A)：</target>
+</phrase>
+<phrase>
+    <source>ABI:</source>
+    <target>ABI：</target>
+</phrase>
+<phrase>
+    <source>Log format:</source>
+    <target>日志格式：</target>
+</phrase>
+<phrase>
+    <source>Report level:</source>
+    <target>报告等级：</target>
+</phrase>
+<phrase>
+    <source>Randomize</source>
+    <target>随机</target>
+</phrase>
+<phrase>
+    <source>Seed:</source>
+    <target>种子：</target>
+</phrase>
+<phrase>
+    <source>CMake Generator</source>
+    <target>CMake生成器</target>
+</phrase>
+<phrase>
+    <source>Generator:</source>
+    <target>生成器：</target>
+</phrase>
+<phrase>
+    <source>Extra generator:</source>
+    <target>额外的生成器：</target>
+</phrase>
+<phrase>
+    <source>Platform:</source>
+    <target>平台：</target>
+</phrase>
+<phrase>
+    <source>Toolset:</source>
+    <target>工具集：</target>
+</phrase>
+<phrase>
+    <source>CMake Tool</source>
+    <target>CMake工具</target>
+</phrase>
+<phrase>
+    <source>Unconfigured</source>
+    <target>未配置</target>
+</phrase>
+<phrase>
+    <source>Select Directory</source>
+    <target>选择目录</target>
+</phrase>
+<phrase>
+    <source>Filter output...</source>
+    <target>过滤器输出...</target>
+</phrase>
+<phrase>
+    <source>Pin</source>
+    <target>锁定</target>
+</phrase>
+<phrase>
+    <source>QML Debugger Console</source>
+    <target>QML调试器控制台</target>
+</phrase>
+<phrase>
+    <source>Capabilities:</source>
+    <target>性能：</target>
+</phrase>
+<phrase>
+    <source>Counter</source>
+    <target>计数器</target>
+</phrase>
+<phrase>
+    <source>SSH</source>
+    <target>SSH</target>
+</phrase>
+<phrase>
+    <source>Build directory:</source>
+    <target>构建目录：</target>
+</phrase>
+<phrase>
+    <source>Build directory</source>
+    <target>构建目录</target>
+</phrase>
+<phrase>
+    <source>Sample period:</source>
+    <target>采样周期：</target>
+</phrase>
+<phrase>
+    <source>Sample mode:</source>
+    <target>采样模式：</target>
+</phrase>
+<phrase>
+    <source>Cannot open temporary trace file to store events.</source>
+    <target>无法打开临时追踪文件来存储事件。</target>
+</phrase>
+<phrase>
+    <source>Features</source>
+    <target>特征</target>
+</phrase>
+<phrase>
+    <source>B&amp;rowse...</source>
+    <target>浏览(&amp;R)...</target>
+</phrase>
+<phrase>
+    <source>Enable All</source>
+    <target>全部启用</target>
+</phrase>
+<phrase>
+    <source>Disable All</source>
+    <target>全部禁用</target>
+</phrase>
+<phrase>
+    <source>context switch</source>
+    <target>上下文切换</target>
+</phrase>
+<phrase>
+    <source>Samples</source>
+    <target>样品</target>
+</phrase>
+<phrase>
+    <source>Creating Memory Trace Points</source>
+    <target>创建内存追踪点</target>
+</phrase>
+<phrase>
+    <source>Executing script...</source>
+    <target>执行脚本...</target>
+</phrase>
+<phrase>
+    <source>Failed to create trace points.</source>
+    <target>无法创建追踪点。</target>
+</phrase>
+<phrase>
+    <source>CPU Usage</source>
+    <target>CPU使用率</target>
+</phrase>
+<phrase>
+    <source>ABI</source>
+    <target>ABI</target>
+</phrase>
+<phrase>
+    <source>Choose Directory</source>
+    <target>选择目录</target>
+</phrase>
+<phrase>
+    <source>[none]</source>
+    <target>[无]</target>
+</phrase>
+<phrase>
+    <source>Parent toolchain:</source>
+    <target>父工具链：</target>
+</phrase>
+<phrase>
+    <source>Word-wrap output</source>
+    <target>输出自动换行</target>
+</phrase>
+<phrase>
+    <source>Open Settings Page</source>
+    <target>打开配置页</target>
+</phrase>
+<phrase>
+    <source>Initialization:</source>
+    <target>初始化：</target>
+</phrase>
+<phrase>
+    <source>Platform</source>
+    <target>平台</target>
+</phrase>
+<phrase>
+    <source>Clone...</source>
+    <target>克隆...</target>
+</phrase>
+<phrase>
+    <source>Remove All</source>
+    <target>全部移除</target>
+</phrase>
+<phrase>
+    <source>Qt version</source>
+    <target>Qt 版本</target>
+</phrase>
+<phrase>
+    <source>Project File</source>
+    <target>项目文件</target>
+</phrase>
+<phrase>
+    <source>Choose Project File</source>
+    <target>选择项目文件</target>
+</phrase>
+<phrase>
+    <source>Desktop (%1)</source>
+    <target>桌面（%1）</target>
+</phrase>
+<phrase>
+    <source>Settings Filter...</source>
+    <target>过滤器配置...</target>
+</phrase>
+<phrase>
+    <source>Select the Root Directory</source>
+    <target>选择根目录</target>
+</phrase>
+<phrase>
+    <source>Show Live Preview</source>
+    <target>显示实时预览</target>
+</phrase>
+<phrase>
+    <source>Duration:</source>
+    <target>持续：</target>
+</phrase>
+<phrase>
+    <source>Duration</source>
+    <target>持续</target>
+</phrase>
+<phrase>
+    <source>base state</source>
+    <target>基态</target>
+</phrase>
+<phrase>
+    <source>End frame:</source>
+    <target>结束帧：</target>
+</phrase>
+<phrase>
+    <source>Animation</source>
+    <target>动画</target>
+</phrase>
+<phrase>
+    <source>Expression binding</source>
+    <target>绑定表达式</target>
+</phrase>
+<phrase>
+    <source>Timeline ID:</source>
+    <target>时间轴ID：</target>
+</phrase>
+<phrase>
+    <source>Start frame:</source>
+    <target>开始帧：</target>
+</phrase>
+<phrase>
+    <source>Previous Frame</source>
+    <target>上一帧</target>
+</phrase>
+<phrase>
+    <source>Next Frame</source>
+    <target>下一帧</target>
+</phrase>
+<phrase>
+    <source>Insert Keyframe</source>
+    <target>插入关键帧</target>
+</phrase>
+<phrase>
+    <source>Delete Keyframe</source>
+    <target>删除关键帧</target>
+</phrase>
+<phrase>
+    <source>Timeline Settings</source>
+    <target>时间轴配置</target>
+</phrase>
+<phrase>
+    <source>Loop</source>
+    <target>循环</target>
+</phrase>
+<phrase>
+    <source>Add Timeline</source>
+    <target>添加时间轴</target>
+</phrase>
+<phrase>
+    <source>Font Files</source>
+    <target>字体文件</target>
+</phrase>
+<phrase>
+    <source>Paste Keyframes</source>
+    <target>粘贴关键帧</target>
+</phrase>
+<phrase>
+    <source>Unexpected token &apos;.&apos;</source>
+    <target>非预期符号‘.’</target>
+</phrase>
+<phrase>
+    <source>QML Preview</source>
+    <target>QML预览</target>
+</phrase>
+<phrase>
+    <source>Preview File</source>
+    <target>预览文件</target>
+</phrase>
+<phrase>
+    <source>Reset Flame Graph</source>
+    <target>重置火焰图</target>
+</phrase>
+<phrase>
+    <source>Search Options (optional)</source>
+    <target>搜索选项（可选）</target>
+</phrase>
+<phrase>
+    <source>Key Deployment</source>
+    <target>私钥部署</target>
+</phrase>
+<phrase>
+    <source>Cannot open terminal</source>
+    <target>无法打开终端</target>
+</phrase>
+<phrase>
+    <source>Update Definitions</source>
+    <target>更新定义</target>
+</phrase>
+<phrase>
+    <source>Other annotations</source>
+    <target>其他注释</target>
+</phrase>
+<phrase>
+    <source>Override Color</source>
+    <target>覆盖颜色</target>
+</phrase>
+<phrase>
+    <source>Reset Color</source>
+    <target>重置颜色</target>
+</phrase>
+<phrase>
+    <source>Edit Easing Curve...</source>
+    <target>编辑缓和曲线...</target>
 </phrase>
 </QPH>

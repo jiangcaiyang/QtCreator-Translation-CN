@@ -993,4 +993,8 @@ Line: %2</source>
     <source>Alt+0</source>
     <target>Alt+0</target>
 </phrase>
+<phrase>
+    <source>%1 (%2)</source>
+    <target>%1（%2）</target>
+</phrase>
 </QPH>

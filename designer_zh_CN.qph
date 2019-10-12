@@ -652,7 +652,7 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Assistant</source>
-    <target>助理</target>
+    <target>助手</target>
 </phrase>
 <phrase>
     <source>&amp;Close Preview</source>
@@ -1753,7 +1753,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Copy All</source>
-    <target>复制全部</target>
+    <target>全部复制</target>
 </phrase>
 <phrase>
     <source>Header Files (*.%1)</source>

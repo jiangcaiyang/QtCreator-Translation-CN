@@ -864,7 +864,7 @@
 </phrase>
 <phrase>
     <source>&amp;Unset</source>
-    <target>取消设置(&amp;U)</target>
+    <target>复位(&amp;U)</target>
 </phrase>
 <phrase>
     <source>&lt;none&gt;</source>
@@ -3977,5 +3977,81 @@
 <phrase>
     <source>Edit Easing Curve...</source>
     <target>编辑缓和曲线...</target>
+</phrase>
+<phrase>
+    <source>Find References to Symbol Under Cursor</source>
+    <target>查找所有引用</target>
+</phrase>
+<phrase>
+    <source>Open With</source>
+    <target>打开方式</target>
+</phrase>
+<phrase>
+    <source>Selected</source>
+    <target>选中</target>
+</phrase>
+<phrase>
+    <source>Starting %1</source>
+    <target>正在启动‘%1’</target>
+</phrase>
+<phrase>
+    <source>%1 (%2)</source>
+    <target>%1（%2）</target>
+</phrase>
+<phrase>
+    <source>Unknown option: %1</source>
+    <target>未知的选项：%1</target>
+</phrase>
+<phrase>
+    <source>Reindex</source>
+    <target>重建索引</target>
+</phrase>
+<phrase>
+    <source>Analyze Project...</source>
+    <target>分析项目...</target>
+</phrase>
+<phrase>
+    <source>Analyze Current File</source>
+    <target>分析当前文件</target>
+</phrase>
+<phrase>
+    <source>Suppressed diagnostics</source>
+    <target>抑制诊断</target>
+</phrase>
+<phrase>
+    <source>Instant</source>
+    <target>瞬时</target>
+</phrase>
+<phrase>
+    <source>Scope</source>
+    <target>范围</target>
+</phrase>
+<phrase>
+    <source>process</source>
+    <target>进程</target>
+</phrase>
+<phrase>
+    <source>thread</source>
+    <target>线程</target>
+</phrase>
+<phrase>
+    <source>Return Arguments</source>
+    <target>返回参数</target>
+</phrase>
+<phrase>
+    <source>%1 %2</source>
+    <target>%1 %2</target>
+</phrase>
+<phrase>
+    <source>Interpreter</source>
+    <target>解释器</target>
+</phrase>
+<phrase>
+    <source>Browse...</source>
+    <target>浏览...</target>
+</phrase>
+<phrase>
+    <source>Error: %1</source>
+    <target>错误：%1</target>
 </phrase>
 </QPH>

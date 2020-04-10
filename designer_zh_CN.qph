@@ -3195,4 +3195,8 @@ Class: %2</source>
     <source>Cancel</source>
     <target>取消</target>
 </phrase>
+<phrase>
+    <source>Save Form</source>
+    <target>保存窗体</target>
+</phrase>
 </QPH>

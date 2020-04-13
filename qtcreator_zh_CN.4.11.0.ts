@@ -7939,7 +7939,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/clangcodemodel/clangbackendcommunicator.cpp" line="431"/>
         <source>Clang Code Model: Error: The clangbackend executable &quot;%1&quot; could not be started (timeout after %2ms).</source>
-        <translation>Clang代码模型错误：后台程序‘%1’无法启动（超时后%2 ms）。</translation>
+        <translation>Clang代码模型错误：后台程序‘%1’无法启动（超时%2ms）。</translation>
     </message>
     <message>
         <location filename="plugins/clangcodemodel/clangbackendcommunicator.cpp" line="442"/>
@@ -7994,7 +7994,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/clangcodemodel/clangdiagnosticmanager.cpp" line="228"/>
         <source>Inspect available fixits</source>
-        <translation>检查可用fixits</translation>
+        <translation>检查可用纠正</translation>
     </message>
 </context>
 <context>
@@ -8071,17 +8071,17 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangtools/clangtoolsutils.cpp" line="188"/>
         <source>Clang-Tidy static analyzer checks</source>
-        <translation>Clang-Tiny静态检查器检查</translation>
+        <translation>Clang-Tiny静态分析器检查</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsutils.cpp" line="202"/>
         <source>Clazy level0 checks</source>
-        <translation>Clazy级别0检查</translation>
+        <translation>Clazy 0级检查</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsutils.cpp" line="212"/>
         <source>Clang-Tidy and Clazy preselected checks</source>
-        <translation>Clang-Tiny和Clazy预选检查</translation>
+        <translation>Clang-Tiny &amp; Clazy 预选检查</translation>
     </message>
     <message>
         <location filename="plugins/cpptools/cpptoolsreuse.cpp" line="362"/>
@@ -8493,7 +8493,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangtools/clangtool.cpp" line="386"/>
         <source>Apply Fixits</source>
-        <translation>应用Fixits</translation>
+        <translation>应用纠正</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtool.cpp" line="413"/>
@@ -8771,22 +8771,22 @@ Output:
     <message>
         <location filename="plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="196"/>
         <source>No Fixits</source>
-        <translation>没有纠正</translation>
+        <translation>无纠正</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="198"/>
         <source>Not Scheduled</source>
-        <translation>没有计划</translation>
+        <translation>未计划</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="200"/>
         <source>Invalidated</source>
-        <translation>失效的</translation>
+        <translation>已失效</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="202"/>
         <source>Scheduled</source>
-        <translation>计划的</translation>
+        <translation>已计划</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsdiagnosticmodel.cpp" line="204"/>
@@ -8858,7 +8858,7 @@ Output:
     <message>
         <location filename="plugins/clangtools/clangtoolsprojectsettingswidget.ui" line="36"/>
         <source>Restore Global Settings</source>
-        <translation>还有全局配置</translation>
+        <translation>还原全局配置</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsprojectsettingswidget.ui" line="43"/>

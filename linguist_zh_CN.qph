@@ -803,7 +803,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>Definition</source>
-    <target>准确度</target>
+    <target>定义</target>
 </phrase>
 <phrase>
     <source>Source phrase</source>
@@ -895,7 +895,7 @@ Line: %2</source>
 </phrase>
 <phrase>
     <source>&amp;Definition:</source>
-    <target>准确度(&amp;D)：</target>
+    <target>定义(&amp;D)：</target>
 </phrase>
 <phrase>
     <source>&amp;New Entry</source>

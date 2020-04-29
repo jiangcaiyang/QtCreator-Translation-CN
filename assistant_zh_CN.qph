@@ -410,7 +410,7 @@ Reason:
 </phrase>
 <phrase>
     <source>&amp;Close Tab</source>
-    <target>关闭标签(&amp;C)</target>
+    <target>关闭标签页(&amp;C)</target>
 </phrase>
 <phrase>
     <source>Page Set&amp;up...</source>

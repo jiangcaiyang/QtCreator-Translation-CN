@@ -549,7 +549,7 @@ The minimum API level required by the kit is %1.</source>
     <message>
         <location filename="plugins/android/androidpackageinstallationstep.cpp" line="106"/>
         <source>Removing directory %1</source>
-        <translation>移除目录‘%1’</translation>
+        <translation>删除目录‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/android/androidpackageinstallationstep.cpp" line="146"/>
@@ -930,7 +930,7 @@ The files in the Android package source directory are copied to the build direct
     <message>
         <location filename="plugins/android/androidbuildapkwidget.cpp" line="303"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/android/androidbuildapkwidget.cpp" line="304"/>
@@ -1585,7 +1585,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="plugins/android/androidmanifesteditorwidget.cpp" line="496"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/android/androidmanifesteditorwidget.cpp" line="1501"/>
@@ -2856,7 +2856,7 @@ Install an SDK of at least API version %1.</source>
         <location filename="plugins/android/androidsettingswidget.ui" line="240"/>
         <location filename="plugins/android/androidsettingswidget.ui" line="459"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/android/androidsettingswidget.ui" line="265"/>
@@ -4711,7 +4711,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location filename="plugins/baremetal/debugserverproviderssettingspage.cpp" line="311"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/baremetal/debugserverproviderssettingspage.cpp" line="335"/>
@@ -6324,12 +6324,12 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <location filename="plugins/bazaar/uncommitdialog.ui" line="23"/>
         <source>Keep tags that point to removed revisions</source>
-        <translation>保留标签并指向已移除的修订版本</translation>
+        <translation>保留标签并指向已删除的修订版本</translation>
     </message>
     <message>
         <location filename="plugins/bazaar/uncommitdialog.ui" line="30"/>
         <source>Only remove the commits from the local branch when in a checkout</source>
-        <translation>只有当检出时，从本地分支中移除这些提交</translation>
+        <translation>只有当检出时，从本地分支中删除这些提交</translation>
     </message>
     <message>
         <location filename="plugins/bazaar/uncommitdialog.ui" line="37"/>
@@ -6356,7 +6356,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/bazaar/bazaarplugin.cpp" line="267"/>
         <source>Test the outcome of removing the last committed revision, without actually removing anything.</source>
-        <translation>测试的结果是移除最后提交的版本，实际上不删除任何东西。</translation>
+        <translation>测试的结果是删除最后提交的版本，实际上不删除任何东西。</translation>
     </message>
 </context>
 <context>
@@ -6649,7 +6649,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/beautifier/configurationpanel.ui" line="42"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/beautifier/configurationpanel.ui" line="49"/>
@@ -7034,7 +7034,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="shared/help/bookmarkmanager.cpp" line="647"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="shared/help/bookmarkmanager.cpp" line="648"/>
@@ -7133,12 +7133,12 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/bookmarks/bookmarkmanager.cpp" line="240"/>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="plugins/bookmarks/bookmarkmanager.cpp" line="242"/>
         <source>Remove All</source>
-        <translation>全部移除</translation>
+        <translation>全部删除</translation>
     </message>
     <message>
         <location filename="plugins/bookmarks/bookmarkmanager.cpp" line="288"/>
@@ -8878,7 +8878,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="537"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="540"/>
@@ -9344,12 +9344,12 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/clangcodemodel/clangcodemodelplugin.cpp" line="126"/>
         <source>Generate Compilation Database for &quot;%1&quot;</source>
-        <translation>为‘%1’生成编译数据库</translation>
+        <translation>生成编译数据库‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/clangcodemodel/clangcodemodelplugin.cpp" line="145"/>
         <source>Clang compilation database generated at &quot;%1&quot;.</source>
-        <translation>在‘%1’处生成Clang编译数据库。</translation>
+        <translation>生成Clang编译数据库‘%1’。</translation>
     </message>
     <message>
         <location filename="plugins/clangcodemodel/clangcodemodelplugin.cpp" line="148"/>
@@ -10176,7 +10176,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangtools/clangtoolruncontrol.cpp" line="373"/>
         <source>Analyzing &quot;%1&quot; [%2].</source>
-        <translation>‘%1’[%2]分析中。</translation>
+        <translation>‘%1’分析中[%2]。</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolruncontrol.cpp" line="376"/>
@@ -10553,12 +10553,12 @@ Set a valid executable first.</source>
     <message>
         <location filename="plugins/clangtools/clangtoolsprojectsettingswidget.ui" line="92"/>
         <source>Remove Selected</source>
-        <translation>移除选中</translation>
+        <translation>删除选中</translation>
     </message>
     <message>
         <location filename="plugins/clangtools/clangtoolsprojectsettingswidget.ui" line="99"/>
         <source>Remove All</source>
-        <translation>全部移除</translation>
+        <translation>全部删除</translation>
     </message>
 </context>
 <context>
@@ -12691,7 +12691,7 @@ Continue?</source>
     <message>
         <location filename="plugins/coreplugin/editortoolbar.cpp" line="374"/>
         <source>Remove Split</source>
-        <translation>移除分栏</translation>
+        <translation>删除分栏</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/editortoolbar.cpp" line="409"/>
@@ -13297,7 +13297,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="plugins/coreplugin/locator/directoryfilter.ui" line="102"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/locator/directoryfilter.ui" line="126"/>
@@ -13451,7 +13451,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="plugins/coreplugin/editormanager/editormanager.cpp" line="481"/>
         <source>Remove Current Split</source>
-        <translation>移除当前分栏</translation>
+        <translation>删除当前分栏</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/editormanager/editormanager.cpp" line="483"/>
@@ -13713,12 +13713,12 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/dialogs/externaltoolconfig.ui" line="50"/>
         <source>Remove tool.</source>
-        <translation>移除工具。</translation>
+        <translation>删除工具。</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/dialogs/externaltoolconfig.ui" line="53"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/dialogs/externaltoolconfig.ui" line="73"/>
@@ -14361,7 +14361,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/locator/locatorsettingspage.ui" line="38"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/locator/locatorsettingspage.ui" line="48"/>
@@ -14943,7 +14943,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/mimetypesettingspage.ui" line="155"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -15842,7 +15842,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/locator/urllocatorfilter.ui" line="84"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/locator/urllocatorfilter.ui" line="97"/>
@@ -16898,7 +16898,7 @@ to version control (%2)
     <message>
         <location filename="plugins/cpptools/clangdiagnosticconfigswidget.ui" line="41"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>InfoIcon</source>
@@ -19315,7 +19315,7 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="588"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="602"/>
@@ -19541,12 +19541,12 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="213"/>
         <source>Change requested</source>
-        <translation>请求改变</translation>
+        <translation>请求修改</translation>
     </message>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="215"/>
         <source>Change proceeding</source>
-        <translation>执行改变</translation>
+        <translation>执行修改</translation>
     </message>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="217"/>
@@ -19556,12 +19556,12 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="219"/>
         <source>Removal requested</source>
-        <translation>移除请求</translation>
+        <translation>请求删除</translation>
     </message>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="221"/>
         <source>Removal proceeding</source>
-        <translation>移除执行</translation>
+        <translation>执行删除</translation>
     </message>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="223"/>
@@ -20237,12 +20237,12 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="2668"/>
         <source>Remove All Breakpoints</source>
-        <translation>移除所有断点</translation>
+        <translation>删除所有断点</translation>
     </message>
     <message>
         <location filename="plugins/debugger/breakhandler.cpp" line="2669"/>
         <source>Are you sure you want to remove all breakpoints from all files in the current session?</source>
-        <translation>你确定要移除本次会话内的所有文件的断点吗？</translation>
+        <translation>你确定要删除本次会话内的所有文件的断点吗？</translation>
     </message>
 </context>
 <context>
@@ -20329,7 +20329,7 @@ Do you want to display them anyway?</source>
 If you have updated %2 via Maintenance Tool, you may need to rerun the Tool and select &quot;Add or remove components&quot; and then select the Qt &gt; Tools &gt; Qt Creator CDB Debugger Support component.
 If you build %2 from sources and want to use a CDB executable with another bitness than your %2 build, you will need to build a separate CDB extension with the same bitness as the CDB you want to use.</source>
         <translation>内部错误：找不到扩展%1。
-如果您通过维护工具更新到%2，您可能需要重新运行工具并且选择‘添加或者移除组件’然后选择‘Qt &gt; 工具 &gt; Qt Creator CDB调试器支持组件’。
+如果您通过维护工具更新到%2，您可能需要重新运行工具并且选择‘添加或者删除组件’然后选择‘Qt &gt; 工具 &gt; Qt Creator CDB调试器支持组件’。
 如果您从源码中构建%2并且想要使用CDB调试不同位数的程序而不是%2构建，你将需要构建一个单独的和您想使用的CDB位数相同的CDB扩展。</translation>
     </message>
     <message>
@@ -21942,7 +21942,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1824"/>
         <source>Remove Breakpoint</source>
-        <translation>移除断点</translation>
+        <translation>删除断点</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1829"/>
@@ -22290,7 +22290,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggersourcepathmappingwidget.cpp" line="208"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggersourcepathmappingwidget.cpp" line="212"/>
@@ -24549,7 +24549,7 @@ You can choose another communication channel here, such as a serial line or cust
     <message>
         <location filename="plugins/debugger/uvsc/uvscengine.cpp" line="766"/>
         <source>UVSC: Removing breakpoint failed.</source>
-        <translation>UVSC：移除断点失败。</translation>
+        <translation>UVSC：删除断点失败。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/uvsc/uvscengine.cpp" line="779"/>
@@ -25813,7 +25813,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="plugins/diffeditor/diffeditordocument.cpp" line="325"/>
         <source>Could not parse patch file &quot;%1&quot;. The content is not of unified diff format.</source>
-        <translation>无法解析补丁文件‘%1’。没有内容是统一的diff格式。</translation>
+        <translation>无法解析补丁文件‘%1’。没有内容是统一的对比格式。</translation>
     </message>
 </context>
 <context>
@@ -25867,12 +25867,12 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="574"/>
         <source>Select First File for Diff</source>
-        <translation>选择DIFF第一个文件</translation>
+        <translation>选择第一个文件</translation>
     </message>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="582"/>
         <source>Select Second File for Diff</source>
-        <translation>选择DIFF第二个文件</translation>
+        <translation>选择第二个文件</translation>
     </message>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="591"/>
@@ -26051,7 +26051,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="plugins/diffeditor/diffview.cpp" line="175"/>
         <source>Switch to Side By Side Diff Editor</source>
-        <translation>切换到并排DIFF编辑器</translation>
+        <translation>切换到并排对比编辑器</translation>
     </message>
 </context>
 <context>
@@ -26059,7 +26059,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="plugins/diffeditor/diffview.cpp" line="98"/>
         <source>Switch to Unified Diff Editor</source>
-        <translation>切换到统一DIFF编辑器</translation>
+        <translation>切换到统一对比编辑器</translation>
     </message>
 </context>
 <context>
@@ -27795,7 +27795,7 @@ See also Google Test settings.</source>
     <message>
         <location filename="plugins/genericprojectmanager/genericprojectplugin.cpp" line="102"/>
         <source>Remove Directory</source>
-        <translation>移除目录</translation>
+        <translation>删除目录</translation>
     </message>
     <message>
         <source>Project files list update failed.</source>
@@ -28592,7 +28592,7 @@ Would you like to terminate it?</source>
     <message>
         <location filename="plugins/git/branchview.cpp" line="221"/>
         <source>Remove &amp;Stale Branches</source>
-        <translation>移除过期分支(&amp;S)</translation>
+        <translation>删除过期分支(&amp;S)</translation>
     </message>
     <message>
         <location filename="plugins/git/branchview.cpp" line="226"/>
@@ -28602,7 +28602,7 @@ Would you like to terminate it?</source>
     <message>
         <location filename="plugins/git/branchview.cpp" line="232"/>
         <source>Rem&amp;ove...</source>
-        <translation>移除(&amp;O)...</translation>
+        <translation>删除(&amp;O)...</translation>
     </message>
     <message>
         <location filename="plugins/git/branchview.cpp" line="234"/>
@@ -31099,7 +31099,7 @@ Remote: %4</source>
     <message>
         <location filename="plugins/git/remotedialog.ui" line="123"/>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="plugins/git/remotedialog.cpp" line="76"/>
@@ -31711,7 +31711,7 @@ Leave empty to search through the file system.</source>
     <message>
         <location filename="plugins/help/docsettingspage.ui" line="52"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>%1 (auto-detected)</source>
@@ -31789,7 +31789,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location filename="plugins/help/filtersettingspage.ui" line="125"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/help/filtersettingspage.cpp" line="82"/>
@@ -34657,7 +34657,7 @@ UDID：%4
     <message>
         <location filename="plugins/macros/macrooptionswidget.ui" line="85"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/macros/macrooptionswidget.ui" line="95"/>
@@ -35760,7 +35760,7 @@ UDID：%4
     <message>
         <location filename="plugins/modeleditor/actionhandler.cpp" line="145"/>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="plugins/modeleditor/actionhandler.cpp" line="150"/>
@@ -36879,7 +36879,7 @@ UDID：%4
     <message>
         <location filename="plugins/perfprofiler/perfconfigwidget.ui" line="120"/>
         <source>Remove Event</source>
-        <translation>移除事件</translation>
+        <translation>删除事件</translation>
     </message>
     <message>
         <location filename="plugins/perfprofiler/perfconfigwidget.ui" line="127"/>
@@ -39997,7 +39997,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="97"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="102"/>
@@ -40035,12 +40035,12 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="310"/>
         <source>Cancel Build &amp;&amp; Remove Build Configuration</source>
-        <translation>取消构建 &amp;&amp; 移除构建配置</translation>
+        <translation>取消构建并删除构建配置</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="311"/>
         <source>Do Not Remove</source>
-        <translation>不移除</translation>
+        <translation>不删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="313"/>
@@ -40055,7 +40055,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="315"/>
         <source>Do you want to cancel the build process and remove the Build Configuration anyway?</source>
-        <translation>您想要取消构建并移除构建配置吗？</translation>
+        <translation>您想要取消构建并删除构建配置吗？</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildsettingspropertiespage.cpp" line="321"/>
@@ -40083,7 +40083,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildstepspage.cpp" line="98"/>
         <source>Remove Item</source>
-        <translation>移除项</translation>
+        <translation>删除项</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildstepspage.cpp" line="142"/>
@@ -40124,7 +40124,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildstepspage.cpp" line="386"/>
         <source>Cannot remove build step while building</source>
-        <translation>无法在构建时移除构建步骤</translation>
+        <translation>无法在构建时删除构建步骤</translation>
     </message>
 </context>
 <context>
@@ -40535,7 +40535,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/deploymentdataview.cpp" line="102"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/deploymentdataview.cpp" line="111"/>
@@ -40661,7 +40661,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicesettingswidget.ui" line="194"/>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicesettingswidget.ui" line="207"/>
@@ -40996,7 +40996,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/foldernavigationwidget.cpp" line="991"/>
         <source>Remove...</source>
-        <translation>移除...</translation>
+        <translation>删除...</translation>
     </message>
 </context>
 <context>
@@ -42026,7 +42026,7 @@ to project &quot;%2&quot;.</source>
         <location filename="plugins/projectexplorer/removetaskhandler.cpp" line="43"/>
         <source>Remove</source>
         <comment>Name of the action triggering the removetaskhandler</comment>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/removetaskhandler.cpp" line="44"/>
@@ -42045,7 +42045,7 @@ to project &quot;%2&quot;.</source>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="65"/>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="75"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="66"/>
@@ -42114,12 +42114,12 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="342"/>
         <source>Cancel Build &amp;&amp; Remove Deploy Configuration</source>
-        <translation>取消构建和移除部署配置</translation>
+        <translation>取消构建并删除部署配置</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="343"/>
         <source>Do Not Remove</source>
-        <translation>不移除</translation>
+        <translation>不删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="345"/>
@@ -42134,7 +42134,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="347"/>
         <source>Do you want to cancel the build process and remove the Deploy Configuration anyway?</source>
-        <translation>您想要取消构建并移除部署配置吗？</translation>
+        <translation>您想要取消构建并删除部署配置吗？</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/runsettingspropertiespage.cpp" line="353"/>
@@ -42541,12 +42541,12 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <location filename="plugins/projectexplorer/toolchainoptionspage.cpp" line="213"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/toolchainoptionspage.cpp" line="215"/>
         <source>Remove All</source>
-        <translation>全部移除</translation>
+        <translation>全部删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/toolchainoptionspage.cpp" line="230"/>
@@ -44757,7 +44757,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/session.cpp" line="901"/>
         <source>Remove projects from Session</source>
-        <translation>从会话中移除项目</translation>
+        <translation>从会话中删除项目</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/session.cpp" line="1003"/>
@@ -45197,7 +45197,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="93"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="94"/>
@@ -45549,7 +45549,7 @@ ID：%2
     <message>
         <location filename="libs/utils/fancymainwindow.cpp" line="167"/>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation>移除并重新安装可停靠窗体</translation>
+        <translation>删除并重新安装可停靠窗体</translation>
     </message>
     <message>
         <location filename="libs/utils/fancymainwindow.cpp" line="168"/>
@@ -47568,7 +47568,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="shared/qbs/src/lib/corelib/buildgraph/productinstaller.cpp" line="77"/>
         <source>Refusing to remove root directory.</source>
-        <translation>拒绝移除根目录。</translation>
+        <translation>拒绝删除根目录。</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/buildgraph/productinstaller.cpp" line="79"/>
@@ -49269,7 +49269,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="plugins/qbsprojectmanager/customqbspropertiesdialog.ui" line="52"/>
         <source>&amp;Remove</source>
-        <translation>移除(&amp;R)</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="plugins/qbsprojectmanager/customqbspropertiesdialog.cpp" line="44"/>
@@ -51931,7 +51931,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmldesigner/components/annotationeditor/annotationeditordialog.cpp" line="63"/>
         <source>Remove Comment</source>
-        <translation>移除注释</translation>
+        <translation>删除注释</translation>
     </message>
     <message>
         <location filename="plugins/qmldesigner/components/annotationeditor/annotationeditordialog.cpp" line="81"/>
@@ -52170,7 +52170,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmldesigner/components/formeditor/formeditorannotationicon.cpp" line="211"/>
         <source>Remove Annotation</source>
-        <translation>移除注释</translation>
+        <translation>删除注释</translation>
     </message>
     <message>
         <location filename="plugins/qmldesigner/components/formeditor/formeditorannotationicon.cpp" line="335"/>
@@ -53991,7 +53991,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="plugins/qmldesigner/components/timelineeditor/timelinepropertyitem.cpp" line="463"/>
         <source>Remove Property</source>
-        <translation>移除属性</translation>
+        <translation>删除属性</translation>
     </message>
 </context>
 <context>
@@ -54009,7 +54009,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="plugins/qmldesigner/components/timelineeditor/timelinesettingsdialog.cpp" line="111"/>
         <source>Remove Timeline</source>
-        <translation>移除时间轴</translation>
+        <translation>删除时间轴</translation>
     </message>
     <message>
         <location filename="plugins/qmldesigner/components/timelineeditor/timelinesettingsdialog.cpp" line="132"/>
@@ -54019,7 +54019,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="plugins/qmldesigner/components/timelineeditor/timelinesettingsdialog.cpp" line="134"/>
         <source>Remove Animation</source>
-        <translation>移除动画</translation>
+        <translation>删除动画</translation>
     </message>
     <message>
         <location filename="plugins/qmldesigner/components/timelineeditor/timelinesettingsdialog.cpp" line="208"/>
@@ -57676,7 +57676,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="plugins/qnx/qnxdeployqtlibrariesdialog.cpp" line="316"/>
         <source>Removing &quot;%1&quot;</source>
-        <translation>移除‘%1’</translation>
+        <translation>删除‘%1’</translation>
     </message>
 </context>
 <context>
@@ -57865,7 +57865,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="plugins/qnx/qnxsettingswidget.ui" line="166"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/qnx/qnxsettingspage.cpp" line="114"/>
@@ -57891,7 +57891,7 @@ Are you sure you want to continue?</source>
         <location filename="plugins/qnx/qnxsettingspage.cpp" line="145"/>
         <source>Are you sure you want to remove:
  %1?</source>
-        <translation>你确定你想要移除：
+        <translation>你确定你想要删除：
 %1？</translation>
     </message>
     <message>
@@ -57960,7 +57960,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="plugins/resourceeditor/qrceditor/qrceditor.ui" line="57"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/resourceeditor/qrceditor/qrceditor.ui" line="64"/>
@@ -58486,7 +58486,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/qtoptionspage.cpp" line="977"/>
         <source>Remove Link</source>
-        <translation>移除关联</translation>
+        <translation>删除关联</translation>
     </message>
 </context>
 <context>
@@ -58545,7 +58545,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/qtversionmanager.ui" line="82"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/qtsupport/qtversionmanager.ui" line="105"/>
@@ -60412,7 +60412,7 @@ If you do not have a private key yet, you can also create one here.</source>
     <message>
         <location filename="plugins/resourceeditor/resourceeditorplugin.cpp" line="210"/>
         <source>Remove File...</source>
-        <translation>移除文件...</translation>
+        <translation>删除文件...</translation>
     </message>
     <message>
         <location filename="plugins/resourceeditor/resourceeditorplugin.cpp" line="215"/>
@@ -60656,7 +60656,7 @@ If you do not have a private key yet, you can also create one here.</source>
     <message>
         <location filename="plugins/scxmleditor/common/colorsettings.cpp" line="102"/>
         <source>Remove Color Theme</source>
-        <translation>移除颜色主题</translation>
+        <translation>删除颜色主题</translation>
     </message>
     <message>
         <location filename="plugins/scxmleditor/common/colorsettings.cpp" line="103"/>
@@ -60988,7 +60988,7 @@ If you do not have a private key yet, you can also create one here.</source>
         <location filename="plugins/scxmleditor/common/structure.cpp" line="246"/>
         <location filename="plugins/scxmleditor/common/structure.cpp" line="325"/>
         <source>Remove items</source>
-        <translation>移除项</translation>
+        <translation>删除项</translation>
     </message>
     <message>
         <location filename="plugins/scxmleditor/common/structure.cpp" line="256"/>
@@ -61378,7 +61378,7 @@ Description:	%4</source>
     <message>
         <location filename="plugins/scxmleditor/plugin_interface/graphicsscene.cpp" line="205"/>
         <source>Remove items</source>
-        <translation>移除项</translation>
+        <translation>删除项</translation>
     </message>
     <message>
         <location filename="plugins/scxmleditor/plugin_interface/graphicsscene.cpp" line="371"/>
@@ -61567,7 +61567,7 @@ Row: %4, Column: %5
     <message>
         <location filename="plugins/scxmleditor/plugin_interface/scxmldocument.cpp" line="553"/>
         <source>Remove Tag</source>
-        <translation>移除标签</translation>
+        <translation>删除标签</translation>
     </message>
 </context>
 <context>
@@ -61595,7 +61595,7 @@ Row: %4, Column: %5
     <message>
         <location filename="plugins/scxmleditor/plugin_interface/scxmltagutils.cpp" line="93"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -61684,7 +61684,7 @@ Row: %4, Column: %5
     <message>
         <location filename="plugins/scxmleditor/plugin_interface/transitionitem.cpp" line="427"/>
         <source>Remove Point</source>
-        <translation>移除端点</translation>
+        <translation>删除端点</translation>
     </message>
 </context>
 <context>
@@ -62511,7 +62511,7 @@ Row: %4, Column: %5
     <message>
         <location filename="plugins/projectexplorer/targetsettingspanel.cpp" line="427"/>
         <source>Do Not Remove</source>
-        <translation>不移除</translation>
+        <translation>不删除</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/targetsettingspanel.cpp" line="429"/>
@@ -62526,7 +62526,7 @@ Row: %4, Column: %5
     <message>
         <location filename="plugins/projectexplorer/targetsettingspanel.cpp" line="431"/>
         <source>Do you want to cancel the build process and remove the kit anyway?</source>
-        <translation>你想要取消构建过程并移除构建套件么？</translation>
+        <translation>你想要取消构建过程并删除构建套件么？</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/targetsettingspanel.cpp" line="444"/>
@@ -63494,7 +63494,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="plugins/texteditor/codestyleselectorwidget.ui" line="58"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/codestyleselectorwidget.ui" line="65"/>
@@ -64217,7 +64217,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="plugins/texteditor/snippets/snippetssettingspage.ui" line="55"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/snippets/snippetssettingspage.ui" line="62"/>
@@ -65173,12 +65173,12 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="98"/>
         <source>Links that follow symbol under cursor.</source>
-        <translation>跟随光标所在符号的链接。</translation>
+        <translation>跟踪光标下的符号的链接。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="99"/>
         <source>Selection</source>
-        <translation>选择</translation>
+        <translation>选中</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="99"/>
@@ -65193,7 +65193,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="102"/>
         <source>Line numbers located on the left side of the editor.</source>
-        <translation>位于编辑器左侧的行号。</translation>
+        <translation>编辑器左侧的行号。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="104"/>
@@ -65213,7 +65213,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="108"/>
         <source>Section where the pattern is searched in.</source>
-        <translation>搜索模式所在的搜索段落范围。</translation>
+        <translation>将要搜索的段落范围。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="110"/>
@@ -65223,17 +65223,17 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="111"/>
         <source>Displayed when matching parentheses, square brackets or curly brackets are found.</source>
-        <translation>当匹配到括号、方括号和大括号时显示。</translation>
+        <translation>当括号、方括号和大括号匹配时显示。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="113"/>
         <source>Mismatched Parentheses</source>
-        <translation>不匹配的圆括号</translation>
+        <translation>不匹配括号</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="114"/>
         <source>Displayed when mismatched parentheses, square brackets, or curly brackets are found.</source>
-        <translation>显示不匹配的括号，方括号或花括号。</translation>
+        <translation>当括号、方括号和大括号不匹配时显示。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="116"/>
@@ -65243,7 +65243,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="117"/>
         <source>Displayed when a character is automatically inserted like brackets or quotes.</source>
-        <translation>当字符自动被插入例如括号或者引用时显示。</translation>
+        <translation>当自动插入字符时显示（如方括号或引号）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="119"/>
@@ -65253,7 +65253,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="120"/>
         <source>Line where the cursor is placed in.</source>
-        <translation>光标所在的行号。</translation>
+        <translation>光标所在的行。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="124"/>
@@ -65274,18 +65274,18 @@ Applied to text that matched no other rule.</source>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="134"/>
         <source>Occurrences of the symbol under the cursor.
 (Only the background will be applied.)</source>
-        <translation>光标下出现的符号。
+        <translation>光标下符号出现的位置。
 （仅用于背景颜色。）</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="138"/>
         <source>Unused Occurrence</source>
-        <translation>未使用的出现位置</translation>
+        <translation>未使用出现位置</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="139"/>
         <source>Occurrences of unused variables.</source>
-        <translation>未用到的变量出现的位置。</translation>
+        <translation>未使用的变量出现的位置。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="142"/>
@@ -65295,12 +65295,12 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="143"/>
         <source>Occurrences of a symbol that will be renamed.</source>
-        <translation>将要被更名的符号出现的位置。</translation>
+        <translation>重命名符号出现的位置。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="147"/>
         <source>Number</source>
-        <translation>编号</translation>
+        <translation>数字</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="147"/>
@@ -65335,12 +65335,12 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="153"/>
         <source>Name of a type.</source>
-        <translation>类型名称。</translation>
+        <translation>类型的名称。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="155"/>
         <source>Local</source>
-        <translation>本地</translation>
+        <translation>局部</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="156"/>
@@ -65375,7 +65375,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="162"/>
         <source>Applied to enumeration items.</source>
-        <translation>用于枚举项目。</translation>
+        <translation>应用于枚举项。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="166"/>
@@ -65385,7 +65385,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="166"/>
         <source>Name of a function.</source>
-        <translation>函数名。</translation>
+        <translation>函数的名称。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="171"/>
@@ -65415,22 +65415,22 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="182"/>
         <source>Name of function declared as virtual.</source>
-        <translation>声明为虚函数。</translation>
+        <translation>声明为虚函数的名称。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="185"/>
         <source>QML Binding</source>
-        <translation>QML 绑定</translation>
+        <translation>QML绑定</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="186"/>
         <source>QML item property, that allows a binding to another property.</source>
-        <translation>允许绑定到另一个属性的QML项属性。</translation>
+        <translation>QML项属性，它允许绑定到另一个属性。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="192"/>
         <source>QML Local Id</source>
-        <translation>QML 局部 ID</translation>
+        <translation>QML本地ID</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="193"/>
@@ -65440,7 +65440,7 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="195"/>
         <source>QML Root Object Property</source>
-        <translation>QML 根对象属性</translation>
+        <translation>QML根对象属性</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="196"/>
@@ -65450,17 +65450,17 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="198"/>
         <source>QML Scope Object Property</source>
-        <translation>QML 范围对象的属性</translation>
+        <translation>QML范围对象属性</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="199"/>
         <source>Property of the same QML item.</source>
-        <translation>同一个QML项的属性。</translation>
+        <translation>同一QML项的属性。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="200"/>
         <source>QML State Name</source>
-        <translation>QML 状态名</translation>
+        <translation>QML状态名</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="201"/>
@@ -65475,22 +65475,22 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="204"/>
         <source>Name of a QML type.</source>
-        <translation>QML类型名。</translation>
+        <translation>QML类型的名称。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="208"/>
         <source>QML External Id</source>
-        <translation>QML 外部 ID</translation>
+        <translation>QML外部ID</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="209"/>
         <source>QML id defined in another QML file.</source>
-        <translation>在另一个QML文件中定义的QML id。</translation>
+        <translation>在另一个QML文件中定义的QML ID。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="212"/>
         <source>QML External Object Property</source>
-        <translation>QML 外部对象属性</translation>
+        <translation>QML外部对象属性</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="213"/>
@@ -65500,32 +65500,32 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="219"/>
         <source>JavaScript Scope Var</source>
-        <translation>JavaScript 范围变量</translation>
+        <translation>JavaScript范围变量</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="220"/>
         <source>Variables defined inside the JavaScript file.</source>
-        <translation>JavaScript文件内定义的变量。</translation>
+        <translation>在JavaScript文件中定义的变量。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="226"/>
         <source>JavaScript Import</source>
-        <translation>JavaScript 导入</translation>
+        <translation>JavaScript导入</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="227"/>
         <source>Name of a JavaScript import inside a QML file.</source>
-        <translation>QML文件内的JavaScript导入的名称。</translation>
+        <translation>QML文件中JavaScript导入的名称。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="229"/>
         <source>JavaScript Global Variable</source>
-        <translation>JavaScript 全局变量</translation>
+        <translation>JavaScript全局变量</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="230"/>
         <source>Variables defined outside the script.</source>
-        <translation>脚本内定义的变量。</translation>
+        <translation>脚本外部定义的变量。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="233"/>
@@ -65535,12 +65535,12 @@ Applied to text that matched no other rule.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="234"/>
         <source>Reserved keywords of the programming language except keywords denoting primitive types.</source>
-        <translation>保留关键字的编程语言，除了表示原始类型关键词。</translation>
+        <translation>编程语言的保留关键字，除了表示原始类型关键词外。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="236"/>
         <source>Punctuation</source>
-        <translation>标点</translation>
+        <translation>标点符号</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="237"/>
@@ -65562,17 +65562,17 @@ To style user-defined operators, use Overloaded Operator.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="243"/>
         <source>Overloaded Operators</source>
-        <translation>重载操作符</translation>
+        <translation>重载运算符</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="244"/>
         <source>Calls and declarations of overloaded (user-defined) operators.</source>
-        <translation>重载(用户定义)操作符的调用和声明。</translation>
+        <translation>重载（用户定义）运算符的调用和声明。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="247"/>
         <source>Preprocessor</source>
-        <translation>预处理器</translation>
+        <translation>预处理</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="248"/>
@@ -65597,7 +65597,7 @@ To style user-defined operators, use Overloaded Operator.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="252"/>
         <source>All style of comments except Doxygen comments.</source>
-        <translation>除Doxygen注释之外的所有风格的注释。</translation>
+        <translation>除Doxygen之外的注释。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="254"/>
@@ -65617,7 +65617,7 @@ To style user-defined operators, use Overloaded Operator.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="256"/>
         <source>Doxygen tags.</source>
-        <translation>Doxygen的标签。</translation>
+        <translation>Doxygen标签。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="258"/>
@@ -65634,122 +65634,122 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="261"/>
         <source>Disabled Code</source>
-        <translation>禁用的代码</translation>
+        <translation>禁用代码</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="262"/>
         <source>Code disabled by preprocessor directives.</source>
-        <translation>被预处理指令禁用的代码。</translation>
+        <translation>由预处理指令禁用的代码。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="265"/>
         <source>Added Line</source>
-        <translation>添加的行</translation>
+        <translation>新增行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="266"/>
         <source>Applied to added lines in differences (in diff editor).</source>
-        <translation>应用于（diff编辑器的）差异中增加的行。</translation>
+        <translation>应用于差异中新增行（对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="268"/>
         <source>Removed Line</source>
-        <translation>删除的行</translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="269"/>
         <source>Applied to removed lines in differences (in diff editor).</source>
-        <translation>应用于（diff编辑器的）差异中删除的行。</translation>
+        <translation>应用于差异中删除行（对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="271"/>
         <source>Diff File</source>
-        <translation>Diff文件</translation>
+        <translation>对比文件</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="272"/>
         <source>Compared files (in diff editor).</source>
-        <translation>（diff编辑中）比较的文件。</translation>
+        <translation>对比的文件（对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="273"/>
         <source>Diff Location</source>
-        <translation>Diff路径</translation>
+        <translation>对比路径</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="274"/>
         <source>Location in the files where the difference is (in diff editor).</source>
-        <translation>diff编辑器中显示文件差别所在的位置。</translation>
+        <translation>差异所在的文件位置（对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="278"/>
         <source>Diff File Line</source>
-        <translation>Diff文件行</translation>
+        <translation>对比文件行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="279"/>
         <source>Applied to lines with file information in differences (in side-by-side diff editor).</source>
-        <translation>用于不同的文件信息系（并排比较编辑）。</translation>
+        <translation>应用于差异文件的信息行（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="282"/>
         <source>Diff Context Line</source>
-        <translation>Diff上下文行</translation>
+        <translation>对比上下文行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="283"/>
         <source>Applied to lines describing hidden context in differences (in side-by-side diff editor).</source>
-        <translation>适用于描述隐藏的上下文不同行（并排比较编辑）。</translation>
+        <translation>应用于描述差异中隐藏上下文的行（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="286"/>
         <source>Diff Source Line</source>
-        <translation>Diff源代码行</translation>
+        <translation>对比源行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="287"/>
         <source>Applied to source lines with changes in differences (in side-by-side diff editor).</source>
-        <translation>应用于源代码行的差异（并排比较编辑）。</translation>
+        <translation>应用于差异中源修改行（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="290"/>
         <source>Diff Source Character</source>
-        <translation>Diff源字符</translation>
+        <translation>对比源字符</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="291"/>
         <source>Applied to removed characters in differences (in side-by-side diff editor).</source>
-        <translation>用于删除字符的差异（并排比较编辑）。</translation>
+        <translation>应用于差异中删除的字符（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="294"/>
         <source>Diff Destination Line</source>
-        <translation>Diff目标行</translation>
+        <translation>对比目标行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="295"/>
         <source>Applied to destination lines with changes in differences (in side-by-side diff editor).</source>
-        <translation>用于目标行的不同变化（并排比较编辑）。</translation>
+        <translation>应用于差异中目标修改行（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="298"/>
         <source>Diff Destination Character</source>
-        <translation>Diff目标字符</translation>
+        <translation>对比目标字符</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="299"/>
         <source>Applied to added characters in differences (in side-by-side diff editor).</source>
-        <translation>用于附加字符的差异（并排比较编辑）。</translation>
+        <translation>应用于差异中添加的字符（并排对比编辑器中）。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="303"/>
         <source>Log Change Line</source>
-        <translation>记录更改的行</translation>
+        <translation>日志修改行</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="304"/>
         <source>Applied to lines describing changes in VCS log.</source>
-        <translation>用于描述行变化在VCS日志。</translation>
+        <translation>应用于VCS日志行修改描述。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="310"/>
@@ -65759,17 +65759,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="311"/>
         <source>Underline color of error diagnostics.</source>
-        <translation>强调错误诊断的颜色。</translation>
+        <translation>错误诊断的下划线颜色。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="316"/>
         <source>Error Context</source>
-        <translation>错误语境</translation>
+        <translation>错误上下文</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="317"/>
         <source>Underline color of the contexts of error diagnostics.</source>
-        <translation>强调错误诊断的背景颜色。</translation>
+        <translation>错误诊断上下文的下划线颜色。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="322"/>
@@ -65779,17 +65779,17 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="323"/>
         <source>Underline color of warning diagnostics.</source>
-        <translation>强调警告诊断的颜色。</translation>
+        <translation>警告诊断的下划线颜色。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="328"/>
         <source>Warning Context</source>
-        <translation>警告语境</translation>
+        <translation>警告上下文</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="329"/>
         <source>Underline color of the contexts of warning diagnostics.</source>
-        <translation>强调警告诊断的背景颜色。</translation>
+        <translation>警告诊断上下文的下划线颜色。</translation>
     </message>
     <message>
         <location filename="plugins/texteditor/texteditorsettings.cpp" line="336"/>
@@ -66121,7 +66121,7 @@ The trace data is lost.</source>
     <message>
         <location filename="plugins/todo/optionsdialog.ui" line="58"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/todo/optionsdialog.ui" line="65"/>
@@ -66246,7 +66246,7 @@ The trace data is lost.</source>
     <message>
         <location filename="plugins/todo/todoprojectsettingswidget.ui" line="42"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/todo/todoplugin.cpp" line="75"/>
@@ -66912,22 +66912,22 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="libs/utils/fileutils.cpp" line="150"/>
         <source>Refusing to remove root directory.</source>
-        <translation>拒绝移除根目录。</translation>
+        <translation>拒绝删除根目录。</translation>
     </message>
     <message>
         <location filename="libs/utils/fileutils.cpp" line="157"/>
         <source>Refusing to remove your home directory.</source>
-        <translation>拒绝移除您的HOME目录。</translation>
+        <translation>拒绝删除HOME目录。</translation>
     </message>
     <message>
         <location filename="libs/utils/fileutils.cpp" line="171"/>
         <source>Failed to remove directory &quot;%1&quot;.</source>
-        <translation>移除目录‘%1’失败。</translation>
+        <translation>删除目录‘%1’失败。</translation>
     </message>
     <message>
         <location filename="libs/utils/fileutils.cpp" line="179"/>
         <source>Failed to remove file &quot;%1&quot;.</source>
-        <translation>移除文件‘%1’失败。</translation>
+        <translation>删除文件‘%1’失败。</translation>
     </message>
     <message>
         <location filename="libs/utils/fileutils.cpp" line="215"/>
@@ -67385,7 +67385,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="libs/utils/removefiledialog.ui" line="20"/>
         <source>Remove File</source>
-        <translation>移除文件</translation>
+        <translation>删除文件</translation>
     </message>
     <message>
         <location filename="libs/utils/removefiledialog.ui" line="32"/>
@@ -67400,7 +67400,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="libs/utils/removefiledialog.ui" line="83"/>
         <source>&amp;Remove from version control</source>
-        <translation>从版本控制系统中移除(&amp;R)</translation>
+        <translation>从版本控制系统中删除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -67475,7 +67475,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
         <location filename="libs/utils/settingsselector.cpp" line="53"/>
         <location filename="libs/utils/settingsselector.cpp" line="137"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="libs/utils/settingsselector.cpp" line="54"/>
@@ -67713,7 +67713,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="plugins/bazaar/constants.h" line="57"/>
         <source>Bazaar Diff Editor</source>
-        <translation>Bazaar Diff编辑器</translation>
+        <translation>Bazaar对比编辑器</translation>
     </message>
     <message>
         <location filename="plugins/clearcase/clearcaseconstants.h" line="37"/>
@@ -67733,7 +67733,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="plugins/clearcase/clearcaseplugin.cpp" line="153"/>
         <source>ClearCase Diff Editor</source>
-        <translation>ClearCase Diff 编辑器</translation>
+        <translation>ClearCase对比编辑器</translation>
     </message>
     <message>
         <location filename="plugins/cvs/cvsplugin.cpp" line="115"/>
@@ -67758,7 +67758,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="plugins/cvs/cvsplugin.cpp" line="159"/>
         <source>CVS Diff Editor</source>
-        <translation>CVS Diff编辑器</translation>
+        <translation>CVS对比编辑器</translation>
     </message>
     <message>
         <location filename="plugins/git/gitconstants.h" line="36"/>
@@ -67830,7 +67830,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="plugins/perforce/perforceplugin.cpp" line="90"/>
         <source>Perforce Diff Editor</source>
-        <translation>Perforce Diff 编辑器</translation>
+        <translation>Perforce对比编辑器</translation>
     </message>
     <message>
         <location filename="plugins/perforce/perforceplugin.cpp" line="93"/>
@@ -68246,7 +68246,7 @@ To disable a variable, prefix the line with &quot;#&quot;</source>
     <message>
         <location filename="plugins/valgrind/callgrindtool.cpp" line="500"/>
         <source>Remove template parameter lists when displaying function names.</source>
-        <translation>当显示函数名称时，移除模板参数列表。</translation>
+        <translation>当显示函数名称时，删除模板参数列表。</translation>
     </message>
     <message>
         <location filename="plugins/valgrind/callgrindtool.cpp" line="506"/>
@@ -68774,7 +68774,7 @@ With cache simulation, further event counters are enabled:
     <message>
         <location filename="plugins/valgrind/valgrindconfigwidget.ui" line="417"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="plugins/valgrind/valgrindconfigwidget.cpp" line="89"/>
@@ -71056,7 +71056,7 @@ What do you want to do?</source>
     <message>
         <location filename="libs/modelinglib/qmt/diagram_scene/items/objectitem.cpp" line="1009"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="libs/modelinglib/qmt/diagram_scene/items/objectitem.cpp" line="1011"/>

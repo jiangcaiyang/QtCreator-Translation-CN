@@ -996,7 +996,7 @@
 </phrase>
 <phrase>
     <source>Do Not Remove</source>
-    <target>不移除</target>
+    <target>不删除</target>
 </phrase>
 <phrase>
     <source>Run</source>
@@ -1356,7 +1356,7 @@
 </phrase>
 <phrase>
     <source>Remove All Breakpoints</source>
-    <target>移除所有断点</target>
+    <target>删除所有断点</target>
 </phrase>
 <phrase>
     <source>Add Breakpoint</source>
@@ -1804,7 +1804,7 @@
 </phrase>
 <phrase>
     <source>&amp;Remove</source>
-    <target>移除(&amp;R)</target>
+    <target>删除(&amp;R)</target>
 </phrase>
 <phrase>
     <source>Re&amp;name</source>
@@ -2276,7 +2276,7 @@
 </phrase>
 <phrase>
     <source>Remove</source>
-    <target>移除</target>
+    <target>删除</target>
 </phrase>
 <phrase>
     <source>Add</source>
@@ -2700,7 +2700,7 @@
 </phrase>
 <phrase>
     <source>Remove items</source>
-    <target>移除项</target>
+    <target>删除项</target>
 </phrase>
 <phrase>
     <source>Structure</source>
@@ -2892,7 +2892,7 @@
 </phrase>
 <phrase>
     <source>Removing directory %1</source>
-    <target>移除目录‘%1’</target>
+    <target>删除目录‘%1’</target>
 </phrase>
 <phrase>
     <source>Deploy to device</source>
@@ -3188,7 +3188,7 @@
 </phrase>
 <phrase>
     <source>Remove Breakpoint</source>
-    <target>移除断点</target>
+    <target>删除断点</target>
 </phrase>
 <phrase>
     <source>Edit Breakpoint...</source>
@@ -3288,7 +3288,7 @@
 </phrase>
 <phrase>
     <source>Remove...</source>
-    <target>移除...</target>
+    <target>删除...</target>
 </phrase>
 <phrase>
     <source>Merge</source>
@@ -3796,7 +3796,7 @@
 </phrase>
 <phrase>
     <source>Remove All</source>
-    <target>全部移除</target>
+    <target>全部删除</target>
 </phrase>
 <phrase>
     <source>Qt version</source>
@@ -4688,7 +4688,7 @@
 </phrase>
 <phrase>
     <source>Remove Annotation</source>
-    <target>移除注释</target>
+    <target>删除注释</target>
 </phrase>
 <phrase>
     <source>No snapping.</source>
@@ -4744,7 +4744,7 @@
 </phrase>
 <phrase>
     <source>Remove Link</source>
-    <target>移除关联</target>
+    <target>删除关联</target>
 </phrase>
 <phrase>
     <source>Qt Quick Compiler:</source>
@@ -4825,5 +4825,13 @@
 <phrase>
     <source>Clang-Tidy</source>
     <target>Clang-Tidy</target>
+</phrase>
+<phrase>
+    <source>Rem&amp;ove...</source>
+    <target>删除(&amp;O)...</target>
+</phrase>
+<phrase>
+    <source>Local</source>
+    <target>局部</target>
 </phrase>
 </QPH>

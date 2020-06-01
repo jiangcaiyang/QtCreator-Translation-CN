@@ -80,18 +80,18 @@ Reason:
         <translation>文档注销成功。</translation>
     </message>
     <message>
-        <location filename="assistant/main.cpp" line="305"/>
-        <location filename="assistant/main.cpp" line="323"/>
+        <location filename="assistant/main.cpp" line="308"/>
+        <location filename="assistant/main.cpp" line="326"/>
         <source>Error reading collection file &apos;%1&apos;: %2.</source>
         <translation>读取收集文件‘%1’错误：%2。</translation>
     </message>
     <message>
-        <location filename="assistant/main.cpp" line="316"/>
+        <location filename="assistant/main.cpp" line="319"/>
         <source>Error creating collection file &apos;%1&apos;: %2.</source>
         <translation>创建收集文件‘%1’错误：%2。</translation>
     </message>
     <message>
-        <location filename="assistant/main.cpp" line="371"/>
+        <location filename="assistant/main.cpp" line="374"/>
         <source>Cannot load sqlite database driver!</source>
         <translation>无法加载sqlite数据库驱动！</translation>
     </message>
@@ -152,7 +152,7 @@ Reason:
     <message>
         <location filename="assistant/bookmarkmanager.cpp" line="225"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="assistant/bookmarkmanager.cpp" line="226"/>
@@ -221,7 +221,7 @@ Reason:
         <location filename="assistant/bookmarkmanagerwidget.ui" line="83"/>
         <location filename="assistant/bookmarkmanagerwidget.cpp" line="250"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="assistant/bookmarkmanagerwidget.ui" line="90"/>
@@ -253,7 +253,7 @@ Reason:
         <location filename="assistant/bookmarkmanagerwidget.cpp" line="192"/>
         <location filename="assistant/bookmarkmanagerwidget.cpp" line="208"/>
         <source>Files (*.xbel)</source>
-        <translation>书签文件（*.xbel）</translation>
+        <translation>文件(*.xbel)</translation>
     </message>
     <message>
         <location filename="assistant/bookmarkmanagerwidget.cpp" line="207"/>
@@ -349,7 +349,7 @@ Reason:
     <message>
         <location filename="assistant/bookmarkwidget.ui" line="75"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -540,6 +540,10 @@ Reason:
         <location filename="assistant/filternamedialog.ui" line="13"/>
         <source>Add Filter Name</source>
         <translation>添加过滤器名称</translation>
+    </message>
+    <message>
+        <source>Add Filter</source>
+        <translation type="vanished">添加过滤器</translation>
     </message>
     <message>
         <location filename="assistant/filternamedialog.ui" line="25"/>
@@ -830,7 +834,7 @@ Reason:
     <message>
         <location filename="assistant/helpviewer_qtb.cpp" line="354"/>
         <source>Reload</source>
-        <translation>重新加载</translation>
+        <translation>重新载入</translation>
     </message>
     <message>
         <location filename="assistant/helpbrowsersupport.cpp" line="59"/>
@@ -854,7 +858,7 @@ Reason:
     <message>
         <location filename="assistant/helpbrowsersupport.cpp" line="76"/>
         <source>Error loading: %1</source>
-        <translation>错误载入中：%1</translation>
+        <translation>载入错误：%1</translation>
     </message>
     <message>
         <location filename="assistant/helpviewer_qwv.cpp" line="157"/>
@@ -870,12 +874,12 @@ Reason:
         <translation>查找(&amp;L)：</translation>
     </message>
     <message>
-        <location filename="assistant/indexwindow.cpp" line="131"/>
+        <location filename="assistant/indexwindow.cpp" line="132"/>
         <source>Open Link</source>
         <translation>打开链接</translation>
     </message>
     <message>
-        <location filename="assistant/indexwindow.cpp" line="132"/>
+        <location filename="assistant/indexwindow.cpp" line="133"/>
         <source>Open Link in New Tab</source>
         <translation>在新标签中打开链接</translation>
     </message>
@@ -942,7 +946,7 @@ Reason:
     <message>
         <location filename="assistant/mainwindow.cpp" line="523"/>
         <source>&amp;Close Tab</source>
-        <translation>关闭标签(&amp;C)</translation>
+        <translation>关闭标签页(&amp;C)</translation>
     </message>
     <message>
         <location filename="assistant/mainwindow.cpp" line="534"/>
@@ -1149,6 +1153,10 @@ Reason:
         <translation>关于%1</translation>
     </message>
     <message>
+        <source>Unfiltered</source>
+        <translation type="vanished">未过滤的</translation>
+    </message>
+    <message>
         <location filename="assistant/mainwindow.cpp" line="1084"/>
         <source>Updating search index</source>
         <translation>正在更新搜索索引</translation>
@@ -1173,7 +1181,62 @@ Reason:
     </message>
 </context>
 <context>
+    <name>OptionsWidget</name>
+    <message>
+        <source>No Option</source>
+        <translation type="vanished">无选项</translation>
+    </message>
+    <message>
+        <source>Invalid Option</source>
+        <translation type="vanished">无效选项</translation>
+    </message>
+</context>
+<context>
     <name>PreferencesDialog</name>
+    <message>
+        <source>No Component</source>
+        <translation type="vanished">无组件</translation>
+    </message>
+    <message>
+        <source>Invalid Component</source>
+        <translation type="vanished">无效组件</translation>
+    </message>
+    <message>
+        <source>No Version</source>
+        <translation type="vanished">无版本</translation>
+    </message>
+    <message>
+        <source>Invalid Version</source>
+        <translation type="vanished">无效版本</translation>
+    </message>
+    <message>
+        <source>Filter Exists</source>
+        <translation type="vanished">过滤器已存在</translation>
+    </message>
+    <message>
+        <source>The filter &quot;%1&quot; already exists.</source>
+        <translation type="vanished">过滤器‘%1’已存在。</translation>
+    </message>
+    <message>
+        <source>Add Filter</source>
+        <translation type="vanished">添加过滤器</translation>
+    </message>
+    <message>
+        <source>New Filter</source>
+        <translation type="vanished">新建过滤器</translation>
+    </message>
+    <message>
+        <source>Rename Filter</source>
+        <translation type="vanished">重命名过滤器</translation>
+    </message>
+    <message>
+        <source>Remove Filter</source>
+        <translation type="vanished">删除过滤器</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the &quot;%1&quot; filter?</source>
+        <translation type="vanished">您确定要删除过滤器‘%1’吗？</translation>
+    </message>
     <message>
         <location filename="assistant/preferencesdialog.cpp" line="328"/>
         <location filename="assistant/preferencesdialog.cpp" line="374"/>
@@ -1277,7 +1340,7 @@ Reason:
         <location filename="assistant/preferencesdialog.ui" line="112"/>
         <location filename="assistant/preferencesdialog.ui" line="168"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="assistant/preferencesdialog.ui" line="120"/>
@@ -1300,6 +1363,18 @@ Reason:
         <translation>添加...</translation>
     </message>
     <message>
+        <source>Components:</source>
+        <translation type="vanished">组件：</translation>
+    </message>
+    <message>
+        <source>Versions:</source>
+        <translation type="vanished">版本：</translation>
+    </message>
+    <message>
+        <source>Rename...</source>
+        <translation type="vanished">重命名...</translation>
+    </message>
+    <message>
         <location filename="assistant/preferencesdialog.ui" line="193"/>
         <source>Options</source>
         <translation>选项</translation>
@@ -1307,7 +1382,7 @@ Reason:
     <message>
         <location filename="assistant/preferencesdialog.ui" line="211"/>
         <source>On help start:</source>
-        <translation>启动时：</translation>
+        <translation>帮助启动时：</translation>
     </message>
     <message>
         <location filename="assistant/preferencesdialog.ui" line="225"/>
@@ -1400,75 +1475,89 @@ Reason:
     </message>
     <message>
         <location filename="help/qhelpcollectionhandler.cpp" line="150"/>
-        <location filename="help/qhelpcollectionhandler.cpp" line="348"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="357"/>
         <source>Cannot open collection file: %1</source>
         <translation>无法打开收集文件：%1</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="166"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="169"/>
         <source>Cannot create tables in file %1.</source>
         <translation>无法在文件‘%1’中创建表。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="187"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="190"/>
         <source>Cannot create index tables in file %1.</source>
         <translation>无法在文件‘%1’中创建索引表。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="324"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="202"/>
+        <source>Cannot register index tables in file %1.</source>
+        <translation>无法在文件‘%1’中创注册索引表。</translation>
+    </message>
+    <message>
+        <location filename="help/qhelpcollectionhandler.cpp" line="233"/>
+        <source>Cannot unregister index tables in file %1.</source>
+        <translation>无法在文件‘%1’中注销索引表。</translation>
+    </message>
+    <message>
+        <location filename="help/qhelpcollectionhandler.cpp" line="333"/>
         <source>The collection file &quot;%1&quot; already exists.</source>
         <translation>收集文件‘%1’已经存在。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="330"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="339"/>
         <source>Cannot create directory: %1</source>
         <translation>无法创建目录：%1</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="356"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="365"/>
         <source>Cannot copy collection file: %1</source>
         <translation>无法复制收集文件：%1</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="536"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="545"/>
         <source>Unknown filter &quot;%1&quot;.</source>
         <translation>未知的过滤器‘%1’。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="590"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="599"/>
         <source>Cannot register filter %1.</source>
         <translation>无法注册过滤器‘%1’。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="672"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="681"/>
         <source>Cannot open documentation file %1.</source>
         <translation>无法打开文档文件‘%1’。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="678"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="687"/>
         <source>Invalid documentation file &quot;%1&quot;.</source>
         <translation>无效的文档文件‘%1’。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="711"/>
-        <location filename="help/qhelpcollectionhandler.cpp" line="727"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="720"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="736"/>
         <source>The namespace %1 was not registered.</source>
         <translation>命名空间‘%1’未注册。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="1338"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="1353"/>
         <source>Namespace %1 already exists.</source>
         <translation>命名空间‘%1’已存在。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="1351"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="1368"/>
         <source>Cannot register namespace &quot;%1&quot;.</source>
         <translation>无法注册命名空间‘%1’。</translation>
     </message>
     <message>
-        <location filename="help/qhelpcollectionhandler.cpp" line="1370"/>
+        <location filename="help/qhelpcollectionhandler.cpp" line="1389"/>
         <source>Cannot register virtual folder &apos;%1&apos;.</source>
         <translation>无法注册虚拟文件夹‘%1’。</translation>
+    </message>
+    <message>
+        <source>Version %1</source>
+        <translation type="vanished">版本 %1</translation>
     </message>
 </context>
 <context>
@@ -1676,14 +1765,14 @@ qhelpgenerator &lt;file&gt; [options]
 <context>
     <name>QHelpSearchResultWidget</name>
     <message numerus="yes">
-        <location filename="help/qhelpsearchresultwidget.cpp" line="211"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="212"/>
         <source>%1 - %2 of %n Hits</source>
         <translation>
             <numerusform>%1 - %2，共%n</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="help/qhelpsearchresultwidget.cpp" line="273"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="274"/>
         <source>0 - 0 of 0 Hits</source>
         <translation>0 - 0，共0</translation>
     </message>
@@ -1691,7 +1780,7 @@ qhelpgenerator &lt;file&gt; [options]
 <context>
     <name>QResultWidget</name>
     <message>
-        <location filename="help/qhelpsearchresultwidget.cpp" line="75"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="77"/>
         <source>Search Results</source>
         <translation>搜索结果</translation>
     </message>
@@ -1701,17 +1790,17 @@ qhelpgenerator &lt;file&gt; [options]
         <translation>注释：</translation>
     </message>
     <message>
-        <location filename="help/qhelpsearchresultwidget.cpp" line="84"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="85"/>
         <source>The search results may not be complete since the documentation is still being indexed.</source>
         <translation>搜索结果可能不完整，因为文档仍在索引中。</translation>
     </message>
     <message>
-        <location filename="help/qhelpsearchresultwidget.cpp" line="97"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="98"/>
         <source>Your search did not match any documents.</source>
         <translation>找不到匹配的文档。</translation>
     </message>
     <message>
-        <location filename="help/qhelpsearchresultwidget.cpp" line="101"/>
+        <location filename="help/qhelpsearchresultwidget.cpp" line="102"/>
         <source>(The reason for this might be that the documentation is still being indexed.)</source>
         <translation>（原因可能是文档仍在索引中。）</translation>
     </message>
@@ -1767,7 +1856,7 @@ qhelpgenerator &lt;file&gt; [options]
     <message>
         <location filename="assistant/centralwidget.cpp" line="155"/>
         <source>&amp;Close Tab</source>
-        <translation>关闭标签(&amp;C)</translation>
+        <translation>关闭标签页(&amp;C)</translation>
     </message>
     <message>
         <location filename="assistant/centralwidget.cpp" line="158"/>

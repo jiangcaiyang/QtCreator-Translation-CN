@@ -10,17 +10,69 @@
     </message>
 </context>
 <context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="56"/>
+        <source>About %1</source>
+        <translation>关于%1</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="57"/>
+        <source>Preferences...</source>
+        <translation>首选项...</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="58"/>
+        <source>Services</source>
+        <translation>服务</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="59"/>
+        <source>Hide %1</source>
+        <translation>隐藏‘%1’</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="60"/>
+        <source>Hide Others</source>
+        <translation>隐藏其他</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="61"/>
+        <source>Show All</source>
+        <translation>全部显示</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="62"/>
+        <source>Quit %1</source>
+        <translation>退出‘%1’</translation>
+    </message>
+</context>
+<context>
+    <name>Print Device Input Slot</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="vanished">自动</translation>
+    </message>
+</context>
+<context>
+    <name>Print Device Output Bin</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="vanished">自动</translation>
+    </message>
+</context>
+<context>
     <name>QAbstractSocket</name>
     <message>
         <location filename="network/access/qhttpnetworkconnection.cpp" line="896"/>
-        <location filename="network/socket/qabstractsocket.cpp" line="2197"/>
+        <location filename="network/socket/qabstractsocket.cpp" line="2195"/>
         <source>Socket operation timed out</source>
         <translation>套接字操作超时</translation>
     </message>
     <message>
         <location filename="network/socket/qabstractsocket.cpp" line="643"/>
-        <location filename="network/socket/qabstractsocket.cpp" line="1714"/>
-        <location filename="network/socket/qabstractsocket.cpp" line="1943"/>
+        <location filename="network/socket/qabstractsocket.cpp" line="1712"/>
+        <location filename="network/socket/qabstractsocket.cpp" line="1941"/>
         <source>Operation on socket is not supported</source>
         <translation>不支持对套接字的操作</translation>
     </message>
@@ -45,12 +97,12 @@
         <translation>连接超时</translation>
     </message>
     <message>
-        <location filename="network/socket/qabstractsocket.cpp" line="1684"/>
+        <location filename="network/socket/qabstractsocket.cpp" line="1682"/>
         <source>Trying to connect while connection is in progress</source>
         <translation>正在连接时尝试连接</translation>
     </message>
     <message>
-        <location filename="network/socket/qabstractsocket.cpp" line="2548"/>
+        <location filename="network/socket/qabstractsocket.cpp" line="2546"/>
         <source>Socket is not connected</source>
         <translation>套接字未连接</translation>
     </message>
@@ -81,124 +133,147 @@
 <context>
     <name>QAccessibleActionInterface</name>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2812"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2813"/>
         <source>Press</source>
         <translation>按下</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2813"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2814"/>
         <source>Increase</source>
         <translation>增加</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2814"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2815"/>
         <source>Decrease</source>
         <translation>减少</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2815"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2816"/>
         <source>ShowMenu</source>
         <translation>显示菜单</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2816"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2817"/>
         <source>SetFocus</source>
         <translation>设置焦点</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2817"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2818"/>
         <source>Toggle</source>
         <translation>切换</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2818"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2819"/>
         <source>Scroll Left</source>
         <translation>向左滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2819"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2820"/>
         <source>Scroll Right</source>
         <translation>向右滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2820"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2821"/>
         <source>Scroll Up</source>
         <translation>向上滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2821"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2822"/>
         <source>Scroll Down</source>
         <translation>向下滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2822"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2823"/>
         <source>Previous Page</source>
         <translation>上一页</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2823"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2824"/>
         <source>Next Page</source>
         <translation>下一页</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2842"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2843"/>
         <source>Triggers the action</source>
         <translation>触发操作</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2844"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2845"/>
         <source>Increase the value</source>
         <translation>增加值</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2846"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2847"/>
         <source>Decrease the value</source>
         <translation>减少值</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2848"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2849"/>
         <source>Shows the menu</source>
         <translation>显示菜单</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2850"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2851"/>
         <source>Sets the focus</source>
         <translation>设置焦点</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2852"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2853"/>
         <source>Toggles the state</source>
         <translation>切换状态</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2854"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2855"/>
         <source>Scrolls to the left</source>
         <translation>向左滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2856"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2857"/>
         <source>Scrolls to the right</source>
         <translation>向右滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2858"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2859"/>
         <source>Scrolls up</source>
         <translation>向上滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2860"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2861"/>
         <source>Scrolls down</source>
         <translation>向下滚动</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2862"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2863"/>
         <source>Goes back a page</source>
         <translation>转到上一页</translation>
     </message>
     <message>
-        <location filename="gui/accessible/qaccessible.cpp" line="2864"/>
+        <location filename="gui/accessible/qaccessible.cpp" line="2865"/>
         <source>Goes to the next page</source>
         <translation>转到下一页</translation>
+    </message>
+</context>
+<context>
+    <name>QAndroidPlatformTheme</name>
+    <message>
+        <location filename="plugins/platforms/android/qandroidplatformtheme.cpp" line="501"/>
+        <source>Yes</source>
+        <translation>是</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/android/qandroidplatformtheme.cpp" line="503"/>
+        <source>Yes to All</source>
+        <translation>全是</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/android/qandroidplatformtheme.cpp" line="505"/>
+        <source>No</source>
+        <translation>否</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/android/qandroidplatformtheme.cpp" line="507"/>
+        <source>No to All</source>
+        <translation>全否</translation>
     </message>
 </context>
 <context>
@@ -215,76 +290,152 @@
     </message>
 </context>
 <context>
+    <name>QCocoaMenuItem</name>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="51"/>
+        <source>About Qt</source>
+        <translation>关于Qt</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="80"/>
+        <source>About</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="88"/>
+        <source>Config</source>
+        <translation>配置</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="89"/>
+        <source>Preference</source>
+        <translation>偏好</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="90"/>
+        <source>Options</source>
+        <translation>选项</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="91"/>
+        <source>Setting</source>
+        <translation>配置</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="92"/>
+        <source>Setup</source>
+        <translation>安装</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="95"/>
+        <source>Quit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="96"/>
+        <source>Exit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="99"/>
+        <source>Cut</source>
+        <translation>剪切</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="101"/>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="103"/>
+        <source>Paste</source>
+        <translation>粘贴</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="105"/>
+        <source>Select All</source>
+        <translation>全选</translation>
+    </message>
+</context>
+<context>
+    <name>QCocoaTheme</name>
+    <message>
+        <location filename="plugins/platforms/cocoa/messages.cpp" line="112"/>
+        <source>Don&apos;t Save</source>
+        <translation>不保存</translation>
+    </message>
+</context>
+<context>
     <name>QColorDialog</name>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1471"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1473"/>
         <source>Hu&amp;e:</source>
         <translation>色调(&amp;E)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1472"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1474"/>
         <source>&amp;Sat:</source>
         <translation>饱和度(&amp;S)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1473"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1475"/>
         <source>&amp;Val:</source>
         <translation>亮度(&amp;V)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1474"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1476"/>
         <source>&amp;Red:</source>
         <translation>红色(&amp;R)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1475"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1477"/>
         <source>&amp;Green:</source>
         <translation>绿色(&amp;G)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1476"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1478"/>
         <source>Bl&amp;ue:</source>
         <translation>蓝色(&amp;U)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1477"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1479"/>
         <source>A&amp;lpha channel:</source>
         <translation>透明度(&amp;L)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1478"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1480"/>
         <source>&amp;HTML:</source>
         <translation>HTML(&amp;H)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1642"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1644"/>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
         <translation>光标位置（%1，%2）
 按下ESC键取消</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1670"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1672"/>
         <source>Select Color</source>
         <translation>选择颜色</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1860"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1865"/>
         <source>&amp;Basic colors</source>
         <translation>基本颜色(&amp;B)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1861"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1866"/>
         <source>&amp;Custom colors</source>
         <translation>自定义颜色(&amp;C)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1862"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1867"/>
         <source>&amp;Add to Custom Colors</source>
         <translation>添加到自定义颜色(&amp;A)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qcolordialog.cpp" line="1863"/>
+        <location filename="widgets/dialogs/qcolordialog.cpp" line="1868"/>
         <source>&amp;Pick Screen Color</source>
         <translation>选取屏幕颜色(&amp;P)</translation>
     </message>
@@ -297,12 +448,12 @@ Press ESC to cancel</source>
         <translation>打开组合框下拉菜单</translation>
     </message>
     <message>
-        <location filename="widgets/itemviews/qitemeditorfactory.cpp" line="609"/>
+        <location filename="widgets/itemviews/qitemeditorfactory.cpp" line="613"/>
         <source>False</source>
         <translation>假</translation>
     </message>
     <message>
-        <location filename="widgets/itemviews/qitemeditorfactory.cpp" line="610"/>
+        <location filename="widgets/itemviews/qitemeditorfactory.cpp" line="614"/>
         <source>True</source>
         <translation>真</translation>
     </message>
@@ -318,6 +469,14 @@ Press ESC to cancel</source>
         <location filename="corelib/tools/qcommandlineparser.cpp" line="437"/>
         <source>Displays this help.</source>
         <translation>显示帮助。</translation>
+    </message>
+    <message>
+        <source>Displays help on commandline options.</source>
+        <translation type="vanished">显示有关命令行选项的帮助。</translation>
+    </message>
+    <message>
+        <source>Displays help including Qt specific options.</source>
+        <translation type="vanished">显示包括Qt特定选项的帮助。</translation>
     </message>
     <message>
         <location filename="corelib/tools/qcommandlineparser.cpp" line="529"/>
@@ -612,22 +771,22 @@ Press ESC to cancel</source>
 <context>
     <name>QDateTimeParser</name>
     <message>
-        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2304"/>
+        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2313"/>
         <source>AM</source>
         <translation>AM</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2304"/>
+        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2313"/>
         <source>am</source>
         <translation>am</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2306"/>
+        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2315"/>
         <source>PM</source>
         <translation>PM</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2306"/>
+        <location filename="widgets/widgets/qdatetimeedit.cpp" line="2315"/>
         <source>pm</source>
         <translation>pm</translation>
     </message>
@@ -635,7 +794,7 @@ Press ESC to cancel</source>
 <context>
     <name>QDialog</name>
     <message>
-        <location filename="widgets/dialogs/qdialog.cpp" line="655"/>
+        <location filename="widgets/dialogs/qdialog.cpp" line="691"/>
         <source>What&apos;s This?</source>
         <translation>这是什么？</translation>
     </message>
@@ -643,8 +802,8 @@ Press ESC to cancel</source>
 <context>
     <name>QDialogButtonBox</name>
     <message>
-        <location filename="widgets/dialogs/qmessagebox.cpp" line="1993"/>
-        <location filename="widgets/dialogs/qmessagebox.cpp" line="2439"/>
+        <location filename="widgets/dialogs/qmessagebox.cpp" line="2028"/>
+        <location filename="widgets/dialogs/qmessagebox.cpp" line="2474"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
@@ -705,93 +864,93 @@ Press ESC to cancel</source>
         <translation>尚不支持Android</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="137"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="152"/>
         <source>Resolver functions not found</source>
         <translation>找不到解析函数</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="146"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="161"/>
         <source>Resolver initialization failed</source>
         <translation>解析器初始化失败</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="221"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="236"/>
         <location filename="network/kernel/qdnslookup_win.cpp" line="81"/>
         <source>Server could not process query</source>
         <translation>服务器无法处理查询</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="225"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="240"/>
         <location filename="network/kernel/qdnslookup_win.cpp" line="85"/>
         <source>Server failure</source>
         <translation>服务器失败</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="229"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="244"/>
         <location filename="network/kernel/qdnslookup_win.cpp" line="89"/>
         <source>Non existent domain</source>
         <translation>域名不存在</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="233"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="248"/>
         <location filename="network/kernel/qdnslookup_win.cpp" line="93"/>
         <source>Server refused to answer</source>
         <translation>服务器拒绝回答</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="237"/>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="244"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="252"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="259"/>
         <source>Invalid reply received</source>
         <translation>无效的答复</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="254"/>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="265"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="269"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="280"/>
         <source>Could not expand domain name</source>
         <translation>无法展开域名</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="282"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="297"/>
         <source>Invalid IPv4 address record</source>
         <translation>无效的IPv4地址记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="294"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="309"/>
         <source>Invalid IPv6 address record</source>
         <translation>无效的IPv6地址记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="306"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="321"/>
         <source>Invalid canonical name record</source>
         <translation>无效的别名(CNAME)记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="318"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="333"/>
         <source>Invalid name server record</source>
         <translation>无效的命名服务器记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="330"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="345"/>
         <source>Invalid pointer record</source>
         <translation>无效的指针记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="343"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="358"/>
         <source>Invalid mail exchange record</source>
         <translation>无效的邮件交换记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="359"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="374"/>
         <source>Invalid service record</source>
         <translation>无效的服务记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="380"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="395"/>
         <source>Invalid text record</source>
         <translation>无效的文本记录</translation>
     </message>
     <message>
-        <location filename="network/kernel/qdnslookup_unix.cpp" line="400"/>
+        <location filename="network/kernel/qdnslookup_unix.cpp" line="415"/>
         <source>Resolver library can&apos;t be loaded: No runtime library loading support</source>
         <translation>解析器库无法加载：没有支持的运行时库</translation>
     </message>
@@ -844,98 +1003,98 @@ Press ESC to cancel</source>
 <context>
     <name>QDtls</name>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="382"/>
+        <location filename="network/ssl/qdtls.cpp" line="383"/>
         <source>Invalid (empty) secret</source>
         <translation>无效的机密</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="409"/>
+        <location filename="network/ssl/qdtls.cpp" line="410"/>
         <source>Multicast and broadcast addresses are not supported</source>
         <translation>不支持多播和广播地址</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="607"/>
+        <location filename="network/ssl/qdtls.cpp" line="608"/>
         <source>Cannot set peer after handshake started</source>
         <translation>握手后无法设置对等机</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="613"/>
+        <location filename="network/ssl/qdtls.cpp" line="614"/>
         <source>Invalid address</source>
         <translation>无效的地址</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="646"/>
+        <location filename="network/ssl/qdtls.cpp" line="647"/>
         <source>Cannot set verification name after handshake started</source>
         <translation>启动握手后无法设置验证名称</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="780"/>
+        <location filename="network/ssl/qdtls.cpp" line="781"/>
         <source>Cannot set configuration after handshake started</source>
         <translation>启动握手后无法设置配置</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="842"/>
+        <location filename="network/ssl/qdtls.cpp" line="843"/>
         <source>Cannot start/continue handshake, invalid handshake state</source>
         <translation>无法启动/继续握手，握手状态无效</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="854"/>
-        <location filename="network/ssl/qdtls.cpp" line="892"/>
-        <location filename="network/ssl/qdtls.cpp" line="934"/>
-        <location filename="network/ssl/qdtls.cpp" line="958"/>
-        <location filename="network/ssl/qdtls.cpp" line="985"/>
-        <location filename="network/ssl/qdtls.cpp" line="1060"/>
-        <location filename="network/ssl/qdtls.cpp" line="1084"/>
+        <location filename="network/ssl/qdtls.cpp" line="855"/>
+        <location filename="network/ssl/qdtls.cpp" line="893"/>
+        <location filename="network/ssl/qdtls.cpp" line="935"/>
+        <location filename="network/ssl/qdtls.cpp" line="959"/>
+        <location filename="network/ssl/qdtls.cpp" line="986"/>
+        <location filename="network/ssl/qdtls.cpp" line="1061"/>
+        <location filename="network/ssl/qdtls.cpp" line="1085"/>
         <source>Invalid (nullptr) socket</source>
         <translation>无效的（nullptr）套接字</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="860"/>
+        <location filename="network/ssl/qdtls.cpp" line="861"/>
         <source>To start a handshake you must set peer&apos;s address and port first</source>
         <translation>启动握手前，必须先设置对等机的地址和端口</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="866"/>
+        <location filename="network/ssl/qdtls.cpp" line="867"/>
         <source>To start a handshake, DTLS server requires non-empty datagram (client hello)</source>
         <translation>启动握手前，DTLS服务器需要非空数据报（客户端hello）</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="872"/>
+        <location filename="network/ssl/qdtls.cpp" line="873"/>
         <source>Cannot start handshake, already done/in progress</source>
         <translation>无法启动握手，已完成/正在进行中</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="908"/>
+        <location filename="network/ssl/qdtls.cpp" line="909"/>
         <source>A valid QUdpSocket and non-empty datagram are needed to continue the handshake</source>
         <translation>继续握手需要有效的QUdpSocket和非空数据报</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="914"/>
+        <location filename="network/ssl/qdtls.cpp" line="915"/>
         <source>Cannot continue handshake, not in InProgress state</source>
         <translation>无法继续握手，未处于进行中状态</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="940"/>
+        <location filename="network/ssl/qdtls.cpp" line="941"/>
         <source>Cannot resume, not in VerificationError state</source>
         <translation>无法恢复，未处于验证错误状态</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="964"/>
+        <location filename="network/ssl/qdtls.cpp" line="965"/>
         <source>No handshake in progress, nothing to abort</source>
         <translation>没有正在进行的握手，无需中止</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="991"/>
+        <location filename="network/ssl/qdtls.cpp" line="992"/>
         <source>Cannot send shutdown alert, not encrypted</source>
         <translation>无法发送关机警报，未加密</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="1066"/>
+        <location filename="network/ssl/qdtls.cpp" line="1067"/>
         <source>Cannot write a datagram, not in encrypted state</source>
         <translation>无法写数据报，未处于加密状态</translation>
     </message>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="1090"/>
+        <location filename="network/ssl/qdtls.cpp" line="1091"/>
         <source>Cannot read a datagram, not in encrypted state</source>
         <translation>无法读取数据报，未处于加密状态</translation>
     </message>
@@ -994,7 +1153,7 @@ Press ESC to cancel</source>
 <context>
     <name>QDtlsClientVerifier</name>
     <message>
-        <location filename="network/ssl/qdtls.cpp" line="520"/>
+        <location filename="network/ssl/qdtls.cpp" line="521"/>
         <source>A valid UDP socket, non-empty datagram, valid address/port were expected</source>
         <translation>需要有效的UDP套接字、非空数据报和有效的地址/端口</translation>
     </message>
@@ -1092,6 +1251,10 @@ Press ESC to cancel</source>
         <translation>无法输入‘%1’</translation>
     </message>
     <message>
+        <source>Cannot open for output: %1</source>
+        <translation type="vanished">无法输出：%1</translation>
+    </message>
+    <message>
         <location filename="corelib/io/qfile.cpp" line="811"/>
         <source>Cannot open for output</source>
         <translation>无法输出</translation>
@@ -1102,7 +1265,7 @@ Press ESC to cancel</source>
         <translation>写块失败</translation>
     </message>
     <message>
-        <location filename="corelib/io/qfile.cpp" line="838"/>
+        <location filename="corelib/io/qfile.cpp" line="843"/>
         <source>Cannot create %1 for output</source>
         <translation>无法创建‘%1’</translation>
     </message>
@@ -1123,7 +1286,7 @@ Press ESC to cancel</source>
 <context>
     <name>QFileDialog</name>
     <message>
-        <location filename="gui/kernel/qplatformdialoghelper.cpp" line="631"/>
+        <location filename="gui/kernel/qplatformdialoghelper.cpp" line="633"/>
         <source>All Files (*)</source>
         <translation>所有文件(*)</translation>
     </message>
@@ -1235,84 +1398,84 @@ Press ESC to cancel</source>
         <translation>文件类型：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="583"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="588"/>
         <source>Find Directory</source>
         <translation>查找目录</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="585"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="590"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="587"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="592"/>
         <source>Save As</source>
         <translation>另存为</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="611"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="616"/>
         <source>Directory:</source>
         <translation>目录：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="614"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="619"/>
         <source>File &amp;name:</source>
         <translation>文件名(&amp;N)：</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="631"/>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="644"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="636"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="649"/>
         <source>&amp;Open</source>
         <translation>打开(&amp;O)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="639"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="644"/>
         <source>&amp;Choose</source>
         <translation>选择(&amp;C)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="645"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="650"/>
         <source>&amp;Save</source>
         <translation>保存(&amp;S)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="674"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="679"/>
         <source>Show </source>
         <translation>显示 </translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="678"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="683"/>
         <source>&amp;Rename</source>
         <translation>重命名(&amp;R)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="679"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="684"/>
         <source>&amp;Delete</source>
         <translation>删除(&amp;D)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="680"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="685"/>
         <source>Show &amp;hidden files</source>
         <translation>显示隐藏文件(&amp;H)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="681"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="686"/>
         <source>&amp;New Folder</source>
         <translation>新建文件夹(&amp;N)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="1531"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="1552"/>
         <source>All files (*)</source>
         <translation>所有文件(*)</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="1706"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="1727"/>
         <source>Directories</source>
         <translation>目录</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="2651"/>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3679"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="2672"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3704"/>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
@@ -1320,14 +1483,14 @@ Please verify the correct directory name was given.</source>
 请检查给定的目录名。</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="2685"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="2706"/>
         <source>%1 already exists.
 Do you want to replace it?</source>
         <translation>‘%1’已经存在。
 你想要替换它么？</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="2705"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="2726"/>
         <source>%1
 File not found.
 Please verify the correct file name was given.</source>
@@ -1335,42 +1498,42 @@ Please verify the correct file name was given.</source>
 请检查给定的文件名。</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3328"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3353"/>
         <source>New Folder</source>
         <translation>新建文件夹</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3455"/>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3460"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3480"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3485"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3456"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3481"/>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
         <translation>‘%1’是写保护的。
 你还是想删除它么？</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3461"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3486"/>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
         <translation>确定要删除‘%1’吗？</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3479"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3504"/>
         <source>Could not delete directory.</source>
         <translation>无法删除目录。</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qfiledialog.cpp" line="3918"/>
+        <location filename="widgets/dialogs/qfiledialog.cpp" line="3943"/>
         <source>Recent Places</source>
         <translation>最近访问的位置</translation>
     </message>
     <message>
         <location filename="widgets/dialogs/qsidebar.cpp" line="450"/>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="widgets/itemviews/qdirmodel.cpp" line="857"/>
@@ -1476,252 +1639,252 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QFontDatabase</name>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="145"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1343"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="133"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1331"/>
         <source>Normal</source>
         <comment>The Normal or Regular font weight</comment>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="147"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1323"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="135"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1311"/>
         <source>Bold</source>
         <translation>粗体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="150"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1325"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="138"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1313"/>
         <source>Demi Bold</source>
         <translation>半粗体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="152"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1327"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="140"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1315"/>
         <source>Medium</source>
         <comment>The Medium font weight</comment>
         <translation>中等粗细</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="154"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1319"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="142"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1307"/>
         <source>Black</source>
         <translation>黑体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="156"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1334"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="144"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1322"/>
         <source>Light</source>
         <translation>轻体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="159"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1330"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="147"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1318"/>
         <source>Thin</source>
         <translation>细体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="161"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1332"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="149"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1320"/>
         <source>Extra Light</source>
         <translation>特轻体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="163"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1321"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="151"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1309"/>
         <source>Extra Bold</source>
         <translation>特粗体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="168"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="156"/>
         <source>Extra</source>
         <extracomment>The word for &quot;Extra&quot; as in &quot;Extra Bold, Extra Thin&quot; used as a pattern for string searches</extracomment>
         <translation>特</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="171"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="159"/>
         <source>Demi</source>
         <extracomment>The word for &quot;Demi&quot; as in &quot;Demi Bold&quot; used as a pattern for string searches</extracomment>
         <translation>半体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="266"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1338"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="254"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1326"/>
         <source>Italic</source>
         <translation>斜体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="268"/>
-        <location filename="gui/text/qfontdatabase.cpp" line="1340"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="256"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="1328"/>
         <source>Oblique</source>
         <translation>倾斜体</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2086"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2074"/>
         <source>Any</source>
         <translation>任意</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2089"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2077"/>
         <source>Latin</source>
         <translation>拉丁文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2092"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2080"/>
         <source>Greek</source>
         <translation>希腊文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2095"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2083"/>
         <source>Cyrillic</source>
         <translation>西里尔文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2098"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2086"/>
         <source>Armenian</source>
         <translation>亚美尼亚文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2101"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2089"/>
         <source>Hebrew</source>
         <translation>希伯来文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2104"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2092"/>
         <source>Arabic</source>
         <translation>阿拉伯文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2107"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2095"/>
         <source>Syriac</source>
         <translation>叙利亚文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2110"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2098"/>
         <source>Thaana</source>
         <translation>马尔代夫文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2113"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2101"/>
         <source>Devanagari</source>
         <translation>梵文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2116"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2104"/>
         <source>Bengali</source>
         <translation>孟加拉文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2119"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2107"/>
         <source>Gurmukhi</source>
         <translation>果鲁穆奇文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2122"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2110"/>
         <source>Gujarati</source>
         <translation>古吉拉特文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2125"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2113"/>
         <source>Oriya</source>
         <translation>奥里雅文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2128"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2116"/>
         <source>Tamil</source>
         <translation>泰米尔文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2131"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2119"/>
         <source>Telugu</source>
         <translation>泰卢固文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2134"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2122"/>
         <source>Kannada</source>
         <translation>埃纳德文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2137"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2125"/>
         <source>Malayalam</source>
         <translation>马拉亚拉姆文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2140"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2128"/>
         <source>Sinhala</source>
         <translation>僧伽罗文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2143"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2131"/>
         <source>Thai</source>
         <translation>泰国文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2146"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2134"/>
         <source>Lao</source>
         <translation>老挝文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2149"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2137"/>
         <source>Tibetan</source>
         <translation>藏文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2152"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2140"/>
         <source>Myanmar</source>
         <translation>缅甸文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2155"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2143"/>
         <source>Georgian</source>
         <translation>格鲁吉亚文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2158"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2146"/>
         <source>Khmer</source>
         <translation>谷美尔文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2161"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2149"/>
         <source>Simplified Chinese</source>
         <translation>简体中文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2164"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2152"/>
         <source>Traditional Chinese</source>
         <translation>繁体中文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2167"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2155"/>
         <source>Japanese</source>
         <translation>日文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2170"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2158"/>
         <source>Korean</source>
         <translation>韩文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2173"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2161"/>
         <source>Vietnamese</source>
         <translation>越南文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2176"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2164"/>
         <source>Symbol</source>
         <translation>符号</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2179"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2167"/>
         <source>Ogham</source>
         <translation>欧甘文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2182"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2170"/>
         <source>Runic</source>
         <translation>古北欧文</translation>
     </message>
     <message>
-        <location filename="gui/text/qfontdatabase.cpp" line="2185"/>
+        <location filename="gui/text/qfontdatabase.cpp" line="2173"/>
         <source>N&apos;Ko</source>
         <translation>北朝鲜文</translation>
     </message>
@@ -1883,27 +2046,27 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QGnomeTheme</name>
     <message>
-        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="814"/>
+        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="822"/>
         <source>&amp;OK</source>
         <translation>确定(&amp;O)</translation>
     </message>
     <message>
-        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="816"/>
+        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="824"/>
         <source>&amp;Save</source>
         <translation>保存(&amp;S)</translation>
     </message>
     <message>
-        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="818"/>
+        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="826"/>
         <source>&amp;Cancel</source>
         <translation>取消(&amp;C)</translation>
     </message>
     <message>
-        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="820"/>
+        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="828"/>
         <source>&amp;Close</source>
         <translation>关闭(&amp;C)</translation>
     </message>
     <message>
-        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="822"/>
+        <location filename="platformsupport/themes/genericunix/qgenericunixthemes.cpp" line="830"/>
         <source>Close without Saving</source>
         <translation>关闭不保存</translation>
     </message>
@@ -1911,22 +2074,90 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QGuiApplication</name>
     <message>
-        <location filename="gui/kernel/qguiapplication.cpp" line="221"/>
+        <location filename="gui/kernel/qguiapplication.cpp" line="223"/>
         <source>QT_LAYOUT_DIRECTION</source>
         <comment>Translate this string to the string &apos;LTR&apos; in left-to-right languages or to &apos;RTL&apos; in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout.</comment>
         <translation>QT_LAYOUT_DIRECTION</translation>
+    </message>
+    <message>
+        <source>QPA plugin. See QGuiApplication documentation for available options for each plugin.</source>
+        <translation type="vanished">QPA插件。关于插件的可用选项，请参阅QGuiApplication文档。</translation>
+    </message>
+    <message>
+        <source>Path to the platform plugins.</source>
+        <translation type="vanished">平台插件的路径。</translation>
+    </message>
+    <message>
+        <source>Platform theme.</source>
+        <translation type="vanished">平台主题。</translation>
+    </message>
+    <message>
+        <source>Additional plugins to load, can be specified multiple times.</source>
+        <translation type="vanished">额外的插件加载，可以指定多次。</translation>
+    </message>
+    <message>
+        <source>Window geometry for the main window, using the X11-syntax, like 100x100+50+50.</source>
+        <translation type="vanished">主窗口的窗口图形，使用X11语法，如100x100+50+50。</translation>
+    </message>
+    <message>
+        <source>Default window icon.</source>
+        <translation type="vanished">默认窗口图标。</translation>
+    </message>
+    <message>
+        <source>Title of the first window.</source>
+        <translation type="vanished">第一个窗口的标题。</translation>
+    </message>
+    <message>
+        <source>Sets the application&apos;s layout direction to Qt::RightToLeft (debugging helper).</source>
+        <translation type="vanished">将应用程序的布局方向设置为Qt::RightToLeft（调试助手）。</translation>
+    </message>
+    <message>
+        <source>Restores the application from an earlier session.</source>
+        <translation type="vanished">从早期会话恢复应用程序。</translation>
+    </message>
+    <message>
+        <source>Display name, overrides $DISPLAY.</source>
+        <translation type="vanished">显示名称，覆盖$Display。</translation>
+    </message>
+    <message>
+        <source>Instance name according to ICCCM 4.1.2.5.</source>
+        <translation type="vanished">实例名称符合ICCCM 4.1.2.5。</translation>
+    </message>
+    <message>
+        <source>Disable mouse grabbing (useful in debuggers).</source>
+        <translation type="vanished">禁用鼠标抓取（在调试器中很有用）。</translation>
+    </message>
+    <message>
+        <source>Force mouse grabbing (even when running in a debugger).</source>
+        <translation type="vanished">强制抓取鼠标（即使在调试器中运行）。</translation>
+    </message>
+    <message>
+        <source>ID of the X11 Visual to use.</source>
+        <translation type="vanished">要使用的X11视觉对象的ID。</translation>
+    </message>
+    <message>
+        <source>Alias for --windowgeometry.</source>
+        <translation type="vanished">别名--windowgeometry。</translation>
+    </message>
+    <message>
+        <source>Alias for --windowicon.</source>
+        <translation type="vanished">别名--windowicon。</translation>
+    </message>
+    <message>
+        <source>Alias for --windowtitle.</source>
+        <translation type="vanished">别名windowtitle。</translation>
     </message>
 </context>
 <context>
     <name>QHostInfo</name>
     <message>
-        <location filename="network/kernel/qhostinfo.cpp" line="244"/>
-        <location filename="network/kernel/qhostinfo.cpp" line="629"/>
+        <location filename="network/kernel/qhostinfo.cpp" line="275"/>
+        <location filename="network/kernel/qhostinfo.cpp" line="664"/>
         <source>No host name given</source>
         <translation>未指定主机名</translation>
     </message>
     <message>
-        <location filename="network/kernel/qhostinfo_p.h" line="146"/>
+        <location filename="network/kernel/qhostinfo_p.h" line="154"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
@@ -1934,25 +2165,25 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QHostInfoAgent</name>
     <message>
-        <location filename="network/kernel/qhostinfo_unix.cpp" line="222"/>
+        <location filename="network/kernel/qhostinfo_unix.cpp" line="237"/>
         <location filename="network/kernel/qhostinfo_win.cpp" line="123"/>
         <source>No host name given</source>
         <translation>未指定主机名</translation>
     </message>
     <message>
-        <location filename="network/kernel/qhostinfo_unix.cpp" line="223"/>
+        <location filename="network/kernel/qhostinfo_unix.cpp" line="238"/>
         <location filename="network/kernel/qhostinfo_win.cpp" line="123"/>
         <source>Invalid hostname</source>
         <translation>无效的主机名</translation>
     </message>
     <message>
-        <location filename="network/kernel/qhostinfo_unix.cpp" line="274"/>
+        <location filename="network/kernel/qhostinfo_unix.cpp" line="289"/>
         <location filename="network/kernel/qhostinfo_win.cpp" line="149"/>
         <source>Unknown address type</source>
         <translation>未知的地址类型</translation>
     </message>
     <message>
-        <location filename="network/kernel/qhostinfo_unix.cpp" line="287"/>
+        <location filename="network/kernel/qhostinfo_unix.cpp" line="302"/>
         <location filename="network/kernel/qhostinfo_win.cpp" line="66"/>
         <source>Host not found</source>
         <translation>未找到主机</translation>
@@ -1977,6 +2208,7 @@ Do you want to delete it anyway?</source>
         <translation>连接被拒绝</translation>
     </message>
     <message>
+        <location filename="network/access/qhttp2protocolhandler.cpp" line="230"/>
         <location filename="network/access/qhttpnetworkconnection.cpp" line="893"/>
         <source>Connection closed</source>
         <translation>连接已关闭</translation>
@@ -2013,7 +2245,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location filename="network/access/qhttpnetworkconnection.cpp" line="917"/>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1189"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1192"/>
         <source>Insecure redirect</source>
         <translation>不稳定的重定向</translation>
     </message>
@@ -2235,7 +2467,7 @@ Do you want to delete it anyway?</source>
         <translation>无法读取图像数据</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagereader.cpp" line="1462"/>
+        <location filename="gui/image/qimagereader.cpp" line="1464"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
@@ -2243,33 +2475,33 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QImageWriter</name>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="272"/>
+        <location filename="gui/image/qimagewriter.cpp" line="282"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="282"/>
+        <location filename="gui/image/qimagewriter.cpp" line="292"/>
         <source>Device is not set</source>
         <translation>设备未设置</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="288"/>
+        <location filename="gui/image/qimagewriter.cpp" line="298"/>
         <source>Cannot open device for writing: %1</source>
         <translation>无法打开设备进行写入：%1</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="294"/>
+        <location filename="gui/image/qimagewriter.cpp" line="304"/>
         <source>Device not writable</source>
         <translation>设备不可写</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="299"/>
-        <location filename="gui/image/qimagewriter.cpp" line="816"/>
+        <location filename="gui/image/qimagewriter.cpp" line="309"/>
+        <location filename="gui/image/qimagewriter.cpp" line="826"/>
         <source>Unsupported image format</source>
         <translation>图像格式不支持</translation>
     </message>
     <message>
-        <location filename="gui/image/qimagewriter.cpp" line="741"/>
+        <location filename="gui/image/qimagewriter.cpp" line="751"/>
         <source>Image is empty</source>
         <translation>图像是空的</translation>
     </message>
@@ -2277,7 +2509,7 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QInputDialog</name>
     <message>
-        <location filename="widgets/dialogs/qinputdialog.cpp" line="232"/>
+        <location filename="widgets/dialogs/qinputdialog.cpp" line="244"/>
         <source>Enter a value:</source>
         <translation>输入一个值：</translation>
     </message>
@@ -2498,20 +2730,20 @@ Do you want to delete it anyway?</source>
         <translation>未知错误</translation>
     </message>
     <message>
-        <location filename="corelib/plugin/qlibrary_unix.cpp" line="249"/>
+        <location filename="corelib/plugin/qlibrary_unix.cpp" line="251"/>
         <location filename="corelib/plugin/qlibrary_win.cpp" line="118"/>
         <source>Cannot load library %1: %2</source>
         <translation>无法加载库‘%1’：%2</translation>
     </message>
     <message>
-        <location filename="corelib/plugin/qlibrary_unix.cpp" line="265"/>
-        <location filename="corelib/plugin/qlibrary_unix.cpp" line="268"/>
+        <location filename="corelib/plugin/qlibrary_unix.cpp" line="267"/>
+        <location filename="corelib/plugin/qlibrary_unix.cpp" line="270"/>
         <location filename="corelib/plugin/qlibrary_win.cpp" line="154"/>
         <source>Cannot unload library %1: %2</source>
         <translation>无法卸载库‘%1’：%2</translation>
     </message>
     <message>
-        <location filename="corelib/plugin/qlibrary_unix.cpp" line="294"/>
+        <location filename="corelib/plugin/qlibrary_unix.cpp" line="296"/>
         <location filename="corelib/plugin/qlibrary_win.cpp" line="166"/>
         <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
         <translation>无法解析‘%2’中的符号‘%1’：%3</translation>
@@ -2555,37 +2787,37 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QLineEdit</name>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2165"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2175"/>
         <source>&amp;Undo</source>
         <translation>撤销(&amp;U)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2170"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2180"/>
         <source>&amp;Redo</source>
         <translation>恢复(&amp;R)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2180"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2190"/>
         <source>Cu&amp;t</source>
         <translation>剪切(&amp;T)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2187"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2197"/>
         <source>&amp;Copy</source>
         <translation>复制(&amp;C)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2194"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2204"/>
         <source>&amp;Paste</source>
         <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2202"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2212"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qlineedit.cpp" line="2211"/>
+        <location filename="widgets/widgets/qlineedit.cpp" line="2221"/>
         <source>Select All</source>
         <translation>全选</translation>
     </message>
@@ -2631,8 +2863,8 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="network/socket/qlocalsocket_tcp.cpp" line="141"/>
         <location filename="network/socket/qlocalsocket_unix.cpp" line="146"/>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="78"/>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="141"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="72"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="136"/>
         <source>%1: Invalid name</source>
         <translation>%1：无效的名称</translation>
     </message>
@@ -2663,7 +2895,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="network/socket/qlocalsocket_tcp.cpp" line="156"/>
         <location filename="network/socket/qlocalsocket_unix.cpp" line="161"/>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="73"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="67"/>
         <source>%1: Connection error</source>
         <translation>%1：连接错误</translation>
     </message>
@@ -2686,18 +2918,18 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location filename="network/socket/qlocalsocket_tcp.cpp" line="224"/>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="130"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="125"/>
         <source>Trying to connect while connection is in progress</source>
         <translation>正在连接时尝试连接</translation>
     </message>
     <message>
         <location filename="network/socket/qlocalsocket_unix.cpp" line="171"/>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="88"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="82"/>
         <source>%1: Unknown error %2</source>
         <translation>%1：未知错误%2</translation>
     </message>
     <message>
-        <location filename="network/socket/qlocalsocket_win.cpp" line="83"/>
+        <location filename="network/socket/qlocalsocket_win.cpp" line="77"/>
         <source>%1: Access denied</source>
         <translation>%1：访问被拒绝</translation>
     </message>
@@ -2705,32 +2937,32 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QMYSQLDriver</name>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1370"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1372"/>
         <source>Unable to allocate a MYSQL object</source>
         <translation>无法分配MySQL对象</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1415"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1417"/>
         <source>Unable to open database &apos;%1&apos;</source>
         <translation>无法打开数据库‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1425"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1427"/>
         <source>Unable to connect</source>
         <translation>无法连接</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1593"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1595"/>
         <source>Unable to begin transaction</source>
         <translation>无法开始事务</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1611"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1613"/>
         <source>Unable to commit transaction</source>
         <translation>无法提交事务</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1629"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1631"/>
         <source>Unable to rollback transaction</source>
         <translation>无法回滚事务</translation>
     </message>
@@ -2738,60 +2970,60 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QMYSQLResult</name>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="546"/>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="578"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="548"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="580"/>
         <source>Unable to fetch data</source>
         <translation>无法提取数据</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="757"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="759"/>
         <source>Unable to execute query</source>
         <translation>无法执行查询</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="763"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="765"/>
         <source>Unable to store result</source>
         <translation>无法存储结果</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="871"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="873"/>
         <source>Unable to execute next query</source>
         <translation>无法执行下一个查询</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="881"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="883"/>
         <source>Unable to store next result</source>
         <translation>无法存储下一个结果</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="953"/>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="961"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="955"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="963"/>
         <source>Unable to prepare statement</source>
         <translation>无法准备语句</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="999"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1001"/>
         <source>Unable to reset statement</source>
         <translation>无法重置语句</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1090"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1092"/>
         <source>Unable to bind value</source>
         <translation>无法绑定值</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1101"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1103"/>
         <source>Unable to execute statement</source>
         <translation>无法执行语句</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1115"/>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1136"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1117"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1138"/>
         <source>Unable to bind outvalues</source>
         <translation>无法绑定外值</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1124"/>
+        <location filename="plugins/sqldrivers/mysql/qsql_mysql.cpp" line="1126"/>
         <source>Unable to store statement results</source>
         <translation>无法存储语句结果</translation>
     </message>
@@ -2910,17 +3142,22 @@ Do you want to delete it anyway?</source>
         <translation>隐藏细节...</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qmessagebox.cpp" line="1831"/>
+        <location filename="widgets/dialogs/qmessagebox.cpp" line="1865"/>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;关于Qt&lt;/h3&gt;&lt;p&gt;这个程序使用了Qt %1。&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;关于Qt&lt;/h3&gt;&lt;p&gt;此程序使用了Qt %1。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qmessagebox.cpp" line="1836"/>
+        <location filename="widgets/dialogs/qmessagebox.cpp" line="1871"/>
+        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <extracomment>Leave this text untranslated or include a verbatim copy of it below and note that it is the authoritative version in case of doubt.</extracomment>
+        <translation>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
+    </message>
+    <message>
         <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="widgets/dialogs/qmessagebox.cpp" line="1863"/>
+        <location filename="widgets/dialogs/qmessagebox.cpp" line="1898"/>
         <source>About Qt</source>
         <translation>关于Qt</translation>
     </message>
@@ -2929,157 +3166,157 @@ Do you want to delete it anyway?</source>
     <name>QNativeSocketEngine</name>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="235"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1513"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1519"/>
         <source>Unable to initialize non-blocking socket</source>
         <translation>无法初始化非阻塞套接字</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="238"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1516"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1522"/>
         <source>Unable to initialize broadcast socket</source>
         <translation>无法初始化广播套接字</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="242"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1520"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1526"/>
         <source>Attempt to use IPv6 socket on a platform with no IPv6 support</source>
         <translation>试图在不支持IPv6支持的平台上使用IPv6套接字</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="245"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1523"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1529"/>
         <source>The remote host closed the connection</source>
         <translation>远程主机关闭了此连接</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="248"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1526"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1532"/>
         <source>Network operation timed out</source>
         <translation>网络操作超时</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="251"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1529"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1535"/>
         <source>Out of resources</source>
         <translation>资源不足</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="254"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1532"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1538"/>
         <source>Unsupported socket operation</source>
         <translation>不支持的套接字操作</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="257"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1535"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1541"/>
         <source>Protocol type not supported</source>
         <translation>不支持协议类型</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="260"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1538"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1544"/>
         <source>Invalid socket descriptor</source>
         <translation>无效的套接字描述符</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="263"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1541"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1547"/>
         <source>Host unreachable</source>
         <translation>主机不能访问</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="266"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1544"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1550"/>
         <source>Network unreachable</source>
         <translation>网络不能访问</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="269"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1547"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1553"/>
         <source>Permission denied</source>
         <translation>权限不够</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="272"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1550"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1556"/>
         <source>Connection timed out</source>
         <translation>连接超时</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="275"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1553"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1559"/>
         <source>Connection refused</source>
         <translation>连接被拒绝</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="278"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1556"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1562"/>
         <source>The bound address is already in use</source>
         <translation>绑定地址已在使用</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="281"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1559"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1565"/>
         <source>The address is not available</source>
         <translation>此地址不可用</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="284"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1562"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1568"/>
         <source>The address is protected</source>
         <translation>此地址受保护</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="287"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1565"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1571"/>
         <source>Datagram was too large to send</source>
         <translation>发送的数据报过大</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="290"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1568"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1574"/>
         <source>Unable to send a message</source>
         <translation>无法发送消息</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="293"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1571"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1577"/>
         <source>Unable to receive a message</source>
         <translation>无法接收消息</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="296"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1574"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1580"/>
         <source>Unable to write</source>
         <translation>无法写入</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="299"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1577"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1583"/>
         <source>Network error</source>
         <translation>网络错误</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="302"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1580"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1586"/>
         <source>Another socket is already listening on the same port</source>
         <translation>另一个套接字已在同一端口上监听</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="305"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1583"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1589"/>
         <source>Operation on non-socket</source>
         <translation>对非套接字操作</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="308"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1586"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1592"/>
         <source>The proxy type is invalid for this operation</source>
         <translation>代理类型对此操作无效</translation>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="311"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1589"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1595"/>
         <source>Temporary error</source>
         <translation>临时错误</translation>
     </message>
@@ -3095,7 +3332,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <location filename="network/socket/qnativesocketengine.cpp" line="320"/>
-        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1592"/>
+        <location filename="network/socket/qnativesocketengine_winrt.cpp" line="1598"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
@@ -3206,15 +3443,15 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QNetworkReply</name>
     <message>
-        <location filename="network/access/qhttpthreaddelegate.cpp" line="520"/>
-        <location filename="network/access/qhttpthreaddelegate.cpp" line="546"/>
+        <location filename="network/access/qhttpthreaddelegate.cpp" line="532"/>
+        <location filename="network/access/qhttpthreaddelegate.cpp" line="558"/>
         <source>Error transferring %1 - server replied: %2</source>
         <translation>传输‘%1’错误 - 服务器回复：%2</translation>
     </message>
     <message>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1872"/>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2093"/>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2108"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1865"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2084"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2099"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="123"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="326"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="341"/>
@@ -3222,21 +3459,21 @@ Do you want to delete it anyway?</source>
         <translation>网络会话错误。</translation>
     </message>
     <message>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1896"/>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2122"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1887"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2113"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="98"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="355"/>
         <source>Background request not allowed.</source>
         <translation>不允许后台请求。</translation>
     </message>
     <message>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1917"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="1908"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="130"/>
         <source>backend start error.</source>
         <translation>后端启动错误。</translation>
     </message>
     <message>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2208"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="2199"/>
         <location filename="network/access/qnetworkreplyimpl.cpp" line="809"/>
         <source>Temporary network failure.</source>
         <translation>临时网络故障。</translation>
@@ -3256,7 +3493,7 @@ Do you want to delete it anyway?</source>
         <translation>操作取消</translation>
     </message>
     <message>
-        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="678"/>
+        <location filename="network/access/qnetworkreplyhttpimpl.cpp" line="680"/>
         <source>No suitable proxy found</source>
         <translation>找不到合适的代理</translation>
     </message>
@@ -3273,7 +3510,7 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QNetworkSession</name>
     <message>
-        <location filename="network/bearer/qnetworksession.cpp" line="468"/>
+        <location filename="network/bearer/qnetworksession.cpp" line="469"/>
         <source>Invalid configuration.</source>
         <translation>无效的配置。</translation>
     </message>
@@ -3281,27 +3518,27 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QNetworkSessionPrivateImpl</name>
     <message>
-        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="254"/>
+        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="255"/>
         <source>Unknown session error.</source>
         <translation>未知会话错误。</translation>
     </message>
     <message>
-        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="256"/>
+        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="257"/>
         <source>The session was aborted by the user or system.</source>
         <translation>会话被用户或系统中止。</translation>
     </message>
     <message>
-        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="258"/>
+        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="259"/>
         <source>The requested operation is not supported by the system.</source>
         <translation>系统不支持此请求的操作。</translation>
     </message>
     <message>
-        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="260"/>
+        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="261"/>
         <source>The specified configuration cannot be used.</source>
         <translation>无法使用指定的配置。</translation>
     </message>
     <message>
-        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="262"/>
+        <location filename="plugins/bearer/qnetworksession_impl.cpp" line="263"/>
         <source>Roaming was aborted or is not possible.</source>
         <translation>漫游被中止或不可能。</translation>
     </message>
@@ -3468,32 +3705,32 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QPSQLDriver</name>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1234"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1236"/>
         <source>Unable to connect</source>
         <translation>无法连接</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1286"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1288"/>
         <source>Could not begin transaction</source>
         <translation>无法开始事务</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1315"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1317"/>
         <source>Could not commit transaction</source>
         <translation>无法提交事务</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1333"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1335"/>
         <source>Could not rollback transaction</source>
         <translation>无法回滚事务</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1620"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1622"/>
         <source>Unable to subscribe</source>
         <translation>无法订阅</translation>
     </message>
     <message>
-        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1655"/>
+        <location filename="plugins/sqldrivers/psql/qsql_psql.cpp" line="1657"/>
         <source>Unable to unsubscribe</source>
         <translation>无法取消订阅</translation>
     </message>
@@ -4300,92 +4537,92 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QPlatformTheme</name>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="706"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="708"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="708"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="710"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="710"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="712"/>
         <source>Save All</source>
         <translation>全部保存</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="712"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="714"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="714"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="716"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="716"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="718"/>
         <source>Yes to &amp;All</source>
         <translation>全是(&amp;A)</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="718"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="720"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="720"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="722"/>
         <source>N&amp;o to All</source>
         <translation>全否(&amp;O)</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="722"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="724"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="724"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="726"/>
         <source>Retry</source>
         <translation>重试</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="726"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="728"/>
         <source>Ignore</source>
         <translation>忽略</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="728"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="730"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="730"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="732"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="732"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="734"/>
         <source>Discard</source>
         <translation>丢弃</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="734"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="736"/>
         <source>Help</source>
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="736"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="738"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="738"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="740"/>
         <source>Reset</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qplatformtheme.cpp" line="740"/>
+        <location filename="gui/kernel/qplatformtheme.cpp" line="742"/>
         <source>Restore Defaults</source>
         <translation>恢复默认</translation>
     </message>
@@ -4398,7 +4635,7 @@ Do you want to delete it anyway?</source>
         <translation>插件没有载入。</translation>
     </message>
     <message>
-        <location filename="corelib/plugin/qpluginloader.cpp" line="390"/>
+        <location filename="corelib/plugin/qpluginloader.cpp" line="389"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
@@ -4820,7 +5057,7 @@ Please turn one of those options off.</source>
     <message>
         <location filename="printsupport/dialogs/qprintsettingsoutput.ui" line="235"/>
         <source>Copies:</source>
-        <translation>份数：</translation>
+        <translation>副本：</translation>
     </message>
     <message>
         <location filename="printsupport/dialogs/qprintsettingsoutput.ui" line="268"/>
@@ -4840,12 +5077,12 @@ Please turn one of those options off.</source>
     <message>
         <location filename="printsupport/dialogs/qprintsettingsoutput.ui" line="315"/>
         <source>Color Mode</source>
-        <translation>彩色模式</translation>
+        <translation>颜色模式</translation>
     </message>
     <message>
         <location filename="printsupport/dialogs/qprintsettingsoutput.ui" line="334"/>
         <source>Color</source>
-        <translation>彩色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location filename="printsupport/dialogs/qprintsettingsoutput.ui" line="344"/>
@@ -4924,35 +5161,35 @@ Please turn one of those options off.</source>
 <context>
     <name>QProcess</name>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="966"/>
+        <location filename="corelib/io/qprocess.cpp" line="967"/>
         <source>Process failed to start</source>
         <translation>进程启动失败</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="969"/>
+        <location filename="corelib/io/qprocess.cpp" line="970"/>
         <source>Process crashed</source>
         <translation>进程崩溃</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="972"/>
+        <location filename="corelib/io/qprocess.cpp" line="973"/>
         <source>Process operation timed out</source>
         <translation>进程操作超时</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="975"/>
+        <location filename="corelib/io/qprocess.cpp" line="976"/>
         <source>Error reading from process</source>
         <translation>读取进程时出错</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="978"/>
+        <location filename="corelib/io/qprocess.cpp" line="979"/>
         <source>Error writing to process</source>
         <translation>写入进程时出错</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess.cpp" line="2077"/>
-        <location filename="corelib/io/qprocess.cpp" line="2104"/>
-        <location filename="corelib/io/qprocess.cpp" line="2167"/>
-        <location filename="corelib/io/qprocess.cpp" line="2322"/>
+        <location filename="corelib/io/qprocess.cpp" line="2078"/>
+        <location filename="corelib/io/qprocess.cpp" line="2105"/>
+        <location filename="corelib/io/qprocess.cpp" line="2168"/>
+        <location filename="corelib/io/qprocess.cpp" line="2323"/>
         <source>No program defined</source>
         <translation>未定义程序</translation>
     </message>
@@ -4974,8 +5211,8 @@ Please turn one of those options off.</source>
         <translation>无法打开用于写入的输出重定向</translation>
     </message>
     <message>
-        <location filename="corelib/io/qprocess_win.cpp" line="522"/>
-        <location filename="corelib/io/qprocess_win.cpp" line="571"/>
+        <location filename="corelib/io/qprocess_win.cpp" line="528"/>
+        <location filename="corelib/io/qprocess_win.cpp" line="577"/>
         <source>Process failed to start: %1</source>
         <translation>进程启动失败：%1</translation>
     </message>
@@ -5055,758 +5292,758 @@ Please turn one of those options off.</source>
     <name>QRegularExpression</name>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="1648"/>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2841"/>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2931"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2852"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2942"/>
         <source>no error</source>
         <translation>无错误</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2842"/>
-        <source>\ at end of pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2843"/>
-        <source>\c at end of pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2844"/>
-        <source>unrecognized character follows \</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2845"/>
-        <source>numbers out of order in {} quantifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2846"/>
-        <source>number too big in {} quantifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2847"/>
-        <source>missing terminating ] for character class</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2848"/>
-        <source>invalid escape sequence in character class</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2849"/>
-        <source>range out of order in character class</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2850"/>
-        <source>quantifier does not follow a repeatable item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2851"/>
-        <source>internal error: unexpected repeat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2852"/>
-        <source>unrecognized character after (? or (?-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2853"/>
-        <source>POSIX named classes are supported only within a class</source>
-        <translation type="unfinished"></translation>
+        <source>\ at end of pattern</source>
+        <translation>以‘\’结尾</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2854"/>
-        <source>POSIX collating elements are not supported</source>
-        <translation type="unfinished"></translation>
+        <source>\c at end of pattern</source>
+        <translation>以‘\c’结尾</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2855"/>
-        <source>missing closing parenthesis</source>
-        <translation type="unfinished"></translation>
+        <source>unrecognized character follows \</source>
+        <translation>无法识别‘\’之后的字符</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2856"/>
-        <source>reference to non-existent subpattern</source>
-        <translation type="unfinished"></translation>
+        <source>numbers out of order in {} quantifier</source>
+        <translation>量词‘{}’中的数字顺序错误</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2857"/>
-        <source>pattern passed as NULL</source>
-        <translation type="unfinished"></translation>
+        <source>number too big in {} quantifier</source>
+        <translation>量词‘{}’中的数字太大</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2858"/>
-        <source>unrecognised compile-time option bit(s)</source>
-        <translation type="unfinished"></translation>
+        <source>missing terminating ] for character class</source>
+        <translation>字符集缺少终止符‘]’</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2859"/>
-        <source>missing ) after (?# comment</source>
-        <translation type="unfinished"></translation>
+        <source>invalid escape sequence in character class</source>
+        <translation>字符集中带无效的转义字符</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2860"/>
-        <source>parentheses are too deeply nested</source>
-        <translation type="unfinished"></translation>
+        <source>range out of order in character class</source>
+        <translation>字符集中的范围无序</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2861"/>
-        <source>regular expression is too large</source>
-        <translation type="unfinished"></translation>
+        <source>quantifier does not follow a repeatable item</source>
+        <translation>量词不在可重复项之后</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2862"/>
-        <source>failed to allocate heap memory</source>
-        <translation type="unfinished"></translation>
+        <source>internal error: unexpected repeat</source>
+        <translation>内部错误：意外的重复</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2863"/>
-        <source>unmatched closing parenthesis</source>
-        <translation type="unfinished"></translation>
+        <source>unrecognized character after (? or (?-</source>
+        <translation>无法识别‘(?’或‘(?-’之后字符</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2864"/>
-        <source>internal error: code overflow</source>
-        <translation type="unfinished"></translation>
+        <source>POSIX named classes are supported only within a class</source>
+        <translation>POSIX命名类仅在类中受支持</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2865"/>
-        <source>letter or underscore expected after (?&lt; or (?&apos;</source>
-        <translation type="unfinished"></translation>
+        <source>POSIX collating elements are not supported</source>
+        <translation>不支持POSIX排序元素</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2866"/>
-        <source>lookbehind assertion is not fixed length</source>
-        <translation type="unfinished"></translation>
+        <source>missing closing parenthesis</source>
+        <translation>缺少闭括号</translation>
     </message>
     <message>
         <location filename="corelib/tools/qregularexpression.cpp" line="2867"/>
+        <source>reference to non-existent subpattern</source>
+        <translation>引用不存在的子模式</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2868"/>
+        <source>pattern passed as NULL</source>
+        <translation>传递模式为空</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2869"/>
+        <source>unrecognised compile-time option bit(s)</source>
+        <translation>无法识别的编译时选项位</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2870"/>
+        <source>missing ) after (?# comment</source>
+        <translation>‘(?#’后面缺少‘)’</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2871"/>
+        <source>parentheses are too deeply nested</source>
+        <translation>括号嵌套太深</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2872"/>
+        <source>regular expression is too large</source>
+        <translation>正则表达式太大</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2873"/>
+        <source>failed to allocate heap memory</source>
+        <translation>分配堆内存失败</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2874"/>
+        <source>unmatched closing parenthesis</source>
+        <translation>不匹配闭括号</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2875"/>
+        <source>internal error: code overflow</source>
+        <translation>内部错误：代码溢出</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2876"/>
+        <source>letter or underscore expected after (?&lt; or (?&apos;</source>
+        <translation>‘(?&lt;’和‘(?’之后应为字符或下划线</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2877"/>
+        <source>lookbehind assertion is not fixed length</source>
+        <translation>后行断言长度不固定</translation>
+    </message>
+    <message>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2878"/>
         <source>malformed number or name after (?(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2868"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2879"/>
         <source>conditional group contains more than two branches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2869"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2880"/>
         <source>assertion expected after (?( or (?(?C)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2870"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2881"/>
         <source>(?R or (?[+-]digits must be followed by )</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2871"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2882"/>
         <source>unknown POSIX class name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2872"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2883"/>
         <source>internal error in pcre2_study(): should not occur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2873"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2884"/>
         <source>this version of PCRE2 does not have Unicode support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2874"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2885"/>
         <source>parentheses are too deeply nested (stack check)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2875"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2886"/>
         <source>character code point value in \x{} or \o{} is too large</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2876"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2887"/>
         <source>invalid condition (?(0)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2877"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2888"/>
         <source>\C is not allowed in a lookbehind assertion</source>
-        <translation type="unfinished"></translation>
+        <translation>在后行断言中不允许使用‘\C’</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2878"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2889"/>
         <source>PCRE does not support \L, \l, \N{name}, \U, or \u</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2879"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2890"/>
         <source>number after (?C is greater than 255</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2880"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2891"/>
         <source>closing parenthesis for (?C expected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2881"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2892"/>
         <source>invalid escape sequence in (*VERB) name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2882"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2893"/>
         <source>unrecognized character after (?P</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2883"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2894"/>
         <source>syntax error in subpattern name (missing terminator)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2884"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2895"/>
         <source>two named subpatterns have the same name (PCRE2_DUPNAMES not set)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2885"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2896"/>
         <source>group name must start with a non-digit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2886"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2897"/>
         <source>this version of PCRE2 does not have support for \P, \p, or \X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2887"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2898"/>
         <source>malformed \P or \p sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2888"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2899"/>
         <source>unknown property name after \P or \p</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2889"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2900"/>
         <source>subpattern name is too long (maximum 10000 characters)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2890"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2901"/>
         <source>too many named subpatterns (maximum 256)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2891"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2902"/>
         <source>invalid range in character class</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2892"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2903"/>
         <source>octal value is greater than \377 in 8-bit non-UTF-8 mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2893"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2904"/>
         <source>internal error: overran compiling workspace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2894"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2905"/>
         <source>internal error: previously-checked referenced subpattern not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2895"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2906"/>
         <source>DEFINE group contains more than one branch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2896"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2907"/>
         <source>missing opening brace after \o</source>
-        <translation type="unfinished"></translation>
+        <translation>‘\o’后面缺少左大括号</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2897"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2908"/>
         <source>internal error: unknown newline setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2898"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2909"/>
         <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
-        <translation type="unfinished"></translation>
+        <translation>‘\g’后面没有带括号的、带尖括号的或带引号的名称/编号或普通编号</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2899"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2910"/>
         <source>a numbered reference must not be zero</source>
-        <translation type="unfinished"></translation>
+        <translation>编号的引用不能为零</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2900"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2911"/>
         <source>an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2901"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2912"/>
         <source>(*VERB) not recognized or malformed</source>
-        <translation type="unfinished"></translation>
+        <translation>(*VERB)无法识别或格式不正确</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2902"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2913"/>
         <source>number is too big</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2903"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2914"/>
         <source>subpattern name expected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2904"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2915"/>
         <source>digit expected after (?+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2905"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2916"/>
         <source>non-octal character in \o{} (closing brace missing?)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2906"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2917"/>
         <source>different names for subpatterns of the same number are not allowed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2907"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2918"/>
         <source>(*MARK) must have an argument</source>
-        <translation type="unfinished"></translation>
+        <translation>(*MARK)必须有参数</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2908"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2919"/>
         <source>non-hex character in \x{} (closing brace missing?)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2909"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2920"/>
         <source>\c must be followed by a printable ASCII character</source>
-        <translation type="unfinished"></translation>
+        <translation>‘\c’后面必须跟一个可打印的ASCII字符</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2910"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2921"/>
         <source>\c must be followed by a letter or one of [\]^_?</source>
-        <translation type="unfinished"></translation>
+        <translation>‘\c’后面必须跟一个字母或一个‘[\]^_?’</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2911"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2922"/>
         <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
-        <translation type="unfinished"></translation>
+        <translation>‘\k’后面没有带大括号、尖括号或引号的名称</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2912"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2923"/>
         <source>internal error: unknown opcode in find_fixedlength()</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2913"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2924"/>
         <source>\N is not supported in a class</source>
-        <translation type="unfinished"></translation>
+        <translation>类中不支持‘\N’</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2914"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2925"/>
         <source>SPARE ERROR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2915"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2926"/>
         <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2916"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2927"/>
         <source>using UTF is disabled by the application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2917"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2928"/>
         <source>using UCP is disabled by the application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2918"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2929"/>
         <source>name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2919"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2930"/>
         <source>character code point value in \u.... sequence is too large</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2920"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2931"/>
         <source>digits missing in \x{} or \o{}</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2921"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2932"/>
         <source>syntax error in (?(VERSION condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2922"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2933"/>
         <source>internal error: unknown opcode in auto_possessify()</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2923"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2934"/>
         <source>missing terminating delimiter for callout with string argument</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2924"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2935"/>
         <source>unrecognized string delimiter follows (?C</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2925"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2936"/>
         <source>using \C is disabled by the application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2926"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2937"/>
         <source>(?| and/or (?J: or (?x: parentheses are too deeply nested</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2927"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2938"/>
         <source>using \C is disabled in this PCRE2 library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2928"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2939"/>
         <source>regular expression is too complicated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2929"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2940"/>
         <source>lookbehind assertion is too long</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2930"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2941"/>
         <source>pattern string is longer than the limit set by the application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2932"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2943"/>
         <source>no match</source>
-        <translation type="unfinished"></translation>
+        <translation>不匹配</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2933"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2944"/>
         <source>partial match</source>
-        <translation type="unfinished"></translation>
+        <translation>部分匹配</translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2934"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2945"/>
         <source>UTF-8 error: 1 byte missing at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2935"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2946"/>
         <source>UTF-8 error: 2 bytes missing at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2936"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2947"/>
         <source>UTF-8 error: 3 bytes missing at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2937"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2948"/>
         <source>UTF-8 error: 4 bytes missing at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2938"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2949"/>
         <source>UTF-8 error: 5 bytes missing at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2939"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2950"/>
         <source>UTF-8 error: byte 2 top bits not 0x80</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2940"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2951"/>
         <source>UTF-8 error: byte 3 top bits not 0x80</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2941"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2952"/>
         <source>UTF-8 error: byte 4 top bits not 0x80</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2942"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2953"/>
         <source>UTF-8 error: byte 5 top bits not 0x80</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2943"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2954"/>
         <source>UTF-8 error: byte 6 top bits not 0x80</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2944"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2955"/>
         <source>UTF-8 error: 5-byte character is not allowed (RFC 3629)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2945"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2956"/>
         <source>UTF-8 error: 6-byte character is not allowed (RFC 3629)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2946"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2957"/>
         <source>UTF-8 error: code points greater than 0x10ffff are not defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2947"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2958"/>
         <source>UTF-8 error: code points 0xd800-0xdfff are not defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2948"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2959"/>
         <source>UTF-8 error: overlong 2-byte sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2949"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2960"/>
         <source>UTF-8 error: overlong 3-byte sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2950"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2961"/>
         <source>UTF-8 error: overlong 4-byte sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2951"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2962"/>
         <source>UTF-8 error: overlong 5-byte sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2952"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2963"/>
         <source>UTF-8 error: overlong 6-byte sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2953"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2964"/>
         <source>UTF-8 error: isolated byte with 0x80 bit set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2954"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2965"/>
         <source>UTF-8 error: illegal byte (0xfe or 0xff)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2955"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2966"/>
         <source>UTF-16 error: missing low surrogate at end</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2956"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2967"/>
         <source>UTF-16 error: invalid low surrogate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2957"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2968"/>
         <source>UTF-16 error: isolated low surrogate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2958"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2969"/>
         <source>UTF-32 error: code points 0xd800-0xdfff are not defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2959"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2970"/>
         <source>UTF-32 error: code points greater than 0x10ffff are not defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2960"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2971"/>
         <source>bad data value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2961"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2972"/>
         <source>patterns do not all use the same character tables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2962"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2973"/>
         <source>magic number missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2963"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2974"/>
         <source>pattern compiled in wrong mode: 8/16/32-bit error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2964"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2975"/>
         <source>bad offset value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2965"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2976"/>
         <source>bad option value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2966"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2977"/>
         <source>invalid replacement string</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2967"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2978"/>
         <source>bad offset into UTF string</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2968"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2979"/>
         <source>callout error code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2969"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2980"/>
         <source>invalid data in workspace for DFA restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2970"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2981"/>
         <source>too much recursion for DFA matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2971"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2982"/>
         <source>backreference condition or recursion test is not supported for DFA matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2972"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2983"/>
         <source>function is not supported for DFA matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2973"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2984"/>
         <source>pattern contains an item that is not supported for DFA matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2974"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2985"/>
         <source>workspace size exceeded in DFA matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2975"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2986"/>
         <source>internal error - pattern overwritten?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2976"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2987"/>
         <source>bad JIT option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2977"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2988"/>
         <source>JIT stack limit reached</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2978"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2989"/>
         <source>match limit exceeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2979"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2990"/>
         <source>no more memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2980"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2991"/>
         <source>unknown substring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2981"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2992"/>
         <source>non-unique substring name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2982"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2993"/>
         <source>NULL argument passed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2983"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2994"/>
         <source>nested recursion at the same subject position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2984"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2995"/>
         <source>recursion limit exceeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2985"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2996"/>
         <source>requested value is not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2986"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2997"/>
         <source>requested value is not set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2987"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2998"/>
         <source>offset limit set without PCRE2_USE_OFFSET_LIMIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2988"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="2999"/>
         <source>bad escape sequence in replacement string</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2989"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="3000"/>
         <source>expected closing curly bracket in replacement string</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2990"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="3001"/>
         <source>bad substitution in replacement string</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2991"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="3002"/>
         <source>match with end before start is not supported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="corelib/tools/qregularexpression.cpp" line="2992"/>
+        <location filename="corelib/tools/qregularexpression.cpp" line="3003"/>
         <source>too many replacements (more than INT_MAX)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5918,22 +6155,26 @@ Please turn one of those options off.</source>
 <context>
     <name>QSaveFile</name>
     <message>
-        <location filename="corelib/io/qsavefile.cpp" line="214"/>
+        <location filename="corelib/io/qsavefile.cpp" line="215"/>
         <source>Existing file %1 is not writable</source>
         <translation>现有文件‘%1’不可写</translation>
     </message>
     <message>
-        <location filename="corelib/io/qsavefile.cpp" line="220"/>
+        <location filename="corelib/io/qsavefile.cpp" line="221"/>
         <source>Filename refers to a directory</source>
         <translation>文件名是一个目录</translation>
     </message>
     <message>
-        <location filename="corelib/io/qsavefile.cpp" line="258"/>
+        <source>QSaveFile cannot open &apos;%1&apos; without direct write fallback enabled.</source>
+        <translation type="vanished">有启用直接写回退，QSaveFile无法打开‘%1’。</translation>
+    </message>
+    <message>
+        <location filename="corelib/io/qsavefile.cpp" line="259"/>
         <source>QSaveFile cannot open &apos;%1&apos; without direct write fallback enabled: path contains an Alternate Data Stream specifier</source>
         <translation>没有启用直接写回退，QSaveFile无法打开‘%1’：路径包含备用数据流说明符</translation>
     </message>
     <message>
-        <location filename="corelib/io/qsavefile.cpp" line="384"/>
+        <location filename="corelib/io/qsavefile.cpp" line="385"/>
         <source>Writing canceled by application</source>
         <translation>写入被程序取消</translation>
     </message>
@@ -6463,908 +6704,938 @@ Please turn one of those options off.</source>
     </message>
     <message>
         <location filename="gui/kernel/qkeysequence.cpp" line="498"/>
+        <source>Launch (G)</source>
+        <translation>启动（G）</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="499"/>
+        <source>Launch (H)</source>
+        <translation>启动（H）</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="500"/>
         <source>Monitor Brightness Up</source>
         <translation>调亮监视器</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="499"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="501"/>
         <source>Monitor Brightness Down</source>
         <translation>调暗监视器</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="500"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="502"/>
         <source>Keyboard Light On/Off</source>
         <translation>键盘灯开关</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="501"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="503"/>
         <source>Keyboard Brightness Up</source>
         <translation>调亮键盘灯</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="502"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="504"/>
         <source>Keyboard Brightness Down</source>
         <translation>调暗键盘灯</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="503"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="505"/>
         <source>Power Off</source>
         <translation>关机</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="504"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="506"/>
         <source>Wake Up</source>
         <translation>唤醒</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="505"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="507"/>
         <source>Eject</source>
         <translation>Eject</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="506"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="508"/>
         <source>Screensaver</source>
         <translation>屏保</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="507"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="509"/>
         <source>WWW</source>
         <translation>WWW</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="508"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="510"/>
         <source>Sleep</source>
         <translation>睡眠</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="509"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="511"/>
         <source>LightBulb</source>
         <translation>LightBulb</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="510"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="512"/>
         <source>Shop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="511"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="513"/>
         <source>History</source>
         <translation>历史</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="512"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="514"/>
         <source>Add Favorite</source>
         <translation>添加收藏</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="513"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="515"/>
         <source>Hot Links</source>
         <translation>热点链接</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="514"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="516"/>
         <source>Adjust Brightness</source>
         <translation>调节亮度</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="515"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="517"/>
         <source>Finance</source>
         <translation>Finance</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="516"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="518"/>
         <source>Community</source>
         <translation>Community</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="517"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="519"/>
         <source>Media Rewind</source>
         <translation>多媒体倒回</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="518"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="520"/>
         <source>Back Forward</source>
         <translation>后退</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="519"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="521"/>
         <source>Application Left</source>
         <translation>Application Left</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="520"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="522"/>
         <source>Application Right</source>
         <translation>Application Right</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="521"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="523"/>
         <source>Book</source>
         <translation>书</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="522"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="524"/>
         <source>CD</source>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="523"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="525"/>
         <source>Calculator</source>
         <translation>计算器</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="524"/>
-        <source>Clear</source>
-        <translation>清除</translation>
+        <location filename="gui/kernel/qkeysequence.cpp" line="526"/>
+        <source>Calendar</source>
+        <translation>日历</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="525"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="527"/>
+        <source>Clear</source>
+        <translation>清空</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="528"/>
         <source>Clear Grab</source>
         <translation>清除抓住</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="526"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="529"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="527"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="530"/>
+        <source>Adjust contrast</source>
+        <translation>调节对比度</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="531"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="528"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="532"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="529"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="533"/>
         <source>Display</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="530"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="534"/>
         <source>DOS</source>
         <translation>DOS</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="531"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="535"/>
         <source>Documents</source>
         <translation>文档</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="532"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="536"/>
         <source>Spreadsheet</source>
         <translation>电子表格</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="533"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="537"/>
         <source>Browser</source>
         <translation>浏览器</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="534"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="538"/>
         <source>Game</source>
         <translation>游戏</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="535"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="539"/>
         <source>Go</source>
         <translation>前往</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="536"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="540"/>
         <source>iTouch</source>
         <translation>iTouch</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="537"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="541"/>
         <source>Logoff</source>
         <translation>注销</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="538"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="542"/>
         <source>Market</source>
         <translation>市场</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="539"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="543"/>
         <source>Meeting</source>
         <translation>会议</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="540"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="544"/>
+        <source>Memo</source>
+        <translation>备忘录</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="545"/>
         <source>Keyboard Menu</source>
         <translation>键盘菜单</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="541"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="546"/>
         <source>Menu PB</source>
         <translation>菜单按钮</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="542"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="547"/>
         <source>My Sites</source>
         <translation>我的网站</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="543"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="548"/>
         <source>News</source>
         <translation>新闻</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="544"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="549"/>
         <source>Home Office</source>
         <translation>办公</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="545"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="550"/>
         <source>Option</source>
         <translation>选项</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="546"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="551"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="547"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="552"/>
         <source>Phone</source>
         <translation>电话</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="548"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="553"/>
         <source>Reply</source>
         <translation>答复</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="549"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="554"/>
         <source>Reload</source>
         <translation>重新载入</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="550"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="555"/>
         <source>Rotate Windows</source>
         <translation>旋转窗口</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="551"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="556"/>
         <source>Rotation PB</source>
         <translation>旋转按钮</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="552"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="557"/>
         <source>Rotation KB</source>
         <translation>旋转键盘</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="553"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="558"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="554"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="559"/>
         <source>Send</source>
         <translation>发送</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="555"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="560"/>
         <source>Spellchecker</source>
         <translation>拼写检查</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="556"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="561"/>
         <source>Split Screen</source>
         <translation>分屏</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="557"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="562"/>
         <source>Support</source>
         <translation>支持</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="558"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="563"/>
         <source>Task Panel</source>
         <translation>任务管理器</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="559"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="564"/>
         <source>Terminal</source>
         <translation>终端</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="560"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="565"/>
+        <source>To-do list</source>
+        <translation>任务清单</translation>
+    </message>
+    <message>
+        <location filename="gui/kernel/qkeysequence.cpp" line="566"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="561"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="567"/>
         <source>Travel</source>
         <translation>Travel</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="562"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="568"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="563"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="569"/>
         <source>Word Processor</source>
         <translation>文字处理</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="564"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="570"/>
         <source>XFer</source>
         <translation>传输</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="565"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="571"/>
         <source>Zoom In</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="566"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="572"/>
         <source>Zoom Out</source>
         <translation>缩小</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="567"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="573"/>
         <source>Away</source>
         <translation>Away</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="568"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="574"/>
         <source>Messenger</source>
         <translation>消息</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="569"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="575"/>
         <source>WebCam</source>
         <translation>网络摄像机</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="570"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="576"/>
         <source>Mail Forward</source>
         <translation>邮件转发</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="571"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="577"/>
         <source>Pictures</source>
         <translation>图片</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="572"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="578"/>
         <source>Music</source>
         <translation>音乐</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="573"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="579"/>
         <source>Battery</source>
         <translation>电池</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="574"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="580"/>
         <source>Bluetooth</source>
         <translation>蓝牙</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="575"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="581"/>
         <source>Wireless</source>
         <translation>无线</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="576"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="582"/>
         <source>Ultra Wide Band</source>
         <translation>超宽带</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="577"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="583"/>
         <source>Media Fast Forward</source>
         <translation>媒体快进</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="578"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="584"/>
         <source>Audio Repeat</source>
         <translation>循环播放</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="579"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="585"/>
         <source>Audio Random Play</source>
         <translation>随机播放</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="580"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="586"/>
         <source>Subtitle</source>
         <translation>字幕</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="581"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="587"/>
         <source>Audio Cycle Track</source>
         <translation>循环曲目</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="582"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="588"/>
         <source>Time</source>
         <translation>时间</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="583"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="589"/>
         <source>Hibernate</source>
         <translation>Hibernate</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="584"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="590"/>
         <source>View</source>
         <translation>视图</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="585"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="591"/>
         <source>Top Menu</source>
         <translation>顶部菜单</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="586"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="592"/>
         <source>Power Down</source>
         <translation>掉电</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="587"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="593"/>
         <source>Suspend</source>
         <translation>暂停</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="589"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="595"/>
         <source>Microphone Mute</source>
         <translation>麦克风静音</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="591"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="597"/>
         <source>Red</source>
         <translation>红色</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="592"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="598"/>
         <source>Green</source>
         <translation>绿色</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="593"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="599"/>
         <source>Yellow</source>
         <translation>黄色</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="594"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="600"/>
         <source>Blue</source>
         <translation>蓝色</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="596"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="602"/>
         <source>Channel Up</source>
         <translation>信道上升</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="597"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="603"/>
         <source>Channel Down</source>
         <translation>信道下降</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="599"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="605"/>
         <source>Guide</source>
         <translation>向导</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="600"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="606"/>
         <source>Info</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="601"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="607"/>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>配置</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="603"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="609"/>
         <source>Microphone Volume Up</source>
         <translation>麦克风调大音量</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="604"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="610"/>
         <source>Microphone Volume Down</source>
         <translation>麦克风调小音量</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="606"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="612"/>
         <source>New</source>
         <translation>新建</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="607"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="613"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="608"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="614"/>
         <source>Find</source>
         <translation>查找</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="609"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="615"/>
         <source>Undo</source>
         <translation>撤销</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="610"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="616"/>
         <source>Redo</source>
         <translation>恢复</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="614"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="620"/>
         <source>Print Screen</source>
         <translation>截屏</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="615"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="621"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="616"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="622"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="617"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="623"/>
         <source>Caps Lock</source>
         <translation>Caps Lock</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="618"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="624"/>
         <source>Num Lock</source>
         <translation>Num Lock</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="619"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="625"/>
         <source>Number Lock</source>
         <translation>Number Lock</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="620"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="626"/>
         <source>Scroll Lock</source>
         <translation>Scroll Lock</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="621"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="627"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="622"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="628"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="623"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="629"/>
         <source>Escape</source>
         <translation>Escape</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="624"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="630"/>
         <source>System Request</source>
         <translation>System Request</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="628"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="634"/>
         <source>Select</source>
         <translation>选择</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="629"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="635"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="630"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="636"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="634"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="640"/>
         <source>Context1</source>
         <translation>Context1</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="635"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="641"/>
         <source>Context2</source>
         <translation>Context2</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="636"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="642"/>
         <source>Context3</source>
         <translation>Context3</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="637"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="643"/>
         <source>Context4</source>
         <translation>Context4</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="639"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="645"/>
         <source>Call</source>
         <extracomment>Button to start a call (note: a separate button is used to end the call)</extracomment>
         <translation>呼叫</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="641"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="647"/>
         <source>Hangup</source>
         <extracomment>Button to end a call (note: a separate button is used to start the call)</extracomment>
         <translation>挂机</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="643"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="649"/>
         <source>Toggle Call/Hangup</source>
         <extracomment>Button that will hang up if we&apos;re in call, or make a call if we&apos;re not.</extracomment>
         <translation>切换呼叫/挂机</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="644"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="650"/>
         <source>Flip</source>
         <translation>Flip</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="646"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="652"/>
         <source>Voice Dial</source>
         <extracomment>Button to trigger voice dialing</extracomment>
         <translation>语音拨号</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="648"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="654"/>
         <source>Last Number Redial</source>
         <extracomment>Button to redial the last number called</extracomment>
         <translation>重拨</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="650"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="656"/>
         <source>Camera Shutter</source>
         <extracomment>Button to trigger the camera shutter (take a picture)</extracomment>
         <translation>相机快门</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="652"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="658"/>
         <source>Camera Focus</source>
         <extracomment>Button to focus the camera</extracomment>
         <translation>相机焦点</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="656"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="662"/>
         <source>Kanji</source>
         <translation>Kanji</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="657"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="663"/>
         <source>Muhenkan</source>
         <translation>Muhenkan</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="658"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="664"/>
         <source>Henkan</source>
         <translation>Henkan</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="659"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="665"/>
         <source>Romaji</source>
         <translation>Romaji</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="660"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="666"/>
         <source>Hiragana</source>
         <translation>Hiragana</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="661"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="667"/>
         <source>Katakana</source>
         <translation>Katakana</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="662"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="668"/>
         <source>Hiragana Katakana</source>
         <translation>Hiragana Katakana</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="663"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="669"/>
         <source>Zenkaku</source>
         <translation>Zenkaku</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="664"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="670"/>
         <source>Hankaku</source>
         <translation>Hankaku</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="665"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="671"/>
         <source>Zenkaku Hankaku</source>
         <translation>Zenkaku Hankaku</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="666"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="672"/>
         <source>Touroku</source>
         <translation>Touroku</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="667"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="673"/>
         <source>Massyo</source>
         <translation>Massyo</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="668"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="674"/>
         <source>Kana Lock</source>
         <translation>Kana Lock</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="669"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="675"/>
         <source>Kana Shift</source>
         <translation>Kana Shift</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="670"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="676"/>
         <source>Eisu Shift</source>
         <translation>Eisu Shift</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="671"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="677"/>
         <source>Eisu toggle</source>
         <translation>Eisu toggle</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="672"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="678"/>
         <source>Code input</source>
         <translation>Eisu toggle</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="673"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="679"/>
         <source>Multiple Candidate</source>
         <translation>Eisu toggle</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="674"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="680"/>
         <source>Previous Candidate</source>
         <translation>Eisu toggle</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="678"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="684"/>
         <source>Hangul</source>
         <translation>Hangul</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="679"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="685"/>
         <source>Hangul Start</source>
         <translation>Hangul</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="680"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="686"/>
         <source>Hangul End</source>
         <translation>Hangul End</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="681"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="687"/>
         <source>Hangul Hanja</source>
         <translation>Hangul Hanja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="682"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="688"/>
         <source>Hangul Jamo</source>
         <translation>Hangul Jamo</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="683"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="689"/>
         <source>Hangul Romaja</source>
         <translation>Hangul Romaja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="684"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="690"/>
         <source>Hangul Jeonja</source>
         <translation>Hangul Jeonja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="685"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="691"/>
         <source>Hangul Banja</source>
         <translation>Hangul Banja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="686"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="692"/>
         <source>Hangul PreHanja</source>
         <translation>Hangul Banja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="687"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="693"/>
         <source>Hangul PostHanja</source>
         <translation>Hangul Banja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="688"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="694"/>
         <source>Hangul Special</source>
         <translation>Hangul Banja</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="692"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="698"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="693"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="699"/>
         <source>Printer</source>
         <translation>打印机</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="694"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="700"/>
         <source>Execute</source>
         <translation>执行</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="695"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="701"/>
         <source>Play</source>
         <translation>播放</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="696"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="702"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="697"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="703"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="698"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="704"/>
         <source>Touchpad Toggle</source>
         <translation>触摸板开关</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="699"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="705"/>
         <source>Touchpad On</source>
         <translation>开启触摸板</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="700"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="706"/>
         <source>Touchpad Off</source>
         <translation>关闭触摸板</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1108"/>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1275"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1114"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1281"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1109"/>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1279"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1115"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1285"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1110"/>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1277"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1116"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1283"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1111"/>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1273"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1117"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1279"/>
         <source>Meta</source>
         <translation>Meta</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1112"/>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1282"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1118"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1288"/>
         <source>Num</source>
         <translation>Num</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1225"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1231"/>
         <source>+</source>
         <translation>+</translation>
     </message>
     <message>
-        <location filename="gui/kernel/qkeysequence.cpp" line="1317"/>
+        <location filename="gui/kernel/qkeysequence.cpp" line="1323"/>
         <source>F%1</source>
         <translation>F%1</translation>
     </message>
@@ -7437,7 +7708,7 @@ Please turn one of those options off.</source>
         <translation>未知SOCKSv5代理，错误代码 0x%1</translation>
     </message>
     <message>
-        <location filename="network/socket/qsocks5socketengine.cpp" line="1409"/>
+        <location filename="network/socket/qsocks5socketengine.cpp" line="1394"/>
         <source>Network operation timed out</source>
         <translation>网络操作超时</translation>
     </message>
@@ -7632,7 +7903,7 @@ Role of an accessible object</extracomment>
         <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="184"/>
         <source>assistant</source>
         <extracomment>Role of an accessible object - a helper dialog</extracomment>
-        <translation>助理</translation>
+        <translation>助手</translation>
     </message>
     <message>
         <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="186"/>
@@ -7870,6 +8141,24 @@ Role of an accessible object</extracomment>
     </message>
     <message>
         <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="264"/>
+        <source>terminal</source>
+        <extracomment>Role of an accessible object</extracomment>
+        <translation>终端</translation>
+    </message>
+    <message>
+        <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="266"/>
+        <source>desktop</source>
+        <extracomment>Role of an accessible object</extracomment>
+        <translation>桌面</translation>
+    </message>
+    <message>
+        <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="268"/>
+        <source>notification</source>
+        <extracomment>Role of an accessible object</extracomment>
+        <translation>通知</translation>
+    </message>
+    <message>
+        <location filename="platformsupport/linuxaccessibility/bridge.cpp" line="270"/>
         <source>unknown</source>
         <extracomment>Role of an accessible object</extracomment>
         <translation>未知</translation>
@@ -7901,37 +8190,37 @@ Role of an accessible object</extracomment>
         <translation>设置OpenSSL配置时出错（%1）</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="264"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="268"/>
         <source>Expecting QByteArray for %1</source>
         <translation>要求Qbytearray用于‘%1’</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="278"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="282"/>
         <source>An error occurred attempting to set %1 to %2</source>
         <translation>将‘%1’设置成‘%2’时出错</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="283"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="287"/>
         <source>Wrong value for %1 (%2)</source>
         <translation>错误值‘%1’（%2）</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="288"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="292"/>
         <source>Unrecognized command %1 = %2</source>
         <translation>无法识别的命令‘%1 = %2’</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="295"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="299"/>
         <source>SSL_CONF_finish() failed</source>
         <translation>SSL_CONF_finish()失败</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="299"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="303"/>
         <source>SSL_CONF_CTX_new() failed</source>
         <translation>SSL_CONF_CTX_new()失败</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl.cpp" line="308"/>
+        <location filename="network/ssl/qsslcontext_openssl.cpp" line="312"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="414"/>
         <source>OpenSSL version too old, need at least v1.0.2</source>
         <translation>OpenSSL版本太旧，至少需要v1.0.2</translation>
@@ -7943,67 +8232,67 @@ Role of an accessible object</extracomment>
         <translation>设置椭圆曲线（%1）时出错</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="141"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="137"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="203"/>
         <source>Error creating SSL context (%1)</source>
         <translation>创建SSL上下文错误（%1）</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="142"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="138"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="204"/>
         <source>unsupported protocol</source>
         <translation>不支持的协议</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="244"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="240"/>
         <source>Error while setting the minimal protocol version</source>
         <translation>设置最小协议版本时出错</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="251"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="247"/>
         <source>Error while setting the maximum protocol version</source>
         <translation>设置最大协议版本时出错</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="292"/>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="302"/>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="309"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="288"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="298"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="305"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="237"/>
         <source>Invalid or empty cipher list (%1)</source>
         <translation>无效或者空白的密码列表（%1）</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="345"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="341"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="273"/>
         <source>Cannot provide a certificate with no key, %1</source>
         <translation>无法提供证书：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="352"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="348"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="280"/>
         <source>Error loading local certificate, %1</source>
         <translation>加载本地证书时出错：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="376"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="372"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="304"/>
         <source>Error loading private key, %1</source>
         <translation>加载私钥时出错：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="385"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="381"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="313"/>
         <source>Private key does not certify public key, %1</source>
         <translation>私钥不验证公钥，%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="432"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="428"/>
         <location filename="network/ssl/qsslcontext_opensslpre11.cpp" line="360"/>
         <source>Diffie-Hellman parameters are not valid</source>
         <translation>Diffie-Hellman参数无效</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="456"/>
+        <location filename="network/ssl/qsslcontext_openssl11.cpp" line="452"/>
         <source>OpenSSL version with disabled elliptic curves</source>
         <translation>带禁用椭圆曲线的OpenSSL版本</translation>
     </message>
@@ -8128,6 +8417,50 @@ Role of an accessible object</extracomment>
         <translation>对等证书被列入黑名单</translation>
     </message>
     <message>
+        <source>No OCSP status response found</source>
+        <translation type="vanished">找不到OCSP状态回应</translation>
+    </message>
+    <message>
+        <source>The OCSP status request had invalid syntax</source>
+        <translation type="vanished">OCSP状态请求包含无效语法</translation>
+    </message>
+    <message>
+        <source>OCSP response contains an unexpected number of SingleResponse structures</source>
+        <translation type="vanished">OCSP响应包含不应有SingleResponse结构数字</translation>
+    </message>
+    <message>
+        <source>OCSP responder reached an inconsistent internal state</source>
+        <translation type="vanished">OCSP响应器的内部状态不一致</translation>
+    </message>
+    <message>
+        <source>OCSP responder was unable to return a status for the requested certificate</source>
+        <translation type="vanished">CSP回应器无法返回请求证书的状态</translation>
+    </message>
+    <message>
+        <source>The server requires the client to sign the OCSP request in order to construct a response</source>
+        <translation type="vanished">服务器需要客户端签名OCSP请求才能构造响应</translation>
+    </message>
+    <message>
+        <source>The client is not authorized to request OCSP status from this server</source>
+        <translation type="vanished">未授权客户端从该服务器请求OCSP状态</translation>
+    </message>
+    <message>
+        <source>OCSP responder&apos;s identity cannot be verified</source>
+        <translation type="vanished">无法验证OCSP响应者的身份</translation>
+    </message>
+    <message>
+        <source>The identity of a certificate in an OCSP response cannot be established</source>
+        <translation type="vanished">无法判断OCSP响应中的身份</translation>
+    </message>
+    <message>
+        <source>The certificate status response has expired</source>
+        <translation type="vanished">证书状态响应已过期</translation>
+    </message>
+    <message>
+        <source>The certificate&apos;s status is unknown</source>
+        <translation type="vanished">证书状态未知</translation>
+    </message>
+    <message>
         <location filename="network/ssl/qsslerror.cpp" line="296"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
@@ -8141,48 +8474,204 @@ Role of an accessible object</extracomment>
         <translation>TLS初始化失败</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_mac.cpp" line="599"/>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="843"/>
+        <source>Attempted to use an unsupported protocol.</source>
+        <translation type="vanished">试图使用不支持的协议。</translation>
+    </message>
+    <message>
+        <location filename="network/ssl/qsslsocket_mac.cpp" line="601"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="905"/>
         <source>The TLS/SSL connection has been closed</source>
         <translation>TLS/SSL连接已关闭</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="353"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="403"/>
         <source>Error creating SSL session, %1</source>
         <translation>创建SSL会话时出错：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="387"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="437"/>
         <location filename="network/ssl/qsslsocket_winrt.cpp" line="449"/>
         <source>Error creating SSL session: %1</source>
         <translation>创建SSL会话时出错：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="620"/>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="634"/>
+        <source>Server-side QSslSocket does not support OCSP stapling</source>
+        <translation type="vanished">服务器端QSslSocket不支持OCSP装订（stapling）</translation>
+    </message>
+    <message>
+        <source>Failed to enable OCSP stapling</source>
+        <translation type="vanished">无法启用OCSP装订（stapling）</translation>
+    </message>
+    <message>
+        <source>Client-side sockets do not send OCSP responses</source>
+        <translation type="vanished">客户端套接字不发送OCSP响应</translation>
+    </message>
+    <message>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="682"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="696"/>
         <source>Unable to init SSL Context: %1</source>
         <translation>无法初始化SSL上下文：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="687"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="749"/>
         <source>Unable to write data: %1</source>
         <translation>无法写入数据：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="760"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="822"/>
         <source>Unable to decrypt data: %1</source>
         <translation>无法解密数据：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="853"/>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="865"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="915"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="927"/>
         <source>Error while reading: %1</source>
         <translation>读取时出错：%1</translation>
     </message>
     <message>
-        <location filename="network/ssl/qsslsocket_openssl.cpp" line="924"/>
+        <location filename="network/ssl/qsslsocket_openssl.cpp" line="986"/>
         <source>Error during SSL handshake: %1</source>
         <translation>SSL握手过程中出错：%1</translation>
+    </message>
+    <message>
+        <source>Failed to decode OCSP response</source>
+        <translation type="vanished">无法解码OCSP响应</translation>
+    </message>
+    <message>
+        <source>Failed to extract basic OCSP response</source>
+        <translation type="vanished">无法提取基本的OCSP响应</translation>
+    </message>
+    <message>
+        <source>No certificate verification store, cannot verify OCSP response</source>
+        <translation type="vanished">没有存储证书验证，无法验证OCSP响应</translation>
+    </message>
+    <message>
+        <source>Failed to decode a SingleResponse from OCSP status response</source>
+        <translation type="vanished">无法解码来自OCSP响应请求的SingleResponse</translation>
+    </message>
+    <message>
+        <source>Failed to extract &apos;this update time&apos; from the SingleResponse</source>
+        <translation type="vanished">无法从SingleResponse中提取‘更新时间’</translation>
+    </message>
+    <message>
+        <source>Insufficient memory</source>
+        <translation type="vanished">内存空间不足</translation>
+    </message>
+    <message>
+        <source>Internal error</source>
+        <translation type="vanished">内部错误</translation>
+    </message>
+    <message>
+        <source>An internal handle was invalid</source>
+        <translation type="vanished">内部句柄无效</translation>
+    </message>
+    <message>
+        <source>An internal token was invalid</source>
+        <translation type="vanished">内部证明无效</translation>
+    </message>
+    <message>
+        <source>Access denied</source>
+        <translation type="vanished">拒绝访问</translation>
+    </message>
+    <message>
+        <source>No authority could be contacted for authorization</source>
+        <translation type="vanished">无法联系授权单位进行授权</translation>
+    </message>
+    <message>
+        <source>No credentials</source>
+        <translation type="vanished">没有凭证</translation>
+    </message>
+    <message>
+        <source>The target is unknown or unreachable</source>
+        <translation type="vanished">目标未知或无法连接</translation>
+    </message>
+    <message>
+        <source>An unsupported function was requested</source>
+        <translation type="vanished">请求不支持的函数</translation>
+    </message>
+    <message>
+        <source>The hostname provided does not match the one received from the peer</source>
+        <translation type="vanished">提供的主机名与从对端接收到的主机名不匹配</translation>
+    </message>
+    <message>
+        <source>No common protocol exists between the client and the server</source>
+        <translation type="vanished">客户端和服务器不存在公共协议</translation>
+    </message>
+    <message>
+        <source>Unexpected or badly-formatted message received</source>
+        <translation type="vanished">收到未预料或格式错误的消息</translation>
+    </message>
+    <message>
+        <source>The data could not be encrypted</source>
+        <translation type="vanished">数据无法加密</translation>
+    </message>
+    <message>
+        <source>No cipher suites in common</source>
+        <translation type="vanished">没有共同的加密套件</translation>
+    </message>
+    <message>
+        <source>The credentials were not recognized / Invalid argument</source>
+        <translation type="vanished">凭证无法识别或参数无效</translation>
+    </message>
+    <message>
+        <source>The message was tampered with, damaged or out of sequence.</source>
+        <translation type="vanished">此消息被篡改、损坏或超出序列。</translation>
+    </message>
+    <message>
+        <source>A message was received out of sequence.</source>
+        <translation type="vanished">收到的消息超出序列。</translation>
+    </message>
+    <message>
+        <source>Unknown error occurred: %1</source>
+        <translation type="vanished">发生未知的错误：%1</translation>
+    </message>
+    <message>
+        <source>Invalid protocol chosen</source>
+        <translation type="vanished">选择了无效的通信协议</translation>
+    </message>
+    <message>
+        <source>The certificate provided cannot be used for a client.</source>
+        <translation type="vanished">所提供的证书不能用于客户端。</translation>
+    </message>
+    <message>
+        <source>The certificate provided cannot be used for a server.</source>
+        <translation type="vanished">所提供的证书不能用于服务端。</translation>
+    </message>
+    <message>
+        <source>Server did not accept any certificate we could present.</source>
+        <translation type="vanished">服务器不接受我们提供的任何证书。</translation>
+    </message>
+    <message>
+        <source>Algorithm mismatch</source>
+        <translation type="vanished">算法不匹配</translation>
+    </message>
+    <message>
+        <source>Handshake failed: %1</source>
+        <translation type="vanished">握手失败：%1</translation>
+    </message>
+    <message>
+        <source>Failed to query the TLS context: %1</source>
+        <translation type="vanished">查询TLS上下文失败：%1</translation>
+    </message>
+    <message>
+        <source>Did not get the required attributes for the connection.</source>
+        <translation type="vanished">无法获得连接所需的属性。</translation>
+    </message>
+    <message>
+        <source>Unwanted protocol was negotiated</source>
+        <translation type="vanished">交涉了不需要的通讯协议</translation>
+    </message>
+    <message>
+        <source>Renegotiation was unsuccessful: %1</source>
+        <translation type="vanished">重新交涉失败：%1</translation>
+    </message>
+    <message>
+        <source>Schannel failed to encrypt data: %1</source>
+        <translation type="vanished">Schannel加密数据失败：%1</translation>
+    </message>
+    <message>
+        <source>Cannot provide a certificate with no key</source>
+        <translation type="vanished">无法提供没有密钥的证书</translation>
     </message>
 </context>
 <context>
@@ -8296,6 +8785,10 @@ Role of an accessible object</extracomment>
         <translation>没有从状态‘%1’转换的目标和源的公共原型</translation>
     </message>
     <message>
+        <source>Child mode of state machine &apos;%1&apos; is not &apos;ExclusiveStates&apos;.</source>
+        <translation type="vanished">状态机‘%1’的子模式不是‘独占状态’。</translation>
+    </message>
+    <message>
         <location filename="corelib/statemachine/qstatemachine.cpp" line="1487"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
@@ -8375,7 +8868,7 @@ Role of an accessible object</extracomment>
         <translation>无法发送数据报</translation>
     </message>
     <message>
-        <location filename="network/socket/qudpsocket.cpp" line="520"/>
+        <location filename="network/socket/qudpsocket.cpp" line="523"/>
         <source>No datagram available for reading</source>
         <translation>没有可供读取的数据报</translation>
     </message>
@@ -8441,77 +8934,77 @@ Role of an accessible object</extracomment>
 <context>
     <name>QUnicodeControlCharacterMenu</name>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3271"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3287"/>
         <source>LRM Left-to-right mark</source>
         <translation>左到右标记（LRM）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3272"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3288"/>
         <source>RLM Right-to-left mark</source>
         <translation>右到左标记（RLM）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3273"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3289"/>
         <source>ZWJ Zero width joiner</source>
         <translation>零宽度联接器（ZWJ）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3274"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3290"/>
         <source>ZWNJ Zero width non-joiner</source>
         <translation>零宽度非联接器（ZWNJ）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3275"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3291"/>
         <source>ZWSP Zero width space</source>
         <translation>零宽度空格（ZWSP）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3276"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3292"/>
         <source>LRE Start of left-to-right embedding</source>
         <translation>启动左到右嵌套（LRE）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3277"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3293"/>
         <source>RLE Start of right-to-left embedding</source>
         <translation>启动右到左嵌套（RLE）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3278"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3294"/>
         <source>LRO Start of left-to-right override</source>
         <translation>启动左到右的优先（LRO）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3279"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3295"/>
         <source>RLO Start of right-to-left override</source>
         <translation>启动右到左的优先（RLO）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3280"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3296"/>
         <source>PDF Pop directional formatting</source>
         <translation>弹出方向格式（PDF）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3281"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3297"/>
         <source>LRI Left-to-right isolate</source>
         <translation>左到右隔离（LRI）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3282"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3298"/>
         <source>RLI Right-to-left isolate</source>
         <translation>右到左隔离（RLI）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3283"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3299"/>
         <source>FSI First strong isolate</source>
         <translation>第一次强隔离（FSI）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3284"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3300"/>
         <source>PDI Pop directional isolate</source>
         <translation>弹出方向隔离（PDI）</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3290"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="3306"/>
         <source>Insert Unicode control character</source>
         <translation>插入Unicode控制字符</translation>
     </message>
@@ -8527,7 +9020,7 @@ Role of an accessible object</extracomment>
 <context>
     <name>QWidget</name>
     <message>
-        <location filename="widgets/kernel/qwidget.cpp" line="6040"/>
+        <location filename="widgets/kernel/qwidget.cpp" line="6087"/>
         <source>*</source>
         <translation>*</translation>
     </message>
@@ -8535,44 +9028,61 @@ Role of an accessible object</extracomment>
 <context>
     <name>QWidgetTextControl</name>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2260"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2267"/>
         <source>&amp;Undo</source>
         <translation>撤销(&amp;U)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2264"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2271"/>
         <source>&amp;Redo</source>
         <translation>恢复(&amp;R)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2271"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2278"/>
         <source>Cu&amp;t</source>
         <translation>剪切(&amp;T)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2280"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2287"/>
         <source>&amp;Copy</source>
         <translation>复制(&amp;C)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2289"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2296"/>
         <source>Copy &amp;Link Location</source>
         <translation>复制链接地址(&amp;L)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2297"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2304"/>
         <source>&amp;Paste</source>
         <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2302"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2309"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2311"/>
+        <location filename="widgets/widgets/qwidgettextcontrol.cpp" line="2318"/>
         <source>Select All</source>
         <translation>全选</translation>
+    </message>
+</context>
+<context>
+    <name>QWindowsDirect2DIntegration</name>
+    <message>
+        <location filename="plugins/platforms/direct2d/qwindowsdirect2dintegration.cpp" line="123"/>
+        <source>Qt cannot load the direct2d platform plugin because the Direct2D version on this system is too old. The minimum system requirement for this platform plugin is Windows 7 SP1 with Platform Update.
+
+The minimum Direct2D version required is %1. The Direct2D version on this system is %2.</source>
+        <translation>Qt无法加载Direct2d平台插件，因为系统的Direct2d版本太旧了。此平台插件的最低系统要求是Windows 7 SP1。
+
+最低Direct2D版本为 %1。系统上的Direct2D版本为 %2。</translation>
+    </message>
+    <message>
+        <location filename="plugins/platforms/direct2d/qwindowsdirect2dintegration.cpp" line="132"/>
+        <source>Cannot load direct2d platform plugin</source>
+        <translation>无法加载Direct2d平台插件</translation>
     </message>
 </context>
 <context>
@@ -8636,117 +9146,117 @@ Role of an accessible object</extracomment>
 <context>
     <name>QXml</name>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="58"/>
+        <location filename="xml/sax/qxml.cpp" line="60"/>
         <source>no error occurred</source>
         <translation>没有错误</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="59"/>
+        <location filename="xml/sax/qxml.cpp" line="61"/>
         <source>error triggered by consumer</source>
         <translation>消费者触发错误</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="60"/>
+        <location filename="xml/sax/qxml.cpp" line="62"/>
         <source>unexpected end of file</source>
         <translation>意外的文件结尾</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="61"/>
+        <location filename="xml/sax/qxml.cpp" line="63"/>
         <source>more than one document type definition</source>
         <translation>文档类型定义太多</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="62"/>
+        <location filename="xml/sax/qxml.cpp" line="64"/>
         <source>error occurred while parsing element</source>
         <translation>解析元素时出错</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="63"/>
+        <location filename="xml/sax/qxml.cpp" line="65"/>
         <source>tag mismatch</source>
         <translation>标记不匹配</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="64"/>
+        <location filename="xml/sax/qxml.cpp" line="66"/>
         <source>error occurred while parsing content</source>
         <translation>解析内容时出错</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="65"/>
+        <location filename="xml/sax/qxml.cpp" line="67"/>
         <source>unexpected character</source>
         <translation>意外的字符</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="66"/>
+        <location filename="xml/sax/qxml.cpp" line="68"/>
         <source>invalid name for processing instruction</source>
         <translation>无效的处理指令</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="67"/>
+        <location filename="xml/sax/qxml.cpp" line="69"/>
         <source>version expected while reading the XML declaration</source>
         <translation>读取XML声明时需要版本信息</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="68"/>
+        <location filename="xml/sax/qxml.cpp" line="70"/>
         <source>wrong value for standalone declaration</source>
         <translation>独立声明值错误</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="69"/>
+        <location filename="xml/sax/qxml.cpp" line="71"/>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
         <translation>读取XML声明时需要编码声明或独立声明</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="70"/>
+        <location filename="xml/sax/qxml.cpp" line="72"/>
         <source>standalone declaration expected while reading the XML declaration</source>
         <translation>读取XML声明时需要独立声明</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="71"/>
+        <location filename="xml/sax/qxml.cpp" line="73"/>
         <source>error occurred while parsing document type definition</source>
         <translation>解析文档类型定义时出错</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="72"/>
+        <location filename="xml/sax/qxml.cpp" line="74"/>
         <source>letter is expected</source>
         <translation>需要字母</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="73"/>
+        <location filename="xml/sax/qxml.cpp" line="75"/>
         <source>error occurred while parsing comment</source>
         <translation>解析注释时出错</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="74"/>
+        <location filename="xml/sax/qxml.cpp" line="76"/>
         <source>error occurred while parsing reference</source>
         <translation>解析引用时出错</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="75"/>
+        <location filename="xml/sax/qxml.cpp" line="77"/>
         <source>internal general entity reference not allowed in DTD</source>
         <translation>DTD中不允许使用内部常规实体引用</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="76"/>
+        <location filename="xml/sax/qxml.cpp" line="78"/>
         <source>external parsed general entity reference not allowed in attribute value</source>
         <translation>属性值中不允许使用外部解析常规实体引用</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="77"/>
+        <location filename="xml/sax/qxml.cpp" line="79"/>
         <source>external parsed general entity reference not allowed in DTD</source>
         <translation>DTD中不允许使用外部解析常规实体引用</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="78"/>
+        <location filename="xml/sax/qxml.cpp" line="80"/>
         <source>unparsed entity reference in wrong context</source>
         <translation>在错误的上下文中无法解析实体引用</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="79"/>
+        <location filename="xml/sax/qxml.cpp" line="81"/>
         <source>recursive entities</source>
         <translation>递归实体</translation>
     </message>
     <message>
-        <location filename="xml/sax/qxml.cpp" line="80"/>
+        <location filename="xml/sax/qxml.cpp" line="82"/>
         <source>error in the text declaration of an external entity</source>
         <translation>外部实体的文本声明错误</translation>
     </message>
@@ -8754,207 +9264,216 @@ Role of an accessible object</extracomment>
 <context>
     <name>QXmlStream</name>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="612"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1778"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="615"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1790"/>
         <source>Extra content at end of document.</source>
         <translation>文档结尾有额外内容。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="890"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="893"/>
         <source>Invalid entity value.</source>
         <translation>无效的实体值。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1000"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1003"/>
         <source>Invalid XML character.</source>
         <translation>无效的XML字符。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1263"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1266"/>
         <source>Sequence &apos;]]&gt;&apos; not allowed in content.</source>
         <translation>内容中不允许使用‘]]&gt;’序列。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1542"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1086"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1545"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1096"/>
         <source>Encountered incorrectly encoded content.</source>
         <translation>遇到错误编码的内容。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1572"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1575"/>
         <source>Namespace prefix &apos;%1&apos; not declared</source>
         <translation>未声明命名空间前缀‘%1’</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1605"/>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1617"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1699"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1752"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1609"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1621"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1711"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1764"/>
         <source>Illegal namespace declaration.</source>
         <translation>非法的命名空间声明。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1650"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1655"/>
         <source>Attribute &apos;%1&apos; redefined.</source>
         <translation>属性‘%1’重定义。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1765"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1770"/>
         <source>Unexpected character &apos;%1&apos; in public id literal.</source>
         <translation>公有标识文本中出现意外字符‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1793"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1798"/>
         <source>Invalid XML version string.</source>
         <translation>无效的XML版本字符串。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1795"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1800"/>
         <source>Unsupported XML version.</source>
         <translation>XML版本不支持。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1815"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1820"/>
         <source>The standalone pseudo attribute must appear after the encoding.</source>
         <translation>独立伪属性必须出现在编码之后。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1817"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1822"/>
         <source>%1 is an invalid encoding name.</source>
         <translation>无效的编码名称‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1824"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1829"/>
         <source>Encoding %1 is unsupported</source>
         <translation>编码‘%1’不支持</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1840"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1845"/>
         <source>Standalone accepts only yes or no.</source>
         <translation>独立只允许是或者否。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1842"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1847"/>
         <source>Invalid attribute in XML declaration.</source>
         <translation>无效的属性（XML声明中）。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1858"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1863"/>
         <source>Premature end of document.</source>
         <translation>文档过早结束。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1860"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1865"/>
         <source>Invalid document.</source>
         <translation>无效的文档。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1896"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1901"/>
         <source>&apos;%1&apos;</source>
         <comment>expected</comment>
         <extracomment>&apos;&lt;first option&gt;&apos;</extracomment>
         <translation>‘%1’</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1899"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1904"/>
         <source>%1 or &apos;%2&apos;</source>
         <comment>expected</comment>
         <extracomment>&lt;first option&gt;, &apos;&lt;second option&gt;&apos;</extracomment>
         <translation>‘%1’或‘%2’</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1904"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1909"/>
         <source>%1, &apos;%2&apos;</source>
         <comment>expected</comment>
         <extracomment>&lt;options so far&gt;, &apos;&lt;next option&gt;&apos;</extracomment>
         <translation>‘%1’，‘%2’</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1907"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1912"/>
         <source>%1, or &apos;%2&apos;</source>
         <comment>expected</comment>
         <extracomment>&lt;options so far&gt;, or &apos;&lt;final option&gt;&apos;</extracomment>
         <translation>‘%1’，或‘%2’</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1909"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1914"/>
         <source>Expected %1, but got &apos;%2&apos;.</source>
         <translation>需要‘%1’，但得到的是‘%2’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="1911"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="1916"/>
         <source>Unexpected &apos;%1&apos;.</source>
         <translation>意外的‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream.cpp" line="2133"/>
+        <location filename="corelib/serialization/qxmlstream.cpp" line="2138"/>
         <source>Expected character data.</source>
         <translation>需要字符数据。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="779"/>
         <source>Recursive entity detected.</source>
-        <translation>检测到递归实体。</translation>
+        <translation type="vanished">检测到递归实体。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1299"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="781"/>
+        <source>Self-referencing entity detected.</source>
+        <translation>检测到自引用实体。</translation>
+    </message>
+    <message>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="789"/>
+        <source>Entity expands to more characters than the entity expansion limit.</source>
+        <translation>实体扩展到超过限制的字符数。</translation>
+    </message>
+    <message>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1309"/>
         <source>Start tag expected.</source>
         <translation>需要开始标记。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1490"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1502"/>
         <source>NDATA in parameter entity declaration.</source>
         <translation>在参数实体声明中有NDATA。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1520"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1532"/>
         <source>XML declaration not at start of document.</source>
         <translation>XML声明不在文档开头。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1523"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1535"/>
         <source>%1 is an invalid processing instruction name.</source>
-        <translation>无效的处理指令‘%1’</translation>
+        <translation>无效的处理指令‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1535"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1547"/>
         <source>Invalid processing instruction name.</source>
         <translation>无效的处理指令。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1649"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1661"/>
         <source>%1 is an invalid PUBLIC identifier.</source>
         <translation>无效的公共标识符‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1767"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1779"/>
         <source>Invalid XML name.</source>
         <translation>无效的XML名称。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1790"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1802"/>
         <source>Opening and ending tag mismatch.</source>
         <translation>开始和结束标记不匹配。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1795"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1856"/>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1896"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1807"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1868"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1908"/>
         <source>Entity &apos;%1&apos; not declared.</source>
         <translation>未声明实体‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1808"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1820"/>
         <source>Reference to unparsed entity &apos;%1&apos;.</source>
         <translation>引用未解析实体‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1870"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1882"/>
         <source>Reference to external entity &apos;%1&apos; in attribute value.</source>
         <translation>在属性值中引用外面实体‘%1’。</translation>
     </message>
     <message>
-        <location filename="corelib/serialization/qxmlstream_p.h" line="1910"/>
+        <location filename="corelib/serialization/qxmlstream_p.h" line="1922"/>
         <source>Invalid character reference.</source>
         <translation>无效的字符引用。</translation>
     </message>

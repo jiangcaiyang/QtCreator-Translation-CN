@@ -2016,7 +2016,7 @@
 </phrase>
 <phrase>
     <source>Stashes...</source>
-    <target>储藏...</target>
+    <target>储藏库...</target>
 </phrase>
 <phrase>
     <source>Reset...</source>
@@ -4304,7 +4304,7 @@
 </phrase>
 <phrase>
     <source>Amend %1</source>
-    <target>增订‘%1’</target>
+    <target>修正‘%1’</target>
 </phrase>
 <phrase>
     <source>Git Fixup Commit</source>
@@ -4532,7 +4532,7 @@
 </phrase>
 <phrase>
     <source>Use Project Default</source>
-    <target>使用项目的默认</target>
+    <target>使用项目默认值</target>
 </phrase>
 <phrase>
     <source>QML debugging:</source>
@@ -4544,7 +4544,7 @@
 </phrase>
 <phrase>
     <source>Default Build Properties</source>
-    <target>默认的构建属性</target>
+    <target>默认构建属性</target>
 </phrase>
 <phrase>
     <source>Deduced from Project</source>
@@ -4833,5 +4833,9 @@
 <phrase>
     <source>Local</source>
     <target>局部</target>
+</phrase>
+<phrase>
+    <source>Stashes</source>
+    <target>储藏库</target>
 </phrase>
 </QPH>

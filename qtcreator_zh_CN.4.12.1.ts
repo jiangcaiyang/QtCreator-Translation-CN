@@ -433,8 +433,8 @@
         <location filename="plugins/android/androidbuildapkstep.cpp" line="193"/>
         <source>The API level set for the APK is less than the minimum required by the kit.
 The minimum API level required by the kit is %1.</source>
-        <translation>此APK的API等级低于构建套件中最低需求等级。
-构建套件中最低需求等级为：%1。</translation>
+        <translation>此APK的API版本低于构建套件中最低需求版本。
+构建套件的最低需求版本为：%1。</translation>
     </message>
     <message>
         <location filename="plugins/android/androidbuildapkstep.cpp" line="241"/>
@@ -488,12 +488,12 @@ The minimum API level required by the kit is %1.</source>
         <translation type="vanished">%1的Android调试器</translation>
     </message>
     <message>
-        <location filename="plugins/android/androidconfigurations.cpp" line="1233"/>
+        <location filename="plugins/android/androidconfigurations.cpp" line="1234"/>
         <source>Custom Android Debugger (%1, NDK %2)</source>
         <translation>自定义Android调试器（%1，NDK %2）</translation>
     </message>
     <message>
-        <location filename="plugins/android/androidconfigurations.cpp" line="1316"/>
+        <location filename="plugins/android/androidconfigurations.cpp" line="1317"/>
         <source>Android Debugger (%1, NDK %2)</source>
         <translation>Android调试器（%1，NDK %2）</translation>
     </message>
@@ -1677,7 +1677,7 @@ Do you want to uninstall the existing package?</source>
     <message>
         <location filename="plugins/android/androidplugin.cpp" line="199"/>
         <source>Would you like to configure Android options? This will ensure Android kits can be usable and all essential packages are installed. To do it later, select Options &gt; Devices &gt; Android.</source>
-        <translation>是否要配置Android选项？这将确保Android套件可以使用，并安装所有必要的软件包。要在以后执行此操作，请选择‘选项-&gt;设备-&gt;Android’。</translation>
+        <translation>是否要配置Android选项？这将确保Android构建套件可以使用，并安装所有必需的软件包。要在以后执行此操作，请选择‘选项 &gt; 设备 &gt; Android’。</translation>
     </message>
     <message>
         <location filename="plugins/android/androidplugin.cpp" line="203"/>
@@ -2600,7 +2600,7 @@ Install an SDK of at least API version %1.</source>
 <context>
     <name>AndroidConfig</name>
     <message>
-        <location filename="plugins/android/androiddevicedialog.cpp" line="594"/>
+        <location filename="plugins/android/androiddevicedialog.cpp" line="596"/>
         <location filename="plugins/android/androidsettingswidget.cpp" line="879"/>
         <source>Error Creating AVD</source>
         <translation>创建AVD错误</translation>
@@ -2614,7 +2614,7 @@ Install an SDK of at least API version %1.</source>
         <translation>无法运行：%1</translation>
     </message>
     <message>
-        <location filename="plugins/android/androidconfigurations.cpp" line="654"/>
+        <location filename="plugins/android/androidconfigurations.cpp" line="655"/>
         <source>No devices found in output of: %1</source>
         <translation>没有发现输出设备：%1</translation>
     </message>
@@ -2794,7 +2794,7 @@ Install an SDK of at least API version %1.</source>
     <message>
         <location filename="plugins/android/androidsettingswidget.ui" line="313"/>
         <source>Automatically create kits for Android tool chains</source>
-        <translation>自动为Android工具链创建包</translation>
+        <translation>自动为Android工具链创建构建套件</translation>
     </message>
     <message>
         <location filename="plugins/android/androidsettingswidget.ui" line="327"/>
@@ -3990,7 +3990,7 @@ Maybe raise the timeout?</source>
         <location filename="plugins/autotest/testrunner.cpp" line="349"/>
         <source>Project is null. Canceling test run.
 Only desktop kits are supported. Make sure the currently active kit is a desktop kit.</source>
-        <translation>项目为空。取消测试运行。只有桌面套件支持。确保当前活动的套件是一个桌面套件。</translation>
+        <translation>项目为空。取消测试运行。只有桌面套件支持。确保当前活动的构建套件是一个桌面构建套件。</translation>
     </message>
     <message>
         <location filename="plugins/autotest/testrunner.cpp" line="371"/>
@@ -4484,7 +4484,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <location filename="plugins/baremetal/baremetaldebugsupport.cpp" line="62"/>
         <source>Cannot debug: Kit has no device.</source>
-        <translation>不能调试：工具没有设备。</translation>
+        <translation>不能调试：构建套件没有设备。</translation>
     </message>
     <message>
         <location filename="plugins/baremetal/baremetaldebugsupport.cpp" line="69"/>
@@ -7532,7 +7532,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/configmodel.cpp" line="525"/>
         <source>Value requested by kit: %1</source>
-        <translation>工具包所要求的值：%1</translation>
+        <translation>构建套件所要求的值：%1</translation>
     </message>
 </context>
 <context>
@@ -7560,65 +7560,65 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::CMakeConfigurationKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="894"/>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1067"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="921"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1094"/>
         <source>CMake Configuration</source>
         <translation>CMake配置</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="895"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="922"/>
         <source>Default configuration passed to CMake when setting up a project.</source>
         <translation>设置项目时传递给CMake的默认配置。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="998"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1025"/>
         <source>CMake configuration has no path to qmake binary set, even though the kit has a valid Qt version.</source>
-        <translation>CMake配置没有QMake程序的路径，尽管套件是有效的Qt版本。</translation>
+        <translation>CMake配置没有QMake程序的路径，尽管构建套件是有效的Qt版本。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1003"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1030"/>
         <source>CMake configuration has a path to a qmake binary set, even though the kit has no valid Qt version.</source>
-        <translation>CMake配置有QMake程序的路径，尽管套件是无效的Qt版本。</translation>
+        <translation>CMake配置有QMake程序的路径，尽管构建套件是无效的Qt版本。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1006"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1033"/>
         <source>CMake configuration has a path to a qmake binary set that does not match the qmake binary path configured in the Qt version.</source>
         <translation>CMake配置有QMake程序的路径，但是与Qt中的QMake程序路径不匹配。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1013"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1040"/>
         <source>CMake configuration has no CMAKE_PREFIX_PATH set that points to the kit Qt version.</source>
-        <translation>CMake配置没有CMAKE_PREFIX_PATH（Qt版本套件路径）配置。</translation>
+        <translation>CMake配置没有CMAKE_PREFIX_PATH（Qt版本构建套件路径）配置。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1021"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1048"/>
         <source>CMake configuration has no path to a C compiler set, even though the kit has a valid tool chain.</source>
-        <translation>CMake配置没有C编译器的路径，尽管套件是有效的工具链。</translation>
+        <translation>CMake配置没有C编译器的路径，尽管构建套件是有效的工具链。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1026"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1053"/>
         <source>CMake configuration has a path to a C compiler set, even though the kit has no valid tool chain.</source>
-        <translation>CMake配置有C编译器的路径，尽管套件是无效的工具链。</translation>
+        <translation>CMake配置有C编译器的路径，尽管构建套件是无效的工具链。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1029"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1056"/>
         <source>CMake configuration has a path to a C compiler set that does not match the compiler path configured in the tool chain of the kit.</source>
-        <translation>CMake配置有C编译器的路径，但是与工具包中的编译器路径不匹配。</translation>
+        <translation>CMake配置有C编译器的路径，但是与构建套件中的编译器路径不匹配。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1037"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1064"/>
         <source>CMake configuration has no path to a C++ compiler set, even though the kit has a valid tool chain.</source>
-        <translation>CMake配置没有C++编译器的路径，尽管套件是有效的工具链。</translation>
+        <translation>CMake配置没有C++编译器的路径，尽管构建套件是有效的工具链。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1042"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1069"/>
         <source>CMake configuration has a path to a C++ compiler set, even though the kit has no valid tool chain.</source>
-        <translation>CMake配置有++C编译器的路径，尽管套件是无效的工具链。</translation>
+        <translation>CMake配置有++C编译器的路径，尽管构建套件是无效的工具链。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1045"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="1072"/>
         <source>CMake configuration has a path to a C++ compiler set that does not match the compiler path configured in the tool chain of the kit.</source>
-        <translation>CMake配置有C编译器的路径，但是与工具包中的编译器路径不匹配。</translation>
+        <translation>CMake配置有C编译器的路径，但是与构建套件中的编译器路径不匹配。</translation>
     </message>
 </context>
 <context>
@@ -7671,62 +7671,62 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::CMakeGeneratorKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="516"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="518"/>
         <source>CMake generator</source>
         <translation>CMake生成器</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="517"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="519"/>
         <source>CMake generator defines how a project is built when using CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
         <translation>CMake生成器定义了在使用CMake时如何构建项目。&lt;br&gt;当使用其他构建系统时，此项忽略。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="674"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="691"/>
         <source>CMake Tool is unconfigured, CMake generator will be ignored.</source>
         <translation>CMake工具未配置，CMake生成器将被忽略。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="682"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="699"/>
         <source>CMake Tool does not support the configured generator.</source>
         <translation>CMake工具不支持配置生成。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="685"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="702"/>
         <source>Platform is not supported by the selected CMake generator.</source>
         <translation>平台不支持选中的CMake生成器。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="687"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="704"/>
         <source>Toolset is not supported by the selected CMake generator.</source>
         <translation>工具箱不支持选中的CMake生成器。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="690"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="707"/>
         <source>The selected CMake binary has no server-mode and the CMake generator does not generate a CodeBlocks file. %1 will not be able to parse CMake projects.</source>
         <translation>所选的CMake程序没有服务器模式，CMake生成器不会生成CodeBlocks文件。CMake无法解析‘%1’。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="757"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="774"/>
         <source>&lt;Use Default Generator&gt;</source>
         <translation>&lt;使用默认生成器&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="759"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="776"/>
         <source>Generator: %1&lt;br&gt;Extra generator: %2</source>
         <translation>生成器：%1&lt;br&gt;额外生成器：%2</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="761"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="778"/>
         <source>Platform: %1</source>
         <translation>平台：%1</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="763"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="780"/>
         <source>Toolset: %1</source>
         <translation>工具集：%1</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="765"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="782"/>
         <source>CMake Generator</source>
         <translation>CMake生成器</translation>
     </message>
@@ -7777,32 +7777,32 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::CMakeKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="211"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="213"/>
         <source>CMake Tool</source>
         <translation>CMake工具</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="212"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="214"/>
         <source>The CMake Tool to use when building a project with CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
         <translation>CMake构建项目时使用的CMake工具。&lt;br&gt;当使用其他构建系统时，此项忽略。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="257"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="259"/>
         <source>CMake version %1 is unsupported. Please update to version 3.0 or later.</source>
         <translation>CMake不支持版本%1。请升级到3.0以上。</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="279"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="281"/>
         <source>CMake</source>
         <translation>CMake</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="279"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="281"/>
         <source>Unconfigured</source>
         <translation>未配置</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="291"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="293"/>
         <source>Path to the cmake executable</source>
         <translation>CMake程序路径</translation>
     </message>
@@ -7965,7 +7965,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/configmodel.cpp" line="374"/>
         <source>Current kit: %1</source>
-        <translation>当前工具箱：%1</translation>
+        <translation>当前构建套件：%1</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/configmodel.cpp" line="410"/>
@@ -8189,7 +8189,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="356"/>
         <source>CMake configuration set by the kit was overridden in the project.</source>
-        <translation>套件的CMake配置集在项目中被忽略。</translation>
+        <translation>构建套件的CMake配置集在项目中被忽略。</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildconfiguration.cpp" line="494"/>
@@ -8370,7 +8370,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildstep.cpp" line="152"/>
         <source>A CMake tool must be set up for building. Configure a CMake tool in the kit options.</source>
-        <translation>构建时需要CMake。在套件的选项配置CMake。</translation>
+        <translation>构建时需要CMake。在构建套件的选项中配置CMake。</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildstep.cpp" line="177"/>
@@ -8420,7 +8420,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakebuildstep.cpp" line="533"/>
         <source>&lt;b&gt;No build configuration found on this kit.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;未找到此工具包的构建配置。&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;未找到此构建套件的配置。&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -8434,17 +8434,17 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::Internal::CMakeConfigurationKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="794"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="821"/>
         <source>Change...</source>
         <translation>修改...</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="831"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="858"/>
         <source>Edit CMake Configuration</source>
         <translation>编辑CMake配置</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="834"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="861"/>
         <source>Enter one variable per line with the variable name separated from the variable value by &quot;=&quot;.&lt;br&gt;You may provide a type hint by adding &quot;:TYPE&quot; before the &quot;=&quot;.</source>
         <translation>每行输入一个变量，变量名与变量值之间用‘=’分隔。&lt;br&gt;你可以在‘=’之前添加‘:TYPE’来提供类型提示。</translation>
     </message>
@@ -8530,46 +8530,46 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::Internal::CMakeGeneratorKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="326"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="328"/>
         <source>Change...</source>
         <translation>修改...</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="359"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="361"/>
         <source>%1 - %2, Platform: %3, Toolset: %4</source>
         <translation>%1 - %2，平台：%3，工具箱：%4</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="360"/>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="361"/>
         <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="362"/>
         <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="363"/>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="432"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="364"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="365"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="434"/>
         <source>&lt;none&gt;</source>
         <translation>&lt;无&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="376"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="378"/>
         <source>CMake Generator</source>
         <translation>CMake生成器</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="394"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="396"/>
         <source>Generator:</source>
         <translation>生成器：</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="398"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="400"/>
         <source>Extra generator:</source>
         <translation>额外的生成器：</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="402"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="404"/>
         <source>Platform:</source>
         <translation>平台：</translation>
     </message>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="406"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="408"/>
         <source>Toolset:</source>
         <translation>工具集：</translation>
     </message>
@@ -8664,7 +8664,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
 <context>
     <name>CMakeProjectManager::Internal::CMakeKitAspect</name>
     <message>
-        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="143"/>
+        <location filename="plugins/cmakeprojectmanager/cmakekitinformation.cpp" line="145"/>
         <source>&lt;No CMake Tool available&gt;</source>
         <translation>&lt;没有可用的CMake工具&gt;</translation>
     </message>
@@ -8888,7 +8888,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="542"/>
         <source>Set as the default CMake Tool to use when creating a new kit or when no value is set.</source>
-        <translation>设置为默认使用的CMake工具当建立一个新的构建工具或当设置值为空时。</translation>
+        <translation>设置为默认使用的CMake工具当建立一个新的构建套件或当设置值为空时。</translation>
     </message>
     <message>
         <location filename="plugins/cmakeprojectmanager/cmakesettingspage.cpp" line="622"/>
@@ -9905,7 +9905,7 @@ However, using the relaxed and extended rules means also that no highlighting/co
     <message>
         <location filename="plugins/clangtools/clangtool.cpp" line="566"/>
         <location filename="plugins/clangtools/clangtool.cpp" line="676"/>
-        <location filename="plugins/clangtools/clangtool.h" line="179"/>
+        <location filename="plugins/clangtools/clangtool.h" line="182"/>
         <source>Clang-Tidy and Clazy</source>
         <translation>Clang-Tidy和Clazy</translation>
     </message>
@@ -9935,102 +9935,106 @@ However, using the relaxed and extended rules means also that no highlighting/co
         <translation>Clang-Tidy和Clazy被用户终止。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="790"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="794"/>
         <source>Select YAML Files with Diagnostics</source>
         <translation>选择带有诊断信息的YAML文件</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="792"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="796"/>
         <source>YAML Files (*.yml *.yaml);;All Files (*)</source>
         <translation>YAML文件(*.yml *.yaml);;所有文件(*)</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="814"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="818"/>
         <source>Error Loading Diagnostics</source>
         <translation>加载诊断错误</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="892"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="900"/>
         <source>Set a valid Clang-Tidy executable.</source>
         <translation>设置一个有效的Clang-Tidy程序。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="897"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="905"/>
         <source>Set a valid Clazy-Standalone executable.</source>
         <translation>设置一个有效的Clazy-Standalone程序。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="903"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="911"/>
         <source>Project &quot;%1&quot; is not a C/C++ project.</source>
         <translation>项目‘%1’不是C/C++项目。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="908"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="916"/>
         <source>Open a C/C++ project to start analyzing.</source>
         <translation>打开一个C/C++项目，开始分析。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1013"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1021"/>
         <source>Failed to build the project.</source>
         <translation>构建项目失败。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1021"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1029"/>
         <source>Failed to start the analyzer.</source>
         <translation>启动分析器失败。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1083"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1091"/>
         <source>All Files</source>
         <translation>所有文件</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1092"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1100"/>
         <source>Opened Files</source>
         <translation>打开的文件</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1098"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1106"/>
         <source>Edited Files</source>
         <translation>编辑的文件</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1164"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1172"/>
         <source>Failed to analyze %1 files.</source>
         <translation>%1个文件分析失败。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1178"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1186"/>
         <source>Analyzing...</source>
         <translation>分析...</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1180"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1188"/>
         <source>Analyzing... %1 of %2 files processed.</source>
         <translation>分析...%1 - %2。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1192"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1200"/>
         <source>Analysis stopped by user.</source>
         <translation>分析被用户中止。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1195"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1203"/>
         <source>Finished processing %1 files.</source>
         <translation>%1个文件处理完成。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1198"/>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1206"/>
         <source>Diagnostics imported.</source>
         <translation>诊断已导入。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1208"/>
-        <source>%1 diagnostics. %2 fixits, %4 selected.</source>
-        <translation>%1已诊断。%2可纠正，%4已选中。</translation>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1216"/>
+        <source>%1 diagnostics. %2 fixits, %3 selected.</source>
+        <translation>%1已诊断。%2可纠正，%3已选中。</translation>
     </message>
     <message>
-        <location filename="plugins/clangtools/clangtool.cpp" line="1216"/>
+        <source>%1 diagnostics. %2 fixits, %4 selected.</source>
+        <translation type="vanished">%1已诊断。%2可纠正，%4已选中。</translation>
+    </message>
+    <message>
+        <location filename="plugins/clangtools/clangtool.cpp" line="1224"/>
         <source>No diagnostics.</source>
         <translation>没有诊断。</translation>
     </message>
@@ -14080,7 +14084,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/find/findtoolbar.cpp" line="248"/>
         <source>Replace &amp;&amp; Find Previous</source>
-        <translation>替换并且查找上一个</translation>
+        <translation>替换并查找上一个</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/find/findtoolbar.cpp" line="259"/>
@@ -15616,7 +15620,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="plugins/coreplugin/systemsettings.ui" line="371"/>
         <source>Maximum number of entries in &quot;Recent Files&quot;:</source>
-        <translation>‘最近文件’中的最大数目：</translation>
+        <translation>最近文件的最大数目：</translation>
     </message>
     <message>
         <location filename="plugins/coreplugin/systemsettings.ui" line="73"/>
@@ -16830,12 +16834,12 @@ to version control (%2)
     <message>
         <location filename="plugins/cpptools/cppprojectinfogenerator.cpp" line="69"/>
         <source>The project contains C source files, but the currently active kit has no C compiler. The code model will not be fully functional.</source>
-        <translation>项目包含C源文件，但当前工具包没有C编译器。代码模型将不能完全发挥作用。</translation>
+        <translation>项目包含C源文件，但当前构建套件没有C编译器。代码模型将不能完全发挥作用。</translation>
     </message>
     <message>
         <location filename="plugins/cpptools/cppprojectinfogenerator.cpp" line="74"/>
         <source>The project contains C++ source files, but the currently active kit has no C++ compiler. The code model will not be fully functional.</source>
-        <translation>项目包含C++源文件，但当前工具包没有C++编译器。代码模型将不能完全发挥作用。</translation>
+        <translation>项目包含C++源文件，但当前构建套件没有C++编译器。代码模型将不能完全发挥作用。</translation>
     </message>
 </context>
 <context>
@@ -19018,7 +19022,7 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggeritem.cpp" line="294"/>
         <source>Could not determine debugger type</source>
-        <translation>无法决定调试器的类型</translation>
+        <translation>无法确定调试器类型</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="323"/>
@@ -19085,7 +19089,7 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="827"/>
         <source>Auto-detected uVision at %1</source>
-        <translation>在‘%1’自动检测到uVision</translation>
+        <translation>在‘%1’自动检测uVision</translation>
     </message>
     <message>
         <source>Extracted from Kit %1</source>
@@ -19300,7 +19304,7 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="545"/>
         <source>Clone of %1</source>
-        <translation>%1 的克隆</translation>
+        <translation>克隆‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggeritemmanager.cpp" line="558"/>
@@ -19348,12 +19352,12 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggerrunconfigurationaspect.cpp" line="207"/>
         <source>Enable Debugging of Subprocesses</source>
-        <translation>打开子进程的调试</translation>
+        <translation>启用子进程调试</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerrunconfigurationaspect.cpp" line="213"/>
         <source>Additional startup commands:</source>
-        <translation>额外的启动命令：</translation>
+        <translation>其他启动命令：</translation>
     </message>
 </context>
 <context>
@@ -19361,7 +19365,7 @@ Do you want to display them anyway?</source>
     <message>
         <location filename="plugins/debugger/debuggerruncontrol.cpp" line="223"/>
         <source>Unpacking core file to %1</source>
-        <translation>解压核心文件到%1</translation>
+        <translation>解压核心文件到‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerruncontrol.cpp" line="324"/>
@@ -20338,42 +20342,42 @@ If you build %2 from sources and want to use a CDB executable with another bitne
         <translation>在远程会话里，中断是不可能的。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1619"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1626"/>
         <source>Trace point %1 in thread %2 triggered.</source>
         <translation>追踪点%1在线程%2处触发。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1626"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1633"/>
         <source>Conditional breakpoint %1 in thread %2 triggered, examining expression &quot;%3&quot;.</source>
         <translation>条件断点%1在线程%2触发。检查扩展‘%3’。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1643"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1650"/>
         <source>Malformed stop response received.</source>
         <translation>收到了格式错误的停止响应。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1787"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="1794"/>
         <source>Switching to main thread...</source>
         <translation>切换到主线程...</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2150"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2157"/>
         <source>Debugger encountered an exception: %1</source>
         <translation>调试器遇到异常：%1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2304"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2311"/>
         <source>Module loaded: %1</source>
         <translation>模块已载入：%1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2765"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2772"/>
         <source>Value %1 obtained from evaluating the condition of breakpoint %2, stopping.</source>
         <translation>从条件断点%2得到值%1，停止。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2767"/>
+        <location filename="plugins/debugger/cdb/cdbengine.cpp" line="2774"/>
         <source>Value 0 obtained from evaluating the condition of breakpoint %1, continuing.</source>
         <translation>从条件断点%1的条件得到值0，继续。</translation>
     </message>
@@ -20826,261 +20830,261 @@ If you build %2 from sources and want to use a CDB executable with another bitne
         <translation>调试器</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1100"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1104"/>
         <source>Current debugger location of %1</source>
         <translation>当前位置%1的调试器</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1226"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1230"/>
         <source>Debugging has failed.</source>
         <translation>调试失败。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1257"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1261"/>
         <source>Loading finished.</source>
         <translation>载入完成。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1268"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1272"/>
         <source>Run failed.</source>
         <translation>运行失败。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1279"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1308"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1283"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1312"/>
         <source>Running.</source>
         <translation>正在运行。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1289"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1345"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1354"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2227"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1293"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1349"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1358"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2231"/>
         <source>Stopped.</source>
         <translation>停止。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1297"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1301"/>
         <source>Run requested...</source>
         <translation>运行已请求...</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1583"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1587"/>
         <source>Operate in Reverse Direction</source>
         <translation>反方向操作</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1796"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1800"/>
         <source>The %1 process terminated.</source>
         <translation>进程‘%1’终止。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1797"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1801"/>
         <source>The %2 process terminated unexpectedly (exit code %1).</source>
         <translation>%2进程非预期终止，退出代码 %1。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1798"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1802"/>
         <source>Unexpected %1 Exit</source>
         <translation>意想不到的%1退出</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1933"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1937"/>
         <source>Taking notice of pid %1</source>
         <translation>注意pid %1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1952"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1956"/>
         <source>Reverse-execution history exhausted. Going forward again.</source>
         <translation>反向执行历史已用完，再次向前。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1959"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1963"/>
         <source>Reverse-execution recording failed.</source>
         <translation>反向执行录制失败。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1979"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2010"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1983"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2014"/>
         <source>Attempting to interrupt.</source>
         <translation>正在尝试中断。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2047"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2051"/>
         <source>Could not find a widget.</source>
         <translation>无法找到一个窗体。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2161"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2165"/>
         <source>%1 for &quot;%2&quot;</source>
         <extracomment>e.g. LLDB for &quot;myproject&quot;, shows up i</extracomment>
         <translation>为‘%2’的%1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2217"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2221"/>
         <source>This debugger cannot handle user input.</source>
         <translation>这个调试器无法处理用户的输入。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2227"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2231"/>
         <source>Stopped: &quot;%1&quot;.</source>
         <translation>停止：%1。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2233"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2237"/>
         <source>Stopped: %1 (Signal %2).</source>
         <translation>已停止：%1（信号%2）。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2239"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2243"/>
         <source>Stopped in thread %1 by: %2.</source>
         <translation>线程%1中止：%2。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2244"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2248"/>
         <source>Interrupted.</source>
         <translation>已中断。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2253"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2257"/>
         <source>&lt;Unknown&gt;</source>
         <comment>name</comment>
         <translation>&lt;未知&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2255"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2259"/>
         <source>&lt;Unknown&gt;</source>
         <comment>meaning</comment>
         <translation>&lt;未知&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2256"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2260"/>
         <source>&lt;p&gt;The inferior stopped because it received a signal from the operating system.&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Signal name : &lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Signal meaning : &lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
         <translation>&lt;p&gt;inferior因从操作系统接收到一个信号而停止。&lt;p&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;信号名称：&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信号含义：&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2262"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2266"/>
         <source>Signal Received</source>
         <translation>接收信号</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2269"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2273"/>
         <source>&lt;p&gt;The inferior stopped because it triggered an exception.&lt;p&gt;%1</source>
         <translation>&lt;p&gt;底层停止了因为它触发了一个异常。&lt;p&gt;%1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2271"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2275"/>
         <source>Exception Triggered</source>
         <translation>异常被触发</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2338"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2342"/>
         <source>Finished retrieving data.</source>
         <translation>完成获取数据。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2491"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2495"/>
         <source>No function selected.</source>
         <translation>没有选择函数。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2493"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2497"/>
         <source>Running to function &quot;%1&quot;.</source>
         <translation>运行到函数“%1”。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2520"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2858"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2864"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2524"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2862"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2868"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2521"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2525"/>
         <source>Select a valid expression to evaluate.</source>
         <translation>请选择一个有效的表达式进行求值。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2656"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2660"/>
         <source>Symbol</source>
         <translation>符号</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2657"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2688"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2661"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2692"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2658"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2662"/>
         <source>Code</source>
         <translation>代码</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2659"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2663"/>
         <source>Section</source>
         <translation>段</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2660"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2685"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2664"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2689"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2662"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2666"/>
         <source>Symbols in &quot;%1&quot;</source>
         <translation>‘%1’中的符号</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2686"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2690"/>
         <source>From</source>
         <translation>从</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2687"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2691"/>
         <source>To</source>
         <translation>到</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2689"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2693"/>
         <source>Flags</source>
         <translation>标志</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2691"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2695"/>
         <source>Sections in &quot;%1&quot;</source>
         <translation>‘%1’中的节</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2728"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2732"/>
         <source>The inferior is in the Portable Executable format.
 Selecting %1 as debugger would improve the debugging experience for this binary format.</source>
         <translation>底层在便携式程序（PE）格式中。选择‘%1’作为调试器将改善该二进制格式的调试体验。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2756"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2760"/>
         <source>The inferior is in the ELF format.
 Selecting GDB or LLDB as debugger would improve the debugging experience for this binary format.</source>
         <translation>底层在ELF格式中。选择GDB或LLDB作为调试器将改善该二进制格式的调试体验。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2848"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2852"/>
         <source>Found.</source>
         <translation>已找到。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2849"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2853"/>
         <source>Not found.</source>
         <translation>无法找到。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2850"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2854"/>
         <source>Section %1: %2</source>
         <translation>第%1：%2</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2859"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2863"/>
         <source>The selected debugger may be inappropriate for the inferior.
 Examining symbols and setting breakpoints by file name and line number may fail.
 </source>
@@ -21089,7 +21093,7 @@ Examining symbols and setting breakpoints by file name and line number may fail.
 </translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="2865"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="2869"/>
         <source>This does not seem to be a &quot;Debug&quot; build.
 Setting breakpoints by file name and line number may fail.</source>
         <translation>不是‘Debug’模式构建。设置断点可能会失败。</translation>
@@ -21128,185 +21132,185 @@ Setting breakpoints by file name and line number may fail.</source>
         <translation>中断%1</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="425"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="429"/>
         <source>Debugger finished.</source>
         <translation>调试器完成。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="525"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="529"/>
         <source>Continue</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="526"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="530"/>
         <source>Stop Debugger</source>
         <translation>停止调试</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="527"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="531"/>
         <source>Interrupt</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="528"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="532"/>
         <source>Abort Debugging</source>
         <translation>终止调试</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="529"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="533"/>
         <source>Step Into</source>
         <translation>单步进入</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="530"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="534"/>
         <source>Step Out</source>
         <translation>单步跳出</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="531"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="535"/>
         <source>Run to Line</source>
         <translation>执行到行</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="532"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="536"/>
         <source>Run to Selected Function</source>
         <translation>运行到选择的函数</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="533"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="537"/>
         <source>Jump to Line</source>
         <translation>跳到指定行</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="542"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="546"/>
         <source>Immediately Return From Inner Function</source>
         <translation>从内层函数立即返回</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="543"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="547"/>
         <source>Step Over</source>
         <translation>单步跳过</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="544"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="548"/>
         <source>Add Expression Evaluator</source>
         <translation>添加求值表达式</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="545"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="549"/>
         <source>Toggle Breakpoint</source>
         <translation>切换断点</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="546"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="550"/>
         <source>Restart Debugging</source>
         <translation>重新启动调试器</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="547"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="551"/>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1110"/>
         <source>Operate by Instruction</source>
         <translation>依照命令操作</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="548"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="552"/>
         <source>Record Information to Allow Reversal of Direction</source>
         <translation>记录信息以便的允许反向操作</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="549"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="553"/>
         <source>Reverse Direction</source>
         <translation>掉转方向</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="550"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="554"/>
         <source>Take Snapshot of Process State</source>
         <translation>进程状态的快照</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="574"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="578"/>
         <source>Launching Debugger</source>
         <translation>启动调试器</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="588"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="592"/>
         <source>Switches the debugger to instruction-wise operation mode. In this mode, stepping operates on single instructions and the source location view also shows the disassembled instructions.</source>
         <translation>将调试器切换到指令操作模式。在此模式下，单步操作对单个指令进行操作，源位置视图也显示已反汇编的指令。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="639"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="643"/>
         <source>&amp;Modules</source>
         <translation>模块(&amp;M)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="650"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="654"/>
         <source>Reg&amp;isters</source>
         <translation>寄存器(&amp;i)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="661"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="665"/>
         <source>Peripheral Reg&amp;isters</source>
         <translation>外围寄存器(&amp;I)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="669"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="673"/>
         <source>&amp;Stack</source>
         <translation>堆栈(&amp;S)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="680"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="684"/>
         <source>Source Files</source>
         <translation>源文件</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="690"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="694"/>
         <source>&amp;Threads</source>
         <translation>线程(&amp;T)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="696"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="704"/>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="711"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="700"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="708"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="715"/>
         <source>Locals</source>
         <translation>局部变量</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="718"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="722"/>
         <source>&amp;Expressions</source>
         <translation>表达式(&amp;E)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="739"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="743"/>
         <source>&amp;Breakpoints</source>
         <translation>断点(&amp;B)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="767"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="771"/>
         <source>Aborts debugging and resets the debugger to the initial state.</source>
         <translation>终止调试并重置调试器到初始状态。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="771"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="775"/>
         <source>Restarts the debugging session.</source>
         <translation>重新启动调试会话。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="817"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="821"/>
         <source>Threads:</source>
         <translation>线程：</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1378"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1382"/>
         <source>Record information to enable stepping backwards.</source>
         <translation>记录信息以启用后退。</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1379"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1383"/>
         <source>Note: </source>
         <translation>便签： </translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="1380"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="1384"/>
         <source>This feature is very slow and unstable on the GDB side. It exhibits unpredictable behavior when going backwards over system calls and is very likely to destroy your debugging session.</source>
         <translation>这个特性在gdb方面非常缓慢和不稳定。当向后遍历系统调用时，它显示出不可预知的行为，并且很可能会破坏调试会话。</translation>
     </message>
@@ -21523,19 +21527,19 @@ Affected are breakpoints %1</source>
 <context>
     <name>Debugger::Internal::DebuggerPluginPrivate</name>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="534"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="538"/>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1096"/>
         <source>Move to Calling Frame</source>
         <translation>移动到调用帧</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="536"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="540"/>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1103"/>
         <source>Move to Called Frame</source>
-        <translation>移动到被调用的帧</translation>
+        <translation>移动到被调用帧</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggerengine.cpp" line="538"/>
+        <location filename="plugins/debugger/debuggerengine.cpp" line="542"/>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="801"/>
         <source>Memory...</source>
         <translation>内存...</translation>
@@ -21565,37 +21569,37 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="698"/>
         <source>Start Debugging Without Deployment</source>
-        <translation>忽略部署直接开始调试</translation>
+        <translation>忽略部署直接调试</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="699"/>
         <source>Start and Debug External Application...</source>
-        <translation>启动和调试外部应用程序...</translation>
+        <translation>启动并调试外部应用程序...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="700"/>
         <source>Attach to Running Application...</source>
-        <translation>关联到运行中的程序...</translation>
+        <translation>附加到运行中的程序...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="701"/>
         <source>Attach to Unstarted Application...</source>
-        <translation>附加到未启动的应用程序...</translation>
+        <translation>附加到未启动的程序...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="702"/>
         <source>Attach to QML Port...</source>
-        <translation>关联到QML端口...</translation>
+        <translation>附加到QML端口...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="703"/>
         <source>Attach to Running Debug Server...</source>
-        <translation>附加到一个运行的调试服务器...</translation>
+        <translation>附加到运行中的调试服务器...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="704"/>
         <source>Attach to Remote CDB Session...</source>
-        <translation>挂接到一个CDB会话...</translation>
+        <translation>附加到远程CDB会话...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="705"/>
@@ -21630,12 +21634,12 @@ Affected are breakpoints %1</source>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1698"/>
         <source>Process %1</source>
         <extracomment>%1: PID</extracomment>
-        <translation>进程%1</translation>
+        <translation>进程‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1321"/>
         <source>Attaching to local process %1.</source>
-        <translation>attach到本地进程%1。</translation>
+        <translation>附加到本地进程‘%1’。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1325"/>
@@ -21645,7 +21649,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1326"/>
         <source>Attaching to remote server %1.</source>
-        <translation>关联到远程服务器%1。</translation>
+        <translation>附加到远程服务器‘%1’。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1331"/>
@@ -21656,7 +21660,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1332"/>
         <source>Attaching to core file %1.</source>
-        <translation>关联到核心文件 %1。</translation>
+        <translation>附加到核心文件 %1。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1335"/>
@@ -21666,17 +21670,17 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1336"/>
         <source>Debugging file %1.</source>
-        <translation>调试文件%1。</translation>
+        <translation>调试文件‘%1’。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1361"/>
         <source>Crashed process %1</source>
-        <translation>崩溃的进程%1</translation>
+        <translation>崩溃的进程‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1362"/>
         <source>Attaching to crashed process %1</source>
-        <translation>attach到崩溃的进程%1</translation>
+        <translation>附加到崩溃的进程‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1390"/>
@@ -21737,17 +21741,17 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="940"/>
         <source>Attach to Running Application</source>
-        <translation>关联到运行中的程序</translation>
+        <translation>附加到运行中的程序</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="945"/>
         <source>Attach to Unstarted Application</source>
-        <translation>附加到的未启动的应用程序</translation>
+        <translation>附加到未启动的应用程序</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="976"/>
         <source>Detach Debugger</source>
-        <translation>脱离调试器</translation>
+        <translation>分离调试器</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="981"/>
@@ -21793,12 +21797,12 @@ Affected are breakpoints %1</source>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1021"/>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1025"/>
         <source>Restart Debugging</source>
-        <translation>重新启动调试器</translation>
+        <translation>重启调试器</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1023"/>
         <source>Restart the debugging session.</source>
-        <translation>重新启动调试会话。</translation>
+        <translation>重启调试会话。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1033"/>
@@ -21865,7 +21869,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1072"/>
         <source>Run to Selected Function</source>
-        <translation>运行到选择的函数</translation>
+        <translation>执行到选择的函数</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1076"/>
@@ -21875,12 +21879,12 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1081"/>
         <source>Jump to Line</source>
-        <translation>跳到指定行</translation>
+        <translation>跳转到行</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1087"/>
         <source>Immediately Return From Inner Function</source>
-        <translation>从内层函数立即返回</translation>
+        <translation>立即从内部函数返回</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1120"/>
@@ -21895,7 +21899,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1127"/>
         <source>Show Application on Top</source>
-        <translation>在最上端显示应用程序</translation>
+        <translation>在顶部显示应用程序</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1134"/>
@@ -21905,7 +21909,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1430"/>
         <source>Start debugging of startup project</source>
-        <translation>启动项目的调试</translation>
+        <translation>启动项目调试</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1674"/>
@@ -21915,18 +21919,18 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1674"/>
         <source>Cannot attach to process with PID 0</source>
-        <translation>无法attach到PID为0的进程</translation>
+        <translation>无法附加到PID为0的进程</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1682"/>
         <source>Process Already Under Debugger Control</source>
-        <translation>进程已在调试器控制之下</translation>
+        <translation>进程已在调试器控制下</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1683"/>
         <source>The process %1 is already under the control of a debugger.
 %2 cannot attach to it.</source>
-        <translation>进程‘%1’已经运行在调试器之下。
+        <translation>进程‘%1’已在调试器的控制下。
 ‘%2’无法附加上去。</translation>
     </message>
     <message>
@@ -21937,7 +21941,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1691"/>
         <source>It is only possible to attach to a locally running process.</source>
-        <translation>仅可能附加一个本地运行的进程。</translation>
+        <translation>只能附加到本地运行的进程。</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1824"/>
@@ -21977,7 +21981,7 @@ Affected are breakpoints %1</source>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1856"/>
         <source>Set Message Tracepoint at Line %1...</source>
-        <translation>在%1行设置消息追踪点...</translation>
+        <translation>在第%1行设置消息追踪点...</translation>
     </message>
     <message>
         <location filename="plugins/debugger/debuggerplugin.cpp" line="1892"/>
@@ -25842,7 +25846,7 @@ Rebuilding the project might help.</source>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="489"/>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="559"/>
         <source>Diff Open Files</source>
-        <translation>对比打开的文件</translation>
+        <translation>对比打开文件</translation>
     </message>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="491"/>
@@ -25857,7 +25861,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="495"/>
         <source>Diff External Files...</source>
-        <translation>对比外部的文件...</translation>
+        <translation>对比外部文件...</translation>
     </message>
     <message>
         <location filename="plugins/diffeditor/diffeditorplugin.cpp" line="543"/>
@@ -26845,167 +26849,167 @@ will also disable the following plugins:
         <translation>参数必须是正值：%1=%2</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="964"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="970"/>
         <source>Mark &quot;%1&quot; not set.</source>
         <translation>未设置书签‘%1’。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="2850"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="2856"/>
         <source>Recursive mapping</source>
         <translation>递归映射</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3711"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3717"/>
         <source>%1%2%</source>
         <translation>%1%2%</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3713"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3719"/>
         <source>%1All</source>
         <translation>%1所有</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3727"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="3733"/>
         <source>Not implemented in FakeVim.</source>
         <translation>未执行的FakeVim。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="4310"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="4316"/>
         <source>Type Alt-V, Alt-V to quit FakeVim mode.</source>
         <translation>按Alt-V，Alt-V键退出FakeVim模式。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5770"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5776"/>
         <source>Unknown option:</source>
         <translation>未知选项：</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5780"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5786"/>
         <source>Invalid argument:</source>
         <translation>无效的参数：</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5782"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5788"/>
         <source>Trailing characters:</source>
         <translation>尾端字符：</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5864"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5870"/>
         <source>Move lines into themselves.</source>
         <translation>移动行到自己。</translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5906"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5912"/>
         <source>%n lines moved.</source>
         <translation>
             <numerusform>%n行移动。</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5967"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5973"/>
         <source>File &quot;%1&quot; exists (add ! to override)</source>
         <translation>文件‘%1’已存在（添加!覆盖）</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5981"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5987"/>
         <source>Cannot open file &quot;%1&quot; for writing</source>
         <translation>无法写方式打开文件‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5987"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5993"/>
         <source>&quot;%1&quot; %2 %3L, %4C written.</source>
         <translation>‘%1’%2 %3L，%4C写入。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5988"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5994"/>
         <source> [New] </source>
         <translation> [新建] </translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="5996"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6002"/>
         <source>Cannot open file &quot;%1&quot; for reading</source>
         <translation>无法读方式打开文件‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6024"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6030"/>
         <source>&quot;%1&quot; %2L, %3C</source>
         <translation>‘%1’%2L，%3C</translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6051"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6057"/>
         <source>%n lines filtered.</source>
         <translation>
             <numerusform>%n行过滤。</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6172"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6178"/>
         <source>Cannot open file %1</source>
         <translation>无法打开文件%1</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6245"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6251"/>
         <source>Not an editor command: %1</source>
         <translation>不是一个编辑器命令：%1</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6342"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6348"/>
         <source>Invalid regular expression: %1</source>
         <translation>无效的正则表达式：%1</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6378"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6384"/>
         <source>Pattern not found: %1</source>
         <translation>找不到模式：%1</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6382"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6388"/>
         <source>Search hit BOTTOM, continuing at TOP.</source>
         <translation>搜索到底部，从顶部重新开始。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6383"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6389"/>
         <source>Search hit TOP, continuing at BOTTOM.</source>
         <translation>搜索到顶部，从底部重新开始。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6388"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6394"/>
         <source>Search hit BOTTOM without match for: %1</source>
         <translation>搜索到底部，无匹配项：%1</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6389"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6395"/>
         <source>Search hit TOP without match for: %1</source>
         <translation>搜索到顶部，无匹配项：%1</translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6496"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6502"/>
         <source>%n lines indented.</source>
         <translation>
             <numerusform>%n行缩进。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6552"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="6558"/>
         <source>%n lines %1ed %2 time.</source>
         <translation>
             <numerusform>%n行进行‘%1’%2次。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7090"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7096"/>
         <source>%n lines yanked.</source>
         <translation>
             <numerusform>%n行扩展。</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7826"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7832"/>
         <source>Already at oldest change.</source>
         <translation>已经是最早的改变。</translation>
     </message>
     <message>
-        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7827"/>
+        <location filename="plugins/fakevim/fakevimhandler.cpp" line="7833"/>
         <source>Already at newest change.</source>
         <translation>已经是最新的改变。</translation>
     </message>
@@ -29308,13 +29312,13 @@ Commit now?</source>
         <location filename="plugins/git/gitclient.cpp" line="2768"/>
         <source>Amended &quot;%1&quot; (%n files).</source>
         <translation>
-            <numerusform>增订了‘%1’（%n个文件）。</numerusform>
+            <numerusform>修正了‘%1’（%n个文件）。</numerusform>
         </translation>
     </message>
     <message>
         <location filename="plugins/git/gitclient.cpp" line="2769"/>
         <source>Amended &quot;%1&quot;.</source>
-        <translation>增订了‘%1’。</translation>
+        <translation>修正了‘%1’。</translation>
     </message>
     <message numerus="yes">
         <location filename="plugins/git/gitclient.cpp" line="2861"/>
@@ -29438,7 +29442,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3511"/>
         <source>What would you like to do with local changes in:</source>
-        <translation>你想用本地更改做：</translation>
+        <translation>你想对本地的修改做些什么：</translation>
     </message>
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3517"/>
@@ -29448,7 +29452,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3518"/>
         <source>Stash local changes and pop when %1 finishes.</source>
-        <translation>储藏本地修改并在’%1‘完成时并取出。</translation>
+        <translation>储藏本地修改并在‘%1’完成时取出。</translation>
     </message>
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3520"/>
@@ -29468,7 +29472,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3524"/>
         <source>Discard (reset) local changes and execute %1.</source>
-        <translation>丢弃（重置）本地更改和执行‘%1’。</translation>
+        <translation>丢弃（重置）本地更改并执行‘%1’。</translation>
     </message>
     <message>
         <location filename="plugins/git/gitclient.cpp" line="3529"/>
@@ -30236,12 +30240,12 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="685"/>
         <source>Stage File for Commit</source>
-        <translation>暂存文件提交</translation>
+        <translation>暂存文件</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="685"/>
         <source>Stage &quot;%1&quot; for Commit</source>
-        <translation>暂存‘%1’提交</translation>
+        <translation>暂存‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="687"/>
@@ -30256,12 +30260,12 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="689"/>
         <source>Unstage File from Commit</source>
-        <translation>未暂存文件提交</translation>
+        <translation>取消暂存文件</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="689"/>
         <source>Unstage &quot;%1&quot; from Commit</source>
-        <translation>未暂存‘%1’提交</translation>
+        <translation>取消暂存‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="692"/>
@@ -30271,7 +30275,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="692"/>
         <source>Undo Unstaged Changes for &quot;%1&quot;</source>
-        <translation>撤销‘%1’未暂存的修改</translation>
+        <translation>撤销未暂存的修改‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="696"/>
@@ -30281,7 +30285,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="696"/>
         <source>Undo Uncommitted Changes for &quot;%1&quot;</source>
-        <translation>撤销‘%1’未提交的修改</translation>
+        <translation>撤销未提交的修改‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="699"/>
@@ -30397,7 +30401,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="746"/>
         <source>Amend Last Commit...</source>
-        <translation>增订最后一次提交...</translation>
+        <translation>修改最后一次提交...</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="751"/>
@@ -30497,7 +30501,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="848"/>
         <source>Stashes...</source>
-        <translation>储藏...</translation>
+        <translation>储藏库...</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="853"/>
@@ -30517,7 +30521,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="859"/>
         <source>Saves the current state of your unstaged files and resets the repository to its staged state.</source>
-        <translation>保存未暂存文件的当前状态，并将代码仓库重新设置为暂存状态。</translation>
+        <translation>保存未暂存文件的当前状态，并将代码仓库重新设置为已暂存状态。</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="862"/>
@@ -30633,12 +30637,12 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="944"/>
         <source>Gitk for folder of Current File</source>
-        <translation>Gitk当前文件的文件夹</translation>
+        <translation>Gitk当前文件所在文件夹</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="944"/>
         <source>Gitk for folder of &quot;%1&quot;</source>
-        <translation>Gitk‘%1’的文件夹</translation>
+        <translation>Gitk‘%1’所在文件夹</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="950"/>
@@ -30688,7 +30692,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="1353"/>
         <source>Amend %1</source>
-        <translation>增订‘%1’</translation>
+        <translation>修正‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/git/gitplugin.cpp" line="1356"/>
@@ -31258,7 +31262,7 @@ instead of its installation directory when run outside git bash.</source>
     <message>
         <location filename="plugins/git/stashdialog.ui" line="14"/>
         <source>Stashes</source>
-        <translation>储藏</translation>
+        <translation>储藏库</translation>
     </message>
     <message>
         <location filename="plugins/git/stashdialog.cpp" line="79"/>
@@ -33555,7 +33559,7 @@ Id必须以小写字母开头。</translation>
     <message>
         <location filename="plugins/ios/iosrunconfiguration.cpp" line="225"/>
         <source>Kit has incorrect device type for running on iOS devices.</source>
-        <translation>在这些iOS设备中运行的套件设备类型不正确。</translation>
+        <translation>在这些iOS设备中运行的构建套件设备类型不正确。</translation>
     </message>
     <message>
         <location filename="plugins/ios/iosrunconfiguration.cpp" line="246"/>
@@ -35151,47 +35155,47 @@ UDID：%4
 <context>
     <name>McuSupport::Internal::McuPackage</name>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="114"/>
+        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="116"/>
         <source>Download from &quot;%1&quot;</source>
         <translation>从‘%1’下载</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="200"/>
+        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="202"/>
         <source>Path is valid, &quot;%1&quot; was found.</source>
         <translation>路径有效，找到‘%1’。</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="203"/>
+        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="205"/>
         <source>Path exists, but does not contain &quot;%1&quot;.</source>
         <translation>路径存在，但不包含‘%1’。</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="206"/>
+        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="208"/>
         <source>Path does not exist.</source>
         <translation>路径不存在。</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="55"/>
+        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="62"/>
         <source>Qt for MCUs SDK</source>
         <translation>Qt MCUs SDK</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="90"/>
+        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="97"/>
         <source>GNU Arm Embedded Toolchain</source>
         <translation>GNU Arm嵌入式工具链</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="148"/>
+        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="155"/>
         <source>STM32Cube SDK</source>
         <translation>STM32Cube SDK</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="169"/>
+        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="176"/>
         <source>STM32CubeProgrammer</source>
         <translation>STM32Cube程序员</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="184"/>
+        <location filename="plugins/mcusupport/mcusupportsdk.cpp" line="191"/>
         <source>NXP i.MXRT SDK</source>
         <translation>NXP i.MXRT SDK</translation>
     </message>
@@ -35200,7 +35204,7 @@ UDID：%4
         <translation type="vanished">SEGGER JLink</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="310"/>
+        <location filename="plugins/mcusupport/mcusupportoptions.cpp" line="312"/>
         <source>Arm GDB at %1</source>
         <translation>Arm GDB在‘%1’</translation>
     </message>
@@ -35239,24 +35243,57 @@ UDID：%4
 <context>
     <name>McuSupport::Internal::McuSupportOptionsWidget</name>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="107"/>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="110"/>
         <source>Targets supported by the %1</source>
         <translation>‘%1’支持的目标</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="121"/>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="124"/>
         <source>Requirements</source>
         <translation>需求</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="129"/>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="132"/>
         <source>Create a Kit</source>
         <translation>创建构建套件</translation>
     </message>
     <message>
-        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="258"/>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="138"/>
+        <source>Create Kit</source>
+        <translation>创建构建套件</translation>
+    </message>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="145"/>
+        <source>Remove Kit</source>
+        <translation>删除构建套件</translation>
+    </message>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="190"/>
+        <source>A kit for the selected target exists.</source>
+        <translation>已存在选定目标的构建套件。</translation>
+    </message>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="191"/>
+        <source>A kit for the selected target can be created.</source>
+        <translation>可以为所选目标创建构建套件。</translation>
+    </message>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportoptionspage.cpp" line="270"/>
         <source>MCU</source>
         <translation>MCU</translation>
+    </message>
+</context>
+<context>
+    <name>McuSupport::Internal::McuSupportPlugin</name>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportplugin.cpp" line="112"/>
+        <source>Create Kits for Qt for MCUs? To do it later, select Options &gt; Devices &gt; MCU.</source>
+        <translation>为MCUs创建Qt构建套件？要稍后执行此操作，请选择‘选项 &gt; 设备 &gt; MCU’。</translation>
+    </message>
+    <message>
+        <location filename="plugins/mcusupport/mcusupportplugin.cpp" line="115"/>
+        <source>Create Kits for Qt for MCUs</source>
+        <translation>为MCUs创建Qt构建套件</translation>
     </message>
 </context>
 <context>
@@ -38487,7 +38524,6 @@ UDID：%4
     <message>
         <location filename="plugins/qtsupport/profilereader.cpp" line="49"/>
         <source>[Inexact] </source>
-        <extracomment>Prefix used for output from the cumulative evaluation of project files.</extracomment>
         <translation>[不准确] </translation>
     </message>
 </context>
@@ -38950,12 +38986,12 @@ The name of the build configuration created by default for a generic project.</e
         <location filename="plugins/projectexplorer/buildmanager.cpp" line="643"/>
         <location filename="plugins/projectexplorer/buildmanager.cpp" line="741"/>
         <source>Error while building/deploying project %1 (kit: %2)</source>
-        <translation>构建/部署项目%1时出错（Kit：%2）</translation>
+        <translation>构建/部署项目%1时出错（构建套件：%2）</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildmanager.cpp" line="623"/>
         <source>The kit %1 has configuration issues which might be the root cause for this problem.</source>
-        <translation>套件%1的配置问题可能时针对此问题的根本原因。</translation>
+        <translation>构建套件‘%1’存在配置问题，这可能是此问题的根本原因。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildmanager.cpp" line="626"/>
@@ -39278,7 +39314,7 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicecheckbuildstep.cpp" line="57"/>
         <source>There is no device set up for this kit. Do you want to add a device?</source>
-        <translation>没有任何设备配置此工具包。你要添加设备么？</translation>
+        <translation>没有任何设备配置此构建套件。你要添加设备么？</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/devicesupport/devicecheckbuildstep.cpp" line="92"/>
@@ -39307,7 +39343,7 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <location filename="plugins/projectexplorer/kitinformation.cpp" line="977"/>
         <source>Device is incompatible with this kit.</source>
-        <translation>设备与此工具包不兼容。</translation>
+        <translation>设备与此构建套件不兼容。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitinformation.cpp" line="1017"/>
@@ -39555,7 +39591,7 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <location filename="plugins/projectexplorer/kitinformation.cpp" line="1221"/>
         <source>Additional build environment settings when using this kit.</source>
-        <translation>使用此套件时，附加的编译环境。</translation>
+        <translation>使用此构建套件时，附加的编译环境。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitinformation.cpp" line="1232"/>
@@ -39944,7 +39980,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildpropertiessettingspage.cpp" line="54"/>
         <source>Use Project Default</source>
-        <translation>使用项目的默认</translation>
+        <translation>使用项目默认值</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/buildpropertiessettingspage.cpp" line="64"/>
@@ -39974,7 +40010,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildpropertiessettingspage.cpp" line="110"/>
         <source>Default Build Properties</source>
-        <translation>默认的构建属性</translation>
+        <translation>默认构建属性</translation>
     </message>
 </context>
 <context>
@@ -40098,7 +40134,6 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/buildstepspage.cpp" line="196"/>
         <source>%1 Steps</source>
-        <extracomment>%1 is the name returned by BuildStepList::displayName</extracomment>
         <translation>%1的步骤</translation>
     </message>
     <message>
@@ -40512,7 +40547,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/dependenciespanel.cpp" line="235"/>
         <source>Synchronize active kit, build, and deploy configuration between projects.</source>
-        <translation>在项目间同步活动的工具、构建和部署配置。</translation>
+        <translation>在项目间同步活动的构建套件、构建和部署配置。</translation>
     </message>
 </context>
 <context>
@@ -40790,7 +40825,7 @@ Excluding: %2
     <message>
         <location filename="plugins/projectexplorer/projectmodels.cpp" line="139"/>
         <source>No kits are enabled for this project. Enable kits in the &quot;Projects&quot; mode.</source>
-        <translation>此项目没有启用工具包。在‘项目’模式下启用工具包。</translation>
+        <translation>此项目没有启用构建套件。在‘项目’模式下启用构建套件。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectmodels.cpp" line="231"/>
@@ -41102,7 +41137,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/kitmanagerconfigwidget.cpp" line="80"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The name of the kit suitable for generating directory names. This value is used for the variable &lt;i&gt;%1&lt;/i&gt;, which for example determines the name of the shadow build directory.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;工具包的名字适合生成目录名。该值被用于变量&lt;i&gt;%1&lt;/i&gt;，举例决定了影子构建目录的名称。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;构建套件的名字适合生成目录名。该值被用于变量&lt;i&gt;%1&lt;/i&gt;，举例决定了影子构建目录的名称。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitmanagerconfigwidget.cpp" line="84"/>
@@ -41112,7 +41147,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/kitmanagerconfigwidget.cpp" line="101"/>
         <source>Kit name and icon.</source>
-        <translation>套件的名称和图标。</translation>
+        <translation>构建套件的名称和图标。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitmanagerconfigwidget.cpp" line="101"/>
@@ -41169,7 +41204,6 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/kitmodel.cpp" line="84"/>
         <source>%1 (default)</source>
-        <extracomment>Mark up a kit as the default one.</extracomment>
         <translation>%1（默认）</translation>
     </message>
     <message>
@@ -41451,7 +41485,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/parseissuesdialog.cpp" line="125"/>
         <source>Use parsers from kit:</source>
-        <translation>使用工具包中的解析器：</translation>
+        <translation>使用构建套件中的解析器：</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/parseissuesdialog.cpp" line="156"/>
@@ -41461,7 +41495,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/parseissuesdialog.cpp" line="156"/>
         <source>Cannot parse: The chosen kit does not provide an output parser.</source>
-        <translation>无法解析：所选的工具包不提供输出解析器。</translation>
+        <translation>无法解析：所选的构建套件不提供输出解析器。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/parseissuesdialog.cpp" line="165"/>
@@ -41620,7 +41654,7 @@ What should Qt Creator do now?</source>
     <message>
         <location filename="plugins/projectexplorer/projectexplorersettingspage.ui" line="163"/>
         <source>Creates suitable run configurations automatically when setting up a new kit.</source>
-        <translation>设置新工具包时自动创建合适的运行配置。</translation>
+        <translation>设置新构建套件时自动创建合适的运行配置。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorersettingspage.ui" line="166"/>
@@ -42214,43 +42248,43 @@ to project &quot;%2&quot;.</source>
         <translation>最后修改</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="213"/>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="224"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="215"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="226"/>
         <source>New Session Name</source>
         <translation>新会话名称</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="214"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="216"/>
         <source>&amp;Create</source>
         <translation>创建(&amp;C)</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="214"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="216"/>
         <source>Create and &amp;Open</source>
         <translation>创建并打开(&amp;O)</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="225"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="227"/>
         <source>&amp;Clone</source>
         <translation>克隆(&amp;C)</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="225"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="227"/>
         <source>Clone and &amp;Open</source>
         <translation>克隆并打开(&amp;O)</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="246"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="249"/>
         <source>Rename Session</source>
         <translation>重命名会话</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="247"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="250"/>
         <source>&amp;Rename</source>
         <translation>重命名(&amp;R)</translation>
     </message>
     <message>
-        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="247"/>
+        <location filename="plugins/projectexplorer/sessionmodel.cpp" line="250"/>
         <source>Rename and &amp;Open</source>
         <translation>重命名并打开(&amp;O)</translation>
     </message>
@@ -42985,7 +43019,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="plugins/projectexplorer/jsonwizard/jsonwizardpagefactory_p.cpp" line="176"/>
         <source>&quot;data&quot; must be a JSON object for &quot;Kits&quot; pages.</source>
-        <translation>‘数据’必须是‘套件’页面的JSON对象。</translation>
+        <translation>‘数据’必须是‘构建套件’页面的JSON对象。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/jsonwizard/jsonwizardpagefactory_p.cpp" line="183"/>
@@ -43235,7 +43269,7 @@ to project &quot;%2&quot;.</source>
     <message>
         <location filename="plugins/projectexplorer/kit.cpp" line="94"/>
         <source>Kit ID</source>
-        <translation>构建套件 ID</translation>
+        <translation>构建套件ID</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kit.cpp" line="96"/>
@@ -43488,12 +43522,12 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/project.cpp" line="472"/>
         <source>Incompatible Kit</source>
-        <translation>不兼容的构建套件</translation>
+        <translation>构建套件不兼容</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/project.cpp" line="473"/>
         <source>Kit %1 is incompatible with kit %2.</source>
-        <translation>构建套件%1与构建套件%2不兼容。</translation>
+        <translation>构建套件‘%1’与构建套件‘%2’不兼容。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/project.cpp" line="482"/>
@@ -43513,7 +43547,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/project.cpp" line="501"/>
         <source>Partially Incompatible Kit</source>
-        <translation>部分不兼容的构建套装</translation>
+        <translation>构建套装部分不兼容</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/project.cpp" line="502"/>
@@ -43655,7 +43689,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1049"/>
         <source>Close Pro&amp;ject &quot;%1&quot;</source>
-        <translation>关闭项目‘%1’(&amp;J)</translation>
+        <translation>关闭项目(&amp;J)</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1057"/>
@@ -43666,7 +43700,7 @@ Please close all running instances of your application before starting a build.<
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1057"/>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1338"/>
         <source>Close All Files in Project &quot;%1&quot;</source>
-        <translation>关闭项目‘%1’中的所有文件</translation>
+        <translation>关闭项目中的所有文件</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1067"/>
@@ -43913,7 +43947,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1405"/>
         <source>Set &quot;%1&quot; as Active Project</source>
-        <translation>设‘%1’为活动项目</translation>
+        <translation>设为活动项目</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1419"/>
@@ -43923,12 +43957,12 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1443"/>
         <source>Open Build and Run Kit Selector...</source>
-        <translation>打开构建和运行套件选择器...</translation>
+        <translation>打开构建和运行构建套件选择器...</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1452"/>
         <source>Quick Switch Kit Selector</source>
-        <translation>快速切换套件选择器</translation>
+        <translation>快速切换构建套件选择器</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1456"/>
@@ -43958,7 +43992,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1748"/>
         <source>The name of the currently active kit as a filesystem-friendly version.</source>
-        <translation>当前活动的套件作为文件系统的版本的名称。</translation>
+        <translation>当前活动的构建套件作为文件系统的版本的名称。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="1755"/>
@@ -44218,7 +44252,7 @@ Do you want to ignore them?</source>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="2991"/>
         <source>The project &quot;%1&quot; has no active kit.</source>
-        <translation>项目‘%1’没有的构建套件。</translation>
+        <translation>项目‘%1’没有可用的构建套件。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/projectexplorer.cpp" line="2998"/>
@@ -44448,7 +44482,7 @@ Rename %2 to %3 anyway?</source>
     <message>
         <location filename="plugins/projectexplorer/projectimporter.cpp" line="300"/>
         <source>Imported Kit</source>
-        <translation>导入Kit</translation>
+        <translation>导入构建套件</translation>
     </message>
 </context>
 <context>
@@ -44908,7 +44942,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/targetsetuppage.cpp" line="104"/>
         <source>&lt;span style=&quot; font-weight:600;&quot;&gt;No suitable kits found.&lt;/span&gt;&lt;br/&gt;Add a kit in the &lt;a href=&quot;buildandrun&quot;&gt;options&lt;/a&gt; or via the maintenance tool of the SDK.</source>
-        <translation>&lt;span style=&quot; font-weight:600;&quot;&gt;找不到合适的工具包。&lt;/span&gt;&lt;br/&gt;在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或通过SDK的维护工具添加一个工具包。</translation>
+        <translation>&lt;span style=&quot; font-weight:600;&quot;&gt;找不到合适的构建套件。&lt;/span&gt;&lt;br/&gt;在&lt;a href=&quot;buildandrun&quot;&gt;选项&lt;/a&gt;中或通过SDK的维护工具添加一个构建套件。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/targetsetuppage.cpp" line="112"/>
@@ -44933,13 +44967,13 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/targetsetuppage.cpp" line="222"/>
         <source>Kits</source>
-        <translation>构建套件(Kit)</translation>
+        <translation>构建套件</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/targetsetuppage.cpp" line="318"/>
         <source>The following kits can be used for project &lt;b&gt;%1&lt;/b&gt;:</source>
         <comment>%1: Project name</comment>
-        <translation>下面的工具包可以用于项目&lt;b&gt;%1&lt;/b&gt;：</translation>
+        <translation>下面的构建套件可以用于项目&lt;b&gt;%1&lt;/b&gt;：</translation>
     </message>
 </context>
 <context>
@@ -44952,7 +44986,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/task.cpp" line="79"/>
         <source>%1 needs a compiler set up to build. Configure a compiler in the kit options.</source>
-        <translation>‘%1’需要设置编译器进行构建。在套件选项中配置编译器。</translation>
+        <translation>‘%1’需要设置编译器进行构建。在构建套件选项中配置编译器。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/task.cpp" line="87"/>
@@ -45212,7 +45246,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="96"/>
         <source>Choose which settings to display for this kit.</source>
-        <translation>选择此工具包显示配置。</translation>
+        <translation>选择此构建套件显示配置。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="97"/>
@@ -45222,7 +45256,7 @@ These files are preserved.</source>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="98"/>
         <source>Choose which kit settings to display by default.</source>
-        <translation>选择此工具包默认显示配置。</translation>
+        <translation>选择此构建套件默认显示配置。</translation>
     </message>
     <message>
         <location filename="plugins/projectexplorer/kitoptionspage.cpp" line="272"/>
@@ -45325,7 +45359,7 @@ ID：%2
     <message>
         <location filename="plugins/qmldesigner/designercore/instances/puppetcreator.cpp" line="337"/>
         <source>Kit is invalid</source>
-        <translation>构建套件失效</translation>
+        <translation>构建套件无效</translation>
     </message>
     <message>
         <location filename="plugins/qmldesigner/designercore/instances/puppetcreator.cpp" line="338"/>
@@ -50329,7 +50363,7 @@ The affected files are:
 <context>
     <name>QmakeProjectManager</name>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="1264"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="1269"/>
         <source>&quot;%1&quot; is used by qmake, but &quot;%2&quot; is configured in the kit.
 Please update your kit (%3) or choose a mkspec for qmake that matches your target environment better.</source>
         <translation>QMake使用‘%1’，但是在构建套件中配置的是‘%2’。
@@ -51066,7 +51100,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakekitinformation.cpp" line="121"/>
         <source>Mkspec configured for qmake by the kit.</source>
-        <translation>由工具包配置QMake的Mkspec。</translation>
+        <translation>由构建套件配置QMake的Mkspec。</translation>
     </message>
 </context>
 <context>
@@ -51155,7 +51189,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <location filename="plugins/qmakeprojectmanager/qmakeprojectmanagerplugin.cpp" line="175"/>
         <location filename="plugins/qmakeprojectmanager/qmakeprojectmanagerplugin.cpp" line="220"/>
         <source>Run qmake</source>
-        <translation>运行QMake</translation>
+        <translation>QMake</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakeprojectmanagerplugin.cpp" line="187"/>
@@ -51468,7 +51502,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="246"/>
         <source>This kit cannot build this project since it does not define a Qt version.</source>
-        <translation>这个工具不能构建这个项目，因为没有指定Qt版本。</translation>
+        <translation>此构建套件不能构建这个项目，因为没有指定Qt版本。</translation>
     </message>
     <message>
         <location filename="plugins/qmakeprojectmanager/qmakebuildconfiguration.cpp" line="303"/>
@@ -51587,17 +51621,17 @@ Neither the path to the library nor the path to its includes is added to the .pr
 <context>
     <name>QmakeProjectManager::QmakeBuildSystem</name>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="571"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="576"/>
         <source>Reading Project &quot;%1&quot;</source>
         <translation>正在读取项目‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="580"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="585"/>
         <source>Cannot parse project &quot;%1&quot;: The currently selected kit &quot;%2&quot; does not have a valid Qt.</source>
         <translation>无法解析项目‘%1’：选择的构建套件‘%2’没有有效的Qt。</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="582"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="587"/>
         <source>Cannot parse project &quot;%1&quot;: No kit selected.</source>
         <translation>无法解析项目‘%1’：没有选择构建套件。</translation>
     </message>
@@ -51700,24 +51734,24 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation type="vanished">无效解析项目‘%1’：当前选择构建套件。</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="611"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="616"/>
         <source>No Qt version set in kit.</source>
         <translation>构建套件中未设置Qt版本。</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="613"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="618"/>
         <source>Qt version is invalid.</source>
         <translation>Qt版本无效。</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="615"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="620"/>
         <source>No C++ compiler set in kit.</source>
         <translation>构建套件中没有C++编译器。</translation>
     </message>
     <message>
-        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="628"/>
+        <location filename="plugins/qmakeprojectmanager/qmakeproject.cpp" line="633"/>
         <source>Project is part of Qt sources that do not match the Qt defined in the kit.</source>
-        <translation>项目中部分Qt源代码与工具包中定义的Qt不匹配。</translation>
+        <translation>项目中部分Qt源代码与构建套件中定义的Qt不匹配。</translation>
     </message>
 </context>
 <context>
@@ -52590,7 +52624,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="198"/>
         <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="205"/>
         <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="211"/>
-        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="344"/>
+        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="360"/>
         <source>Invalid type %1</source>
         <translation>无效的类型%1</translation>
     </message>
@@ -52610,17 +52644,17 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation>未知的项目库条目属性‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="270"/>
+        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="286"/>
         <source>Unknown property for Property %1</source>
         <translation>未知的属性‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="280"/>
+        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="296"/>
         <source>Unknown property for QmlSource %1</source>
         <translation>未知的QmlSource属性‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="327"/>
+        <location filename="plugins/qmldesigner/designercore/metainfo/metainforeader.cpp" line="343"/>
         <source>Invalid or duplicate item library entry %1</source>
         <translation>无效或重复的项目库条目%1</translation>
     </message>
@@ -53089,7 +53123,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation>库</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="122"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="124"/>
         <source>QML Types</source>
         <comment>Title of library QML types view</comment>
         <translation>QML 类型</translation>
@@ -53105,7 +53139,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation type="vanished">导入</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="131"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="133"/>
         <source>&lt;Filter&gt;</source>
         <comment>Library search input hint text</comment>
         <translation>&lt;过滤器&gt;</translation>
@@ -53119,44 +53153,44 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation type="vanished">添加新资源到项目。</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="123"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="125"/>
         <source>Assets</source>
         <comment>Title of library assets view</comment>
         <translation>资产</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="124"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="126"/>
         <source>QML Imports</source>
         <comment>Title of QML imports view</comment>
         <translation>QML导入</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="189"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="191"/>
         <source>Add New Assets...</source>
         <translation>添加新资产...</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="190"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="192"/>
         <source>Add new assets to project.</source>
         <translation>添加新资产到项目。</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="216"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="218"/>
         <source>3D Assets</source>
         <translation>3D资产</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="366"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="368"/>
         <source>Add import %1</source>
         <translation>添加导入‘%1’</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="514"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="516"/>
         <source>All Files (%1)</source>
         <translation>所有文件(%1)</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="520"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="522"/>
         <source>Add Assets</source>
         <translation>添加资产</translation>
     </message>
@@ -53165,12 +53199,12 @@ Neither the path to the library nor the path to its includes is added to the .pr
         <translation type="vanished">添加资源</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="541"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="543"/>
         <source>Failed to Add Files</source>
         <translation>添加文件失败</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="541"/>
+        <location filename="plugins/qmldesigner/components/itemlibrary/itemlibrarywidget.cpp" line="543"/>
         <source>Could not add %1 to project.</source>
         <translation>无法添加‘%1’到项目。</translation>
     </message>
@@ -53716,18 +53750,18 @@ This is independent of the visibility property in QML.</source>
 <context>
     <name>QmlDesigner::StatesEditorWidget</name>
     <message>
-        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="111"/>
+        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="114"/>
         <source>States</source>
         <comment>Title of Editor widget</comment>
         <translation>状态</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="144"/>
+        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="147"/>
         <source>Cannot Create QtQuick View</source>
         <translation>午餐创建QtQuick视图</translation>
     </message>
     <message>
-        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="145"/>
+        <location filename="plugins/qmldesigner/components/stateseditor/stateseditorwidget.cpp" line="148"/>
         <source>StatesEditorWidget: %1 cannot be created. Most likely QtQuick.Controls 1 are not installed.</source>
         <translation>StatesEditorWidget：%1无法创建。QtQuick.Controls 1没有安装。</translation>
     </message>
@@ -55232,14 +55266,14 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
 <context>
     <name>QmlJS::TypeDescriptionReader</name>
     <message>
-        <location filename="libs/qmljs/qmljsinterpreter.cpp" line="1374"/>
+        <location filename="libs/qmljs/qmljsinterpreter.cpp" line="1376"/>
         <source>Errors while loading qmltypes from %1:
 %2</source>
         <translation>从‘%1’导入qmltypes错误：
 %2</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/qmljsinterpreter.cpp" line="1379"/>
+        <location filename="libs/qmljs/qmljsinterpreter.cpp" line="1381"/>
         <source>Warnings while loading qmltypes from %1:
 %2</source>
         <translation>从‘%1’导入qmltypes警告：
@@ -55874,136 +55908,136 @@ the QML editor know about a likely URI.</source>
         <translation>意外的标记‘.’</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="887"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="889"/>
         <source>Stray newline in string literal</source>
         <translation>字符串文字中的多余换行符</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="962"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="965"/>
         <source>End of file reached at escape sequence</source>
         <translation>转义序列到达文件结尾</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="990"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="993"/>
         <source>Illegal hexadecimal escape sequence</source>
         <translation>非法十六进制转义序列</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1023"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1026"/>
         <source>Octal escape sequences are not allowed</source>
         <translation>不允许使用八进制转义序列</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="669"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1047"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1050"/>
         <source>Unclosed string at end of line</source>
         <translation>行尾有未闭合的字符串</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1062"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1065"/>
         <source>At least one hexadecimal digit is required after &apos;0%1&apos;</source>
         <translation>十六进制数字必须以‘0%1’开头</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1086"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1089"/>
         <source>At least one octal digit is required after &apos;0%1&apos;</source>
         <translation>八进制数字必须以‘0%1’开头</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1110"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1113"/>
         <source>At least one binary digit is required after &apos;0%1&apos;</source>
         <translation>二进制数字必须以‘0%1’开头</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1130"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1133"/>
         <source>Decimal numbers can&apos;t start with &apos;0&apos;</source>
         <translation>小数不能以‘0’开头</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="465"/>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="855"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1185"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1188"/>
         <source>Illegal syntax for exponential number</source>
         <translation>非法指数语法</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="886"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1231"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1234"/>
         <source>Invalid regular expression flag &apos;%0&apos;</source>
         <translation>无效正则表达式标志‘%0’</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="903"/>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="925"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1248"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1270"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1251"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1273"/>
         <source>Unterminated regular expression backslash sequence</source>
         <translation>未终止正则表达式反斜杠序列</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="938"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1283"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1286"/>
         <source>Unterminated regular expression class</source>
         <translation>未终止正则表达式类</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljslexer.cpp" line="875"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1293"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1296"/>
         <source>Unterminated regular expression literal</source>
         <translation>未终止正则表达式文字</translation>
     </message>
     <message>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljsparser.cpp" line="1747"/>
         <location filename="shared/qbs/src/lib/corelib/parser/qmljsparser.cpp" line="1814"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1496"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1504"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1614"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1499"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1507"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1617"/>
         <location filename="libs/qmljs/parser/qmljsparser.cpp" line="3686"/>
         <location filename="libs/qmljs/parser/qmljsparser.cpp" line="3742"/>
         <source>Syntax error</source>
         <translation>语法错误</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1526"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1529"/>
         <source>Imported file must be a script</source>
         <translation>导入的文件必须是脚本</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1534"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1542"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1552"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1537"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1545"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1555"/>
         <source>Invalid module URI</source>
         <translation>无效的模块URI</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1558"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1561"/>
         <source>Module import requires a version</source>
         <translation>模块导入需要一个版本</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1565"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1568"/>
         <source>Module import requires a minor version (missing dot)</source>
         <translation>模块导入需要次要版本（缺少点）</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1572"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1575"/>
         <source>Module import requires a minor version (missing number)</source>
         <translation>模块导入需要次要版本（缺少数字）</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1583"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1595"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1586"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1598"/>
         <source>File import requires a qualifier</source>
         <translation>文件导入需要一个限定符</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1585"/>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1597"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1588"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1600"/>
         <source>Module import requires a qualifier</source>
         <translation>模块导入需要一个限定符</translation>
     </message>
     <message>
-        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1603"/>
+        <location filename="libs/qmljs/parser/qmljslexer.cpp" line="1606"/>
         <source>Invalid import qualifier</source>
         <translation>无效的导入限定符</translation>
     </message>
@@ -57578,7 +57612,7 @@ Saving failed.</source>
     <message>
         <location filename="plugins/qnx/qnxconfiguration.cpp" line="315"/>
         <source>Kit for %1 (%2)</source>
-        <translation>%1（%2）的工具箱</translation>
+        <translation>%1（%2）的构建套件</translation>
     </message>
     <message>
         <location filename="plugins/qnx/qnxconfiguration.cpp" line="340"/>
@@ -57830,7 +57864,7 @@ Are you sure you want to continue?</source>
     <message>
         <location filename="plugins/qnx/qnxsettingswidget.ui" line="27"/>
         <source>Generate kits</source>
-        <translation>创建套件</translation>
+        <translation>创建构建套件</translation>
     </message>
     <message>
         <location filename="plugins/qnx/qnxsettingswidget.ui" line="40"/>
@@ -58146,7 +58180,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
 <context>
     <name>QtSupport</name>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="1016"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="1029"/>
         <source>Qt Versions</source>
         <translation>Qt版本</translation>
     </message>
@@ -58176,7 +58210,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/baseqtversion.cpp" line="542"/>
         <source>The kit has a Qt version, but no C++ compiler.</source>
-        <translation>该工具包有Qt版本，但没有c++编译器。</translation>
+        <translation>构建套件有Qt版本，但没有c++编译器。</translation>
     </message>
 </context>
 <context>
@@ -58365,7 +58399,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/qtoptionspage.cpp" line="425"/>
         <source>Qt version %1 for %2</source>
-        <translation>Qt版本‘%1’对应‘%2’</translation>
+        <translation>用于‘%2’的Qt版本‘%1’</translation>
     </message>
     <message>
         <location filename="plugins/qtsupport/qtoptionspage.cpp" line="450"/>
@@ -58431,60 +58465,60 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/qtoptionspage.cpp" line="822"/>
         <source>Linking with a Qt installation automatically registers Qt versions and kits.</source>
-        <translation>与Qt安装关联时，会自动注册Qt版本和工具包。</translation>
+        <translation>与Qt安装关联时，会自动注册Qt版本和构建套件。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="835"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="836"/>
         <source>%1&apos;s resource directory is not writable.</source>
         <translation>资源目录‘%1’不可写。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="842"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="844"/>
         <source>%1 is part of a Qt installation.</source>
         <translation>‘%1’是Qt安装的一部分。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="846"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="849"/>
         <source>%1 is currently linked to &quot;%2&quot;.</source>
         <translation>‘%1’当前关联到‘%2’。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="924"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="937"/>
         <source>&lt;html&gt;&lt;body&gt;Qt installation information was not found in &quot;%1&quot;. Choose a directory that contains one of the files &lt;pre&gt;%2&lt;/pre&gt;</source>
         <translation>&lt;html&gt;&lt;body&gt;‘%1’中找不到Qt安装信息。选择包含其中一个文件的目录 &lt;pre&gt;%2&lt;/pre&gt;</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="943"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="956"/>
         <source>Choose Qt Installation</source>
         <translation>选择Qt安装</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="944"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="957"/>
         <source>The change will take effect after restart.</source>
         <translation>更改将在重新启动后生效。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="953"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="966"/>
         <source>Qt installation path:</source>
         <translation>Qt安装路径：</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="955"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="968"/>
         <source>Choose the Qt installation directory, or a directory that contains &quot;%1&quot;.</source>
         <translation>选择Qt安装目录，或包含‘%1’的目录。</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="973"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="986"/>
         <source>Link with Qt</source>
         <translation>关联Qt</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="975"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="988"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="977"/>
+        <location filename="plugins/qtsupport/qtoptionspage.cpp" line="990"/>
         <source>Remove Link</source>
         <translation>删除关联</translation>
     </message>
@@ -58494,7 +58528,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <location filename="plugins/qtsupport/qtsupportplugin.cpp" line="131"/>
         <source>Link with a Qt installation to automatically register Qt versions and kits? To do this later, select Options &gt; Kits &gt; Qt Versions &gt; Link with Qt.</source>
-        <translation>与Qt安装关联时，以自动注册Qt版本和工具包？请选择选项 -&gt; 构建套件 -&gt; Qt版本 -&gt; 关联Qt。</translation>
+        <translation>与Qt安装关联时，以自动注册Qt版本和构建套件？请选择‘选项 &gt; 构建套件 &gt; Qt版本 &gt; 关联Qt’。</translation>
     </message>
     <message>
         <location filename="plugins/qtsupport/qtsupportplugin.cpp" line="135"/>
@@ -58878,7 +58912,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
 <context>
     <name>QtSupport::QtVersionFactory</name>
     <message>
-        <location filename="plugins/qtsupport/baseqtversion.cpp" line="2285"/>
+        <location filename="plugins/qtsupport/baseqtversion.cpp" line="2288"/>
         <source>No factory found for qmake: &quot;%1&quot;</source>
         <translation>找不到QMake的工厂：%1</translation>
     </message>
@@ -60059,7 +60093,7 @@ If you do not have a private key yet, you can also create one here.</source>
     <message>
         <location filename="plugins/remotelinux/remotelinuxenvironmentaspectwidget.cpp" line="76"/>
         <source>Cannot open remote terminal: Current kit has no device.</source>
-        <translation>无法打开远程终端：当前工具包没有设备。</translation>
+        <translation>无法打开远程终端：当前构建套件没有设备。</translation>
     </message>
     <message>
         <location filename="plugins/remotelinux/remotelinuxenvironmentaspectwidget.cpp" line="103"/>
@@ -62884,22 +62918,22 @@ Row: %4, Column: %5
         <translation type="vanished">更新定义</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="3127"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="3132"/>
         <source>A highlight definition was not found for this file. Would you like to download additional highlight definition files?</source>
         <translation>找不到此文件的高亮显示定义。是否要下载额外高亮显示定义文件？</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="3130"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="3135"/>
         <source>Download Definitions</source>
         <translation>下载定义</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="3139"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="3144"/>
         <source>More than one highlight definition was found for this file. Which one should be used to highlight this file?</source>
         <translation>有多个高亮显示定义。应该选用哪一个？</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="3146"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="3151"/>
         <source>Remember My Choice</source>
         <translation>记住选择</translation>
     </message>
@@ -65813,57 +65847,57 @@ Will not be applied to whitespace in comments and strings.</source>
 <context>
     <name>TextEditor::TextEditorWidget</name>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="172"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="173"/>
         <source>Line: 9999, Col: 999</source>
         <translation>行号：9999，列号：999</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="193"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="194"/>
         <source>Line: %1, Col: %2</source>
         <translation>行号：%1，列号：%2</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="872"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="873"/>
         <source>Other annotations</source>
         <translation>其他注释</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="1096"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="1097"/>
         <source>Print Document</source>
         <translation>打印文档</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="1322"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="1327"/>
         <source>File Error</source>
         <translation>文件错误</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="1359"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="1364"/>
         <source>The text is too large to be displayed (%1 MB).</source>
         <translation>文本过大，无法显示（%1MB)。</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="1388"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="1393"/>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding. Editing not possible.</source>
         <translation>&lt;b&gt;错误：&lt;/b&gt;无法使用“%2”编码来解码“%1”。无法编辑。</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="1390"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="1395"/>
         <source>Select Encoding</source>
         <translation>选择编码</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="6113"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="6118"/>
         <source>Zoom: %1%</source>
         <translation>缩放：%1%</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="7790"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="7795"/>
         <source>Delete UTF-8 BOM on Save</source>
         <translation>保存时删除UTF-8 BOM</translation>
     </message>
     <message>
-        <location filename="plugins/texteditor/texteditor.cpp" line="7791"/>
+        <location filename="plugins/texteditor/texteditor.cpp" line="7796"/>
         <source>Add UTF-8 BOM on Save</source>
         <translation>保存时添加UTF-8 BOM</translation>
     </message>
@@ -66630,23 +66664,23 @@ The trace data is lost.</source>
 <context>
     <name>Utils::DebuggerMainWindow</name>
     <message>
-        <location filename="plugins/debugger/debuggermainwindow.cpp" line="202"/>
+        <location filename="plugins/debugger/debuggermainwindow.cpp" line="200"/>
         <source>&amp;Views</source>
         <translation>视图(&amp;V)</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggermainwindow.cpp" line="206"/>
+        <location filename="plugins/debugger/debuggermainwindow.cpp" line="204"/>
         <source>Leave Debug Mode</source>
         <translation>退出调试模式</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggermainwindow.cpp" line="244"/>
+        <location filename="plugins/debugger/debuggermainwindow.cpp" line="242"/>
         <source>Toolbar</source>
         <translation>工具条</translation>
     </message>
     <message>
-        <location filename="plugins/debugger/debuggermainwindow.cpp" line="562"/>
-        <location filename="plugins/debugger/debuggermainwindow.cpp" line="732"/>
+        <location filename="plugins/debugger/debuggermainwindow.cpp" line="560"/>
+        <location filename="plugins/debugger/debuggermainwindow.cpp" line="730"/>
         <source>Editor</source>
         <translation>编辑器</translation>
     </message>
@@ -69590,7 +69624,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
         <source>Cannot %1%2.
 What do you want to do?</source>
         <comment>%2 is an optional error message with &apos;: &apos; prefix. Don&apos;t add space in front.</comment>
-        <translation>不能‘%1%2’。
+        <translation>‘%1%2’。
 你想做什么？</translation>
     </message>
     <message>
@@ -69641,7 +69675,7 @@ What do you want to do?</source>
     <message>
         <location filename="plugins/vcsbase/vcsbasesubmiteditor.cpp" line="678"/>
         <source>The check script returned exit code %1.</source>
-        <translation>检查脚本返回的退出代码 %1。</translation>
+        <translation>检查脚本返回的退出代码‘%1’。</translation>
     </message>
 </context>
 <context>
@@ -69871,7 +69905,7 @@ What do you want to do?</source>
     <message>
         <location filename="plugins/welcome/introductionwidget.cpp" line="123"/>
         <source>Kit Selector</source>
-        <translation>套件选择</translation>
+        <translation>构建套件选择</translation>
     </message>
     <message>
         <location filename="plugins/welcome/introductionwidget.cpp" line="124"/>
@@ -70307,7 +70341,7 @@ What do you want to do?</source>
     <message>
         <location filename="plugins/winrt/winrtrunnerhelper.cpp" line="61"/>
         <source>The current kit has no Qt version.</source>
-        <translation>当前工具没有Qt版本。</translation>
+        <translation>当前构建套件没有Qt版本。</translation>
     </message>
     <message>
         <location filename="plugins/winrt/winrtrunnerhelper.cpp" line="67"/>

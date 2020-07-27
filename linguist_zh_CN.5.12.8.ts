@@ -6,7 +6,7 @@
     <message>
         <location filename="linguist/mainwindow.cpp" line="1366"/>
         <source>Qt Linguist</source>
-        <translation>Qt 语言家</translation>
+        <translation>Qt语言家</translation>
     </message>
 </context>
 <context>
@@ -146,6 +146,7 @@ Will assume a single universal form.</source>
     <message>
         <location filename="linguist/messagemodel.cpp" line="401"/>
         <source>%1 (%2)</source>
+        <extracomment>&lt;language&gt; (&lt;country&gt;)</extracomment>
         <translation>%1（%2）</translation>
     </message>
     <message>
@@ -555,6 +556,111 @@ Return value:
     </message>
 </context>
 <context>
+    <name>LProDump</name>
+    <message>
+        <source>Usage:
+    lprodump [options] project-file...
+lprodump is part of Qt&apos;s Linguist tool chain. It extracts information
+from qmake projects to a .json file. This file can be passed to
+lupdate/lrelease using the -project option.
+
+Options:
+    -help  Display this information and exit.
+    -silent
+           Do not explain what is being done.
+    -pro &lt;filename&gt;
+           Name of a .pro file. Useful for files with .pro file syntax but
+           different file suffix. Projects are recursed into and merged.
+    -pro-out &lt;directory&gt;
+           Virtual output directory for processing subsequent .pro files.
+    -pro-debug
+           Trace processing .pro files. Specify twice for more verbosity.
+    -out &lt;filename&gt;
+           Name of the output file.
+    -version
+           Display the version of lprodump and exit.
+</source>
+        <translation type="vanished">用法：
+    lprodump [options] project-file...
+
+        lprodump是qt的语言家工具链的一部分。
+        它将提取qmake项目中的信息到一个.json文件中。
+        可以使用-project选项将该文件传递给lupdate/lrelease。
+
+选项：
+    -help                  显示此信息并退出。
+    -silent                不输出过程。
+    -pro&lt;filename&gt;         .pro文件。
+                           适用于.pro文件语法但文件后缀不同的文件。
+                           项目递归并合并。
+    -pro-out &lt;directory&gt;   处理后续.pro文件的虚拟输出目录。
+    -pro-debug             追踪处理.pro文件。详细说明两次。
+    -out &lt;filename&gt;        输出文件的名称。
+    -version               显示版本并退出。
+</translation>
+    </message>
+    <message>
+        <source>lprodump error: Cannot read %1: %2
+</source>
+        <translation type="vanished">lprodump 错误：无法读取‘%1’：%2
+</translation>
+    </message>
+    <message>
+        <source>lprodump error: %1:%2: %3
+</source>
+        <translation type="vanished">lprodump 错误：%1：%2：%3
+</translation>
+    </message>
+    <message>
+        <source>The option -out requires a parameter.
+</source>
+        <translation type="vanished">‘-out’选项需要一个参数。
+</translation>
+    </message>
+    <message>
+        <source>lprodump version %1
+</source>
+        <translation type="vanished">lprodump 版本 %1
+</translation>
+    </message>
+    <message>
+        <source>The -pro option should be followed by a filename of .pro file.
+</source>
+        <translation type="vanished">‘-pro’选项后面应该跟一个扩展名为.pro的文件。
+</translation>
+    </message>
+    <message>
+        <source>The -pro-out option should be followed by a directory name.
+</source>
+        <translation type="vanished">‘-pro-out’选项后面应该跟一个目录名。
+</translation>
+    </message>
+    <message>
+        <source>Unrecognized option &apos;%1&apos;.
+</source>
+        <translation type="vanished">未验证选项‘%1’。
+</translation>
+    </message>
+    <message>
+        <source>lprodump error: File &apos;%1&apos; does not exist.
+</source>
+        <translation type="vanished">lprodump 错误：文件‘%1’不存在。
+</translation>
+    </message>
+    <message>
+        <source>lprodump error: &apos;%1&apos; is neither a .pro nor a .pri file.
+</source>
+        <translation type="vanished">lprodump 错误：文件‘%1’格式错误。
+</translation>
+    </message>
+    <message>
+        <source>lprodump error: Cannot open %1 for writing.
+</source>
+        <translation type="vanished">lprodump 错误：无法写入‘%1’。
+</translation>
+    </message>
+</context>
+<context>
     <name>LRelease</name>
     <message numerus="yes">
         <location filename="shared/qm.cpp" line="695"/>
@@ -642,6 +748,64 @@ Options:
 </translation>
     </message>
     <message>
+        <source>Usage:
+    lrelease [options] -project project-file
+    lrelease [options] ts-files [-qm qm-file]
+
+lrelease is part of Qt&apos;s Linguist tool chain. It can be used as a
+stand-alone tool to convert XML-based translations files in the TS
+format into the &apos;compiled&apos; QM format used by QTranslator objects.
+
+Passing .pro files to lrelease is deprecated.
+Please use the lrelease-pro tool instead, or use qmake&apos;s lrelease.prf
+feature.
+
+Options:
+    -help  Display this information and exit
+    -idbased
+           Use IDs instead of source strings for message keying
+    -compress
+           Compress the QM files
+    -nounfinished
+           Do not include unfinished translations
+    -removeidentical
+           If the translated text is the same as
+           the source text, do not include the message
+    -markuntranslated &lt;prefix&gt;
+           If a message has no real translation, use the source text
+           prefixed with the given string instead
+    -project &lt;filename&gt;
+           Name of a file containing the project&apos;s description in JSON format.
+           Such a file may be generated from a .pro file using the lprodump tool.
+    -silent
+           Do not explain what is being done
+    -version
+           Display the version of lrelease and exit
+</source>
+        <translation type="vanished">用法：
+    lrelease [options] -project project-file
+    lrelease [options] ts-files [-qm qm-file]
+
+        lrelease是qt的语言家工具链的一部分。
+        它可以作为一个独立的工具，
+        将基于xml的TS格式的翻译文件转换为QTranslator对象使用的“已编译”QM格式。
+        将.pro文件传递给lrelease已弃用。
+        请改用lrelease-pro工具，或使用qmake的lrelease.prf功能。
+
+选项：
+    -help                         显示此信息并退出
+    -idbased                      使用ID而不是源字符串来做消息主键
+    -compress                     压缩qm文件
+    -nounfinished                 不包括未完成的翻译
+    -removeidentical              如果翻译的文本与源文本相同，则不包含此消息
+    -markuntranslated &lt;prefix&gt;    如果消息没有真正的翻译，则做死源文本上加给定的前缀
+    -project &lt;filename&gt;           包含JSON格式的项目描述的文件的名称。
+                                  这类文件可以使用lprodump工具从.pro文件生成。
+    -silent                       不输出过程
+    -version                      显示版本并退出
+</translation>
+    </message>
+    <message>
         <location filename="lrelease/main.cpp" line="119"/>
         <source>lrelease error: %1</source>
         <translation>lrelease 错误：%1</translation>
@@ -673,10 +837,34 @@ Options:
         <translation>lrelease 错误：无法保存‘%1’：%2</translation>
     </message>
     <message>
+        <source>The option -project requires a parameter.
+</source>
+        <translation type="vanished">‘-project’选项需要一个参数。
+</translation>
+    </message>
+    <message>
+        <source>The option -project must appear only once.
+</source>
+        <translation type="vanished">‘-project’选项只能出现一次。
+</translation>
+    </message>
+    <message>
         <location filename="lrelease/main.cpp" line="274"/>
         <source>lrelease version %1
 </source>
         <translation>lrelease 版本 %1
+</translation>
+    </message>
+    <message>
+        <source>lrelease error: Do not specify TS files if -project is given.
+</source>
+        <translation type="vanished">lrelease 错误：‘-project’选项不要指定ts文件。
+</translation>
+    </message>
+    <message>
+        <source>lrelease error: %1
+</source>
+        <translation type="vanished">lrelease错误：%1
 </translation>
     </message>
     <message>
@@ -693,193 +881,250 @@ Options:
         <translation>lrelease 警告：项目文件‘%1’中没有‘TRANSLATIONS’
 </translation>
     </message>
+    <message>
+        <source>Usage:
+    lrelease-pro [options] [project-file]...
+lrelease-pro is part of Qt&apos;s Linguist tool chain. It extracts project
+information from qmake projects and passes it to lrelease.
+All command line options that are not consumed by lrelease-pro are
+passed to lrelease.
+
+Options:
+    -help  Display this information and exit
+    -keep  Keep the temporary project dump around
+    -silent
+           Do not explain what is being done
+    -version
+           Display the version of lrelease-pro and exit
+</source>
+        <translation type="vanished">用法：
+    lrelease-pro [options] [project-file]...
+
+        lrelease-pro是qt的语言家工具链的一部分。
+        它将提取qmake项目中信息并将其传递给lrelease。
+        它将没有使用的所有命令行选项都传递给lrelease。
+
+选项：
+    -help      显示此信息并退出
+    -keep      保留临时项目转储文件
+    -silent    不输出过程
+    -version   显示版本并退出
+</translation>
+    </message>
+    <message>
+        <source>lrelease-pro version %1
+</source>
+        <translation type="vanished">lrelease-pro 版本 %1
+</translation>
+    </message>
+    <message>
+        <source>lrelease-pro: No .pro/.pri files given.
+</source>
+        <translation type="vanished">lrelease-pro：没有‘.pro/.pri’文件。
+</translation>
+    </message>
+    <message>
+        <source>lrelease-pro: Only .pro/.pri files are supported. Offending files:
+    %1
+</source>
+        <translation type="vanished">lrelease-pro：只支持‘.pro/.pri’文件。问题文件：
+    %1
+</translation>
+    </message>
 </context>
 <context>
     <name>LUpdate</name>
     <message>
-        <location filename="lupdate/cpp.cpp" line="601"/>
+        <location filename="lupdate/cpp.cpp" line="618"/>
         <source>Parenthesis/bracket/brace mismatch between #if and #else branches; using #if branch
 </source>
         <translation>#if和#else分支之间的括号不匹配；使用#if分支
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="624"/>
+        <location filename="lupdate/cpp.cpp" line="641"/>
         <source>Parenthesis/brace mismatch between #if and #else branches; using #if branch
 </source>
         <translation>#if和#else分支之间的括号不匹配；使用#if分支
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="651"/>
-        <location filename="lupdate/cpp.cpp" line="777"/>
+        <location filename="lupdate/cpp.cpp" line="668"/>
+        <location filename="lupdate/cpp.cpp" line="848"/>
         <source>Unterminated C++ comment
 </source>
         <translation>C++ 注释缺少结束符
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="811"/>
+        <location filename="lupdate/cpp.cpp" line="807"/>
+        <source>Unterminated/mismatched C++ Raw string
+</source>
+        <translation>C++ 字符串缺少结束符/不匹配
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/cpp.cpp" line="882"/>
         <source>Unterminated C++ string
 </source>
         <translation>C++ 字符串缺少结束符
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="848"/>
+        <location filename="lupdate/cpp.cpp" line="919"/>
         <source>Unterminated C++ character
 </source>
         <translation>C++ 字符缺少结束符
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="868"/>
+        <location filename="lupdate/cpp.cpp" line="939"/>
         <source>Excess closing brace in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中闭括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="886"/>
+        <location filename="lupdate/cpp.cpp" line="957"/>
         <source>Excess closing parenthesis in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中闭括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="901"/>
+        <location filename="lupdate/cpp.cpp" line="972"/>
         <source>Excess closing bracket in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中闭括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1333"/>
+        <location filename="lupdate/cpp.cpp" line="1404"/>
         <source>Cannot open %1: %2
 </source>
         <translation>无法打开‘%1’：%2
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1426"/>
+        <location filename="lupdate/cpp.cpp" line="1500"/>
         <source>Unsupported encoding Latin1
 </source>
         <translation>不支持的编码Latin1
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1545"/>
+        <location filename="lupdate/cpp.cpp" line="1568"/>
         <source>//% cannot be used with tr() / QT_TR_NOOP(). Ignoring
 </source>
         <translation>‘//%’中不能使用tr() / QT_TR_NOOP()。忽略
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1564"/>
+        <location filename="lupdate/cpp.cpp" line="1587"/>
         <source>Qualifying with unknown namespace/class %1::%2
 </source>
         <translation>未知类/命名空间限定为‘%1::%2’
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1573"/>
+        <location filename="lupdate/cpp.cpp" line="1596"/>
         <source>tr() cannot be called without context
 </source>
         <translation>tr()不能在没有上下文中调用
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1582"/>
-        <location filename="lupdate/cpp.cpp" line="1626"/>
+        <location filename="lupdate/cpp.cpp" line="1605"/>
+        <location filename="lupdate/cpp.cpp" line="1649"/>
         <source>Class &apos;%1&apos; lacks Q_OBJECT macro
 </source>
         <translation>类‘%1’缺少 Q_OBJECT 宏
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1610"/>
+        <location filename="lupdate/cpp.cpp" line="1633"/>
         <source>It is not recommended to call tr() from within a constructor &apos;%1::%2&apos;
 </source>
         <translation>不建议从构造函数‘%1::%2’中调用tr()
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1648"/>
+        <location filename="lupdate/cpp.cpp" line="1671"/>
         <source>//% cannot be used with translate() / QT_TRANSLATE_NOOP(). Ignoring
 </source>
         <translation>‘//%’中不能使用translate() / QT_TRANSLATE_NOOP()。忽略
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1701"/>
+        <location filename="lupdate/cpp.cpp" line="1724"/>
         <source>//= cannot be used with qtTrId() / QT_TRID_NOOP(). Ignoring
 </source>
         <translation>‘//=’中不能使用qtTrId() / QT_TRID_NOOP()。忽略
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="1870"/>
+        <location filename="lupdate/cpp.cpp" line="1893"/>
         <source>Ignoring definition of undeclared qualified class
 </source>
         <translation>忽略未声明的限定类的定义
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2060"/>
+        <location filename="lupdate/cpp.cpp" line="2083"/>
         <source>Cannot invoke tr() like this
 </source>
         <translation>不能这样调用tr()
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2103"/>
-        <location filename="lupdate/qdeclarative.cpp" line="307"/>
+        <location filename="lupdate/cpp.cpp" line="2126"/>
+        <location filename="lupdate/qdeclarative.cpp" line="318"/>
         <source>Discarding unconsumed meta data
 </source>
         <translation>丢弃剩余的元数据
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2172"/>
+        <location filename="lupdate/cpp.cpp" line="2201"/>
         <source>Unbalanced opening brace in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中开括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2176"/>
+        <location filename="lupdate/cpp.cpp" line="2205"/>
         <source>Unbalanced opening parenthesis in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中开括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2180"/>
+        <location filename="lupdate/cpp.cpp" line="2209"/>
         <source>Unbalanced opening bracket in C++ code (or abuse of the C++ preprocessor)
 </source>
         <translation>C++代码中开括号多余（或滥用C++预处理器）
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2216"/>
-        <location filename="lupdate/qdeclarative.cpp" line="365"/>
+        <location filename="lupdate/cpp.cpp" line="2245"/>
+        <location filename="lupdate/qdeclarative.cpp" line="376"/>
         <source>Unexpected character in meta string
 </source>
         <translation>元字符串中出现意外字符
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2222"/>
-        <location filename="lupdate/qdeclarative.cpp" line="371"/>
+        <location filename="lupdate/cpp.cpp" line="2251"/>
+        <location filename="lupdate/qdeclarative.cpp" line="382"/>
         <source>Unterminated meta string
 </source>
         <translation>元字符串缺少结束符
 </translation>
     </message>
     <message>
-        <location filename="lupdate/cpp.cpp" line="2312"/>
+        <location filename="lupdate/cpp.cpp" line="2341"/>
         <location filename="lupdate/java.cpp" line="591"/>
-        <location filename="lupdate/qdeclarative.cpp" line="454"/>
+        <location filename="lupdate/qdeclarative.cpp" line="465"/>
         <location filename="lupdate/ui.cpp" line="188"/>
         <source>Cannot open %1: %2</source>
         <translation>无法打开‘%1’：%2</translation>
@@ -948,7 +1193,6 @@ Options:
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="168"/>
         <source>Usage:
     lupdate [options] [project-file]...
     lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
@@ -1013,7 +1257,7 @@ Options:
            Read additional file names (one per line) or includepaths (one per
            line, and prefixed with -I) from lst-file.
 </source>
-        <translation>Usage:
+        <translation type="vanished">Usage:
     lupdate [options] [project-file]...
     lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
 
@@ -1079,274 +1323,539 @@ Options:
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="240"/>
+        <location filename="lupdate/main.cpp" line="291"/>
         <source>tr-function mapping &apos;%1&apos; in -tr-function-alias is missing the &apos;=&apos;.
 </source>
         <translation>-tr-function-alias的映射‘%1’缺少‘=’。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="249"/>
+        <location filename="lupdate/main.cpp" line="300"/>
         <source>Unknown tr-function &apos;%1&apos; in -tr-function-alias option.
 Available tr-functions are: %2</source>
         <translation>-tr-function-alias选项中未知tr-function‘%1’。
 可使用的函数是：%2</translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="255"/>
+        <location filename="lupdate/main.cpp" line="306"/>
         <source>Empty alias for tr-function &apos;%1&apos; in -tr-function-alias option.
 </source>
         <translation>-tr-function-alias选项中tr-function‘%1’的别名为空。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="273"/>
+        <location filename="lupdate/main.cpp" line="324"/>
         <source>lupdate warning: Message with id &apos;%1&apos; has no source.
 </source>
         <translation>lupdate 警告：ID为‘%1’的消息没有源。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="306"/>
+        <location filename="lupdate/main.cpp" line="357"/>
         <source>lupdate warning: Specified target language &apos;%1&apos; disagrees with existing file&apos;s language &apos;%2&apos;. Ignoring.
 </source>
         <translation>lupdate 警告：指定的目标语言‘%1’与现有文件的语言‘%2’不一致。忽略。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="310"/>
+        <location filename="lupdate/main.cpp" line="361"/>
         <source>lupdate warning: Specified source language &apos;%1&apos; disagrees with existing file&apos;s language &apos;%2&apos;. Ignoring.
 </source>
         <translation>lupdate 警告：指定的源语言‘%1’与现有文件的语言‘%2’不一致。忽略。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="329"/>
+        <location filename="lupdate/main.cpp" line="393"/>
         <source>Updating &apos;%1&apos;...
 </source>
         <translation>更新中‘%1’...
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="342"/>
+        <location filename="lupdate/main.cpp" line="406"/>
         <source>Stripping non plural forms in &apos;%1&apos;...
 </source>
         <translation>去掉‘%1’中的非复数格式...
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="411"/>
+        <location filename="lupdate/main.cpp" line="475"/>
         <source>lupdate error: Can not read %1: %2
 </source>
         <translation>lupdate 错误：无法读取‘%1’：%2
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="426"/>
+        <location filename="lupdate/main.cpp" line="490"/>
         <source>unexpected &lt;%1&gt; tag
 </source>
         <translation>意外标记&lt;%1&gt;
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="436"/>
+        <location filename="lupdate/main.cpp" line="500"/>
         <source>unexpected closing &lt;%1&gt; tag
 </source>
         <translation>意外关闭标记&lt;%1&gt;
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="458"/>
+        <source>Usage:
+    lupdate [options] [project-file]...
+    lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
+
+lupdate is part of Qt&apos;s Linguist tool chain. It extracts translatable
+messages from Qt UI files, C++, Java and JavaScript/QtScript source code.
+Extracted messages are stored in textual translation source files (typically
+Qt TS XML). New and modified messages can be merged into existing TS files.
+
+Passing .pro files to lupdate is deprecated.
+Please use the lupdate-pro tool instead.
+
+Options:
+    -help  Display this information and exit.
+    -no-obsolete
+           Drop all obsolete and vanished strings.
+    -extensions &lt;ext&gt;[,&lt;ext&gt;]...
+           Process files with the given extensions only.
+           The extension list must be separated with commas, not with whitespace.
+           Default: &apos;%1&apos;.
+    -pluralonly
+           Only include plural form messages.
+    -silent
+           Do not explain what is being done.
+    -no-sort
+           Do not sort contexts in TS files.
+    -no-recursive
+           Do not recursively scan directories.
+    -recursive
+           Recursively scan directories (default).
+    -I &lt;includepath&gt; or -I&lt;includepath&gt;
+           Additional location to look for include files.
+           May be specified multiple times.
+    -locations {absolute|relative|none}
+           Specify/override how source code references are saved in TS files.
+           Guessed from existing TS files if not specified.
+           Default is absolute for new files.
+    -no-ui-lines
+           Do not record line numbers in references to UI files.
+    -disable-heuristic {sametext|similartext|number}
+           Disable the named merge heuristic. Can be specified multiple times.
+    -project &lt;filename&gt;
+           Name of a file containing the project&apos;s description in JSON format.
+           Such a file may be generated from a .pro file using the lprodump tool.
+    -pro &lt;filename&gt;
+           Name of a .pro file. Useful for files with .pro file syntax but
+           different file suffix. Projects are recursed into and merged.
+           This option is deprecated. Use the lupdate-pro tool instead.
+    -pro-out &lt;directory&gt;
+           Virtual output directory for processing subsequent .pro files.
+    -pro-debug
+           Trace processing .pro files. Specify twice for more verbosity.
+    -source-language &lt;language&gt;[_&lt;region&gt;]
+           Specify the language of the source strings for new files.
+           Defaults to POSIX if not specified.
+    -target-language &lt;language&gt;[_&lt;region&gt;]
+           Specify the language of the translations for new files.
+           Guessed from the file name if not specified.
+    -tr-function-alias &lt;function&gt;{+=,=}&lt;alias&gt;[,&lt;function&gt;{+=,=}&lt;alias&gt;]...
+           With +=, recognize &lt;alias&gt; as an alternative spelling of &lt;function&gt;.
+           With  =, recognize &lt;alias&gt; as the only spelling of &lt;function&gt;.
+           Available &lt;function&gt;s (with their currently defined aliases) are:
+             %2
+    -ts &lt;ts-file&gt;...
+           Specify the output file(s). This will override the TRANSLATIONS.
+    -version
+           Display the version of lupdate and exit.
+    @lst-file
+           Read additional file names (one per line) or includepaths (one per
+           line, and prefixed with -I) from lst-file.
+</source>
+        <translation type="vanished">用法：
+    lupdate [options] [project-file]...
+    lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
+
+        lupdate是qt的语言家工具链的一部分。
+        它从QT-UI、C++、Java、JavaScript、QtScript源代码中提取可翻译的信息。
+        提取的信息存储在文本翻译源文件中（通常是Qt TS XML）。
+        新的和修改的消息可以合并到现有的TS文件中。
+        将.pro文件传递给lupdate已弃用。
+        请改用lupdate-pro工具。
+
+选项：
+    -help                                  显示此信息并退出。
+    -no-obsolete                           删除所有过时和消失的字符串。
+    -extensions &lt;ext&gt;[,&lt;ext&gt;]...           只处理具有给定扩展名的文件。
+                                           扩展列表必须用逗号分隔，而不是用空格分隔。
+                                           默认：‘%1’。
+    -pluralonly                            只包含复数形式的信息。
+    -silent                                不输出过程。
+    -no-sort                               不要对TS文件中的上下文进行排序。
+    -no-recursive                          不要递归扫描目录。
+    -recursive                             递归扫描目录（默认）。
+    -I &lt;includepath&gt; or -I&lt;includepath&gt;    查找包含文件的附加位置。
+                                           可以指定多次。
+    -locations {absolute|relative|none}    如何将源代码引用保存在TS文件中（指定或覆盖）。
+                                           如果没有指定，则从现有的TS文件猜测。
+                                                      新文件默认absolute。
+    -no-ui-lines                                      UI文件不记录行号。
+    -disable-heuristic {sametext|similartext|number} 
+                                           禁用启发式合并。
+                                           可以指定多次。
+    -project &lt;filename&gt;                    包含JSON格式的项目描述的文件的名称。
+                                           这类文件可以使用lprodump工具从.pro文件生成。
+    -pro &lt;filename&gt;                        pro文件的名称。
+                                           适用于pro文件语法但文件后缀不同的文件。
+                                           项目递归并合并。
+                                           此选项已弃用。
+                                           请改用lupdate-pro工具。
+    -pro-out &lt;directory&gt;                   处理后续.pro文件的虚拟输出目录。
+    -pro-debug                             追踪处理.pro文件。详细说明两次。
+    -source-language &lt;language&gt;[_&lt;region&gt;] 指定源语言。
+                                           如果没有指定，默认为POSIX。
+    -target-language &lt;language&gt;[_&lt;region&gt;] 指定翻译语言。
+                                           如果没有指定，则从文件名猜测。
+    -tr-function-alias &lt;function&gt;{+=,=}&lt;alias&gt;[,&lt;function&gt;{+=,=}&lt;alias&gt;]...
+                                           使用+=，将&lt;alias&gt;识别为&lt;function&gt;的另一种拼写。 
+                                           使用=， 将&lt;alias&gt;识别为&lt;function&gt;的唯一拼写。
+                                           可用的&lt;function&gt;（具有当前定义的别名）：
+                                           %2
+    -ts &lt;ts-file&gt;...                       指定输出文件。这将覆盖TRANSLATIONS。
+    -version                               显示版本并退出。
+    @lst-file                              从lst-file中读取其他文件名（每行一个）或包含路径（每行一个，前缀为-I）。
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/main.cpp" line="372"/>
+        <source>File %1 won&apos;t be updated: it contains translation but the target language is not recognized
+</source>
+        <translation>文件‘%1’无法更新：它包含无法识别的语言翻译
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/main.cpp" line="522"/>
         <source>lupdate error: %1:%2: %3
 </source>
         <translation>lupdate 错误：%1：%2：%3
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="615"/>
+        <location filename="lupdate/main.cpp" line="679"/>
         <source>lupdate warning: Some files have been ignored due to missing qml/javascript support
 </source>
         <translation>lupdate 警告：由于缺少qml/javascript支持，某些文件被忽略
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="645"/>
+        <location filename="lupdate/main.cpp" line="709"/>
         <source>lupdate warning: Codec for source &apos;%1&apos; is invalid. Falling back to UTF-8.
 </source>
         <translation>lupdate 警告：源‘%1’的编解码器无效。回退到 UTF-8。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="729"/>
+        <location filename="lupdate/main.cpp" line="793"/>
         <source>lupdate warning: TS files from command line will override TRANSLATIONS in %1.
 </source>
         <translation>lupdate 警告：命令行中的TS文件将覆盖‘%1’中的 TRANSLATIONS。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="733"/>
+        <location filename="lupdate/main.cpp" line="797"/>
         <source>lupdate warning: TS files from command line prevent recursing into %1.
 </source>
         <translation>lupdate 警告：来自命令行的TS文件阻止递归到‘%1’。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="761"/>
+        <location filename="lupdate/main.cpp" line="825"/>
         <source>lupdate warning: no TS files specified. Only diagnostics will be produced for &apos;%1&apos;.
 </source>
         <translation>lupdate 警告：未指定TS文件。只为‘%1’生成诊断。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="845"/>
+        <source>The option -project requires a parameter.
+</source>
+        <translation type="vanished">‘-project’选项需要一个参数。
+</translation>
+    </message>
+    <message>
+        <source>The option -project must appear only once.
+</source>
+        <translation type="vanished">‘-project’选项只能出现一次。
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/main.cpp" line="219"/>
+        <source>Usage:
+    lupdate [options] [project-file]...
+    lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
+
+lupdate is part of Qt&apos;s Linguist tool chain. It extracts translatable
+messages from Qt UI files, C++, Java and JavaScript/QtScript source code.
+Extracted messages are stored in textual translation source files (typically
+Qt TS XML). New and modified messages can be merged into existing TS files.
+
+Options:
+    -help  Display this information and exit.
+    -no-obsolete
+           Drop all obsolete and vanished strings.
+    -extensions &lt;ext&gt;[,&lt;ext&gt;]...
+           Process files with the given extensions only.
+           The extension list must be separated with commas, not with whitespace.
+           Default: &apos;%1&apos;.
+    -pluralonly
+           Only include plural form messages.
+    -silent
+           Do not explain what is being done.
+    -no-sort
+           Do not sort contexts in TS files.
+    -no-recursive
+           Do not recursively scan directories.
+    -recursive
+           Recursively scan directories (default).
+    -I &lt;includepath&gt; or -I&lt;includepath&gt;
+           Additional location to look for include files.
+           May be specified multiple times.
+    -locations {absolute|relative|none}
+           Specify/override how source code references are saved in TS files.
+           Guessed from existing TS files if not specified.
+           Default is absolute for new files.
+    -no-ui-lines
+           Do not record line numbers in references to UI files.
+    -disable-heuristic {sametext|similartext|number}
+           Disable the named merge heuristic. Can be specified multiple times.
+    -pro &lt;filename&gt;
+           Name of a .pro file. Useful for files with .pro file syntax but
+           different file suffix. Projects are recursed into and merged.
+    -pro-out &lt;directory&gt;
+           Virtual output directory for processing subsequent .pro files.
+    -pro-debug
+           Trace processing .pro files. Specify twice for more verbosity.
+    -source-language &lt;language&gt;[_&lt;region&gt;]
+           Specify the language of the source strings for new files.
+           Defaults to POSIX if not specified.
+    -target-language &lt;language&gt;[_&lt;region&gt;]
+           Specify the language of the translations for new files.
+           Guessed from the file name if not specified.
+    -tr-function-alias &lt;function&gt;{+=,=}&lt;alias&gt;[,&lt;function&gt;{+=,=}&lt;alias&gt;]...
+           With +=, recognize &lt;alias&gt; as an alternative spelling of &lt;function&gt;.
+           With  =, recognize &lt;alias&gt; as the only spelling of &lt;function&gt;.
+           Available &lt;function&gt;s (with their currently defined aliases) are:
+             %2
+    -ts &lt;ts-file&gt;...
+           Specify the output file(s). This will override the TRANSLATIONS.
+    -version
+           Display the version of lupdate and exit.
+    @lst-file
+           Read additional file names (one per line) or includepaths (one per
+           line, and prefixed with -I) from lst-file.
+</source>
+        <translation>用法：
+    lupdate [options] [project-file]...
+    lupdate [options] [source-file|path|@lst-file]... -ts ts-files|@lst-file
+
+        lupdate是qt的语言家工具链的一部分。
+        它从QT-UI、C++、Java、JavaScript、QtScript源代码中提取可翻译的信息。
+        提取的信息存储在文本翻译源文件中（通常是Qt TS XML）。
+        新的和修改的消息可以合并到现有的TS文件中。
+
+选项：
+    -help                                  显示此信息并退出。
+    -no-obsolete                           删除所有过时和消失的字符串。
+    -extensions &lt;ext&gt;[,&lt;ext&gt;]...           只处理具有给定扩展名的文件。
+                                           扩展列表必须用逗号分隔，而不是用空格分隔。
+                                           默认：‘%1’。
+    -pluralonly                            只包含复数形式的信息。
+    -silent                                不输出过程。
+    -no-sort                               不要对TS文件中的上下文进行排序。
+    -no-recursive                          不要递归扫描目录。
+    -recursive                             递归扫描目录（默认）。
+    -I &lt;includepath&gt; or -I&lt;includepath&gt;    查找包含文件的附加位置。
+                                           可以指定多次。
+    -locations {absolute|relative|none}    如何将源代码引用保存在TS文件中（指定或覆盖）。
+                                           如果没有指定，则从现有的TS文件猜测。
+                                                      新文件默认absolute。
+    -no-ui-lines                                      UI文件不记录行号。
+    -disable-heuristic {sametext|similartext|number} 
+                                           禁用启发式合并。
+                                           可以指定多次。
+    -pro &lt;filename&gt;                        pro文件的名称。
+                                           适用于pro文件语法但文件后缀不同的文件。
+                                           项目递归并合并。
+    -pro-out &lt;directory&gt;                   处理后续.pro文件的虚拟输出目录。
+    -pro-debug                             追踪处理.pro文件。详细说明两次。
+    -source-language &lt;language&gt;[_&lt;region&gt;] 指定源语言。
+                                           如果没有指定，默认为POSIX。
+    -target-language &lt;language&gt;[_&lt;region&gt;] 指定翻译语言。
+                                           如果没有指定，则从文件名猜测。
+    -tr-function-alias &lt;function&gt;{+=,=}&lt;alias&gt;[,&lt;function&gt;{+=,=}&lt;alias&gt;]...
+                                           使用+=，将&lt;alias&gt;识别为&lt;function&gt;的另一种拼写。 
+                                           使用=， 将&lt;alias&gt;识别为&lt;function&gt;的唯一拼写。
+                                           可用的&lt;function&gt;（具有当前定义的别名）：
+                                           %2
+    -ts &lt;ts-file&gt;...                       指定输出文件。这将覆盖TRANSLATIONS。
+    -version                               显示版本并退出。
+    @lst-file                              从lst-file中读取其他文件名（每行一个）或包含路径（每行一个，前缀为-I）。
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/main.cpp" line="909"/>
         <source>The option -target-language requires a parameter.
 </source>
         <translation>‘-target-language’选项需要一个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="853"/>
+        <location filename="lupdate/main.cpp" line="917"/>
         <source>The option -source-language requires a parameter.
 </source>
         <translation>‘-source-language’选项需要一个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="861"/>
+        <location filename="lupdate/main.cpp" line="925"/>
         <source>The option -disable-heuristic requires a parameter.
 </source>
         <translation>‘-disable heuristic’选项需要一个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="872"/>
+        <location filename="lupdate/main.cpp" line="936"/>
         <source>Invalid heuristic name passed to -disable-heuristic.
 </source>
         <translation>传递给‘-disable-heuristic’的启发式名称无效。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="879"/>
+        <location filename="lupdate/main.cpp" line="943"/>
         <source>The option -locations requires a parameter.
 </source>
         <translation>‘-locations’选项需要一个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="889"/>
+        <location filename="lupdate/main.cpp" line="953"/>
         <source>Invalid parameter passed to -locations.
 </source>
         <translation>传递给‘-locations’的参数无效。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="910"/>
+        <location filename="lupdate/main.cpp" line="974"/>
         <source>lupdate version %1
 </source>
         <translation>lupdate 版本 %1
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="923"/>
+        <location filename="lupdate/main.cpp" line="987"/>
         <source>The -extensions option should be followed by an extension list.
 </source>
         <translation>‘-extensions’选项后面应该跟一个扩展列表。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="931"/>
+        <location filename="lupdate/main.cpp" line="995"/>
         <source>The -tr-function-alias option should be followed by a list of function=alias mappings.
 </source>
         <translation>‘--tr-function-alias’选项后面应该跟一个function=alias映射列表。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="940"/>
+        <location filename="lupdate/main.cpp" line="1004"/>
         <source>The -pro option should be followed by a filename of .pro file.
 </source>
         <translation>‘-pro’选项后面应该跟一个扩展名为.pro的文件。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="951"/>
+        <location filename="lupdate/main.cpp" line="1015"/>
         <source>The -pro-out option should be followed by a directory name.
 </source>
         <translation>‘-pro-out’选项后面应该跟一个目录名。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="960"/>
-        <location filename="lupdate/main.cpp" line="986"/>
+        <location filename="lupdate/main.cpp" line="1024"/>
+        <location filename="lupdate/main.cpp" line="1050"/>
         <source>The -I option should be followed by a path.
 </source>
         <translation>‘-I’选项后面应该跟一个路径。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="969"/>
+        <location filename="lupdate/main.cpp" line="1033"/>
         <source>Unrecognized option &apos;%1&apos;.
 </source>
         <translation>未验证选项‘%1’。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="977"/>
+        <location filename="lupdate/main.cpp" line="1041"/>
         <source>lupdate error: List file &apos;%1&apos; is not readable.
 </source>
         <translation>lupdate 错误：列表文件‘%1’不可读。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1006"/>
+        <location filename="lupdate/main.cpp" line="1070"/>
         <source>lupdate warning: For some reason, &apos;%1&apos; is not writable.
 </source>
         <translation>lupdate 警告：出于某种原因，‘%1’不可写。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1014"/>
+        <location filename="lupdate/main.cpp" line="1078"/>
         <source>lupdate error: File &apos;%1&apos; has no recognized extension.
 </source>
         <translation>lupdate 错误：文件‘%1’没有可识别的扩展名。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1026"/>
+        <location filename="lupdate/main.cpp" line="1090"/>
         <source>lupdate error: File &apos;%1&apos; does not exist.
 </source>
         <translation>lupdate 错误：文件‘%1’不存在。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1036"/>
+        <location filename="lupdate/main.cpp" line="1100"/>
         <source>Scanning directory &apos;%1&apos;...
 </source>
         <translation>查询目录‘%1’...
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1095"/>
+        <location filename="lupdate/main.cpp" line="1159"/>
         <source>lupdate warning: -target-language usually only makes sense with exactly one TS file.
 </source>
         <translation>lupdate 警告：‘-target-language’通常只对一个TS文件有用。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1101"/>
+        <source>lupdate error: Could not find project descriptions in %1.
+</source>
+        <translation type="vanished">lupdate 错误：在‘%1’中找不到项目描述。
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/main.cpp" line="1165"/>
         <source>lupdate warning: no TS files specified. Only diagnostics will be produced.
 </source>
         <translation>lupdate 警告：未指定TS文件。只生成诊断。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/main.cpp" line="1121"/>
+        <location filename="lupdate/main.cpp" line="1185"/>
         <source>lupdate error: Both project and source files / include paths specified.
 </source>
         <translation>lupdate 错误：同时指定项目和源文件/包含路径。
 </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="529"/>
+        <location filename="lupdate/merge.cpp" line="533"/>
         <source>    Found %n source text(s) (%1 new and %2 already existing)
 </source>
         <translation>
@@ -1355,7 +1864,7 @@ Available tr-functions are: %2</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="533"/>
+        <location filename="lupdate/merge.cpp" line="537"/>
         <source>    Removed %n obsolete entries
 </source>
         <translation>
@@ -1364,7 +1873,7 @@ Available tr-functions are: %2</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="535"/>
+        <location filename="lupdate/merge.cpp" line="539"/>
         <source>    Kept %n obsolete entries
 </source>
         <translation>
@@ -1373,7 +1882,7 @@ Available tr-functions are: %2</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="540"/>
+        <location filename="lupdate/merge.cpp" line="544"/>
         <source>    Number heuristic provided %n translation(s)
 </source>
         <translation>
@@ -1382,7 +1891,7 @@ Available tr-functions are: %2</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="543"/>
+        <location filename="lupdate/merge.cpp" line="547"/>
         <source>    Same-text heuristic provided %n translation(s)
 </source>
         <translation>
@@ -1391,7 +1900,7 @@ Available tr-functions are: %2</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="lupdate/merge.cpp" line="546"/>
+        <location filename="lupdate/merge.cpp" line="550"/>
         <source>    Similar-text heuristic provided %n translation(s)
 </source>
         <translation>
@@ -1401,33 +1910,45 @@ Available tr-functions are: %2</source>
     </message>
     <message>
         <location filename="lupdate/qdeclarative.cpp" line="112"/>
-        <location filename="lupdate/qdeclarative.cpp" line="187"/>
+        <location filename="lupdate/qdeclarative.cpp" line="191"/>
         <source>%1() requires at least one argument.
 </source>
         <translation>%1() 至少需要一个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/qdeclarative.cpp" line="131"/>
-        <location filename="lupdate/qdeclarative.cpp" line="161"/>
+        <location filename="lupdate/qdeclarative.cpp" line="116"/>
+        <source>%1() cannot be used with template literals. Ignoring
+</source>
+        <translation>%1()不能与模板文本一起使用。忽略
+</translation>
+    </message>
+    <message>
+        <location filename="lupdate/qdeclarative.cpp" line="135"/>
+        <location filename="lupdate/qdeclarative.cpp" line="165"/>
         <source>//% cannot be used with %1(). Ignoring
 </source>
         <translation>‘//%’中不能使用%1()。忽略
 </translation>
     </message>
     <message>
-        <location filename="lupdate/qdeclarative.cpp" line="146"/>
+        <location filename="lupdate/qdeclarative.cpp" line="150"/>
         <source>%1() requires at least two arguments.
 </source>
         <translation>%1() 至少需要两个参数。
 </translation>
     </message>
     <message>
-        <location filename="lupdate/qdeclarative.cpp" line="196"/>
+        <location filename="lupdate/qdeclarative.cpp" line="200"/>
         <source>//= cannot be used with %1(). Ignoring
 </source>
         <translation>‘//=’中不能使用%1()。忽略
 </translation>
+    </message>
+    <message>
+        <location filename="lupdate/qdeclarative.cpp" line="231"/>
+        <source>Maximum statement or expression depth exceeded</source>
+        <translation>超过最大语句或表达式深度</translation>
     </message>
     <message>
         <location filename="lupdate/ui.cpp" line="142"/>
@@ -1438,6 +1959,58 @@ Available tr-functions are: %2</source>
         <location filename="lupdate/ui.cpp" line="202"/>
         <source>Parse error in UI file</source>
         <translation>UI文件中的解析错误</translation>
+    </message>
+    <message>
+        <source>Usage:
+    lupdate-pro [options] [project-file]... [-ts ts-files...]
+lupdate-pro is part of Qt&apos;s Linguist tool chain. It extracts project
+information from qmake projects and passes it to lupdate.
+All command line options that are not consumed by lupdate-pro are
+passed to lupdate.
+
+Options:
+    -help  Display this information and exit.
+    -silent
+           Do not explain what is being done.
+    -pro &lt;filename&gt;
+           Name of a .pro file. Useful for files with .pro file syntax but
+           different file suffix. Projects are recursed into and merged.
+    -pro-out &lt;directory&gt;
+           Virtual output directory for processing subsequent .pro files.
+    -pro-debug
+           Trace processing .pro files. Specify twice for more verbosity.
+    -version
+           Display the version of lupdate-pro and exit.
+</source>
+        <translation type="vanished">用法：
+    lupdate-pro [options] [project-file]... [-ts ts-files...]
+
+        lupdate-pro是qt的语言家工具链的一部分。
+        它将提取qmake项目中信息并将其传递给lupdate
+        它将没有使用的所有命令行选项都传递给lupdate。
+
+选项：
+    -help                  显示此信息并退出。
+    -silent                不输出过程。
+    -pro &lt;filename&gt;        pro文件的名称。
+                           适用于pro文件语法但文件后缀不同的文件。
+                           项目递归并合并。
+    -pro-out &lt;directory&gt;   处理后续.pro文件的虚拟输出目录。
+    -pro-debug             追踪处理.pro文件。详细说明两次。
+    -version               显示版本并退出。
+</translation>
+    </message>
+    <message>
+        <source>lupdate-pro version %1
+</source>
+        <translation type="vanished">lupdate-pro 版本 %1
+</translation>
+    </message>
+    <message>
+        <source>lupdate-pro: No .pro/.pri files given.
+</source>
+        <translation type="vanished">lupdate-pro：没有‘.pro/.pri’文件。
+</translation>
     </message>
 </context>
 <context>
@@ -1465,6 +2038,56 @@ Available tr-functions are: %2</source>
     <message>
         <source>XLIFF localization files</source>
         <translation type="vanished">XLIFF 本地化文件</translation>
+    </message>
+    <message>
+        <source>unexpected &lt;%1&gt; tag
+</source>
+        <translation type="vanished">意外标记&lt;%1&gt;
+</translation>
+    </message>
+    <message>
+        <source>unexpected closing &lt;%1&gt; tag
+</source>
+        <translation type="vanished">意外关闭标记&lt;%1&gt;
+</translation>
+    </message>
+    <message>
+        <source>Missing keys in project description: %1.</source>
+        <translation type="vanished">项目描述中缺少关键字：%1。</translation>
+    </message>
+    <message>
+        <source>Unexpected keys in project %1: %2</source>
+        <translation type="vanished">项目中的意外关键字‘%1’：%2</translation>
+    </message>
+    <message>
+        <source>JSON object expected.</source>
+        <translation type="vanished">不是JSON对象。</translation>
+    </message>
+    <message>
+        <source>Cannot open project description file &apos;%1&apos;.
+</source>
+        <translation type="vanished">无法打开项目描述文件‘%1’。
+</translation>
+    </message>
+    <message>
+        <source>%1 in %2 at offset %3.
+</source>
+        <translation type="vanished">‘%1’发生在‘%2’中偏移‘%3’。
+</translation>
+    </message>
+    <message>
+        <source>Key %1 should be %2 but is %3.</source>
+        <translation type="vanished">键‘%1’应该是‘%2’而不是‘%3’。</translation>
+    </message>
+    <message>
+        <source>Unexpected type %1 in string array in key %2.</source>
+        <translation type="vanished">键‘%2’的字符串数组中出现意外的类型‘%1’。</translation>
+    </message>
+    <message>
+        <source>Cannot create temporary file: %1
+</source>
+        <translation type="vanished">无法创建临时文件：%1
+</translation>
     </message>
 </context>
 <context>
@@ -2501,7 +3124,7 @@ All files (*)</source>
         <location filename="linguist/mainwindow.cpp" line="2319"/>
         <location filename="linguist/mainwindow.cpp" line="2329"/>
         <source>Qt Linguist</source>
-        <translation>Qt 语言家</translation>
+        <translation>Qt语言家</translation>
     </message>
     <message>
         <location filename="linguist/mainwindow.cpp" line="1063"/>
@@ -2601,8 +3224,20 @@ All files (*)</source>
     </message>
     <message>
         <location filename="linguist/mainwindow.cpp" line="1360"/>
+        <source>&lt;center&gt;&lt;img src=&quot;:/images/icons/linguist-128-32.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt Linguist is a tool for adding translations to Qt applications.&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</source>
+        <translation>&lt;center&gt;&lt;img src=&quot;:/images/icons/linguist-128-32.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt语言学家是一个为Qt应用程序添加翻译的工具。&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
+    </message>
+    <message>
+        <source>Qt Linguist is a tool for adding translations to Qt applications.</source>
+        <translation type="vanished">Qt语言家是一个用于为Qt应用程序添加翻译的工具。</translation>
+    </message>
+    <message>
+        <source>Copyright (C) %1 The Qt Company Ltd.</source>
+        <translation type="vanished">Copyright (C) %1 The Qt Company Ltd.</translation>
+    </message>
+    <message>
         <source>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt Linguist is a tool for adding translations to Qt applications.&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</source>
-        <translation>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt 语言家是一个用于为 Qt 应用程序添加翻译的工具。&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
+        <translation type="vanished">&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt 语言家是一个用于为 Qt 应用程序添加翻译的工具。&lt;/p&gt;&lt;p&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
     </message>
     <message>
         <source>&lt;center&gt;&lt;img src=&quot;:/images/splash.png&quot;/&gt;&lt;/img&gt;&lt;p&gt;%1&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Qt Linguist is a tool for adding translations to Qt applications.&lt;/p&gt;&lt;p&gt;Copyright (C) %2 Digia Plc and/or its subsidiary(-ies).</source>
@@ -2963,7 +3598,7 @@ Line: %2</source>
     <message>
         <location filename="linguist/phrasebookbox.ui" line="95"/>
         <source>&amp;Definition:</source>
-        <translation>准确度(&amp;D)：</translation>
+        <translation>定义(&amp;D)：</translation>
     </message>
     <message>
         <location filename="linguist/phrasebookbox.ui" line="130"/>
@@ -3029,7 +3664,7 @@ Line: %2</source>
     <message>
         <location filename="linguist/phrasebookbox.cpp" line="146"/>
         <source>Qt Linguist</source>
-        <translation>Qt 语言家</translation>
+        <translation>Qt语言家</translation>
     </message>
     <message>
         <location filename="linguist/phrasebookbox.cpp" line="147"/>
@@ -3052,7 +3687,7 @@ Line: %2</source>
     <message>
         <location filename="linguist/phrasemodel.cpp" line="109"/>
         <source>Definition</source>
-        <translation>准确度</translation>
+        <translation>定义</translation>
     </message>
 </context>
 <context>
@@ -3113,7 +3748,7 @@ Line: %2</source>
         <location filename="linguist/messagemodel.cpp" line="365"/>
         <location filename="linguist/phrase.cpp" line="181"/>
         <source>Qt Linguist</source>
-        <translation>Qt 语言家</translation>
+        <translation>Qt语言家</translation>
     </message>
 </context>
 <context>

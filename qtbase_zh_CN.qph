@@ -1778,4 +1778,344 @@ Do you want to replace it?</source>
     <source>Home</source>
     <target>主页</target>
 </phrase>
+<phrase>
+    <source>Android</source>
+    <target>Android</target>
+</phrase>
+<phrase>
+    <source>off</source>
+    <target>关</target>
+</phrase>
+<phrase>
+    <source>Prefix</source>
+    <target>前缀</target>
+</phrase>
+<phrase>
+    <source>Built-in</source>
+    <target>内置</target>
+</phrase>
+<phrase>
+    <source>URL Template</source>
+    <target>URL模板</target>
+</phrase>
+<phrase>
+    <source>Key sequence:</source>
+    <target>按键序列：</target>
+</phrase>
+<phrase>
+    <source>URLs:</source>
+    <target>URLs:</target>
+</phrase>
+<phrase>
+    <source>Later</source>
+    <target>稍后</target>
+</phrase>
+<phrase>
+    <source>Restart Now</source>
+    <target>立即重启</target>
+</phrase>
+<phrase>
+    <source>Debug server provider:</source>
+    <target>调试服务器：</target>
+</phrase>
+<phrase>
+    <source>Not recognized</source>
+    <target>无法识别</target>
+</phrase>
+<phrase>
+    <source>GDB</source>
+    <target>GDB</target>
+</phrase>
+<phrase>
+    <source>UVSC</source>
+    <target>UVSC</target>
+</phrase>
+<phrase>
+    <source>Duplicate Providers Detected</source>
+    <target>检测到重复的供应商</target>
+</phrase>
+<phrase>
+    <source>Debug Server Providers</source>
+    <target>调试服务器</target>
+</phrase>
+<phrase>
+    <source>Bare Metal</source>
+    <target>Bare Metal</target>
+</phrase>
+<phrase>
+    <source>Host:</source>
+    <target>主机：</target>
+</phrase>
+<phrase>
+    <source>Executable file:</source>
+    <target>程序文件：</target>
+</phrase>
+<phrase>
+    <source>Script file:</source>
+    <target>脚本文件：</target>
+</phrase>
+<phrase>
+    <source>Verbosity level:</source>
+    <target>详细级别：</target>
+</phrase>
+<phrase>
+    <source>Connect under reset:</source>
+    <target>重置连接：</target>
+</phrase>
+<phrase>
+    <source>Speed:</source>
+    <target>速率：</target>
+</phrase>
+<phrase>
+    <source>Init commands:</source>
+    <target>初始化命令：</target>
+</phrase>
+<phrase>
+    <source>Reset commands:</source>
+    <target>重置命令：</target>
+</phrase>
+<phrase>
+    <source>SWD</source>
+    <target>SWD</target>
+</phrase>
+<phrase>
+    <source>JTAG</source>
+    <target>JTAG</target>
+</phrase>
+<phrase>
+    <source>EBlink</source>
+    <target>EBlink</target>
+</phrase>
+<phrase>
+    <source>JLink</source>
+    <target>JLink</target>
+</phrase>
+<phrase>
+    <source>OpenOCD</source>
+    <target>OpenOCD</target>
+</phrase>
+<phrase>
+    <source>ST-LINK Utility</source>
+    <target>ST-LINK程序</target>
+</phrase>
+<phrase>
+    <source>IP Address</source>
+    <target>IP地址</target>
+</phrase>
+<phrase>
+    <source>Host interface:</source>
+    <target>主机接口：</target>
+</phrase>
+<phrase>
+    <source>Speed</source>
+    <target>速率</target>
+</phrase>
+<phrase>
+    <source>kHz</source>
+    <target>kHz</target>
+</phrase>
+<phrase>
+    <source>Target interface:</source>
+    <target>目标接口：</target>
+</phrase>
+<phrase>
+    <source>Additional arguments:</source>
+    <target>其他参数：</target>
+</phrase>
+<phrase>
+    <source>Adapter options:</source>
+    <target>适配器选项：</target>
+</phrase>
+<phrase>
+    <source>Algorithm path.</source>
+    <target>算法路径。</target>
+</phrase>
+<phrase>
+    <source>Size.</source>
+    <target>大小。</target>
+</phrase>
+<phrase>
+    <source>Available Target Devices</source>
+    <target>可用目标设备</target>
+</phrase>
+<phrase>
+    <source>ID</source>
+    <target>ID</target>
+</phrase>
+<phrase>
+    <source>Memory:</source>
+    <target>内存：</target>
+</phrase>
+<phrase>
+    <source>Flash algorithm</source>
+    <target>Flash算法</target>
+</phrase>
+<phrase>
+    <source>Target driver:</source>
+    <target>目标驱动：</target>
+</phrase>
+<phrase>
+    <source>New Category</source>
+    <target>新分类</target>
+</phrase>
+<phrase>
+    <source>No changes to apply.</source>
+    <target>没有要应用的更改。</target>
+</phrase>
+<phrase>
+    <source>Code Model</source>
+    <target>代码模型</target>
+</phrase>
+<phrase>
+    <source>Cppcheck...</source>
+    <target>Cppcheck...</target>
+</phrase>
+<phrase>
+    <source>Diagnostic</source>
+    <target>诊断</target>
+</phrase>
+<phrase>
+    <source>Cppcheck Run Configuration</source>
+    <target>Cppcheck运行配置</target>
+</phrase>
+<phrase>
+    <source>Analyze</source>
+    <target>分析</target>
+</phrase>
+<phrase>
+    <source>Percentage</source>
+    <target>百分比</target>
+</phrase>
+<phrase>
+    <source>Min</source>
+    <target>最小</target>
+</phrase>
+<phrase>
+    <source>Max</source>
+    <target>最大</target>
+</phrase>
+<phrase>
+    <source>Thread %1</source>
+    <target>线程‘%1’</target>
+</phrase>
+<phrase>
+    <source>Restrict to Threads</source>
+    <target>限制线程</target>
+</phrase>
+<phrase>
+    <source>&amp;Edit</source>
+    <target>编辑(&amp;E)</target>
+</phrase>
+<phrase>
+    <source>CVS Checkout</source>
+    <target>CVS检出</target>
+</phrase>
+<phrase>
+    <source>CVS</source>
+    <target>CVS</target>
+</phrase>
+<phrase>
+    <source>CDB</source>
+    <target>CDB</target>
+</phrase>
+<phrase>
+    <source>Additional &amp;arguments:</source>
+    <target>其他参数(&amp;A)：</target>
+</phrase>
+<phrase>
+    <source>CDB Paths</source>
+    <target>CDB路径</target>
+</phrase>
+<phrase>
+    <source>Note: </source>
+    <target>便签：</target>
+</phrase>
+<phrase>
+    <source>Use tooltips in main editor while debugging</source>
+    <target>调试时在主编辑器中使用工具提示</target>
+</phrase>
+<phrase>
+    <source>GDB Extended</source>
+    <target>GDB扩展</target>
+</phrase>
+<phrase>
+    <source>Show QML object tree</source>
+    <target>显示QML对象树</target>
+</phrase>
+<phrase>
+    <source>&lt;unlimited&gt;</source>
+    <target>&lt;无限制&gt;</target>
+</phrase>
+<phrase>
+    <source>Note:</source>
+    <target>注释：</target>
+</phrase>
+<phrase>
+    <source>&amp;Host:</source>
+    <target>主机(&amp;H)：</target>
+</phrase>
+<phrase>
+    <source>Connection is not open</source>
+    <target>连接未打开</target>
+</phrase>
+<phrase>
+    <source>Start Frame</source>
+    <target>开始帧</target>
+</phrase>
+<phrase>
+    <source>End Frame</source>
+    <target>结束帧</target>
+</phrase>
+<phrase>
+    <source>&amp;Class name:</source>
+    <target>类名(&amp;C)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Base class:</source>
+    <target>基类(&amp;B)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Type information:</source>
+    <target>类型信息(&amp;T)：</target>
+</phrase>
+<phrase>
+    <source>Inherits QObject</source>
+    <target>继承QObject</target>
+</phrase>
+<phrase>
+    <source>Inherits QWidget</source>
+    <target>继承QWidget</target>
+</phrase>
+<phrase>
+    <source>Inherits QDeclarativeItem - Qt Quick 1</source>
+    <target>继承QDeclarativeItem - Qt Quick 1</target>
+</phrase>
+<phrase>
+    <source>Inherits QQuickItem - Qt Quick 2</source>
+    <target>继承QQuickItem - QtQuick 2</target>
+</phrase>
+<phrase>
+    <source>Based on QSharedData</source>
+    <target>基于QSharedData</target>
+</phrase>
+<phrase>
+    <source>&amp;Header file:</source>
+    <target>头文件(&amp;H)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Source file:</source>
+    <target>源文件(&amp;S)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Form file:</source>
+    <target>窗体文件(&amp;F)：</target>
+</phrase>
+<phrase>
+    <source>Last modified:</source>
+    <target>最后修改：</target>
+</phrase>
+<phrase>
+    <source>iOS</source>
+    <target>iOS</target>
+</phrase>
 </QPH>

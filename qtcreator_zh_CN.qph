@@ -33,10 +33,6 @@
     <target>高级选项...</target>
 </phrase>
 <phrase>
-    <source>Native SDK Manager...</source>
-    <target>本地SDK管理器...</target>
-</phrase>
-<phrase>
     <source>Cancel</source>
     <target>取消</target>
 </phrase>
@@ -62,15 +58,11 @@
 </phrase>
 <phrase>
     <source>SDK Platform</source>
-    <target>SDK 平台</target>
+    <target>SDK平台</target>
 </phrase>
 <phrase>
     <source>Update Only</source>
     <target>只更新</target>
-</phrase>
-<phrase>
-    <source>Uninstall</source>
-    <target>卸载</target>
 </phrase>
 <phrase>
     <source>Uninstall</source>
@@ -82,7 +74,7 @@
 </phrase>
 <phrase>
     <source>SDK Manager Arguments</source>
-    <target>SDK 管理参数</target>
+    <target>SDK管理参数</target>
 </phrase>
 <phrase>
     <source>Incorrect password.</source>
@@ -90,7 +82,7 @@
 </phrase>
 <phrase>
     <source>Testing</source>
-    <target>测试</target>
+    <target>测试中</target>
 </phrase>
 <phrase>
     <source>Form</source>
@@ -158,7 +150,7 @@
 </phrase>
 <phrase>
     <source>Close All</source>
-    <target>关闭所有</target>
+    <target>全部关闭</target>
 </phrase>
 <phrase>
     <source>%1</source>
@@ -186,11 +178,11 @@
 </phrase>
 <phrase>
     <source>Installing</source>
-    <target>安装</target>
+    <target>安装中</target>
 </phrase>
 <phrase>
     <source>Uninstalling</source>
-    <target>卸载</target>
+    <target>卸载中</target>
 </phrase>
 <phrase>
     <source>Failed</source>
@@ -278,7 +270,7 @@
 </phrase>
 <phrase>
     <source>Save before %1?</source>
-    <target>保存以前%1？</target>
+    <target>保存以前‘%1’？</target>
 </phrase>
 <phrase>
     <source>No to All &amp;&amp; &amp;Diff</source>
@@ -286,15 +278,15 @@
 </phrase>
 <phrase>
     <source>Profiling</source>
-    <target>正在分析</target>
+    <target>分析中</target>
 </phrase>
 <phrase>
     <source>Profiling %1</source>
-    <target>正在分析‘%1’</target>
+    <target>‘%1’分析中</target>
 </phrase>
 <phrase>
     <source>(all)</source>
-    <target>(全部)</target>
+    <target>（全部）</target>
 </phrase>
 <phrase>
     <source>&amp;Window</source>
@@ -468,7 +460,7 @@
 </phrase>
 <phrase>
     <source>Required import</source>
-    <target>需要导入</target>
+    <target>必需导入</target>
 </phrase>
 <phrase>
     <source>Error parsing</source>
@@ -512,7 +504,7 @@
 </phrase>
 <phrase>
     <source>Starting %1...</source>
-    <target>启动%1...</target>
+    <target>正在启动‘%1’...</target>
 </phrase>
 <phrase>
     <source>None</source>
@@ -624,11 +616,11 @@
 </phrase>
 <phrase>
     <source>Animate navigation within file</source>
-    <target>文件里动画导航</target>
+    <target>文件中动画导航</target>
 </phrase>
 <phrase>
     <source>Annotations next to lines</source>
-    <target>线旁标注</target>
+    <target>行旁注释</target>
 </phrase>
 <phrase>
     <source>Meta+Shift+S</source>
@@ -852,7 +844,7 @@
 </phrase>
 <phrase>
     <source>Save Output To</source>
-    <target>保存输出到</target>
+    <target>保存输出</target>
 </phrase>
 <phrase>
     <source>&lt;unknown&gt;</source>
@@ -908,11 +900,11 @@
 </phrase>
 <phrase>
     <source>Go to error</source>
-    <target>转到错误</target>
+    <target>移到错误</target>
 </phrase>
 <phrase>
     <source>Go to warning</source>
-    <target>转到警告</target>
+    <target>移到警告</target>
 </phrase>
 <phrase>
     <source>Override Width</source>
@@ -972,7 +964,7 @@
 </phrase>
 <phrase>
     <source>Filelog &quot;%1&quot;</source>
-    <target>文件‘%1’日志</target>
+    <target>‘%1’文件日志</target>
 </phrase>
 <phrase>
     <source>Delete &quot;%1&quot;...</source>
@@ -988,11 +980,11 @@
 </phrase>
 <phrase>
     <source>Log Project</source>
-    <target>项目日志</target>
+    <target>日志项目</target>
 </phrase>
 <phrase>
     <source>Log Project &quot;%1&quot;</source>
-    <target>项目‘%1’日志</target>
+    <target>日志项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Diff Repository</source>
@@ -1000,11 +992,11 @@
 </phrase>
 <phrase>
     <source>Log Repository</source>
-    <target>代码仓库日志</target>
+    <target>日志代码仓库</target>
 </phrase>
 <phrase>
     <source>Do Not Remove</source>
-    <target>不要移除</target>
+    <target>不删除</target>
 </phrase>
 <phrase>
     <source>Run</source>
@@ -1056,7 +1048,7 @@
 </phrase>
 <phrase>
     <source>Analyzing &quot;%1&quot;.</source>
-    <target>分析‘%1’中。</target>
+    <target>正在分析‘%1’。</target>
 </phrase>
 <phrase>
     <source>Arg&amp;uments:</source>
@@ -1108,7 +1100,7 @@
 </phrase>
 <phrase>
     <source>Same Build Directory</source>
-    <target>相同构建目录</target>
+    <target>相同的构建目录</target>
 </phrase>
 <phrase>
     <source>Ctrl+Alt+%1</source>
@@ -1212,7 +1204,7 @@
 </phrase>
 <phrase>
     <source>No data available</source>
-    <target>无可用数据</target>
+    <target>没有可用数据</target>
 </phrase>
 <phrase>
     <source>Visualize %1</source>
@@ -1220,11 +1212,11 @@
 </phrase>
 <phrase>
     <source>Cherry &amp;Pick</source>
-    <target>择优挑选(&amp;P)</target>
+    <target>拣选(&amp;P)</target>
 </phrase>
 <phrase>
     <source>Cherry Pick...</source>
-    <target>择优挑选...</target>
+    <target>拣选...</target>
 </phrase>
 <phrase>
     <source>min</source>
@@ -1316,7 +1308,7 @@
 </phrase>
 <phrase>
     <source>&amp;Thread specification:</source>
-    <target>线程信息(&amp;T)：</target>
+    <target>线程规范(&amp;T)：</target>
 </phrase>
 <phrase>
     <source>&amp;Condition:</source>
@@ -1328,15 +1320,15 @@
 </phrase>
 <phrase>
     <source>Delete Selected Breakpoints</source>
-    <target>删除选择的断点</target>
+    <target>删除选中的断点</target>
 </phrase>
 <phrase>
     <source>Disable Selected Breakpoints</source>
-    <target>禁用选择的断点</target>
+    <target>禁用选中的断点</target>
 </phrase>
 <phrase>
     <source>Enable Selected Breakpoints</source>
-    <target>启用选择的断点</target>
+    <target>启用选中的断点</target>
 </phrase>
 <phrase>
     <source>Disable Breakpoint</source>
@@ -1364,7 +1356,7 @@
 </phrase>
 <phrase>
     <source>Remove All Breakpoints</source>
-    <target>移除所有断点</target>
+    <target>删除所有断点</target>
 </phrase>
 <phrase>
     <source>Add Breakpoint</source>
@@ -1376,7 +1368,7 @@
 </phrase>
 <phrase>
     <source>Debugger Command</source>
-    <target>调试命令</target>
+    <target>调试器命令</target>
 </phrase>
 <phrase>
     <source>Breakpoint Type:</source>
@@ -1392,7 +1384,7 @@
 </phrase>
 <phrase>
     <source>Enabled</source>
-    <target>启用</target>
+    <target>已启用</target>
 </phrase>
 <phrase>
     <source>Line Number:</source>
@@ -1416,7 +1408,7 @@
 </phrase>
 <phrase>
     <source>Thread Specification:</source>
-    <target>线程信息：</target>
+    <target>线程规范：</target>
 </phrase>
 <phrase>
     <source>Function</source>
@@ -1456,7 +1448,7 @@
 </phrase>
 <phrase>
     <source>Application running.</source>
-    <target>应用运行中。</target>
+    <target>程序正在运行。</target>
 </phrase>
 <phrase>
     <source>Continue Debugging</source>
@@ -1520,7 +1512,7 @@
 </phrase>
 <phrase>
     <source>Save as Task File...</source>
-    <target>保存为任务文件...</target>
+    <target>另存为任务文件...</target>
 </phrase>
 <phrase>
     <source>Load QML Stack</source>
@@ -1528,7 +1520,7 @@
 </phrase>
 <phrase>
     <source>Open Memory Editor at 0x%1</source>
-    <target>在0x%1处打开内存编辑器</target>
+    <target>打开内存编辑器0x%1</target>
 </phrase>
 <phrase>
     <source>Open Memory Editor</source>
@@ -1660,11 +1652,11 @@
 </phrase>
 <phrase>
     <source>Synchronize Structure with Diagram</source>
-    <target>同步结构关系图</target>
+    <target>同步图和结构</target>
 </phrase>
 <phrase>
     <source>Synchronize Diagram with Structure</source>
-    <target>同步结构关系图</target>
+    <target>同步图和结构</target>
 </phrase>
 <phrase>
     <source>&amp;Compiler path:</source>
@@ -1673,10 +1665,6 @@
 <phrase>
     <source>&amp;Compiler version:</source>
     <target>编译器版本(&amp;C)：</target>
-</phrase>
-<phrase>
-    <source>Nim</source>
-    <target>Nim</target>
 </phrase>
 <phrase>
     <source>Generated files</source>
@@ -1724,7 +1712,7 @@
 </phrase>
 <phrase>
     <source>%1 already exists.</source>
-    <target>%1已存在。</target>
+    <target>%1 已存在。</target>
 </phrase>
 <phrase>
     <source>Filter Tree</source>
@@ -1768,7 +1756,7 @@
 </phrase>
 <phrase>
     <source>Discard Local Changes</source>
-    <target>放弃本地更改</target>
+    <target>丢弃本地更改</target>
 </phrase>
 <phrase>
     <source>Checkout</source>
@@ -1816,7 +1804,7 @@
 </phrase>
 <phrase>
     <source>&amp;Remove</source>
-    <target>移除(&amp;R)</target>
+    <target>删除(&amp;R)</target>
 </phrase>
 <phrase>
     <source>Re&amp;name</source>
@@ -1912,11 +1900,7 @@
 </phrase>
 <phrase>
     <source>Ignore whitespace only changes.</source>
-    <target>忽略空白的修改。</target>
-</phrase>
-<phrase>
-    <source>Ignore Whitespace</source>
-    <target>忽略空白</target>
+    <target>只忽略空白更改。</target>
 </phrase>
 <phrase>
     <source>Invalid revision</source>
@@ -1925,10 +1909,6 @@
 <phrase>
     <source>Description:</source>
     <target>说明：</target>
-</phrase>
-<phrase>
-    <source>Stash Description</source>
-    <target>暂存区说明</target>
 </phrase>
 <phrase>
     <source>Stage Chunk</source>
@@ -1976,7 +1956,7 @@
 </phrase>
 <phrase>
     <source>Chunk successfully staged</source>
-    <target>块成功暂存</target>
+    <target>块成功已暂存</target>
 </phrase>
 <phrase>
     <source>Stage Chunk...</source>
@@ -2008,7 +1988,7 @@
 </phrase>
 <phrase>
     <source>Blame for &quot;%1&quot;</source>
-    <target>‘%1’的追溯</target>
+    <target>追溯‘%1’</target>
 </phrase>
 <phrase>
     <source>Diff</source>
@@ -2016,7 +1996,7 @@
 </phrase>
 <phrase>
     <source>Reflog</source>
-    <target>引用记录</target>
+    <target>引用日志</target>
 </phrase>
 <phrase>
     <source>Status</source>
@@ -2032,7 +2012,7 @@
 </phrase>
 <phrase>
     <source>Log Current File</source>
-    <target>当前文件日志</target>
+    <target>日志当前文件</target>
 </phrase>
 <phrase>
     <source>Stashes...</source>
@@ -2056,7 +2036,7 @@
 </phrase>
 <phrase>
     <source>Interactive Rebase...</source>
-    <target>交互变基...</target>
+    <target>交互式变基...</target>
 </phrase>
 <phrase>
     <source>Abort Rebase</source>
@@ -2064,7 +2044,7 @@
 </phrase>
 <phrase>
     <source>Abort Cherry Pick</source>
-    <target>择优挑选中止</target>
+    <target>中止拣选</target>
 </phrase>
 <phrase>
     <source>Abort Revert</source>
@@ -2116,11 +2096,11 @@
 </phrase>
 <phrase>
     <source>Actions on Commits...</source>
-    <target>提交的行为...</target>
+    <target>提交时操作...</target>
 </phrase>
 <phrase>
     <source>Interactive Rebase</source>
-    <target>交互变基</target>
+    <target>交互式变基</target>
 </phrase>
 <phrase>
     <source>Git Fixup Commit</source>
@@ -2165,10 +2145,6 @@
 <phrase>
     <source>repository</source>
     <target>代码仓库</target>
-</phrase>
-<phrase>
-    <source>Branch:</source>
-    <target>Branch：</target>
 </phrase>
 <phrase>
     <source>branch</source>
@@ -2300,7 +2276,7 @@
 </phrase>
 <phrase>
     <source>Remove</source>
-    <target>移除</target>
+    <target>删除</target>
 </phrase>
 <phrase>
     <source>Add</source>
@@ -2360,7 +2336,7 @@
 </phrase>
 <phrase>
     <source>Export as &amp;Image...</source>
-    <target>图片格式导出(&amp;I)...</target>
+    <target>图像格式导出(&amp;I)...</target>
 </phrase>
 <phrase>
     <source>Delete &quot;%1&quot;</source>
@@ -2384,7 +2360,7 @@
 </phrase>
 <phrase>
     <source>Toggle States Editor</source>
-    <target>状态切换编辑器</target>
+    <target>切换状态编辑器</target>
 </phrase>
 <phrase>
     <source>Trigger Completion</source>
@@ -2396,11 +2372,11 @@
 </phrase>
 <phrase>
     <source>Color Scheme for Theme &quot;%1&quot;</source>
-    <target>主题‘%1’的配色方案</target>
+    <target>主题‘%1’配色方案</target>
 </phrase>
 <phrase>
     <source>Email</source>
-    <target>电子邮件</target>
+    <target>电子邮箱</target>
 </phrase>
 <phrase>
     <source>Line %1</source>
@@ -2408,7 +2384,7 @@
 </phrase>
 <phrase>
     <source>Close Pro&amp;ject &quot;%1&quot;</source>
-    <target>关闭项目‘%1’</target>
+    <target>关闭项目‘%1’(&amp;J)</target>
 </phrase>
 <phrase>
     <source>Close %1</source>
@@ -2516,7 +2492,7 @@
 </phrase>
 <phrase>
     <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-    <target>无法从‘%1’复制到‘%2’。</target>
+    <target>无法将文件‘%1’复制到‘%2’。</target>
 </phrase>
 <phrase>
     <source>%1 (copy)</source>
@@ -2724,7 +2700,7 @@
 </phrase>
 <phrase>
     <source>Remove items</source>
-    <target>移除项</target>
+    <target>删除项</target>
 </phrase>
 <phrase>
     <source>Structure</source>
@@ -2912,11 +2888,11 @@
 </phrase>
 <phrase>
     <source>Copy application data</source>
-    <target>复制应用程序数据</target>
+    <target>复制程序数据</target>
 </phrase>
 <phrase>
     <source>Removing directory %1</source>
-    <target>移除目录%1</target>
+    <target>删除目录‘%1’</target>
 </phrase>
 <phrase>
     <source>Deploy to device</source>
@@ -2948,7 +2924,7 @@
 </phrase>
 <phrase>
     <source>&lt;No Symbols&gt;</source>
-    <target>&lt;没有符号&gt;</target>
+    <target>&lt;无符号&gt;</target>
 </phrase>
 <phrase>
     <source>&lt;Select Symbol&gt;</source>
@@ -2980,7 +2956,7 @@
 </phrase>
 <phrase>
     <source>Export Selected Elements...</source>
-    <target>导出所选元素...</target>
+    <target>导出选中元素...</target>
 </phrase>
 <phrase>
     <source>Synchronize Browser and Diagram</source>
@@ -2988,7 +2964,7 @@
 </phrase>
 <phrase>
     <source>Export Selected Elements</source>
-    <target>导出所选元素</target>
+    <target>导出选中元素</target>
 </phrase>
 <phrase>
     <source>New %1</source>
@@ -3028,7 +3004,7 @@
 </phrase>
 <phrase>
     <source>Additional Libraries</source>
-    <target>额外的库</target>
+    <target>其他库</target>
 </phrase>
 <phrase>
     <source>Update...</source>
@@ -3065,10 +3041,6 @@
 <phrase>
     <source>Properties...</source>
     <target>属性...</target>
-</phrase>
-<phrase>
-    <source>Close All Except %1</source>
-    <target>除了‘%1’以外全部关闭</target>
 </phrase>
 <phrase>
     <source>Sear&amp;ch for:</source>
@@ -3128,7 +3100,7 @@
 </phrase>
 <phrase>
     <source>Inconclusive errors</source>
-    <target>非结论性错误</target>
+    <target>不确定的错误</target>
 </phrase>
 <phrase>
     <source>Update Project &quot;%1&quot;</source>
@@ -3152,7 +3124,7 @@
 </phrase>
 <phrase>
     <source>Ignored file patterns:</source>
-    <target>忽略的文件模式：</target>
+    <target>忽略文件模式：</target>
 </phrase>
 <phrase>
     <source>Debug Message</source>
@@ -3164,19 +3136,15 @@
 </phrase>
 <phrase>
     <source>Critical Message</source>
-    <target>严重消息</target>
+    <target>重要消息</target>
 </phrase>
 <phrase>
     <source>&amp;Show this message again.</source>
     <target>再次显示此消息(&amp;S)。</target>
 </phrase>
 <phrase>
-    <source>Debuggee</source>
-    <target>调试程序</target>
-</phrase>
-<phrase>
     <source>Debugging has failed.</source>
-    <target>调试器失败。</target>
+    <target>调试失败。</target>
 </phrase>
 <phrase>
     <source>&amp;Modules</source>
@@ -3220,7 +3188,7 @@
 </phrase>
 <phrase>
     <source>Remove Breakpoint</source>
-    <target>移除断点</target>
+    <target>删除断点</target>
 </phrase>
 <phrase>
     <source>Edit Breakpoint...</source>
@@ -3236,7 +3204,7 @@
 </phrase>
 <phrase>
     <source>Abort Debugger</source>
-    <target>关于调试器</target>
+    <target>中止调试</target>
 </phrase>
 <phrase>
     <source>Global Debugger &amp;Log</source>
@@ -3280,7 +3248,7 @@
 </phrase>
 <phrase>
     <source>Add Filter Name</source>
-    <target>增加过滤器名称</target>
+    <target>添加过滤器名称</target>
 </phrase>
 <phrase>
     <source>Expressions</source>
@@ -3320,7 +3288,7 @@
 </phrase>
 <phrase>
     <source>Remove...</source>
-    <target>移除...</target>
+    <target>删除...</target>
 </phrase>
 <phrase>
     <source>Merge</source>
@@ -3332,7 +3300,7 @@
 </phrase>
 <phrase>
     <source>Cherry Pick</source>
-    <target>择优挑选</target>
+    <target>拣选</target>
 </phrase>
 <phrase>
     <source>Track</source>
@@ -3396,7 +3364,7 @@
 </phrase>
 <phrase>
     <source>Show My Tabs from Last Session</source>
-    <target>显示上一次会话的打开页面</target>
+    <target>显示上次会话标签页</target>
 </phrase>
 <phrase>
     <source>Checks</source>
@@ -3428,7 +3396,7 @@
 </phrase>
 <phrase>
     <source>Error %1</source>
-    <target>错误 %1</target>
+    <target>错误‘%1’</target>
 </phrase>
 <phrase>
     <source>Log &quot;%1&quot;</source>
@@ -3440,7 +3408,7 @@
 </phrase>
 <phrase>
     <source>Process failed at startup.</source>
-    <target>进程启动失败。</target>
+    <target>启动进程失败。</target>
 </phrase>
 <phrase>
     <source>Process timed out.</source>
@@ -3480,7 +3448,7 @@
 </phrase>
 <phrase>
     <source>Clean Project &quot;%1&quot;</source>
-    <target>清理项目‘%1’</target>
+    <target>清除项目‘%1’</target>
 </phrase>
 <phrase>
     <source>Tool Chains</source>
@@ -3497,10 +3465,6 @@
 <phrase>
     <source>Modules</source>
     <target>模块</target>
-</phrase>
-<phrase>
-    <source>Release</source>
-    <target>Release</target>
 </phrase>
 <phrase>
     <source>Toggle States</source>
@@ -3524,7 +3488,7 @@
 </phrase>
 <phrase>
     <source>Callee</source>
-    <target>被调用者</target>
+    <target>调用者</target>
 </phrase>
 <phrase>
     <source>Command line:</source>
@@ -3632,7 +3596,7 @@
 </phrase>
 <phrase>
     <source>The file &quot;%1&quot; could not be deleted.</source>
-    <target>文件‘%1’无法删除。</target>
+    <target>无法删除文件‘%1’。</target>
 </phrase>
 <phrase>
     <source>Could not open file &apos;%1&apos; for writing: %2</source>
@@ -3656,7 +3620,7 @@
 </phrase>
 <phrase>
     <source>&amp;ABI:</source>
-    <target>ABI（&amp;A)：</target>
+    <target>ABI(&amp;A)：</target>
 </phrase>
 <phrase>
     <source>ABI:</source>
@@ -3776,7 +3740,7 @@
 </phrase>
 <phrase>
     <source>Samples</source>
-    <target>样品</target>
+    <target>采样</target>
 </phrase>
 <phrase>
     <source>Creating Memory Trace Points</source>
@@ -3788,7 +3752,7 @@
 </phrase>
 <phrase>
     <source>Failed to create trace points.</source>
-    <target>无法创建追踪点。</target>
+    <target>创建追踪点失败。</target>
 </phrase>
 <phrase>
     <source>CPU Usage</source>
@@ -3832,11 +3796,11 @@
 </phrase>
 <phrase>
     <source>Remove All</source>
-    <target>全部移除</target>
+    <target>全部删除</target>
 </phrase>
 <phrase>
     <source>Qt version</source>
-    <target>Qt 版本</target>
+    <target>Qt版本</target>
 </phrase>
 <phrase>
     <source>Project File</source>
@@ -3932,7 +3896,7 @@
 </phrase>
 <phrase>
     <source>Unexpected token &apos;.&apos;</source>
-    <target>非预期符号‘.’</target>
+    <target>意外的标记‘.’</target>
 </phrase>
 <phrase>
     <source>QML Preview</source>
@@ -4000,7 +3964,7 @@
 </phrase>
 <phrase>
     <source>Unknown option: %1</source>
-    <target>未知的选项：%1</target>
+    <target>未知选项：%1</target>
 </phrase>
 <phrase>
     <source>Reindex</source>
@@ -4053,5 +4017,821 @@
 <phrase>
     <source>Error: %1</source>
     <target>错误：%1</target>
+</phrase>
+<phrase>
+    <source>Detach Area</source>
+    <target>分离区域</target>
+</phrase>
+<phrase>
+    <source>Close Area</source>
+    <target>关闭区域</target>
+</phrase>
+<phrase>
+    <source>Close Other Areas</source>
+    <target>关闭其他区域</target>
+</phrase>
+<phrase>
+    <source>Cannot Save Workspace</source>
+    <target>无法保存工作区</target>
+</phrase>
+<phrase>
+    <source>Could not save workspace to file %1</source>
+    <target>无法将工作区保存到文件‘%1’</target>
+</phrase>
+<phrase>
+    <source>Delete Workspace</source>
+    <target>删除工作区</target>
+</phrase>
+<phrase>
+    <source>Delete Workspaces</source>
+    <target>删除工作区</target>
+</phrase>
+<phrase>
+    <source>Delete workspace %1?</source>
+    <target>删除工作区‘%1’？</target>
+</phrase>
+<phrase>
+    <source>Cannot Restore Workspace</source>
+    <target>无法还原工作区</target>
+</phrase>
+<phrase>
+    <source>Could not restore workspace %1</source>
+    <target>无法还原工作区‘%1’</target>
+</phrase>
+<phrase>
+    <source>Detach</source>
+    <target>分离</target>
+</phrase>
+<phrase>
+    <source>Close Others</source>
+    <target>关闭其他</target>
+</phrase>
+<phrase>
+    <source>Workspace Manager</source>
+    <target>工作区管理</target>
+</phrase>
+<phrase>
+    <source>&amp;Switch To</source>
+    <target>切换到(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Restore last workspace on startup</source>
+    <target>启动时还原到最后工作区</target>
+</phrase>
+<phrase>
+    <source>Workspace</source>
+    <target>工作区</target>
+</phrase>
+<phrase>
+    <source>Last Modified</source>
+    <target>最后修改</target>
+</phrase>
+<phrase>
+    <source>New Workspace Name</source>
+    <target>新工作区名称</target>
+</phrase>
+<phrase>
+    <source>&amp;Create</source>
+    <target>创建(&amp;C)</target>
+</phrase>
+<phrase>
+    <source>Create and &amp;Open</source>
+    <target>创建并打开(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Rename Workspace</source>
+    <target>重命名工作区</target>
+</phrase>
+<phrase>
+    <source>Enter the name of the workspace:</source>
+    <target>输入工作区名称：</target>
+</phrase>
+<phrase>
+    <source>Device definition:</source>
+    <target>设备定义：</target>
+</phrase>
+<phrase>
+    <source>Android Device</source>
+    <target>Android设备</target>
+</phrase>
+<phrase>
+    <source>Master icon</source>
+    <target>主图标</target>
+</phrase>
+<phrase>
+    <source>Android Manifest editor</source>
+    <target>Android清单编辑器</target>
+</phrase>
+<phrase>
+    <source>Icon scaled up</source>
+    <target>图标放大</target>
+</phrase>
+<phrase>
+    <source>Click to select</source>
+    <target>点击选择</target>
+</phrase>
+<phrase>
+    <source>Configure Android</source>
+    <target>Android配置</target>
+</phrase>
+<phrase>
+    <source>Configure Android...</source>
+    <target>配置Android...</target>
+</phrase>
+<phrase>
+    <source>SD-card size</source>
+    <target>SD卡容量</target>
+</phrase>
+<phrase>
+    <source>SDK manager arguments:</source>
+    <target>SDK管理参数：</target>
+</phrase>
+<phrase>
+    <source>Edit Annotation</source>
+    <target>编辑注释</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>格式</target>
+</phrase>
+<phrase>
+    <source>Bazaar Command</source>
+    <target>Bazaar命令</target>
+</phrase>
+<phrase>
+    <source>Bazaar</source>
+    <target>Bazaar</target>
+</phrase>
+<phrase>
+    <source>CMake</source>
+    <target>CMake</target>
+</phrase>
+<phrase>
+    <source>Toggle Perspective/Orthographic Edit Camera</source>
+    <target>切换透视/正交编辑相机</target>
+</phrase>
+<phrase>
+    <source>Analyzing...</source>
+    <target>分析...</target>
+</phrase>
+<phrase>
+    <source>Check</source>
+    <target>检查</target>
+</phrase>
+<phrase>
+    <source>Filter Diagnostics</source>
+    <target>过滤诊断</target>
+</phrase>
+<phrase>
+    <source>Clear Selection</source>
+    <target>清除选择</target>
+</phrase>
+<phrase>
+    <source>Editing Derived Object: %1</source>
+    <target>编辑派生对象：%1</target>
+</phrase>
+<phrase>
+    <source>Undo Hijack</source>
+    <target>撤销劫持</target>
+</phrase>
+<phrase>
+    <source>History Current File</source>
+    <target>历史当前文件</target>
+</phrase>
+<phrase>
+    <source>&amp;History &quot;%1&quot;</source>
+    <target>历史‘%1’(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>ClearCase</source>
+    <target>ClearCase</target>
+</phrase>
+<phrase>
+    <source>Undo Hijack File</source>
+    <target>撤销劫持文件</target>
+</phrase>
+<phrase>
+    <source>&amp;Init commands:</source>
+    <target>初始化命令(&amp;I)：</target>
+</phrase>
+<phrase>
+    <source>&amp;Reset commands:</source>
+    <target>重置命令(&amp;R)：</target>
+</phrase>
+<phrase>
+    <source>Application started.</source>
+    <target>应用程序已启动。</target>
+</phrase>
+<phrase>
+    <source>Setting breakpoints...</source>
+    <target>设置断点...</target>
+</phrase>
+<phrase>
+    <source>Failed to Shut Down Application</source>
+    <target>关闭应用程序失败</target>
+</phrase>
+<phrase>
+    <source>Running requested...</source>
+    <target>执行请求...</target>
+</phrase>
+<phrase>
+    <source>Execution Error</source>
+    <target>执行错误</target>
+</phrase>
+<phrase>
+    <source>Disable Plugin</source>
+    <target>禁用插件</target>
+</phrase>
+<phrase>
+    <source>Move detection</source>
+    <target>检测移动</target>
+</phrase>
+<phrase>
+    <source>&amp;Hard</source>
+    <target>Hard(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>&amp;Archive...</source>
+    <target>归档(&amp;A)...</target>
+</phrase>
+<phrase>
+    <source>&amp;Mixed</source>
+    <target>Mixed(&amp;M)</target>
+</phrase>
+<phrase>
+    <source>&amp;Soft</source>
+    <target>Soft(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>Update Submodules</source>
+    <target>更新子模块</target>
+</phrase>
+<phrase>
+    <source>Continue Cherry Pick</source>
+    <target>继续拣选</target>
+</phrase>
+<phrase>
+    <source>Take Snapshot...</source>
+    <target>抓取快照...</target>
+</phrase>
+<phrase>
+    <source>&amp;Subversion</source>
+    <target>Subversion(&amp;S)</target>
+</phrase>
+<phrase>
+    <source>DCommit</source>
+    <target>提交</target>
+</phrase>
+<phrase>
+    <source>Archive...</source>
+    <target>归档...</target>
+</phrase>
+<phrase>
+    <source>Git &amp;Tools</source>
+    <target>Git工具(&amp;T)</target>
+</phrase>
+<phrase>
+    <source>Gitk</source>
+    <target>Gitk</target>
+</phrase>
+<phrase>
+    <source>Gitk Current File</source>
+    <target>Gitk当前文件</target>
+</phrase>
+<phrase>
+    <source>Gitk of &quot;%1&quot;</source>
+    <target>Gitk‘%1’</target>
+</phrase>
+<phrase>
+    <source>Amend %1</source>
+    <target>增订‘%1’</target>
+</phrase>
+<phrase>
+    <source>Git Fixup Commit</source>
+    <target>Git修正提交</target>
+</phrase>
+<phrase>
+    <source>Git Commit</source>
+    <target>Git提交</target>
+</phrase>
+<phrase>
+    <source>Repository Clean</source>
+    <target>清除代码仓库</target>
+</phrase>
+<phrase>
+    <source>The repository is clean.</source>
+    <target>代码仓库已清除。</target>
+</phrase>
+<phrase>
+    <source>Choose Patch</source>
+    <target>选择补丁</target>
+</phrase>
+<phrase>
+    <source>Show Date</source>
+    <target>显示日期</target>
+</phrase>
+<phrase>
+    <source>Sign off</source>
+    <target>签名</target>
+</phrase>
+<phrase>
+    <source>Hard</source>
+    <target>Hard</target>
+</phrase>
+<phrase>
+    <source>Mixed</source>
+    <target>Mixed</target>
+</phrase>
+<phrase>
+    <source>Soft</source>
+    <target>Soft</target>
+</phrase>
+<phrase>
+    <source>Sha1</source>
+    <target>Sha1</target>
+</phrase>
+<phrase>
+    <source>Subject</source>
+    <target>主题</target>
+</phrase>
+<phrase>
+    <source>Git</source>
+    <target>Git</target>
+</phrase>
+<phrase>
+    <source>Registration Failed</source>
+    <target>注册失败</target>
+</phrase>
+<phrase>
+    <source>Unable to register documentation.</source>
+    <target>无法注册文档。</target>
+</phrase>
+<phrase>
+    <source>Fit to Screen</source>
+    <target>适应屏幕</target>
+</phrase>
+<phrase>
+    <source>Switch Background</source>
+    <target>切换背景</target>
+</phrase>
+<phrase>
+    <source>Switch Outline</source>
+    <target>显示轮廓线</target>
+</phrase>
+<phrase>
+    <source>Toggle Animation</source>
+    <target>切换动画</target>
+</phrase>
+<phrase>
+    <source>Export Image</source>
+    <target>导出图像</target>
+</phrase>
+<phrase>
+    <source>Export Multiple Images</source>
+    <target>导出多个图像</target>
+</phrase>
+<phrase>
+    <source>Language Client Log</source>
+    <target>语言客户端日志</target>
+</phrase>
+<phrase>
+    <source>Client Message</source>
+    <target>客户端消息</target>
+</phrase>
+<phrase>
+    <source>Server Message</source>
+    <target>服务端消息</target>
+</phrase>
+<phrase>
+    <source>Messages</source>
+    <target>消息</target>
+</phrase>
+<phrase>
+    <source>Macros</source>
+    <target>宏</target>
+</phrase>
+<phrase>
+    <source>Marketplace</source>
+    <target>市场</target>
+</phrase>
+<phrase>
+    <source>Search in Marketplace...</source>
+    <target>在市场中搜索...</target>
+</phrase>
+<phrase>
+    <source>MCU</source>
+    <target>MCU</target>
+</phrase>
+<phrase>
+    <source>Mercurial</source>
+    <target>Mercurial</target>
+</phrase>
+<phrase>
+    <source>Requirements</source>
+    <target>需求</target>
+</phrase>
+<phrase>
+    <source>Create a Kit</source>
+    <target>创建构建套件</target>
+</phrase>
+<phrase>
+    <source>Activate Move Tool</source>
+    <target>激活移动工具</target>
+</phrase>
+<phrase>
+    <source>Nim</source>
+    <target>Nim</target>
+</phrase>
+<phrase>
+    <source>Nimble Build</source>
+    <target>Nimble构建</target>
+</phrase>
+<phrase>
+    <source>Nimble Task</source>
+    <target>Nimble任务</target>
+</phrase>
+<phrase>
+    <source>Task arguments:</source>
+    <target>任务参数：</target>
+</phrase>
+<phrase>
+    <source>Tasks:</source>
+    <target>任务：</target>
+</phrase>
+<phrase>
+    <source>Nimble Test</source>
+    <target>Nimble测试</target>
+</phrase>
+<phrase>
+    <source>Open Documents</source>
+    <target>打开文档</target>
+</phrase>
+<phrase>
+    <source>CMake Editor</source>
+    <target>CMake编辑器</target>
+</phrase>
+<phrase>
+    <source>Java Editor</source>
+    <target>Java编辑器</target>
+</phrase>
+<phrase>
+    <source>Compilation Database</source>
+    <target>编译数据库</target>
+</phrase>
+<phrase>
+    <source>Toggle Global/Local Orientation</source>
+    <target>切换全局/本地</target>
+</phrase>
+<phrase>
+    <source>&amp;Hijack</source>
+    <target>劫持(&amp;H)</target>
+</phrase>
+<phrase>
+    <source>Perforce Command</source>
+    <target>Perforce命令</target>
+</phrase>
+<phrase>
+    <source>Project Environment</source>
+    <target>项目环境</target>
+</phrase>
+<phrase>
+    <source>Enable</source>
+    <target>启用</target>
+</phrase>
+<phrase>
+    <source>Disable</source>
+    <target>禁用</target>
+</phrase>
+<phrase>
+    <source>Release</source>
+    <target>Release</target>
+</phrase>
+<phrase>
+    <source>Debug</source>
+    <target>Debug</target>
+</phrase>
+<phrase>
+    <source>Profile</source>
+    <target>Profile</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>Default</target>
+</phrase>
+<phrase>
+    <source>Stop Applications</source>
+    <target>停止应用程序</target>
+</phrase>
+<phrase>
+    <source>Stop these applications before building?</source>
+    <target>构建前停止这些应用程序？</target>
+</phrase>
+<phrase>
+    <source>On First Output Only</source>
+    <target>只输出一次</target>
+</phrase>
+<phrase>
+    <source>Use Project Default</source>
+    <target>使用项目的默认</target>
+</phrase>
+<phrase>
+    <source>QML debugging:</source>
+    <target>QML调试：</target>
+</phrase>
+<phrase>
+    <source>Use Qt Quick Compiler:</source>
+    <target>使用Qt Quick编译器：</target>
+</phrase>
+<phrase>
+    <source>Default Build Properties</source>
+    <target>默认的构建属性</target>
+</phrase>
+<phrase>
+    <source>Deduced from Project</source>
+    <target>由项目决定</target>
+</phrase>
+<phrase>
+    <source>Import Existing Project</source>
+    <target>导入现有项目</target>
+</phrase>
+<phrase>
+    <source>Project Name and Location</source>
+    <target>项目名称和位置</target>
+</phrase>
+<phrase>
+    <source>File Selection</source>
+    <target>文件选择</target>
+</phrase>
+<phrase>
+    <source>&amp;Debug</source>
+    <target>调试(&amp;D)</target>
+</phrase>
+<phrase>
+    <source>Do Not Unload</source>
+    <target>不要卸载</target>
+</phrase>
+<phrase>
+    <source>New Project</source>
+    <target>新建项目</target>
+</phrase>
+<phrase>
+    <source>New Subproject</source>
+    <target>新建子项目</target>
+</phrase>
+<phrase>
+    <source>Separate Debug Info:</source>
+    <target>单独的调试信息：</target>
+</phrase>
+<phrase>
+    <source>Kits</source>
+    <target>构建套件</target>
+</phrase>
+<phrase>
+    <source>Same Application</source>
+    <target>相同的应用程序</target>
+</phrase>
+<phrase>
+    <source>Do Not Build Anything</source>
+    <target>不要建造任何东西</target>
+</phrase>
+<phrase>
+    <source>Build the Whole Project</source>
+    <target>构建整个项目</target>
+</phrase>
+<phrase>
+    <source>Buffered output</source>
+    <target>缓冲输出</target>
+</phrase>
+<phrase>
+    <source>Detach Group</source>
+    <target>分离组</target>
+</phrase>
+<phrase>
+    <source>Close Active Tab</source>
+    <target>关闭激活标签页</target>
+</phrase>
+<phrase>
+    <source>Close Group</source>
+    <target>关闭组</target>
+</phrase>
+<phrase>
+    <source>Images (*.png *.jpg *.webp *.svg)</source>
+    <target>图像(*.png *.jpg *.webp *.svg)</target>
+</phrase>
+<phrase>
+    <source>Profiles</source>
+    <target>配置文件</target>
+</phrase>
+<phrase>
+    <source>Debug</source>
+    <target>调试版</target>
+</phrase>
+<phrase>
+    <source>Dry run:</source>
+    <target>空运行：</target>
+</phrase>
+<phrase>
+    <source>Keep going:</source>
+    <target>继续：</target>
+</phrase>
+<phrase>
+    <source>Keep going</source>
+    <target>继续</target>
+</phrase>
+<phrase>
+    <source>Dry run</source>
+    <target>空运行</target>
+</phrase>
+<phrase>
+    <source>Request timed out.</source>
+    <target>请求超时。</target>
+</phrase>
+<phrase>
+    <source>QML Debugging</source>
+    <target>QML调试</target>
+</phrase>
+<phrase>
+    <source>ABIs:</source>
+    <target>ABIs：</target>
+</phrase>
+<phrase>
+    <source>Qt Quick Compiler</source>
+    <target>Qt Quick编译器</target>
+</phrase>
+<phrase>
+    <source>Separate Debug Information</source>
+    <target>单独的调试信息</target>
+</phrase>
+<phrase>
+    <source>Connection Editor</source>
+    <target>连接编辑器</target>
+</phrase>
+<phrase>
+    <source>Author</source>
+    <target>作者</target>
+</phrase>
+<phrase>
+    <source>Annotation</source>
+    <target>注释</target>
+</phrase>
+<phrase>
+    <source>Delete this annotation?</source>
+    <target>删除注释？</target>
+</phrase>
+<phrase>
+    <source>Annotation Editor</source>
+    <target>注释编辑器</target>
+</phrase>
+<phrase>
+    <source>Annotation Tool</source>
+    <target>注释工具</target>
+</phrase>
+<phrase>
+    <source>Remove Annotation</source>
+    <target>删除注释</target>
+</phrase>
+<phrase>
+    <source>No snapping.</source>
+    <target>没有快照。</target>
+</phrase>
+<phrase>
+    <source>&amp;Workspaces</source>
+    <target>工作区(&amp;W)</target>
+</phrase>
+<phrase>
+    <source>Library</source>
+    <target>库</target>
+</phrase>
+<phrase>
+    <source>Assets</source>
+    <target>资产</target>
+</phrase>
+<phrase>
+    <source>QML Imports</source>
+    <target>QML导入</target>
+</phrase>
+<phrase>
+    <source>Add New Assets...</source>
+    <target>添加新资产...</target>
+</phrase>
+<phrase>
+    <source>Add Assets</source>
+    <target>添加资产</target>
+</phrase>
+<phrase>
+    <source>Flow</source>
+    <target>流程</target>
+</phrase>
+<phrase>
+    <source>Add flow action.</source>
+    <target>添加流动作。</target>
+</phrase>
+<phrase>
+    <source>Connect: %1</source>
+    <target>连接：%1</target>
+</phrase>
+<phrase>
+    <source>Analyzer</source>
+    <target>分析器</target>
+</phrase>
+<phrase>
+    <source>Highest Version Only</source>
+    <target>仅限最高版本</target>
+</phrase>
+<phrase>
+    <source>Link with Qt</source>
+    <target>关联Qt</target>
+</phrase>
+<phrase>
+    <source>Remove Link</source>
+    <target>删除关联</target>
+</phrase>
+<phrase>
+    <source>Qt Quick Compiler:</source>
+    <target>Qt Quick编译器：</target>
+</phrase>
+<phrase>
+    <source>Reset View</source>
+    <target>重置视图</target>
+</phrase>
+<phrase>
+    <source>Activate Rotate Tool</source>
+    <target>激活旋转工具</target>
+</phrase>
+<phrase>
+    <source>Activate Scale Tool</source>
+    <target>激活缩放工具</target>
+</phrase>
+<phrase>
+    <source>Subversion</source>
+    <target>Subversion</target>
+</phrase>
+<phrase>
+    <source>Default line endings:</source>
+    <target>默认行尾：</target>
+</phrase>
+<phrase>
+    <source>Generic Highlighter</source>
+    <target>通用高亮器</target>
+</phrase>
+<phrase>
+    <source>Download finished</source>
+    <target>下载完成</target>
+</phrase>
+<phrase>
+    <source>Snippets</source>
+    <target>片段</target>
+</phrase>
+<phrase>
+    <source>Version Control</source>
+    <target>版本控制</target>
+</phrase>
+<phrase>
+    <source>&amp;Open &quot;%1&quot;</source>
+    <target>打开‘%1’(&amp;O)</target>
+</phrase>
+<phrase>
+    <source>Debug</source>
+    <target>调试</target>
+</phrase>
+<phrase>
+    <source>Profile</source>
+    <target>分析</target>
+</phrase>
+<phrase>
+    <source>Aggregation</source>
+    <target>聚合</target>
+</phrase>
+<phrase>
+    <source>Alternative Close</source>
+    <target>交替关闭</target>
+</phrase>
+<phrase>
+    <source>Split</source>
+    <target>分栏</target>
+</phrase>
+<phrase>
+    <source>Load Project...</source>
+    <target>载入项目...</target>
+</phrase>
+<phrase>
+    <source>Include guards</source>
+    <target>包含保护</target>
+</phrase>
+<phrase>
+    <source>Fixit status:</source>
+    <target>纠正状态：</target>
+</phrase>
+<phrase>
+    <source>Clang-Tidy</source>
+    <target>Clang-Tidy</target>
+</phrase>
+<phrase>
+    <source>Rem&amp;ove...</source>
+    <target>删除(&amp;O)...</target>
+</phrase>
+<phrase>
+    <source>Local</source>
+    <target>局部</target>
 </phrase>
 </QPH>

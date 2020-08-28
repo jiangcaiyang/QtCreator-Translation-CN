@@ -150,11 +150,11 @@
 </phrase>
 <phrase>
     <source>Change source</source>
-    <target>改变源</target>
+    <target>修改源</target>
 </phrase>
 <phrase>
     <source>Change target</source>
-    <target>改变目标</target>
+    <target>修改目标</target>
 </phrase>
 <phrase>
     <source>Add &apos;%1&apos; to &apos;%2&apos;</source>
@@ -222,11 +222,11 @@
 </phrase>
 <phrase>
     <source>Change Form Layout Item Geometry</source>
-    <target>改变表单布局项的几何位置</target>
+    <target>修改表单布局项的几何位置</target>
 </phrase>
 <phrase>
     <source>Change Layout Item Geometry</source>
-    <target>改变布局项的几何位置</target>
+    <target>修改布局项的几何位置</target>
 </phrase>
 <phrase>
     <source>Edit...</source>
@@ -450,7 +450,7 @@
 </phrase>
 <phrase>
     <source>Change Object Name</source>
-    <target>改变对象名称</target>
+    <target>修改对象名称</target>
 </phrase>
 <phrase>
     <source>Object Name</source>
@@ -828,11 +828,11 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Change Page Order...</source>
-    <target>改变页顺序...</target>
+    <target>修改页顺序...</target>
 </phrase>
 <phrase>
     <source>Change Page Order</source>
-    <target>改变页顺序</target>
+    <target>修改页顺序</target>
 </phrase>
 <phrase>
     <source>Page %1 of %2</source>
@@ -1392,15 +1392,15 @@ Do you want to replace it?</source>
 </phrase>
 <phrase>
     <source>Change Prefix</source>
-    <target>改变前缀</target>
+    <target>修改前缀</target>
 </phrase>
 <phrase>
     <source>Change Language</source>
-    <target>改变语言</target>
+    <target>修改语言</target>
 </phrase>
 <phrase>
     <source>Change Alias</source>
-    <target>改变别名</target>
+    <target>修改别名</target>
 </phrase>
 <phrase>
     <source>Clone Prefix...</source>
@@ -1729,7 +1729,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change text...</source>
-    <target>改变文本...</target>
+    <target>修改文本...</target>
 </phrase>
 <phrase>
     <source>New button group</source>
@@ -1781,7 +1781,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change Combobox Contents</source>
-    <target>改变组合框内容</target>
+    <target>修改组合框内容</target>
 </phrase>
 <phrase>
     <source>Edit Items...</source>
@@ -1789,7 +1789,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change description...</source>
-    <target>改变描述...</target>
+    <target>修改描述...</target>
 </phrase>
 <phrase>
     <source>Deselect All</source>
@@ -2041,7 +2041,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Resource File Changed</source>
-    <target>资源文件已改变</target>
+    <target>资源文件已修改</target>
 </phrase>
 <phrase>
     <source>Add form layout row...</source>
@@ -2233,7 +2233,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change title...</source>
-    <target>改变标题...</target>
+    <target>修改标题...</target>
 </phrase>
 <phrase>
     <source>Choose a Pixmap</source>
@@ -2309,11 +2309,11 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change plain text...</source>
-    <target>改变普通文本...</target>
+    <target>修改普通文本...</target>
 </phrase>
 <phrase>
     <source>Change rich text...</source>
-    <target>改变多信息文本...</target>
+    <target>修改富文本...</target>
 </phrase>
 <phrase>
     <source>Choose Resource</source>
@@ -2329,7 +2329,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change List Contents</source>
-    <target>改变列表内容</target>
+    <target>修改列表内容</target>
 </phrase>
 <phrase>
     <source>Cascade</source>
@@ -2473,7 +2473,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change Current Page</source>
-    <target>改变当前页</target>
+    <target>修改当前页</target>
 </phrase>
 <phrase>
     <source>%1 %2</source>
@@ -2533,7 +2533,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change Palette</source>
-    <target>改变调色板</target>
+    <target>修改调色板</target>
 </phrase>
 <phrase>
     <source>Color Role</source>
@@ -2659,7 +2659,7 @@ Do you want overwrite the template?</source>
 </phrase>
 <phrase>
     <source>Change signals/slots...</source>
-    <target>改变信号/槽...</target>
+    <target>修改信号槽...</target>
 </phrase>
 <phrase>
     <source>Demote to %1</source>
@@ -2789,19 +2789,19 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Change objectName...</source>
-    <target>改变对象名称...</target>
+    <target>修改对象名称...</target>
 </phrase>
 <phrase>
     <source>Change styleSheet...</source>
-    <target>改变样式表...</target>
+    <target>修改样式表...</target>
 </phrase>
 <phrase>
     <source>Change toolTip...</source>
-    <target>改变工具提示...</target>
+    <target>修改工具提示...</target>
 </phrase>
 <phrase>
     <source>Change whatsThis...</source>
-    <target>改变这是什么...</target>
+    <target>修改这是什么...</target>
 </phrase>
 <phrase>
     <source>Edit ToolTip</source>
@@ -2953,7 +2953,7 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Change String List</source>
-    <target>改变字符串列表</target>
+    <target>修改字符串列表</target>
 </phrase>
 <phrase>
     <source>Add Color...</source>
@@ -3041,11 +3041,11 @@ Class: %2</source>
 </phrase>
 <phrase>
     <source>Change HTML...</source>
-    <target>改变HTML...</target>
+    <target>修改HTML...</target>
 </phrase>
 <phrase>
     <source>Change Plain Text...</source>
-    <target>改变普通文本...</target>
+    <target>修改普通文本...</target>
 </phrase>
 <phrase>
     <source>Edit HTML</source>

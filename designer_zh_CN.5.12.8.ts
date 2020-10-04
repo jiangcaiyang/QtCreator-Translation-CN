@@ -396,28 +396,28 @@ ate the goose who was loose.</translation>
         <location filename="components/signalsloteditor/signalsloteditor.cpp" line="+195"/>
         <location line="+259"/>
         <source>Change signal</source>
-        <translation>改变信号</translation>
+        <translation>修改信号</translation>
     </message>
     <message>
         <location line="-257"/>
         <location line="+269"/>
         <source>Change slot</source>
-        <translation>改变槽</translation>
+        <translation>修改槽</translation>
     </message>
     <message>
         <location line="-221"/>
         <source>Change signal-slot connection</source>
-        <translation>改变信号/槽连接</translation>
+        <translation>修改信号槽连接</translation>
     </message>
     <message>
         <location line="+235"/>
         <source>Change sender</source>
-        <translation>改变发送者</translation>
+        <translation>修改发送者</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Change receiver</source>
-        <translation>改变接收者</translation>
+        <translation>修改接收者</translation>
     </message>
     <message>
         <location filename="lib/shared/connectionedit.cpp" line="+129"/>
@@ -437,12 +437,12 @@ ate the goose who was loose.</translation>
     <message>
         <location line="+58"/>
         <source>Change source</source>
-        <translation>改变源</translation>
+        <translation>修改源</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change target</source>
-        <translation>改变目标</translation>
+        <translation>修改目标</translation>
     </message>
     <message>
         <source>changed &apos;%1&apos; of &apos;%2&apos;</source>
@@ -547,7 +547,7 @@ ate the goose who was loose.</translation>
     <message>
         <location line="-639"/>
         <source>Change Tab order</source>
-        <translation>改变制表符顺序</translation>
+        <translation>修改制表符顺序</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -591,22 +591,22 @@ ate the goose who was loose.</translation>
     <message>
         <location line="+57"/>
         <source>Change Form Layout Item Geometry</source>
-        <translation>改变表单布局项的几何位置</translation>
+        <translation>修改表单布局项的几何位置</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Change Layout Item Geometry</source>
-        <translation>改变布局项的几何位置</translation>
+        <translation>修改布局项的几何位置</translation>
     </message>
     <message>
         <location line="+568"/>
         <source>Change Table Contents</source>
-        <translation>改变表格内容</translation>
+        <translation>修改表格内容</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>Change Tree Contents</source>
-        <translation>改变树内容</translation>
+        <translation>修改树内容</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -701,7 +701,7 @@ ate the goose who was loose.</translation>
     <message>
         <location filename="lib/shared/qdesigner_menubar.cpp" line="-431"/>
         <source>Change Title</source>
-        <translation>改变标题</translation>
+        <translation>修改标题</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -711,7 +711,7 @@ ate the goose who was loose.</translation>
     <message>
         <location filename="lib/shared/qdesigner_command.cpp" line="-2607"/>
         <source>Change Z-order of &apos;%1&apos;</source>
-        <translation>改变‘%1’的 Z 顺序</translation>
+        <translation>修改‘%1’的 Z 顺序</translation>
     </message>
     <message>
         <location line="+624"/>
@@ -740,7 +740,7 @@ ate the goose who was loose.</translation>
     <message>
         <location filename="lib/shared/signalslotdialog.cpp" line="+191"/>
         <source>Change signals/slots</source>
-        <translation>改变信号/槽</translation>
+        <translation>修改信号槽</translation>
     </message>
     <message>
         <location filename="components/taskmenu/button_taskmenu.cpp" line="+208"/>
@@ -794,7 +794,7 @@ ate the goose who was loose.</translation>
     <message>
         <location line="+4"/>
         <source>Change layout alignment</source>
-        <translation>改变布局调准</translation>
+        <translation>修改布局调准</translation>
     </message>
     <message>
         <source>Change script</source>
@@ -803,13 +803,13 @@ ate the goose who was loose.</translation>
     <message>
         <location filename="lib/shared/qdesigner_propertycommand.cpp" line="+1255"/>
         <source>Changed &apos;%1&apos; of &apos;%2&apos;</source>
-        <translation>已改变%1，共%2</translation>
+        <translation>已修改%1，共%2</translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>Changed &apos;%1&apos; of %n objects</source>
         <translation>
-            <numerusform>已改变%1，共%n</numerusform>
+            <numerusform>已修改%1，共%n</numerusform>
         </translation>
     </message>
     <message>
@@ -1727,7 +1727,7 @@ The old form has been untouched, but you will have to save this form under a new
     <message>
         <location filename="lib/shared/qdesigner_taskmenu.cpp" line="+116"/>
         <source>Change Object Name</source>
-        <translation>改变对象名称</translation>
+        <translation>修改对象名称</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2578,7 +2578,7 @@ Would you like to retry?</source>
     <message>
         <location line="+2"/>
         <source>If you don&apos;t save, your changes will be lost.</source>
-        <translation>如果您不保存，您的这些改变将会丢失。</translation>
+        <translation>如果您不保存，您的这些修改将会丢失。</translation>
     </message>
 </context>
 <context>
@@ -3320,12 +3320,12 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+1"/>
         <source>Change Page Order...</source>
-        <translation>改变页顺序...</translation>
+        <translation>修改页顺序...</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>Change Page Order</source>
-        <translation>改变页顺序</translation>
+        <translation>修改页顺序</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -3401,12 +3401,12 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <location line="+1"/>
         <source>Change Page Order...</source>
-        <translation>改变页顺序...</translation>
+        <translation>修改页顺序...</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Change Page Order</source>
-        <translation>改变页顺序</translation>
+        <translation>修改页顺序</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -4415,17 +4415,17 @@ to
     <message>
         <location line="+1"/>
         <source>Change Prefix</source>
-        <translation>改变前缀</translation>
+        <translation>修改前缀</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change Language</source>
-        <translation>改变语言</translation>
+        <translation>修改语言</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change Alias</source>
-        <translation>改变别名</translation>
+        <translation>修改别名</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5228,7 +5228,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+1"/>
         <source>Change text...</source>
-        <translation>改变文本...</translation>
+        <translation>修改文本...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5321,7 +5321,7 @@ Do you want overwrite the template?</source>
     <message>
         <location line="+36"/>
         <source>Change Combobox Contents</source>
-        <translation>改变组合框内容</translation>
+        <translation>修改组合框内容</translation>
     </message>
 </context>
 <context>
@@ -5329,7 +5329,7 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="components/taskmenu/button_taskmenu.cpp" line="+156"/>
         <source>Change description...</source>
-        <translation>改变描述...</translation>
+        <translation>修改描述...</translation>
     </message>
 </context>
 <context>
@@ -5791,7 +5791,7 @@ Do you want overwrite the template?</source>
     <message>
         <location filename="components/formeditor/formeditor.cpp" line="+162"/>
         <source>Resource File Changed</source>
-        <translation>资源文件已改变</translation>
+        <translation>资源文件已修改</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6203,7 +6203,7 @@ and then paste again.</source>
     <message>
         <location filename="components/taskmenu/groupbox_taskmenu.cpp" line="+69"/>
         <source>Change title...</source>
-        <translation>改变标题...</translation>
+        <translation>修改标题...</translation>
     </message>
 </context>
 <context>
@@ -6366,12 +6366,12 @@ and then paste again.</source>
     <message>
         <location filename="components/taskmenu/label_taskmenu.cpp" line="+72"/>
         <source>Change rich text...</source>
-        <translation>改变多信息文本...</translation>
+        <translation>修改富文本...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change plain text...</source>
-        <translation>改变普通文本...</translation>
+        <translation>修改普通文本...</translation>
     </message>
 </context>
 <context>
@@ -6387,7 +6387,7 @@ and then paste again.</source>
     <message>
         <location filename="components/taskmenu/lineedit_taskmenu.cpp" line="+67"/>
         <source>Change text...</source>
-        <translation>改变文本...</translation>
+        <translation>修改文本...</translation>
     </message>
 </context>
 <context>
@@ -6458,7 +6458,7 @@ and then paste again.</source>
     <message>
         <location line="+38"/>
         <source>Change List Contents</source>
-        <translation>改变列表内容</translation>
+        <translation>修改列表内容</translation>
     </message>
 </context>
 <context>
@@ -6733,7 +6733,7 @@ Please select another name.</source>
     <message>
         <location filename="components/objectinspector/objectinspector.cpp" line="+305"/>
         <source>Change Current Page</source>
-        <translation>改变当前页</translation>
+        <translation>修改当前页</translation>
     </message>
     <message>
         <location line="+438"/>
@@ -6758,7 +6758,7 @@ Please select another name.</source>
     <message>
         <location filename="lib/shared/orderdialog.ui" line="+40"/>
         <source>Change Page Order</source>
-        <translation>改变页顺序</translation>
+        <translation>修改页顺序</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -6834,7 +6834,7 @@ Please select another name.</source>
     <message>
         <location filename="components/propertyeditor/paletteeditorbutton.cpp" line="+44"/>
         <source>Change Palette</source>
-        <translation>改变调色板</translation>
+        <translation>修改调色板</translation>
     </message>
 </context>
 <context>
@@ -7215,7 +7215,7 @@ ate the goose who was loose.</translation>
     <message>
         <location line="-2"/>
         <source>Change signals/slots...</source>
-        <translation>改变信号/槽...</translation>
+        <translation>修改信号槽...</translation>
     </message>
 </context>
 <context>
@@ -7322,7 +7322,7 @@ Class: %2</source>
     <message>
         <location line="-18"/>
         <source>Change signals/slots...</source>
-        <translation>改变信号/槽...</translation>
+        <translation>修改信号槽...</translation>
     </message>
 </context>
 <context>
@@ -7353,17 +7353,17 @@ Class: %2</source>
     <message>
         <location filename="lib/shared/qdesigner_taskmenu.cpp" line="+186"/>
         <source>Change objectName...</source>
-        <translation>改变对象名称...</translation>
+        <translation>修改对象名称...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change toolTip...</source>
-        <translation>改变工具提示...</translation>
+        <translation>修改工具提示...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Change whatsThis...</source>
-        <translation>改变这是什么...</translation>
+        <translation>修改这是什么...</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -7383,7 +7383,7 @@ Class: %2</source>
     <message>
         <location line="-5"/>
         <source>Change styleSheet...</source>
-        <translation>改变样式表...</translation>
+        <translation>修改样式表...</translation>
     </message>
     <message>
         <location line="-127"/>
@@ -7446,7 +7446,7 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Change signals/slots...</source>
-        <translation>改变信号/槽...</translation>
+        <translation>修改信号槽...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7841,7 +7841,7 @@ Class: %2</source>
     <message>
         <location filename="components/propertyeditor/stringlisteditorbutton.cpp" line="+43"/>
         <source>Change String List</source>
-        <translation>改变字符串列表</translation>
+        <translation>修改字符串列表</translation>
     </message>
 </context>
 <context>
@@ -8073,7 +8073,7 @@ Class: %2</source>
     <message>
         <location filename="components/taskmenu/textedit_taskmenu.cpp" line="+46"/>
         <source>Change HTML...</source>
-        <translation>改变HTML...</translation>
+        <translation>修改HTML...</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -8088,7 +8088,7 @@ Class: %2</source>
     <message>
         <location line="+1"/>
         <source>Change Plain Text...</source>
-        <translation>改变普通文本...</translation>
+        <translation>修改普通文本...</translation>
     </message>
 </context>
 <context>

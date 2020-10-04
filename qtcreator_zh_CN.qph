@@ -2,7 +2,7 @@
 <QPH language="zh_CN">
 <phrase>
     <source>Expand All</source>
-    <target>展开全部</target>
+    <target>全部展开</target>
 </phrase>
 <phrase>
     <source>Update Installed</source>
@@ -26,7 +26,7 @@
 </phrase>
 <phrase>
     <source>All</source>
-    <target>所有</target>
+    <target>全部</target>
 </phrase>
 <phrase>
     <source>Advanced Options...</source>
@@ -126,7 +126,7 @@
 </phrase>
 <phrase>
     <source>&amp;Artistic Style</source>
-    <target>艺术风格(&amp;A)</target>
+    <target>艺术样式(&amp;A)</target>
 </phrase>
 <phrase>
     <source>Revision:</source>
@@ -138,7 +138,7 @@
 </phrase>
 <phrase>
     <source>Artistic Style</source>
-    <target>艺术风格</target>
+    <target>艺术样式</target>
 </phrase>
 <phrase>
     <source>System Information</source>
@@ -384,7 +384,7 @@
 </phrase>
 <phrase>
     <source>&amp;Expand All</source>
-    <target>展开全部(&amp;E)</target>
+    <target>全部展开(&amp;E)</target>
 </phrase>
 <phrase>
     <source>E&amp;xit</source>
@@ -1168,7 +1168,7 @@
 </phrase>
 <phrase>
     <source>Timeline</source>
-    <target>时间轴</target>
+    <target>时间线</target>
 </phrase>
 <phrase>
     <source>Total Time</source>
@@ -1712,7 +1712,7 @@
 </phrase>
 <phrase>
     <source>%1 already exists.</source>
-    <target>%1 已存在。</target>
+    <target>‘%1’已存在。</target>
 </phrase>
 <phrase>
     <source>Filter Tree</source>
@@ -2708,7 +2708,7 @@
 </phrase>
 <phrase>
     <source>Collapse All</source>
-    <target>折叠全部</target>
+    <target>全部折叠</target>
 </phrase>
 <phrase>
     <source>Add child</source>
@@ -3852,7 +3852,7 @@
 </phrase>
 <phrase>
     <source>Timeline ID:</source>
-    <target>时间轴ID：</target>
+    <target>时间线ID：</target>
 </phrase>
 <phrase>
     <source>Start frame:</source>
@@ -3876,7 +3876,7 @@
 </phrase>
 <phrase>
     <source>Timeline Settings</source>
-    <target>时间轴配置</target>
+    <target>时间线配置</target>
 </phrase>
 <phrase>
     <source>Loop</source>
@@ -3884,7 +3884,7 @@
 </phrase>
 <phrase>
     <source>Add Timeline</source>
-    <target>添加时间轴</target>
+    <target>添加时间线</target>
 </phrase>
 <phrase>
     <source>Font Files</source>
@@ -4252,7 +4252,7 @@
 </phrase>
 <phrase>
     <source>&amp;Archive...</source>
-    <target>归档(&amp;A)...</target>
+    <target>压缩(&amp;A)...</target>
 </phrase>
 <phrase>
     <source>&amp;Mixed</source>
@@ -4284,7 +4284,7 @@
 </phrase>
 <phrase>
     <source>Archive...</source>
-    <target>归档...</target>
+    <target>压缩...</target>
 </phrase>
 <phrase>
     <source>Git &amp;Tools</source>
@@ -4720,7 +4720,7 @@
 </phrase>
 <phrase>
     <source>Flow</source>
-    <target>流程</target>
+    <target>流动</target>
 </phrase>
 <phrase>
     <source>Add flow action.</source>
@@ -4837,5 +4837,41 @@
 <phrase>
     <source>Stashes</source>
     <target>储藏库</target>
+</phrase>
+<phrase>
+    <source>Import</source>
+    <target>导入</target>
+</phrase>
+<phrase>
+    <source>Export</source>
+    <target>导出</target>
+</phrase>
+<phrase>
+    <source>Import Workspace</source>
+    <target>导入工作区</target>
+</phrase>
+<phrase>
+    <source>Export Workspace</source>
+    <target>导出工作区</target>
+</phrase>
+<phrase>
+    <source>Splash screen</source>
+    <target>启动画面</target>
+</phrase>
+<phrase>
+    <source>Clear all</source>
+    <target>清除所有</target>
+</phrase>
+<phrase>
+    <source>Catch Test</source>
+    <target>捕获测试</target>
+</phrase>
+<phrase>
+    <source>Summary</source>
+    <target>综述</target>
+</phrase>
+<phrase>
+    <source>Version: %1</source>
+    <target>版本：%1</target>
 </phrase>
 </QPH>

@@ -1999,7 +1999,7 @@ Do you want to delete it anyway?</source>
         <location filename="network/access/qftp.cpp" line="2385"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>改变目录失败：
+        <translation>修改目录失败：
 %1</translation>
     </message>
     <message>

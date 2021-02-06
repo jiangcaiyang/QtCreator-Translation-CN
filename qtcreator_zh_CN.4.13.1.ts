@@ -13302,7 +13302,7 @@ Do you want to kill it?</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/generalsettings.ui" line="116"/>
         <source>Reset Warnings</source>
         <comment>Button text</comment>
-        <translation>重置警告</translation>
+        <translation type="unfinished">重置</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/generalsettings.ui" line="123"/>
@@ -14212,7 +14212,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/plugindialog.cpp" line="78"/>
         <source>Install Plugin...</source>
-        <translation>正在安装插件...</translation>
+        <translation type="unfinished">安装插件...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/plugindialog.cpp" line="84"/>
@@ -63294,17 +63294,20 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="60"/>
         <source>Full</source>
-        <translation>全部</translation>
+        <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
+        <translation type="unfinished">是</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="65"/>
         <source>None</source>
-        <translation>无</translation>
+        <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
+        <translation type="unfinished">否</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="70"/>
         <source>First Letter</source>
-        <translation>首字母</translation>
+        <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
+        <translation type="unfinished">仅首字母</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="79"/>
@@ -63324,7 +63327,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="97"/>
         <source>Timeout in ms:</source>
-        <translation>超时ms：</translation>
+        <translation type="unfinished">超时(ms)：</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="130"/>
@@ -63353,17 +63356,17 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="158"/>
         <source>&amp;Automatically insert matching characters</source>
-        <translation>自动插入匹配的字符(&amp;A)</translation>
+        <translation type="unfinished">自动补全(&amp;A)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="164"/>
         <source>Insert opening or closing brackets</source>
-        <translation>将打开或关闭括号</translation>
+        <translation type="unfinished">自动闭合大括号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="174"/>
         <source>Insert closing quote</source>
-        <translation>插入关闭引用</translation>
+        <translation type="unfinished">自动闭合引号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="184"/>
@@ -63373,7 +63376,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="187"/>
         <source>Surround text selection with brackets</source>
-        <translation>环绕文本选择括号</translation>
+        <translation type="unfinished">使用大括号闭合选择的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="200"/>
@@ -63388,7 +63391,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="210"/>
         <source>Surround text selection with quotes</source>
-        <translation>环绕文本选择与引号</translation>
+        <translation type="unfinished">使用引号闭合选择的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="220"/>
@@ -63398,7 +63401,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="223"/>
         <source>Animate automatically inserted text</source>
-        <translation>动画自动插入文本</translation>
+        <translation type="unfinished">闭合时显示动画</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="233"/>
@@ -63418,22 +63421,22 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="294"/>
         <source>Remove the automatically inserted character if the trigger is deleted by backspace after the completion.</source>
-        <translation>如果触发由退格键，完成后删除，删除自动插入字符。</translation>
+        <translation type="unfinished">如果在插入后使用删除键，则自动删除插入的文本。</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="297"/>
         <source>Remove automatically inserted text on backspace</source>
-        <translation>卸下回退自动插入文本</translation>
+        <translation type="unfinished">按下删除键时自动删除插入的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="309"/>
         <source>Automatically overwrite closing parentheses and quotes.</source>
-        <translation>自动覆盖右括号和引号。</translation>
+        <translation type="unfinished">自动覆盖闭合的小括号和引号。</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="312"/>
         <source>Overwrite closing punctuation</source>
-        <translation>覆盖结束标点符号</translation>
+        <translation type="unfinished">覆盖已经闭合的符号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="322"/>
@@ -66099,7 +66102,7 @@ The trace data is lost.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/updateinfo/settingspage.ui" line="119"/>
         <source>Check Now</source>
-        <translation>现在检查更新</translation>
+        <translation type="unfinished">立即检查更新</translation>
     </message>
 </context>
 <context>

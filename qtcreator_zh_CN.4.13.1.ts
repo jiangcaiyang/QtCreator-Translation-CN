@@ -8411,7 +8411,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/cmakeprojectmanager/cmakeprojectmanager.cpp" line="246"/>
         <source>The reply file &quot;%1&quot; failed to parse or validate with error message:&lt;br&gt;&lt;b&gt;&quot;%2&quot;&lt;/b&gt;</source>
-        <translation>答复文件&quot;%1&quot;无法用错误消息分析或验证：&lt;br&gt;&lt;b&gt;&quot;&lt;/b&gt;</translation>
+        <translation>答复文件&quot;%1&quot;无法用错误消息分析或验证：&lt;br&gt;&lt;b&gt;&quot;%2&quot;&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/cmakeprojectmanager/cmakeprojectmanager.cpp" line="250"/>
@@ -11186,12 +11186,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/compilationdatabaseprojectmanager/compilationdbparser.cpp" line="110"/>
         <source>Scan &quot;%1&quot; project tree</source>
-        <translation type="unfinished">扫描工程树 &quot;%1&quot; </translation>
+        <translation>扫描工程树 &quot;%1&quot; </translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/compilationdatabaseprojectmanager/compilationdbparser.cpp" line="121"/>
         <source>Parse &quot;%1&quot; project</source>
-        <translation type="unfinished">解析工程 &quot;%1&quot; </translation>
+        <translation>解析工程 &quot;%1&quot; </translation>
     </message>
 </context>
 <context>
@@ -11520,7 +11520,7 @@ p, li { white-space: pre-wrap; }
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/basefilewizardfactory.cpp" line="256"/>
         <source>The project directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished">工程目录%1存在着无法被覆盖的文件：
+        <translation>工程目录%1存在着无法被覆盖的文件：
 %2。</translation>
     </message>
 </context>
@@ -11805,7 +11805,7 @@ Continue?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2650"/>
         <source>Close &quot;%1&quot;</source>
-        <translation>关闭</translation>
+        <translation>关闭 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2651"/>
@@ -11815,7 +11815,7 @@ Continue?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2653"/>
         <source>Close All Except &quot;%1&quot;</source>
-        <translation>除此之外全部关闭</translation>
+        <translation>除此之外全部关闭 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2654"/>
@@ -11825,12 +11825,12 @@ Continue?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2675"/>
         <source>Unpin &quot;%1&quot;</source>
-        <translation>解锁</translation>
+        <translation>解锁 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2676"/>
         <source>Pin &quot;%1&quot;</source>
-        <translation>锁定</translation>
+        <translation>锁定 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="2678"/>
@@ -12715,32 +12715,32 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1873"/>
         <source>&amp;Save %1</source>
-        <translation>保存(&amp;S)</translation>
+        <translation>保存 %1(&amp;S)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1874"/>
         <source>Save %1 &amp;As...</source>
-        <translation>另存为(&amp;A)...</translation>
+        <translation>另存  %1为(&amp;A)...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1876"/>
         <source>Revert %1 to Saved</source>
-        <translation>恢复原保存状态</translation>
+        <translation>恢复 %1原保存状态</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1877"/>
         <source>Reload %1</source>
-        <translation>重新载入</translation>
+        <translation>重新载入  %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1900"/>
         <source>Close %1</source>
-        <translation>关闭</translation>
+        <translation>关闭 %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1903"/>
         <source>Close All Except %1</source>
-        <translation>除此之外全部关闭</translation>
+        <translation>除此之外全部关闭 %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/editormanager/editormanager.cpp" line="1903"/>
@@ -13302,7 +13302,7 @@ Do you want to kill it?</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/generalsettings.ui" line="116"/>
         <source>Reset Warnings</source>
         <comment>Button text</comment>
-        <translation type="unfinished">重置</translation>
+        <translation>重置警告</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/generalsettings.ui" line="123"/>
@@ -13394,7 +13394,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/locator/locator.cpp" line="259"/>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a document&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Open File or Project (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Recent Files&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Tools &gt; Locate (%2) and&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- type to open file from any open project&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%3&amp;lt;space&amp;gt;&amp;lt;filename&amp;gt;&lt;/code&gt; to open file from file system&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- select one of the other filters for jumping to a location&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Drag and drop files here&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;打开一个文档&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 打开文件或者项目(%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 最近的文件&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;工具 &gt; 定位(%2)并且&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入用来从任何一个打开的工程中打开文件&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%3&amp;lt;空格&amp;gt;&amp;lt;文件名&amp;gt;&lt;/code&gt;来从文件系统中打开文件&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 选择其它过滤器中的一个用来跳转到一个路径&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;拖拽文件到这里&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;打开一个文档&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 打开文件或者项目(%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;文件 &gt; 最近的文件&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;工具 &gt; 定位(%2)并且&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入用来从任何一个打开的工程中打开文件&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- 输入&lt;code&gt;%3&amp;lt;空格&amp;gt;&amp;lt;文件名&amp;gt;&lt;/code&gt;来从文件系统中打开文件&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- 选择其它过滤器中的一个用来跳转到一个路径&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull;拖拽文件到这里&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/locator/locator.cpp" line="286"/>
@@ -14212,7 +14212,7 @@ Do you want to kill it?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/plugindialog.cpp" line="78"/>
         <source>Install Plugin...</source>
-        <translation type="unfinished">安装插件...</translation>
+        <translation>安装插件...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/plugindialog.cpp" line="84"/>
@@ -15055,7 +15055,7 @@ Double-click to edit item.</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/coreplugin/outputwindow.cpp" line="532"/>
         <source>[Discarding excessive amount of pending output.]
 </source>
-        <translation>[丢弃过多的挂起输出。
+        <translation>[丢弃过多的挂起输出。]
 </translation>
     </message>
 </context>
@@ -24994,7 +24994,7 @@ Rebuilding the project might help.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/environmentwidget.cpp" line="69"/>
         <source>Add ...</source>
-        <translation>添加。。。</translation>
+        <translation>添加 ...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/environmentwidget.cpp" line="70"/>
@@ -27800,7 +27800,7 @@ Would you like to terminate it?</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="905"/>
         <source>Unstage Selection (%n Lines)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>取消阶段选择 （%n 行）</numerusform>
         </translation>
     </message>
@@ -27927,7 +27927,7 @@ Would you like to terminate it?</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="1491"/>
         <source>Cannot reset %n files in &quot;%1&quot;: %2</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>无法重置 %n 文件在 &quot;%1&quot;： %2</numerusform>
         </translation>
     </message>
@@ -28111,14 +28111,14 @@ Commit now?</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="2849"/>
         <source>Committed %n files.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>已提交 %n 文件。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="2851"/>
         <source>Amended &quot;%1&quot; (%n files).</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>修正后的&quot;%1&quot;（%n 文件）。</numerusform>
         </translation>
     </message>
@@ -28131,7 +28131,7 @@ Commit now?</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="2944"/>
         <source>Cannot commit %n files: %1
 </source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>无法提交 %n 文件： %1
 </numerusform>
         </translation>
@@ -28349,12 +28349,12 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="3752"/>
         <source>Diff &amp;Against Saved %1</source>
-        <translation>差异 =对保存的 %1</translation>
+        <translation>差异 =对保存的 %1(&amp;A)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/gitclient.cpp" line="3758"/>
         <source>&amp;Save for Diff</source>
-        <translation>•保存差异</translation>
+        <translation>•保存差异(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -29645,7 +29645,7 @@ instead of its installation directory when run outside git bash.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/git/stashdialog.cpp" line="191"/>
         <source>Do you want to delete %n stash(es)?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>是否要删除 %n 藏匿处？</numerusform>
         </translation>
     </message>
@@ -30732,12 +30732,12 @@ Add, modify, and remove document filters, which determine the documentation set 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/help/openpageswidget.cpp" line="88"/>
         <source>Close %1</source>
-        <translation>关闭</translation>
+        <translation>关闭 %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/help/openpageswidget.cpp" line="89"/>
         <source>Close All Except %1</source>
-        <translation>除此之外全部关闭</translation>
+        <translation>除此 %1之外全部关闭</translation>
     </message>
 </context>
 <context>
@@ -31688,7 +31688,7 @@ Would you like to overwrite them?</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/incredibuild/buildconsolebuildstep.ui" line="283"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Setting this option to true, forces IncrediBuild to not override the -j command line switch. &lt;/p&gt;&lt;p&gt;The default IncrediBuild behavior is to set a high value to the -j command line switch which controls the number of processes that the build tools executed by QT will execute in parallel (the default IncrediBuild behavior will set this value to 200).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;将此选项设置为 true，将强制 IncrediBuild 不覆盖 -j 命令行开关&lt;/p&gt;&lt;p&gt;默认 IncrediBuild 行为是将高值设置为 -j 命令行开关，该命令行开关控制 QT 执行的生成工具将并行执行的进程数(默认 IncrediBuild 行为将此值设置为 200 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;)。</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;将此选项设置为 true，将强制 IncrediBuild 不覆盖 -j 命令行开关&lt;/p&gt;&lt;p&gt;默认 IncrediBuild 行为是将高值设置为 -j 命令行开关，该命令行开关控制 QT 执行的生成工具将并行执行的进程数(默认 IncrediBuild 行为将此值设置为 200 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/incredibuild/buildconsolebuildstep.ui" line="286"/>
@@ -32431,7 +32431,7 @@ Id必须以小写字母开头。</translation>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="114"/>
         <source>You are trying to launch %n simulators simultaneously. This will take significant system resources. Do you really want to continue?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>您尝试同时启动 %n 模拟器。这将需要大量的系统资源。您真的想继续吗？</numerusform>
         </translation>
     </message>
@@ -32443,7 +32443,7 @@ Id必须以小写字母开头。</translation>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="127"/>
         <source>Starting %n simulator device(s)...</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>正在启动 %n 模拟器设备...</numerusform>
         </translation>
     </message>
@@ -32479,7 +32479,7 @@ Error: %2</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="192"/>
         <source>Do you really want to reset the contents and settings of the %n selected device(s)?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>是否确实要重置 %n 选定设备的内容和设置？</numerusform>
         </translation>
     </message>
@@ -32521,14 +32521,14 @@ Error: %2</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="250"/>
         <source>Do you really want to delete the %n selected device(s)?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>是否确实要删除 %n 选定设备？</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="257"/>
         <source>Deleting %n simulator device(s)...</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>正在删除 %n 模拟器设备...</numerusform>
         </translation>
     </message>
@@ -32540,7 +32540,7 @@ Error: %2</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/ios/iossettingswidget.cpp" line="288"/>
         <source>Capturing screenshots from %n device(s)...</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>从 %n 设备捕获屏幕截图...</numerusform>
         </translation>
     </message>
@@ -32800,7 +32800,7 @@ UDID：%4
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/jsontreeitem.cpp" line="66"/>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/jsontreeitem.cpp" line="68"/>
         <source>%n Items</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 项目</numerusform>
         </translation>
     </message>
@@ -37089,7 +37089,7 @@ You might find further explanations in the Application Output view.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/perfprofiler/perftimelinemodel.cpp" line="169"/>
         <source>%n frames</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 帧</numerusform>
         </translation>
     </message>
@@ -37851,7 +37851,7 @@ You might find further explanations in the Application Output view.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/perforce/perforceplugin.cpp" line="1431"/>
         <source>[Only %n MB of output shown]</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>[仅显示 %n MB 的输出]</numerusform>
         </translation>
     </message>
@@ -38649,7 +38649,7 @@ The name of the release build configuration created by default for a qmake proje
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/buildmanager.cpp" line="71"/>
         <source>Finished %1 of %n steps</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>完成 %1 的 %n 步骤</numerusform>
         </translation>
     </message>
@@ -40049,7 +40049,7 @@ Excluding: %2
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/customparser.cpp" line="347"/>
         <source>There are %n custom parsers active</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>有 %n 自定义解析器处于活动状态</numerusform>
         </translation>
     </message>
@@ -41346,7 +41346,7 @@ to project &quot;%2&quot;.</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/projectwelcomepage.cpp" line="585"/>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/projectwelcomepage.h" line="60"/>
         <source>Projects</source>
-        <translation type="unfinished">工程</translation>
+        <translation>工程</translation>
     </message>
 </context>
 <context>
@@ -41853,7 +41853,7 @@ to project &quot;%2&quot;.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/customtoolchain.cpp" line="453"/>
         <source>%n entries</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 条目</numerusform>
         </translation>
     </message>
@@ -42790,7 +42790,7 @@ Please close all running instances of your application before starting a build.<
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/devicesupport/deviceusedportsgatherer.cpp" line="187"/>
         <source>Found %n free ports.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>找到 %n 可用端口。</numerusform>
         </translation>
     </message>
@@ -42901,7 +42901,7 @@ Please close all running instances of your application before starting a build.<
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/project.cpp" line="1028"/>
         <source>Could not find any qml_*.qm file at &apos;%1&apos;</source>
-        <translation>找不到任何&quot;qml_*qm 文件&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;</translation>
+        <translation>找不到任何&quot;qml_*qm 文件 &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -43985,7 +43985,7 @@ Rename %2 to %3 anyway?</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/projectexplorer/selectablefilesmodel.cpp" line="717"/>
         <source>Not showing %n files that are outside of the base directory.
 These files are preserved.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>不显示基目录外部的 %n 文件。
 这些文件被保留。</numerusform>
         </translation>
@@ -45496,7 +45496,7 @@ Usage: %3</source>
 	Show a progress bar. Implies &apos;%2=%3&apos;.
 </source>
         <translation>%1
-	显示进度条。暗示&quot;%=%3&quot;。
+	显示进度条。暗示&quot;%2=%3&quot;。
 </translation>
     </message>
     <message>
@@ -47006,7 +47006,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/buildgraph/productinstaller.cpp" line="150"/>
         <source>Cannot install &apos;%1&apos;, because it doesn&apos;t start with the value of qbs.installSourceBase &apos;%2&apos;.</source>
-        <translation>无法安装&quot;%1&quot;，因为它不从 qbs 的值开始。</translation>
+        <translation>无法安装&quot;%1&quot;，因为它不从 qbs 的值开始。安装源基于&apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/buildgraph/productinstaller.cpp" line="178"/>
@@ -47711,7 +47711,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/loader.cpp" line="198"/>
         <source>Project file &apos;%1&apos; has invalid type.</source>
-        <translation type="unfinished">工程文件&quot;%1&quot;的类型无效。</translation>
+        <translation>工程文件&quot;%1&quot;的类型无效。</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/loader.cpp" line="205"/>
@@ -48102,7 +48102,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/moduleloader.cpp" line="3699"/>
         <source>Project resolving canceled for configuration %1.</source>
-        <translation>已取消配置为 %1 的工程的解析</translation>
+        <translation>已取消配置为 %1 的工程的解析.</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/moduleloader.cpp" line="3891"/>
@@ -48158,7 +48158,7 @@ In case the compiler has an unusual file name, you may need to provide the &apos
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/projectresolver.cpp" line="170"/>
         <source>Project resolving canceled for configuration &apos;%1&apos;.</source>
-        <translation>已取消配置为 %1 的工程的解析</translation>
+        <translation>已取消配置为 %1 的工程的解析.</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/shared/qbs/src/lib/corelib/language/projectresolver.cpp" line="416"/>
@@ -52713,17 +52713,17 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="322"/>
         <source>&amp;Bold</source>
-        <translation>• 粗体</translation>
+        <translation>粗体(&amp;B)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="335"/>
         <source>&amp;Italic</source>
-        <translation>+体</translation>
+        <translation>体(&amp;I)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="348"/>
         <source>&amp;Underline</source>
-        <translation>和下划线</translation>
+        <translation>和下划线(&amp;U)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="366"/>
@@ -52733,7 +52733,7 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="388"/>
         <source>&amp;Left</source>
-        <translation>•左</translation>
+        <translation>左(&amp;L)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="394"/>
@@ -52743,12 +52743,12 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="400"/>
         <source>&amp;Right</source>
-        <translation>•右</translation>
+        <translation>右(&amp;R)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="406"/>
         <source>&amp;Justify</source>
-        <translation>• 证明</translation>
+        <translation>证明(&amp;J)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="433"/>
@@ -52763,12 +52763,12 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="463"/>
         <source>&amp;Color...</source>
-        <translation>• 颜色...</translation>
+        <translation>颜色(&amp;C)...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="518"/>
         <source>&amp;Table Settings</source>
-        <translation>• 表设置</translation>
+        <translation>表设置(&amp;T)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/components/richtexteditor/richtexteditor.cpp" line="528"/>
@@ -52889,27 +52889,27 @@ This is independent of the visibility property in QML.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="239"/>
         <source>Save %1 As...</source>
-        <translation>另存为...</translation>
+        <translation>另存 %1 为...</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="240"/>
         <source>&amp;Save %1</source>
-        <translation>保存(&amp;S)</translation>
+        <translation>保存(&amp;S) %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="241"/>
         <source>Revert %1 to Saved</source>
-        <translation>恢复原保存状态</translation>
+        <translation>恢复%1 原保存状态</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="244"/>
         <source>Close %1</source>
-        <translation>关闭</translation>
+        <translation>关闭 %1</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="247"/>
         <source>Close All Except %1</source>
-        <translation>除此之外全部关闭</translation>
+        <translation>除此 %1 之外全部关闭</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmldesigner/shortcutmanager.cpp" line="247"/>
@@ -54171,7 +54171,7 @@ For Qbs projects, declare and set a qmlImportPaths property in your product to a
 For qmlproject projects, use the importPaths property to add import paths.
 For CMake projects, make sure QML_IMPORT_PATH variable is in CMakeCache.txt.
 </source>
-        <translation>未找到 QML 模块的隐式导入&quot;%1&quot;。
+        <translation>未找到 QML 模块 &apos;%2&apos; 的隐式导入&quot;%1&quot;。
 
 导入路径：
 %3
@@ -55928,7 +55928,7 @@ the QML editor know about a likely URI.</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/memoryusagemodel.cpp" line="121"/>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/memoryusagemodel.cpp" line="126"/>
         <source>%n byte(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 字节</numerusform>
         </translation>
     </message>
@@ -56011,7 +56011,7 @@ the QML editor know about a likely URI.</source>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/tests/memoryusagemodel_test.cpp" line="178"/>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/tests/memoryusagemodel_test.cpp" line="179"/>
         <source>%n byte(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 字节</numerusform>
         </translation>
     </message>
@@ -56360,7 +56360,7 @@ the program.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/qmlprofilerstatewidget.cpp" line="139"/>
         <source>Profiling application: %n events</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>分析应用程序：%n 事件</numerusform>
         </translation>
     </message>
@@ -56377,14 +56377,14 @@ the program.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/qmlprofilerstatewidget.cpp" line="148"/>
         <source>Loading buffered data: %n events</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>加载缓冲数据： %n 事件</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/qmlprofiler/qmlprofilerstatewidget.cpp" line="152"/>
         <source>Loading offline data: %n events</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>加载脱机数据：%n 事件</numerusform>
         </translation>
     </message>
@@ -58547,7 +58547,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/remotelinux/genericdirectuploadservice.cpp" line="302"/>
         <source>%n file(s) need to be uploaded.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 文件需要上载。</numerusform>
         </translation>
     </message>
@@ -59155,14 +59155,14 @@ If you do not have a private key yet, you can also create one here.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/remotelinux/remotelinuxcheckforfreediskspaceservice.cpp" line="94"/>
         <source>The remote file system has only %n megabytes of free space, but %1 megabytes are required.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>远程文件系统只有 %n MB 的可用空间，但需要 %1 MB。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/remotelinux/remotelinuxcheckforfreediskspaceservice.cpp" line="100"/>
         <source>The remote file system has %n megabytes of free space, going ahead.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>远程文件系统具有 %n MB 的可用空间，继续。</numerusform>
         </translation>
     </message>
@@ -62549,14 +62549,14 @@ Row: %4, Column: %5
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/basefilefind.cpp" line="319"/>
         <source>%n found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 找到。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/basefilefind.cpp" line="349"/>
         <source>%n occurrences replaced.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 匹配项已替换。</numerusform>
         </translation>
     </message>
@@ -63295,19 +63295,19 @@ Specifies how backspace interacts with indentation.
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="60"/>
         <source>Full</source>
         <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="65"/>
         <source>None</source>
         <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="70"/>
         <source>First Letter</source>
         <translatorcomment>这是 选项-&gt;文本编辑器-&gt;补全-&gt;大小写敏感 中的选项</translatorcomment>
-        <translation type="unfinished">仅首字母</translation>
+        <translation>仅首字母</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="79"/>
@@ -63327,7 +63327,7 @@ Specifies how backspace interacts with indentation.
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="97"/>
         <source>Timeout in ms:</source>
-        <translation type="unfinished">超时(ms)：</translation>
+        <translation>超时(ms)：</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="130"/>
@@ -63356,17 +63356,17 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="158"/>
         <source>&amp;Automatically insert matching characters</source>
-        <translation type="unfinished">自动补全(&amp;A)</translation>
+        <translation>自动补全(&amp;A)</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="164"/>
         <source>Insert opening or closing brackets</source>
-        <translation type="unfinished">自动闭合大括号</translation>
+        <translation>自动闭合大括号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="174"/>
         <source>Insert closing quote</source>
-        <translation type="unfinished">自动闭合引号</translation>
+        <translation>自动闭合引号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="184"/>
@@ -63376,7 +63376,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="187"/>
         <source>Surround text selection with brackets</source>
-        <translation type="unfinished">使用大括号闭合选择的文本</translation>
+        <translation>使用大括号闭合选择的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="200"/>
@@ -63391,7 +63391,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="210"/>
         <source>Surround text selection with quotes</source>
-        <translation type="unfinished">使用引号闭合选择的文本</translation>
+        <translation>使用引号闭合选择的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="220"/>
@@ -63401,7 +63401,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="223"/>
         <source>Animate automatically inserted text</source>
-        <translation type="unfinished">闭合时显示动画</translation>
+        <translation>闭合时显示动画</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="233"/>
@@ -63421,22 +63421,22 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="294"/>
         <source>Remove the automatically inserted character if the trigger is deleted by backspace after the completion.</source>
-        <translation type="unfinished">如果在插入后使用删除键，则自动删除插入的文本。</translation>
+        <translation>如果在插入后使用删除键，则自动删除插入的文本。</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="297"/>
         <source>Remove automatically inserted text on backspace</source>
-        <translation type="unfinished">按下删除键时自动删除插入的文本</translation>
+        <translation>按下删除键时自动删除插入的文本</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="309"/>
         <source>Automatically overwrite closing parentheses and quotes.</source>
-        <translation type="unfinished">自动覆盖闭合的小括号和引号。</translation>
+        <translation>自动覆盖闭合的小括号和引号。</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="312"/>
         <source>Overwrite closing punctuation</source>
-        <translation type="unfinished">覆盖已经闭合的符号</translation>
+        <translation>覆盖已经闭合的符号</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/texteditor/completionsettingspage.ui" line="322"/>
@@ -65584,12 +65584,12 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/doc/qtcreator/examples/textfinder/textfinder.ui" line="25"/>
         <source>&amp;Keyword:</source>
-        <translation>•关键词：</translation>
+        <translation>关键词(&amp;K):</translation>
     </message>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/doc/qtcreator/examples/textfinder/textfinder.ui" line="35"/>
         <source>&amp;Find</source>
-        <translation>•查找</translation>
+        <translation>查找(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -66102,7 +66102,7 @@ The trace data is lost.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/updateinfo/settingspage.ui" line="119"/>
         <source>Check Now</source>
-        <translation type="unfinished">立即检查更新</translation>
+        <translation>立即检查更新</translation>
     </message>
 </context>
 <context>
@@ -66448,7 +66448,7 @@ in &quot;%2&quot;.
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/elfreader.cpp" line="224"/>
         <source>announced %n sections, each %1 bytes, exceed file size</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>宣布的 %n 节，每个 %1 字节，超过文件大小</numerusform>
         </translation>
     </message>
@@ -66477,7 +66477,11 @@ To set or change a variable, use VARIABLE=VALUE.
 Existing variables can be referenced in a VALUE with ${OTHER}.
 To clear a variable, put its name on a line with nothing else on it.
 To disable a variable, prefix the line with &quot;#&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>每行输入一个环境变量.
+要设置或更改变量，请使用VARIABLE = VALUE.
+可以使用$ {OTHER}在VALUE中引用现有变量.
+要清除变量，请将其名称放在一行上.
+要禁用变量，请在行之前添加“＃”.</translation>
     </message>
 </context>
 <context>
@@ -66490,7 +66494,7 @@ To disable a variable, prefix the line with &quot;#&quot;.</source>
     <message>
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/settingsaccessor.cpp" line="576"/>
         <source>&lt;p&gt;No settings file created by this instance of %1 was found.&lt;/p&gt;&lt;p&gt;Did you work with this project on another machine or using a different settings path before?&lt;/p&gt;&lt;p&gt;Do you still want to load the settings file &quot;%2&quot;?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;未找到实例 %1 创建的设置文件。&lt;/p&gt;&lt;p&gt;您之前是否在另一台计算机上使用此工程或使用其他设置路径？&lt;/p&gt;&lt;p&gt; 仍要加载设置文件“％2”吗？&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;未找到实例 %1 创建的设置文件。&lt;/p&gt;&lt;p&gt;您之前是否在另一台计算机上使用此工程或使用其他设置路径？&lt;/p&gt;&lt;p&gt; 仍要加载设置文件 &quot;%2&quot; 吗？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -66584,14 +66588,14 @@ To disable a variable, prefix the line with &quot;#&quot;.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/filesearch.cpp" line="43"/>
         <source>%1: canceled. %n occurrences found in %2 files.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1：已取消。%n 在 %2 文件中找到的匹配项。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/libs/utils/filesearch.cpp" line="50"/>
         <source>%1: %n occurrences found in %2 files.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1： %2 文件中的 %n 匹配。</numerusform>
         </translation>
     </message>
@@ -67606,7 +67610,7 @@ To disable a variable, prefix the line with &quot;#&quot;.</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/valgrind/callgrind/callgrinddatamodel.cpp" line="243"/>
         <source>%n time(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 时间</numerusform>
         </translation>
     </message>
@@ -68202,14 +68206,14 @@ When a problem is detected, the application is interrupted and can be debugged.<
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/valgrind/memchecktool.cpp" line="1124"/>
         <source>Memory Analyzer Tool finished. %n issues were found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>内存分析器工具已完成。%n 发现问题。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/valgrind/memchecktool.cpp" line="1130"/>
         <source>Log file processed. %n issues were found.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>已处理日志文件。%n 发现问题。</numerusform>
         </translation>
     </message>
@@ -68727,7 +68731,7 @@ With cache simulation, further event counters are enabled:
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/vcsbase/cleandialog.cpp" line="216"/>
         <source>%n bytes, last modified %1.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 字节，上次修改 %1。</numerusform>
         </translation>
     </message>
@@ -68739,7 +68743,7 @@ With cache simulation, further event counters are enabled:
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/vcsbase/cleandialog.cpp" line="249"/>
         <source>Do you want to delete %n files?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>是否要删除 %n 文件？</numerusform>
         </translation>
     </message>
@@ -68973,7 +68977,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/vcsbase/submiteditorwidget.cpp" line="430"/>
         <source>%1 %2/%n File(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1 %2/%n 文件</numerusform>
         </translation>
     </message>
@@ -69791,14 +69795,14 @@ What do you want to do?</source>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/winrt/winrtdevice.cpp" line="356"/>
         <source>Found %n Windows Runtime devices.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>找到 %n 个Windows 运行时设备。</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="E:/qt/qt_build/qt-creator-opensource-src-4.13.1/src/plugins/winrt/winrtdevice.cpp" line="359"/>
         <source>%n of them are new.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>之中的 %n 个是新的。</numerusform>
         </translation>
     </message>
